@@ -79,7 +79,7 @@ The strong support for this publication by the Virginia Association of Counties 
 
 ## Final Comments
 
-The Cooper Center is grateful to the many local offi cials throughout  the  commonwealth  who  supplied  the  surveyinformation  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. Corrections to the text or suggestions for possible changes or additions to future editions can be made using the email address and phone number listed below.
+The Cooper Center is grateful to the many local officials throughout  the  commonwealth  who  supplied  the  survey information  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. Corrections to the text or suggestions for possible changes or additions to future editions can be made using the email address and phone number listed below.
 
 Stephen C. Kulp
 
@@ -99,3 +99,10 @@ Charlottesville
 
 February 2020
 
+
+## Footnotes
+$^1$  Locality  population  figures are based on estimates developed by the Demographics Research Group of the Weldon Cooper Center for Public Service. See Appendix D.
+
+$^2$  https://tax.virginia.gov/legislative-summary-reports
+
+$^3$  Weldon  Cooper  Center  for  Public  Service,  University  of  Virginia.  https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/
