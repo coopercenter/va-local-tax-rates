@@ -584,4 +584,4 @@ org/media/standards/Standard_on_Ratio_Studies.pdf.
 
 $^10$ The Department of Taxation’s study applies to all types of property, not just residential property. Nonetheless, the majority of
 the measured sales are for single-family residential properties. 
-
+ 
