@@ -10,12 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 #Section 2
-#Real Property Tax, 2019
+##Real Property Tax, 2019
 
-The real property tax is by far the most important source of tax revenure for localities. In fical year 2018, the most recent year available from the Auditor of Public Accounts, it accounted for 55.5 percent of tax revenue for cities, 64.6 percent for counties, and 29.1 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns varies signifigantly. For information on individual localities, see Appendix C. 
-The Code of Virgina, §§ 58.1-3200 through 58.1-3389, authorizes localities to levy taxes on real property (land, including the buildings and improvements on it). There is no restriction on the tax rate that may be imposed. Section 58.1-3201 provides that all general reassessments or annual assessments shall be at 100 percent of fair market value. 
+The real property tax is by far the most important source of tax revenue for localities. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, it accounted for 55.5 percent of tax revenue for cities, 64.6 percent for counties, and 29.1 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns varies significantly. For information on individual localities, see Appendix C. 
+The *Code of Virginia*, §§ 58.1-3200 through 58.1-3389, authorizes localities to levy taxes on real property (land, including the buildings and improvements on it). There is no restriction on the tax rate that may be imposed. Section 58.1-3201 provides that all general reassessments or annual assessments shall be at 100 percent of fair market value. 
 
-#PUBLIC SERVICE CORPORATIONS
+###PUBLIC SERVICE CORPORATIONS
 
 Property owned by so-called public service corporations is
 not assessed by localities. Instead, that task is delegated to
@@ -50,7 +50,7 @@ If correct, the locality determines the equalized assessed
 valuation of the corporate property by applying the local
 assessment ratio prevailing in the locality for other real estate (§ 58.1-2604). Local taxes are then assigned to real and tangible personal property at the real property tax rate current in the locality (§ 58.1-2606).
 
-#TAX RELIEF PROGRAMS
+###TAX RELIEF PROGRAMS
 
 There are several types of locally financed tax relief programs available. Section 3 of this study contains information
 on so-called circuit breaker plans for the elderly and disabled. Section 4 covers land use assessments for agricultural,
@@ -72,8 +72,7 @@ Program is available to working families with at least one child
 under age 18. Personal assets may not exceed $35,000 and
 there is an income limit based on household size.
 
-Localities are permitted to institute deferral for a portion of the real estate tax by § 58.1-3219 of the Code of
-Virginia. Localities are permitted to grant deferrals from
+Localities are permitted to institute deferral for a portion of the real estate tax by § 58.1-3219 of the *Code of Virginia*. Localities are permitted to grant deferrals from
 the full amount by which each taxpayer’s real estate tax
 levy exceeds 105 percent of the previous year’s tax, or
 such higher percentage adopted by the locality. Deferred
@@ -100,9 +99,9 @@ tax liability. The cities of Charlottesville and Richmond, the
 county of Middlesex, and the town of Amherst were the only
 localities reporting a deferral program in 2019. 
 
-#STATUTORY RATES, SPECIAL TAXES, DUE DATES, PRORATION, AND BILLING PRACTICES
+###STATUTORY RATES, SPECIAL TAXES, DUE DATES, PRORATION, AND BILLING PRACTICES
 
-Table 2.1 provides general information associated with real
+**Table 2.1** provides general information associated with real
 property taxes in Virginia’s localities. The table provides
 an estimate by locality of both the number of total taxable
 real estate parcels and the number of residential parcels.
@@ -121,7 +120,7 @@ columns depending on the locality’s assessment cycle. In
 most cases the calendar year tax rate listed runs from January 1 to December 31 and the fiscal year rate runs from
 July 1 to June 30. The provisions explaining the assessment
 cycle requirements are found in § 58.1-3010 and § 58.1-3011
-of the Code of Virginia. However, some localities report a
+of the *Code of Virginia*. However, some localities report a
 calendar year assessment schedule with a fiscal year valuation. Six cities (Chesapeake, Harrisonburg, Martinsville,
 Roanoke, Salem, and Suffolk) and one county (James City)
 report this practice. Otherwise, 15 cities and 88 counties
@@ -148,10 +147,9 @@ Tax due dates vary among localities. Generally,
 if taxes are paid annually, they are due by December
 5. If paid semiannually, they are due by June 5 and
 December 5. However, some localities have different due
-dates, as provided by § 58.1-3916 of the Code. 
+dates, as provided by § 58.1-3916 of the *Code*. 
 
-Most cities have semiannual tax due dates with payments required in June and December. Of the 38 cities,
-2 required taxes due annually, 31 semiannually, and 5
+Most cities have semiannual tax due dates with payments required in June and December. Of the 38 cities, 2 required taxes due annually, 31 semiannually, and 5
 quarterly. Among the counties, 32 had annual tax due
 dates, while 63 had semiannual requirements. Of the towns
 responding to this question, 80 reported annual due dates,
@@ -174,9 +172,9 @@ table), or (3) a town has the county bill and collect the taxes
 the overwhelming majority, 100, reported billing and collecting their own taxes. Four said they collected taxes, while
 in three the county both billed and collected town taxes.
 
-Table 2.2, Table 2.3, and Table 2.4 provide additional
+**Table 2.2, Table 2.3,** and **Table 2.4** provide additional
 information concerning statutory real property tax rates.
-The Code allows localities to add special purpose levies on
+The *Code* allows localities to add special purpose levies on
 top of the real property rate for various purposes. Table 2.2
 deals with the category of special districts. A special district
 is organized to perform a single governmental function or a restricted number of related functions. Special districts
@@ -227,9 +225,9 @@ Fairfax, Loudoun, Prince William, and Stafford. Of those,
 one city (Fairfax) and two counties (Arlington and Fairfax)
 reported implementing the tax, as shown in Table 2.4.
 
-#ASSESSMENT PRACTICES, REASSESSMENTS, ASSESSED VALUES
+###ASSESSMENT PRACTICES, REASSESSMENTS, ASSESSED VALUES
 
-Table 2.5 details assessment practices among
+**Table 2.5** details assessment practices among
 localities. The table includes cities and counties, but not
 towns, because only a small percentage of towns provided
 substantive answers. For those interested in the towns that responded, data are available from the Cooper Center
@@ -252,7 +250,7 @@ conducting reassessments in-house while 10 reported
 contracting with outside assessors. Twenty-eight counties
 reported doing general reassessments in-house, while 67
 reported contracting out for services. Section 58.1-3250
-of the Code requires cities to have a general reassessment
+of the *Code* requires cities to have a general reassessment
 of real estate every two years. However, any city with a
 total population of 30,000 or less may elect to conduct its
 general reassessments at four-year intervals.$^5$ Counties are
@@ -272,18 +270,15 @@ county’s. The reassessment periods are summarized in the
 table on the following page.
 
 Column seven of Table 2.5 shows information
-about maintenance assessments. While general reassessments involve reassessing all parcels to reflect
-changes in market value, maintenance assessments
+about maintenance assessments. While general reassessments involve reassessing all parcels to reflect changes in market value, maintenance assessments
 involve adjusting assessed values between reassessments
 because of new construction, improvements, damages,
-demolitions, subdivisions, and consolidations. Thirty-three cities responded that they performed maintenance
-assessments using staff, while five reported contracting
+demolitions, subdivisions, and consolidations. Thirty-three cities responded that they performed maintenance assessments using staff, while five reported contracting
 for the work. Among counties, 66 reported performing
 maintenance reassessments using staff, while 29 reported
 contracting the work to independent appraisers.
 
-Columns eight and nine of Table 2.5 cover physical inspection. Physical inspection refers to the actual
-inspection of the property as opposed to computerized
+Columns eight and nine of Table 2.5 cover physical inspection. Physical inspection refers to the actual inspection of the property as opposed to computerized
 mass-appraisal of parcels. If a locality responded that
 it did not perform physical inspections during the general reassessment, two further questions were asked: 
 
@@ -305,7 +300,7 @@ inspections during general reassessment, while 25 reported
 having physical inspection cycles ranging anywhere from
 one to six years.
 
-Table 2.6 provides unpublished Department of Taxation
+**Table 2.6** provides unpublished Department of Taxation
 2018 data on total taxable assessed value of real estate by
 category. Taxable assessed value shows property qualifying for use value at its use value, not its market value. The
 percentage distribution of taxable assessed value is shown
@@ -330,7 +325,7 @@ property, and 4.0 percent with agricultural property.
 
 With the total amounts from cities and counties combined, the total assessed valuation amounted to $1,131.9 billion. Of that, 70.2 percent applied to single-family residential
 property, 7.1 percent applied to
-muli-family residential property,
+multi-family residential property,
 19.6 percent applied to commercial/industrial property, and 3.0
 percent to agricultural property.
 
@@ -381,7 +376,7 @@ The taxable assessed values for agriculture were much lower
 than they would have been without the advantage of use
 value assessment, a program explained in Sections 4 and 5. 
 
-#EFFECTIVE TAX RATES
+###EFFECTIVE TAX RATES
 
 Tax rates are generally discussed in terms of either statutory
 (nominal) rates or effective rates. The statutory rate is the
@@ -409,7 +404,7 @@ the present time is 2017. Despite the time lag, effective rates
 are important because they give a more accurate reflection
 of the differences in real property tax rates across localities.
 
-Table 2.7 shows city and county average effective tax
+**Table 2.7** shows city and county average effective tax
 rates in the year 2017. The department makes its computation in order to control for the variance in localities’ assessment procedures and timing. Therefore, when comparing
 tax rates among localities, the reader may wish to consult
 both Tables 2.1 and 2.7. Table 2.1 shows statutory rates in
@@ -426,7 +421,7 @@ tax rate in its computations. Instead, it calculates the statutory rate by divid
 
 ```
 
-estate taxable assessed value,$^6$
+estate *taxable assessed value*,$^6$
 as reported in the local land
 book. This method of computing the statutory tax rate takes
 additional district levies into account.$^7$
@@ -439,6 +434,7 @@ and effective rates were the same. Finally, in 34 cities and
 ```{r}
 
 #table name: Statutory and Effective Real Estate Tax Rates, 2017
+
 ```
 
 The real property tax rates reported in Table 2.7 are a
@@ -457,8 +453,8 @@ median ratio. The formula for the coefficient of dispersion
 
 #Equation goes here
 
-where Xi represents the assessment/sales ratio for the ith
-sale in a sample of size n, and Xm represents the median
+where $$X_i$$ represents the assessment/sales ratio for the ith
+sale in a sample of size *n*, and $$X_m$$ represents the median
 ratio of the sample.$^8$ If there were no dispersion, the CD
 would equal zero.
 
@@ -490,11 +486,11 @@ that reassess annually, biennially, or that have just conducted
 a general reassessment. In 2017, of the 57 localities with CDs
 under 15 percent, all but 12 reassessed annually (28), biennially (10), or had just completed general reassessments (7).
 
-#MISCELLANEOUS ITEMS
+###MISCELLANEOUS ITEMS
 
-Table 2.8 presents miscellaneous taxes and exemptions
+**Table 2.8** presents miscellaneous taxes and exemptions
 related to real property. The first is the recreation tax. The
-Code in §15.2-1807 permits localities to collect a real
+*Code* in §15.2-1807 permits localities to collect a real
 estate tax for recreation areas and playgrounds that is not
 to exceed $0.02/$100 of the assessed value of a property.
 This tax was reported by Charlottesville City. 
@@ -509,14 +505,14 @@ reported implementing this deferral.
 
 The third column refers to the establishment of a tax
 increment financing fund used to encourage development in
-certain areas and permitted by § 58.1-3245 of the Code. Six
+certain areas and permitted by § 58.1-3245 of the *Code*. Six
 cities (Bristol, Charlottesville, Chesapeake, Emporia, Newport News, Virginia Beach, and Waynesboro), four counties
 (Arlington, Augusta, Fairfax, and Hanover), and one town
 (Front Royal) reported having implemented such a fund. 
 
 The fourth column refers to separate real property tax
 rates for energy-efficient buildings as permitted by § 58.1-
-3221.2 of the Code. Three cities (Charlottesville, Roanoke,
+3221.2 of the *Code*. Three cities (Charlottesville, Roanoke,
 and Virginia Beach) reported having special rates for such
 real estate. 
 
@@ -533,49 +529,28 @@ programs.
 
 ```{r}
 
-#Table 2.1
+#Table 2.1 "Real Property Statutory (Nominal) Tax Rates, CY 2019 and FY 2020"
 
 
-```
+#Table 2.2 "Additional Real Property Special District Tax Levies for Special Purposes, 2019"
 
-```{r}
 
-#Table 2.2
+#Table 2.3 "Community Development Authorities Requiring a Special Purpose Real Property Levy, 2019" 
 
-```
 
-```{r}
-#Table 2.3
+#Table 2.4 "Special Purpose Real Property Tax Levies on Commercial Property in Northern Virginia Transportation Authority Region, 2019" 
 
-```
 
-```{r}
+#Table 2.5 "Real Property Assessment Procedures for Virginia Localities, 2019" 
 
-#Table 2.4
 
-```
+#Table 2.6 "Assessed Value of Real Property by Category and by Locality, 2018*"
 
-```{r}
 
-#Table 2.5
+#Table 2.7 "Real Property Effective True Tax Rates, 2017"
 
-```
 
-```{r}
-
-#Table 2.6
-
-```
-
-```{r}
-
-#Table 2.7
-
-```
-
-```{r}
-
-#Table 2.8
+#Table 2.8 "Real Property Miscellaneous Items, 2019"
 
 ```
 
@@ -590,24 +565,21 @@ Grants Program: http://housing.arlingtonva.us/get-help/rentalservices/local-hous
 
 $^2$  The statute allows the use of the Internal Revenue Service rate. Section 6621 of the Internal Revenue Code establishes a rate of 3 percent plus the federal short-term rate. In December 2019, when the short-term rate was 1.616 percent, the combined annual rate was 4.61 percent.
 
-$^3$ City of Alexandria, Budget Memo #46: Review of Other Jurisdictions’ Experience with a Real Estate Tax Deferral Program for the General Population (Councilman Speck’s Request), 4/25/2003.
+$^3$ City of Alexandria, *Budget Memo #46: Review of Other Jurisdictions’ Experience with a Real Estate Tax Deferral Program for the General Population* (Councilman Speck’s Request), 4/25/2003.
 
-$^4$ Henrico County, Budget Memo #46.
+$^4$ Henrico County, *Budget Memo #46*.
 
-$^5$ The Code does not specify which census is to be used.
+$^5$ The *Code* does not specify which census is to be used.
 
 $^6$ Taxable assessed value treats property qualifying for use value
 as taxable at its use value rather than at its full market value.
 
-$^7$ Virginia Department of Taxation, The 2017 Virginia Assessment/
-Sales Ratio Study (Richmond, February 2019), p. 35. The study
+$^7$ Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study* (Richmond, February 2019), p. 35. The study
 can be found at https://tax.virginia.gov/assessment-sales-ratiostudies.
 
-$^8$ Virginia Department of Taxation, The 2017 Virginia Assessment/
-Sales Ratio Study, p. 34.
+$^8$ Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study*, p. 34.
 
-$^9$ International Association of Assessing Officers, Standard on
-Ratio Studies, (approved April 2013), p. 17. http://www.iaao.
+$^9$ International Association of Assessing Officers, *Standard on Ratio Studies*, (approved April 2013), p. 17. http://www.iaao.
 org/media/standards/Standard_on_Ratio_Studies.pdf.
 
 $^10$ The Department of Taxation’s study applies to all types of property, not just residential property. Nonetheless, the majority of
