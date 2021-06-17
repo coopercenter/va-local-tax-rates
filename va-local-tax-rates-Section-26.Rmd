@@ -43,45 +43,21 @@ Almost  three-fourths  of  the  cities  and  over  half  the    counties  with  
 
 #SQL query results will replace placeholder values (modified as necessary, depending on how the info comes out)
 
-localityCities <- 0
-localityCounties <- 0
-localityTowns <- 0
-websiteCities <- 0
-websiteCounties <- 0
-websiteTowns <- 0
-budgetPCities <- 0
-budgetPCounties <- 0
-budgetPTowns <- 0
-budgetACities <- 0
-budgetACounties <- 0
-budgetATowns <- 0
-ratesCities <- 0
-ratesCounties <- 0
-ratesTowns <- 0
-improvementProgCities <- 0
-improvementProgCounties <- 0
-improvementProgTowns <- 0
-utilitiesCities <- 0
-utilitiesCounties <- 0
-utilitiesTowns <- 0
-landbookCities <- 0
-landbookCounties <- 0
-landbookTowns <- 0
-GISCities <- 0
-GISCounties <- 0
-GISTowns <- 0
-auditCities <- 0
-auditCounties <- 0
-auditTowns <- 0
+locality <- 0
+website <- 0
+budgetP <- 0
+budgetA <- 0
+rates <- 0
+improvementProg <- 0
+utilities <- 0
+landbook <- 0
+GIS <- 0
+audit <- 0
 
-table26.1a <- tibble("Locality (Cities)" = localityCities,"Have A Website?" = websiteCities, "Proposed Budget" = budgetPCities,"Adopted Budget" = budgetACities, "Tax Rates" = ratesCities, "Capital Improvement Programs"=improvementProgCities,"Utility Charges"=utilitiesCities,"Landbook Information" = landbookCities,"GIS Mapping" = GISCities, "Audit (CAFR)" = auditCities)
+table26.1 <- tibble("Locality" = locality,"Have A Website?" = website, "Proposed Budget" = budgetP,"Adopted Budget" = budgetA, "Tax Rates" = rates, "Capital Improvement Programs"=improvementProg,"Utility Charges"=utilities,"Landbook Information" = landbook,"GIS Mapping" = GIS, "Audit (CAFR)" = audit)
 
-table26.1b <- tibble("Locality (Counties)" = localityCounties,"Have A Website?" = websiteCounties, "Proposed Budget" = budgetPCounties,"Adopted Budget" = budgetACounties, "Tax Rates" = ratesCounties, "Capital Improvement Programs"=improvementProgCounties,"Utility Charges"=utilitiesCounties,"Landbook Information" = landbookCounties,"GIS Mapping" = GISCounties, "Audit (CAFR)" = auditCounties)
 
-table26.1c <- tibble("Locality (Towns)" = localityTowns,"Have A Website?" = websiteTowns, "Proposed Budget" = budgetPTowns,"Adopted Budget" = budgetATowns, "Tax Rates" = ratesTowns, "Capital Improvement Programs"=improvementProgTowns,"Utility Charges"=utilitiesTowns,"Landbook Information" = landbookTowns,"GIS Mapping" = GISTowns, "Audit (CAFR)" = auditTowns)
+kable(table26.1,caption="Table 26.1 Fiscal Content Information on Local Websites, 2019")
 
-kable(table26.1a,caption="Table 26.1 Fiscal Content Information on Local Websites, 2019")
-kable(table26.1b,caption="Table 26.1 Fiscal Content Information on Local Websites, 2019 (continued)")
-kable(table26.1c,caption="Table 26.1 Fiscal Content Information on Local Websites, 2019 (continued)")
 ```
 
