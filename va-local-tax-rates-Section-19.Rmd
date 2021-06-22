@@ -1,6 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Section 19
 
 ## Miscellaneous Taxes, 2018

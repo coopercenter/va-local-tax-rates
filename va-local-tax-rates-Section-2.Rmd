@@ -1,9 +1,5 @@
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 #Section 2
 ##Real Property Tax, 2019
 

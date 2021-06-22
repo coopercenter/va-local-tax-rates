@@ -1,0 +1,17 @@
+book_filename: "va-local-tax-rates-2019"
+# rmd_files:
+# -   index.rmd
+# -   computing-setup.rmd
+# -   data-science-on-a-team.Rmd
+# -   data-importing.rmd
+# -   data-wrangling.rmd
+# -   git.Rmd
+# -   rmarkdown.Rmd
+# -   shared-resources.Rmd
+# -   bibliographies.Rmd
+# -   references.Rmd
+new_session: true
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section "

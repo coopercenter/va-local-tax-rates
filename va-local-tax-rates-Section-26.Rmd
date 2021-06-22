@@ -1,8 +1,8 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r}
 library(tidyverse)
 library(knitr)
 ```
+
 
 # Section 26
 ## Fiscal Content Information on Local Web Sites, 2019

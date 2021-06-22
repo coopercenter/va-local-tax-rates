@@ -1,6 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Section 16
 ## Meals, Transient Occupancy, Cigarettes, Tobacco, and Admissions Excise Taxes, 2019
 |   Among the many local taxes levied by Virginia’s localities are four excise taxes on meals, transient occupancy, cigarettes and admissions. **Table 16.1** provides a detailed list of rates for these taxes for the 38 cities, 82 counties, and 108 towns reporting at least one of these taxes.

@@ -1,14 +1,12 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r, include=FALSE}
 library(tidyverse)
 library(knitr)
 ```
 
-
 # Introduction
 
 ## Foreward
-This  is  the  thirty-eightth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns$^1$. The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Depart-ment of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
+This  is  the  thirty-eighth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns$^1$. The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Depart-ment of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
 
 
 ## Organization of the Book

@@ -1,6 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Section 15
 ## Motor Vehicle Local License Tax, 2019
 

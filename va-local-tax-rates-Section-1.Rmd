@@ -1,7 +1,3 @@
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Section 1
 ## Summary of Legislative Changes in Local Taxation, 2019 $^1$
 

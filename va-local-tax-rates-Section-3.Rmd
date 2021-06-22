@@ -1,7 +1,4 @@
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 #Section 3
 ## Real Property Tax Relief Plans and Housing Grants for the Elderly and Disabled, 2019
