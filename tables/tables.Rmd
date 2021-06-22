@@ -2,7 +2,7 @@
 title: "Virginia Local Tax Rates Tables"
 output:
   bookdown::html_document2: default
-  pdf_document:  default
+  bookdown::pdf_document2:  default
 editor_options:
   chunk_output_type: inline
 ---
@@ -20,7 +20,7 @@ library(tidyverse)
 
 Taxes on natural resources are rarely used by localities because many are not endowed with such resources. As a consequence, natural resources taxes accounted for less than 0.1 percent of total city tax revenue in fiscal year 2018, 0.2 percent of total county tax revenue, and less than 0.1 percent of total tax revenue of large towns, according to information from the Auditor of Public Accounts. These are averages; the vast majority of localities receive no revenue from this source. All the exceptions are located in Southwest Virginia. For information on individual localities, see Appendix C.
 
-Localities are permitted to impose several taxes on natural resources. Table 17.1 provides tax rates for the cities and counties having such natural resource-related taxes in effect during the 2019 tax year.
+Localities are permitted to impose several taxes on natural resources. Table \@ref(tab:table17-1) provides tax rates for the cities and counties having such natural resource-related taxes in effect during the 2019 tax year.
 
 ## TAXATION OF MINERAL LANDS
 
@@ -58,7 +58,7 @@ make_table <- function(vars){
 
 ```
 
-```{r }
+```{r table17-1}
 table_17_1_vars   <- c("ExternalDataReference", "nat_tax_coal","nat_tax_oil","nat_tax_add_gas","nat_tax_road_impr","nat_tax_min")
 table_17_1_labels <- c("Locality","Coal & Gas Severance Tax\\\n(§ 58.1-3712)","Oil Severance Tax\\\n(§ 58.1-3712.1)","Additional Gas Severance Tax\\\n(§ 58.1-3713.4)", "Coal & Gas Road Improvement Tax\\\n(§ 58.1-3713)", "Tax on Mineral Land\\\n(§ 58.1-3286)")
 
