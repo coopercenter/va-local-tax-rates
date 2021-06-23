@@ -5,6 +5,18 @@ rmd_files:
  -   legislative_changes.Rmd
  -   real_property.Rmd
  -   real_property_tax_relief.Rmd
+ -   motor-vehicle-license-tax.Rmd
+ -   meals.Rmd
+ -   natural-resources.Rmd
+ -   legal-documents.Rmd
+ -   misc-taxes.Rmd
+ -   refuse-recycling.Rmd
+ -   residential-water.Rmd
+ -   impact-fees-roads.Rmd
+ -   Public-Rights-of-Way-Use-Fees.Rmd
+ -   Cash-Proffers.Rmd
+ -   Virginia-Enterprise-Zone-Program.Rmd
+ -   Fiscal-Content-Information-on-Local-Web-Sites.Rmd
 new_session: true
 delete_merged_file: true
 language:
