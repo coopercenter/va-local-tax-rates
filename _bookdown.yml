@@ -1,22 +1,22 @@
 book_filename: "va-local-tax-rates-2019"
-rmd_files:
- -   index.rmd
- -   introduction.rmd
- -   legislative_changes.Rmd
- -   real_property.Rmd
- -   real_property_tax_relief.Rmd
- -   motor-vehicle-license-tax.Rmd
- -   meals.Rmd
- -   natural-resources.Rmd
- -   legal-documents.Rmd
- -   misc-taxes.Rmd
- -   refuse-recycling.Rmd
- -   residential-water.Rmd
- -   impact-fees-roads.Rmd
- -   Public-Rights-of-Way-Use-Fees.Rmd
- -   Cash-Proffers.Rmd
- -   Virginia-Enterprise-Zone-Program.Rmd
- -   Fiscal-Content-Information-on-Local-Web-Sites.Rmd
+# rmd_files:
+#  -   index.rmd
+#  -   00-introduction.rmd
+#  -   01-legislative_changes.Rmd
+#  -   02-real_property.Rmd
+#  -   03-real_property_tax_relief.Rmd
+#  -   04-motor-vehicle-license-tax.Rmd
+#  -   05-meals.Rmd
+#  -   natural-resources.Rmd
+#  -   legal-documents.Rmd
+#  -   misc-taxes.Rmd
+#  -   refuse-recycling.Rmd
+#  -   residential-water.Rmd
+#  -   impact-fees-roads.Rmd
+#  -   Public-Rights-of-Way-Use-Fees.Rmd
+#  -   Cash-Proffers.Rmd
+#  -   Virginia-Enterprise-Zone-Program.Rmd
+#  -   Fiscal-Content-Information-on-Local-Web-Sites.Rmd
 new_session: true
 delete_merged_file: true
 language:

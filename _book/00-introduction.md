@@ -50,7 +50,7 @@ Table: (\#tab:unnamed-chunk-2)Sources of Virginia Local Government Tax Revenue, 
 |Merchants' Capital                  |$14,301,188     |       0.08|
 |Penalties and interest              |$128,130,305    |       0.71|
 
-There are six localities where the real property tax is not  dominant.  Bath  and  Surry  counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes  that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the least populous independent city in Virginia$^3$  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
+There are six localities where the real property tax is not  dominant.  Bath  and  Surry  counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes  that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the [least populous independent city in Virginia](https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/)  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
 
 Thirty-six cities (two cities–Hopewell and Petersburg–did  not  provide  information  for  the  2018  Comparative Report)  and 95 counties imposed four of the taxes shown in  the  previous  table—the  real  property  tax,  the  personal  property tax, the local option sales and use tax, and the public service corporation property tax. Most, but not all, localities imposed recordation and will taxes, consumer utility taxes, motor  vehicle  license  taxes,  and  taxes  on  manufacturers’  machinery and tools. Nonetheless, as shown in the next text table, there are a number of taxes, a few of them signifi cant sources  of  revenue,  which  are  not  levied  by  all  localities.  Also,  some  of  the  taxes  are  used  so  sparingly  that  their  revenue yield is very low.
 
@@ -92,7 +92,9 @@ The strong support for this publication by the Virginia Association of Counties 
 
 ## Final Comments {-}
 
-The Cooper Center is grateful to the many local officials throughout  the  commonwealth  who  supplied  the  survey information  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. Corrections to the text or suggestions for possible changes or additions to future editions can be made using the email address and phone number listed below.
+The Cooper Center is grateful to the many local officials throughout  the  commonwealth  who  supplied  the  survey information  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. 
+
+<!-- Corrections to the text or suggestions for possible changes or additions to future editions can be made using the email address and phone number listed below. -->
 
 Stephen C. Kulp
 
@@ -110,8 +112,5 @@ February 2020
 
 
 
-[^1]:  Locality  population  figures are based on estimates developed by the Demographics Research Group of the Weldon Cooper Center for Public Service. See Appendix D.
+[^1]: Locality  population  figures are based on estimates developed by the [Demographics Research Group of the Weldon Cooper Center for Public Service](https://demographics.coopercenter.org). See Appendix D.
 
-$^2$  https://tax.virginia.gov/legislative-summary-reports
-
-$^3$  Weldon  Cooper  Center  for  Public  Service,  University  of  Virginia.  https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/
