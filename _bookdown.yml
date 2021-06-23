@@ -4,7 +4,7 @@ rmd_files:
  -   introduction.rmd
  -   legislative_changes.Rmd
  -   real_property.Rmd
-# -   references.Rmd
+ -   real_property_tax_relief.Rmd
 new_session: true
 delete_merged_file: true
 language:
