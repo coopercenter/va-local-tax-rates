@@ -1,12 +1,9 @@
-
-
-#Section 2
-##Real Property Tax, 2019
+# Real Property Tax in 2019
 
 The real property tax is by far the most important source of tax revenue for localities. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, it accounted for 55.5 percent of tax revenue for cities, 64.6 percent for counties, and 29.1 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns varies significantly. For information on individual localities, see Appendix C. 
 The *Code of Virginia*, §§ 58.1-3200 through 58.1-3389, authorizes localities to levy taxes on real property (land, including the buildings and improvements on it). There is no restriction on the tax rate that may be imposed. Section 58.1-3201 provides that all general reassessments or annual assessments shall be at 100 percent of fair market value. 
 
-###PUBLIC SERVICE CORPORATIONS
+## PUBLIC SERVICE CORPORATIONS
 
 Property owned by so-called public service corporations is not assessed by localities. Instead, that task is delegated to the State Corporation Commission (SCC) and the Department of Taxation.The State Corporation Commission assesses electric utilities and cooperatives, gas pipeline distribution companies, public service water companies, and telephone and telegraph companies. The Department of Taxation assesses pipeline transmission companies and railroads.
 
@@ -20,7 +17,7 @@ January 1 of each year to any public service company with property in its area a
 the locality in which any part of the company is located (§ 58.1-2601). The State Corporation Commission or the
 Department of Taxation send out their assessments for the property based on these boundaries (§ 58.1-2602). Localities examine the assessments to determine their correctness. If correct, the locality determines the equalized assessed valuation of the corporate property by applying the local assessment ratio prevailing in the locality for other real estate (§ 58.1-2604). Local taxes are then assigned to real and tangible personal property at the real property tax rate current in the locality (§ 58.1-2606).
 
-###TAX RELIEF PROGRAMS
+## TAX RELIEF PROGRAMS
 
 There are several types of locally financed tax relief programs available. Section 3 of this study contains information on so-called circuit breaker plans for the elderly and disabled. Section 4 covers land use assessments for agricultural, horticultural, forestal, and open space real estate. Section 5 contains information on preferential assessments for
 agricultural and forestal districts. Finally, Section 6 covers property tax exemptions for certain rehabilitated real estate and other exemptions.
@@ -34,7 +31,7 @@ The deferral program is rarely used. Administrative problems appear to be the ma
 did not adopt it. According to Henrico staff, “The administrative procedures for tracing the properties and recovering the
 relevant taxes upon either the death of the owner or transfer of the property itself would be both cumbersome and time consuming and could not be accomplished with existing staffing levels or existing computer systems.”$^4$ Another reason for the unpopularity of the programs may be that taxpayers only receive postponement, not removal, of the tax liability. The cities of Charlottesville and Richmond, the county of Middlesex, and the town of Amherst were the only localities reporting a deferral program in 2019. 
 
-###STATUTORY RATES, SPECIAL TAXES, DUE DATES, PRORATION, AND BILLING PRACTICES
+## STATUTORY RATES, SPECIAL TAXES, DUE DATES, PRORATION, AND BILLING PRACTICES
 
 **Table 2.1** provides general information associated with real property taxes in Virginia’s localities. The table provides
 an estimate by locality of both the number of total taxable real estate parcels and the number of residential parcels.
@@ -44,10 +41,9 @@ Table 2.1 also lists the statutory (nominal) tax rates. The statutory rate is th
 
 The statutory tax rates were reported to the Cooper Center by all cities and counties and 112 of the responding towns. The text table below lists the averages for the statutory rates from the localities. 
 
-```{r}
 
+```r
 #table name: Statutory Real Estate Tax Rates per $100 of Assessed Taxable Value for Localities Reporting, CY 2019 and FY 2020
-
 ```
 
 Statutory rates are generally higher for cities than counties. The rates are lowest in towns because they are subordinate to counties and have limited responsibilities.
@@ -69,7 +65,7 @@ Another special district category is the community development authority (CDA). 
 The final category of special districts is that of localities within the Northern Virginia Transportation Authority. Localities within this authority have the ability to tax real property associated with industrial and commercial use up
 to $0.125 per $100 of assessed value to help fund transportation improvements. In 2009, an amendment to § 58.1-3221.3 specified that the revenues generated by the tax were to be used solely for (1) new road construction, design, and right-of-way acquisition, (2) new public transit construction, design, and right-of-way acquisition, (3) capital costs related to new transportation projects, or (4) the issuance costs and debt service on any bonds issued to support capital costs. There are 11 localities in the region of the authority: the cities of Alexandria, Fairfax, Falls Church, Fredericksburg, Manassas, and Manassas Park and the counties of Arlington, Fairfax, Loudoun, Prince William, and Stafford. Of those, one city (Fairfax) and two counties (Arlington and Fairfax) reported implementing the tax, as shown in Table 2.4.
 
-###ASSESSMENT PRACTICES, REASSESSMENTS, ASSESSED VALUES
+## ASSESSMENT PRACTICES, REASSESSMENTS, ASSESSED VALUES
 
 **Table 2.5** details assessment practices among localities. The table includes cities and counties, but not towns, because only a small percentage of towns provided substantive answers. For those interested in the towns that responded, data are available from the Cooper Center upon request. 
 
@@ -81,11 +77,9 @@ Column seven of Table 2.5 shows information about maintenance assessments. While
 
 Columns eight and nine of Table 2.5 cover physical inspection. Physical inspection refers to the actual inspection of the property as opposed to computerized mass-appraisal of parcels. If a locality responded that it did not perform physical inspections during the general reassessment, two further questions were asked: 
 
-```{r}
 
+```r
 #table name: Reassessment Periods for Real Estate, 2019
-
-
 ```
 
 
@@ -101,10 +95,9 @@ With the total amounts from cities and counties combined, the total assessed val
 
 Looking at the percentage breakdown for each type of locality, in 2018 the share of taxable
 
-```{r}
 
+```r
 #table name: Taxable Assessed Value by Category for Cities and Counties, 2018
-
 ```
 
 assessed value for cities in the single-family residential category was between 40 percent and 59.9 percent in 19 cities and 60 percent or more in 18 cities. All cities but two had multi-family residential values under 19.9 percent of the total assessed value. Commercial and industrial property was the second most common category with 21 of the cities having between 20 percent and 39.9 percent of their property valuations coming from this type of property. Finally, only the cities of Suffolk and Franklin had more than 2 percent of their property valuation associated with agriculture.
@@ -113,14 +106,13 @@ Among counties the breakdown was slightly different. As in cities, the single-fa
 
 The category with the second highest valuation in counties was commercial and industrial property. Eighty-two counties had such property valued no higher than 19.9 percent of the total assessed value of property within the locality. In general, the percentage of assessed value in counties for commercial and industrial properties was less than that for cities (though two counties, coal-rich Dickenson and Buchanan, had the highest percentage valuations of such property). Finally, agricultural property averaged the least total assessed valuation in counties, though the percentage varied greatly among the individual counties. In 30 counties, valuations associated with agricultural property made up 20 percent or more of the total assessed value within the locality. The percentage in one county (Sussex) was 82.0 percent. The taxable assessed values for agriculture were much lower than they would have been without the advantage of use value assessment, a program explained in Sections 4 and 5. 
 
-###EFFECTIVE TAX RATES
+## EFFECTIVE TAX RATES
 
 Tax rates are generally discussed in terms of either statutory (nominal) rates or effective rates. The statutory rate is the rate used by localities and is applied to the assessed value of a property.The effective rate is published by the Virginia Department of Taxation in their annual assessment/sales ratio study. The department derives the effective rate by multiplying the statutory tax rate by the median assessment ratio. In normal times when property values are rising, the median assessment ratio is usually less than 100 percent 
 
-```{r}
 
+```r
 #table name: Share of Assessed Value of Real Estate by Category, 2018
-
 ```
 
 because reassessments lag market increases and tend to be conservative. Consequently, the statutory rate is generally higher than the effective rate. However, this may not be true in difficult real estate markets. A limitation of the effective rates published by the Virginia Department of Taxation is that they are not current. The most recent year available at the present time is 2017. Despite the time lag, effective rates are important because they give a more accurate reflection of the differences in real property tax rates across localities.
@@ -129,36 +121,33 @@ because reassessments lag market increases and tend to be conservative. Conseque
 
 It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real 
 
-```{r}
 
+```r
 #table name: Effective Real Estate Tax Rates, 2017
-
 ```
 
 estate *taxable assessed value*,$^6$ as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.$^7$
 
 In 2 cities and 10 counties the statutory rate was less than the effective rate. In two cities and seven counties statutory and effective rates were the same. Finally, in 34 cities and 78 counties statutory rates exceeded effective rates. 
 
-```{r}
 
+```r
 #table name: Statutory and Effective Real Estate Tax Rates, 2017
-
 ```
 
 The real property tax rates reported in Table 2.7 are a more accurate reflection of the differences among localities in tax rates on real property than those in Table 2.1 because they control for variations in assessment frequency and technique among localities. Table 2.7 also shows the latest reassessment in effect when the median ratio study was conducted, the number of sales used in the study, the median ratio, and the coefficient of dispersion. 
 
 The coefficient of dispersion measures how closely the individual ratios of each locality are arrayed around the median ratio. The formula for the coefficient of dispersion (CD) is:
 
-#Equation goes here
+<!-- #Equation goes here -->
 
 where $$X_i$$ represents the assessment/sales ratio for the *i*th sale in a sample of size *n*, and $$X_m$$ represents the median ratio of the sample.$^8$ If there were no dispersion, the CD would equal zero.
 
 The text table below summarizes the coefficients of dispersion tabulated for the cities and counties. Eighteen of the cities had CDs of no more than 9.9 percent. Eight had CDs between 10 percent and 14.9 percent, 7 had CDs between 15
 
-```{r}
 
+```r
 #table name: Coefficient of Dispersion, 2017
-
 ```
 
 and 19.9 percent, and 4 had CDs between 20 and 24.9 percent. Counties tended to vary more in the degree of dispersion. Thirteen had CDs between 5 and 9.9 percent, 18 had CDs between 10 and 14.9 percent, 25 had CDs between 15 and 19.9 percent, 26 had CDs between 20 and 24.9 percent, 11 had CDs between 25 and 29.9 percent, and 2 had CDs between 30 and 34.9 percent. 
@@ -167,7 +156,7 @@ There is no upper limit for what is tolerable, but the International Association
 
 As one would expect, the quality of local assessments, as measured by the CD is generally better in those localities that reassess annually, biennially, or that have just conducted a general reassessment. In 2017, of the 57 localities with CDs under 15 percent, all but 12 reassessed annually (28), biennially (10), or had just completed general reassessments (7).
 
-###MISCELLANEOUS ITEMS
+## MISCELLANEOUS ITEMS
 
 **Table 2.8** presents miscellaneous taxes and exemptions related to real property. The first is the recreation tax. The *Code* in §15.2-1807 permits localities to collect a real estate tax for recreation areas and playgrounds that is not to exceed $0.02/$100 of the assessed value of a property. This tax was reported by Charlottesville City. 
 
@@ -181,8 +170,8 @@ The fifth column lists localities that reported providing a separate real proper
 
 Finally, the last column refers to low-income grant programs, discussed earlier in this text under the subheading, “Tax Relief Programs.” Only the cities of Charlottesville and Norfolk, and the county of Arlington reported having these programs. 
 
-```{r}
 
+```r
 #Table 2.1 "Real Property Statutory (Nominal) Tax Rates, CY 2019 and FY 2020"
 
 
@@ -205,7 +194,6 @@ Finally, the last column refers to low-income grant programs, discussed earlier 
 
 
 #Table 2.8 "Real Property Miscellaneous Items, 2019"
-
 ```
 
 

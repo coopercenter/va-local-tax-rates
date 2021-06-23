@@ -5,6 +5,7 @@ author:   "Stephen C. Kulp, Weldon Cooper Center for Public Service, University 
 date:     "2021"
 site: bookdown::bookdown_site
 documentclass: book
+bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 description: "Information for All Cities and Counties and Selected Incorporated Towns"
@@ -14,10 +15,3 @@ description: "Information for All Cities and Counties and Selected Incorporated 
 
 
 
-# Overview
-
-
-
-## Credits
-
-These course materials were generated using the **bookdown** package [@R-bookdown], which was built on top of R Markdown and **knitr** [@xie2015].

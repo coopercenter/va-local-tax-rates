@@ -1,8 +1,3 @@
-```{r, include=FALSE}
-library(tidyverse)
-library(knitr)
-```
-
 # Introduction
 
 ## Foreward
@@ -27,32 +22,61 @@ This  book  deals  mainly  with  local  sources  of  revenue  for  local  govern
 
 A  common  misperception  is  that  nearly  all  local  tax  revenue  comes  from  the  real  property  tax.  True,  the  real  property  tax  is  the  dominant  source,  accounting  for  61.9  percent of city-county tax revenue in FY 2018, the latest year available (see text table below). But three other taxes—the personal  property  tax,  the  local  option  sales  and  use  tax,  and the business license tax—together accounted for 24.5 percent of total tax revenue. The remaining 14.6 percent of tax revenue came from more than a dozen other taxes. 
 
-```{r echo=FALSE, results='asis'}
-#Insert "Sources of Virginia Local Government Tax Revenue, FY 2018" here
-tax <- c("Total taxes", "Real property","Personal property","Local option sales and use","Business license","Restaurant meals","Public service corporation property","Consumer utility","Hotel and motel room","Machinery and tools","Motor vehicle license","Recordation and will","Bank stock","Other local taxes","Tobacco","Coal, oil, and gas","Admission","Franchise license","Merchants' Capital","Penalties and interest")
 
-amount <- c('$17,967,385,766', '$10,946,877,675', '$2,370,758,768','$1,239,855,163','$771,958,263','$612,940,580','$412,121,081','$327,627,947','$244,412,96','$233,076,157','$197,705,384','$126,458,487','$117,199,137','$92,124,397','$65,150,996','$28,510,002','$21,815,169','$16,362,103','$14,301,188','$128,130,305')
 
-percent <- c(100.00, 60.93,13.19,6.90,4.30,3.41,2.29,1.82,1.36,1.30,1.10,0.70,0.65,0.51,0.36,0.16,0.12,0.09,0.08,0.71)
-table1<-tibble("Tax" = tax, "Amount ($)" = amount, "% of Total"=percent)
 
-kable(table1,caption="Sources of Virginia Local Government Tax Revenue, FY 2018")
-```
+Table: (\#tab:unnamed-chunk-2)Sources of Virginia Local Government Tax Revenue, FY 2018
+
+|Tax                                 |Amount ($)      | % of Total|
+|:-----------------------------------|:---------------|----------:|
+|Total taxes                         |$17,967,385,766 |     100.00|
+|Real property                       |$10,946,877,675 |      60.93|
+|Personal property                   |$2,370,758,768  |      13.19|
+|Local option sales and use          |$1,239,855,163  |       6.90|
+|Business license                    |$771,958,263    |       4.30|
+|Restaurant meals                    |$612,940,580    |       3.41|
+|Public service corporation property |$412,121,081    |       2.29|
+|Consumer utility                    |$327,627,947    |       1.82|
+|Hotel and motel room                |$244,412,96     |       1.36|
+|Machinery and tools                 |$233,076,157    |       1.30|
+|Motor vehicle license               |$197,705,384    |       1.10|
+|Recordation and will                |$126,458,487    |       0.70|
+|Bank stock                          |$117,199,137    |       0.65|
+|Other local taxes                   |$92,124,397     |       0.51|
+|Tobacco                             |$65,150,996     |       0.36|
+|Coal, oil, and gas                  |$28,510,002     |       0.16|
+|Admission                           |$21,815,169     |       0.12|
+|Franchise license                   |$16,362,103     |       0.09|
+|Merchants' Capital                  |$14,301,188     |       0.08|
+|Penalties and interest              |$128,130,305    |       0.71|
 
 There are six localities where the real property tax is not  dominant.  Bath  and  Surry  counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes  that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the least populous independent city in Virginia$^3$  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
 
 Thirty-six cities (two cities–Hopewell and Petersburg–did  not  provide  information  for  the  2018  Comparative Report)  and 95 counties imposed four of the taxes shown in  the  previous  table—the  real  property  tax,  the  personal  property tax, the local option sales and use tax, and the public service corporation property tax. Most, but not all, localities imposed recordation and will taxes, consumer utility taxes, motor  vehicle  license  taxes,  and  taxes  on  manufacturers’  machinery and tools. Nonetheless, as shown in the next text table, there are a number of taxes, a few of them signifi cant sources  of  revenue,  which  are  not  levied  by  all  localities.  Also,  some  of  the  taxes  are  used  so  sparingly  that  their  revenue yield is very low.
 
-```{r echo=FALSE, results='asis'}
-#Insert "Number of Virginia Localities Imposing Taxes by Type, FY 2018" table here
-tax2 <- c("Real property","Personal property","Local option sales and use","Public service corporation property","Consumer utility","Recordation and wills","Motor vehicle license","Machinery and tools property","Bank stock","Hotel and motel room","Business license","Restaurant meals","Franchise license","Merchants’ capital","Tobacco","Admission","Coal, oil, and gas","Other local taxes")
-cities <- c(36,36,36,36,36,32,32,31,36,32,36,36,11,1,29,18,1,23)
-counties <- c(95,95,95,95,92,93,86,85,64,67,52,49,37,43,2,3,6,49)
-total <- cities + counties
-table2 <- tibble("Tax" = tax2, "Cities" = cities, "Counties" = counties, "Total" = total)
 
-kable(table2,caption="Number of Virginia Localities Imposing Taxes by Type, FY 2018")
-```
+Table: (\#tab:unnamed-chunk-3)Number of Virginia Localities Imposing Taxes by Type, FY 2018
+
+|Tax                                 | Cities| Counties| Total|
+|:-----------------------------------|------:|--------:|-----:|
+|Real property                       |     36|       95|   131|
+|Personal property                   |     36|       95|   131|
+|Local option sales and use          |     36|       95|   131|
+|Public service corporation property |     36|       95|   131|
+|Consumer utility                    |     36|       92|   128|
+|Recordation and wills               |     32|       93|   125|
+|Motor vehicle license               |     32|       86|   118|
+|Machinery and tools property        |     31|       85|   116|
+|Bank stock                          |     36|       64|   100|
+|Hotel and motel room                |     32|       67|    99|
+|Business license                    |     36|       52|    88|
+|Restaurant meals                    |     36|       49|    85|
+|Franchise license                   |     11|       37|    48|
+|Merchants’ capital                  |      1|       43|    44|
+|Tobacco                             |     29|        2|    31|
+|Admission                           |     18|        3|    21|
+|Coal, oil, and gas                  |      1|        6|     7|
+|Other local taxes                   |     23|       49|    72|
 
 There are three major reasons why local governments do  not  to  impose  some  taxes:  (1)  The  locality  lacks  a  tax  base for a particular tax (e.g., a locality must have a bank in order to apply a bank stock tax and a locality must have taxable mineral deposits to impose coal, oil, and gas taxes). (2) The locality is faced with state restrictions (e.g., county excise taxes on hotel and motel room rental have tax rate restrictions  imposed  by  the  state;  county  restaurant  meals  taxes must be approved in a voter referendum; tobacco taxes are permitted in only two counties; and county admissions taxes are subject to many restrictions). In regard to the busi-ness,  professional, and occupational  license tax (BPOL tax), counties must choose either the BPOL tax or the merchants’ capital tax. Counties are not permitted to impose a business license tax within the boundaries of an incorporated town situated within the county without permission of the town. This  means  that  counties  with  large  shares  of  business  activity within towns are motivated to impose a merchants’ capital tax that can be applied countywide. (3) The locality chooses not to impose a permitted tax (e.g., Richmond City, a community with a large cigarette manufacturing plant, has not adopted a consumer tobacco tax even though all cities are granted the authority to levy such a tax). 
 
@@ -80,16 +104,12 @@ Weldon Cooper Center for Public Service
 
 University of Virginia
 
-sck7x@virginia.edu
-
-(434) 982-5638
-
 Charlottesville
 
 February 2020
 
 
-----------------------------------------------------------------------------------------------------------
+
 $^1$  Locality  population  figures are based on estimates developed by the Demographics Research Group of the Weldon Cooper Center for Public Service. See Appendix D.
 
 $^2$  https://tax.virginia.gov/legislative-summary-reports
