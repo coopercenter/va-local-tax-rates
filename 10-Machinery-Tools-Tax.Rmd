@@ -1,0 +1,33 @@
+# Machinery and Tools Property Tax
+
+In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the machinery and tools property tax accounted for 1.6 percent of total tax revenue for cities, 1.2 percent for counties, and 2.0 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns may vary significantly. For information on individual localities, see Appendix C.
+
+Under § 58.1-3507 of the *Code of Virginia*, certain machinery and tools are segregated as tangible personal property for local taxation. According to the *Code*, the classes of machinery and tools that are segregated are those that are used for “manufacturing, mining, processing and reprocessing (excluding food processing), radio or television broadcasting, dairy, and laundry or dry cleaning.” The tax rate on machinery and tools may not be higher than that imposed on other classes of tangible personal property. 
+
+Section 58.1-3507 provides a uniform classification for idle machinery. Idle machinery and tools are to be classified as intangible personal property no longer subject to local taxation. Items are defined to be idle if they have not been used for at least one year prior to the given tax day and no one can reasonably suppose that the machinery or tool will be returned to use in the given tax year.
+
+Section 58.1-3980 provides an appeal procedure for the machinery and tools tax. The *Code* states, “... any person, firm, or corporation assessed by a commissioner of the revenue ... aggrieved by any such assessment, may, within three years from the last day of the tax year for which such assessment is made, or within one year from the date of the assessment, whichever is later, apply to the commissioner of the revenue or such other official who made the assessment for a correction thereof.” 
+
+**Table 10.1** presents the 2018 tax rates on machinery and tools for the 37 cities, 91 counties, and 79 towns that reported imposing the tax. The machinery and tools tax is shown in the table according to the following categories: the basis of assessment, assessment type, the statutory (nominal) tax rate per \$100, the assessment ratio, and the effective tax rate (computed by multiplying the statutory tax rate by the assessment ratio). *Effective tax rates among localities are only comparable if they use the same basis of assessment and apply it to the same age of property*. Most localities assess machinery and tools on the basis of original cost, fair market value, or book value. Frequently, a sliding scale is used, with the effective tax rate varying according to the age of the property.
+
+Thirty-six cities reported using original cost as the basis of assessment. Eighty-eight counties imposing the tax used original cost. Finally, 69 of the towns reported basing their assessments on original cost. The remainder used fair market value or depreciated cost. In many cases it is accurate to say that towns followed the same method as the county in which they are located. However, some exceptions exist.
+
+The following text table, using unweighted averages, compares localities using original cost as their basis. The table is based on machinery and equipment one year old. The medians for cities, counties and towns were \$1.05, \$0.90, and \$0.39, respectively. Town rates were in addition to rates imposed by their host counties.
+
+```{r}
+# table name: Machinery and Tools: Effective 1st Year Tax Rate per $100 for Localities Using Original Cost, 2019
+```
+
+**Table 10.2** presents the 2019 tax rates in industries which the *Code* permits specific types of equipment to be categorized as machinery and tools. The separate classification is permitted by § 58.1-3508 and § 58.1-3508.1. Currently, 13 localities report having a separate tax on equipment in the semiconductor industry; 47 report having a machinery and tools tax in the forest harvesting industry; 67 localities report so in the vehicle cleaning industry; while only 3 localities reports having it as a separate category in the castings industry. Meanwhile, 7 localities report having the tax for equipment in the defense industry, and 2 localities report having the category in other businesses.
+
+**Table 10.3** presents the number of machinery and tool accounts each locality reported for 2019. Twenty-eight cities reported their number of accounts, as did 69 counties and 27 towns. When we asked the question, we assumed localities organized their accounts by business entity (i.e., each business had an account and within that account resided any number of tools). However, based on responses from some localities, this might not always be the case. Some localities responded that the machinery or tool item, not the business entity, was the basis of the account. Others informed us that their machinery and tools accounts included items we did not expect, such as company work trucks. Localities which reported having such systems tended to report a higher number of accounts.
+
+```{r}
+# Table 10.1 Machinery and Tools Property Tax, General Information, 2019
+
+# Table 10.2 Machinery and Tools Tax on Specific Types of Equipment, 2019
+
+# Table 10.3 Machinery and Tools Tax, Number of Accounts, 2019
+```
+
+

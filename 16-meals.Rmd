@@ -2,7 +2,7 @@
 
 Among the many local taxes levied by Virginia’s localities are four excise taxes on meals, transient occupancy, cigarettes and admissions. **Table 16.1** provides a detailed list of rates for these taxes for the 38 cities, 82 counties, and 108 towns reporting at least one of these taxes.
 |
-### MEALS TAX
+## MEALS TAX
 |   The meals tax is a flat percentage imposed on the price of a meal. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the tax accounted for 7.5 percent of the total tax revenue for cities, 1.2 percent for counties, and 23.5 percent for large towns. The low percentage for counties is explained by the fact that slightly less than one-half of the counties employ the tax and those that have it cannot exceed a rate of 4 percent, whereas cities and towns are allowed to impose a higher tax rate. The authority to levy this tax varies greatly among jurisdictions, so the tax varies significantly among individual cities, counties, and towns. For information on tax receipts of individual localities, see Appendix C.
 |
 |   Counties  are  restricted  in  their  authority  to  levy  the  meals tax within the limits of an incorporated town unless the town grants the county authority to do so (§ 58.1-3711). Cities and towns are granted the authority to levy the tax under the “general taxing powers” found in their charters (§ 58.1-3840). 
@@ -20,7 +20,7 @@ Among the many local taxes levied by Virginia’s localities are four excise tax
 |
 |   The local meals tax is in addition to the state 4.3 percent sales tax (5 percent in localities constituting transportation districts in northern Virginia and Hampton Roads) and the 1 percent local option sales tax (see § 58.1-603). This means that the combined state and local tax rate on restaurant meals could be anywhere in the range of 7 to 14 percent for cities, counties, and towns that impose this tax. Such rates apply to all restaurant meals whether consumed at elegant dining establishments or fast food providers. 
 |
-### TRANSIENT OCCUPANCY TAX
+## TRANSIENT OCCUPANCY TAX
 |   The transient occupancy tax (lodging tax) is a flat percentage imposed on the charge for the occupancy of any room or  space  in  hotels,  motels,  boarding  houses,  travel  camp-grounds, and other facilities providing lodging for less than thirty days. The tax applies to rooms intended or suitable for dwelling and sleeping. Therefore, the tax does not apply to rooms used for alternative purposes, such as banquet rooms and meeting rooms. 
 |
 |   In fiscal  year  2018,  the  occupancy  tax  accounted  for  2.2 percent of the total tax revenue for cities, 0.9 percent for counties, and 5.6 percent for large towns. These are averages; the relative importance of the tax varies significantly among individual cities, counties, and towns. For information on tax receipts of individual localities, see Appendix C.
@@ -41,7 +41,7 @@ Among the many local taxes levied by Virginia’s localities are four excise tax
 |
 |   The local transient occupancy tax is in addition to the state 4.3 percent sales tax (5 percent in localities constituting transportation districts in Northern Virginia and Hampton Roads) and the 1 percent local option sales tax. This means that  the  combined  state  and  local  tax  rate  for  hotel-motel  stays can be very high. In a special district of Virginia Beach the  combined  rate  is  16.5  percent  (10.5  percent  transient  occupancy tax, 1 percent local option sales and use tax, and 5 percent state sales and use tax applicable for localities in Hampton Roads).
 |
-### CIGARETTE AND TOBACCO TAXES
+## CIGARETTE AND TOBACCO TAXES
 |   In fiscal year 2018, cigarette and tobacco taxes accounted for 0.9 percent of the total tax revenue collected by cities, 0.1 percent   of that collected by counties, and  2.1 percent of that collected by large towns. The very low percentage for counties is attributable to the fact that few counties levy cigarette and tobacco taxes. These  are  averages;  the  relative  importance  of  the  tax  varies  significantly among individual cities and towns. For information on individual localities, see Appendix C.
 |
 |   The  state  is  authorized  by  §  58.1-1001  of  the  Code  to  impose  an  excise  tax  of  1.5  cents  on  each  cigarette  sold  or  stored  (30  cents  on  a  pack  of  20).  Section  58.1-3830  allows for the local taxation of the sale or use of cigarettes. Cities  and  towns  are  granted  the  authority  to  levy  the  tax  under  the  “general  taxing  powers”  found  in  their  charters  (§ 58.1-3840). The right to levy the tax has been granted to only two counties by general law. Fairfax and Arlington counties may levy the cigarette tax with a maximum rate of 5 cents per pack or the amount levied under state law, whichever is greater  (§  58.1-3831).  The  two  counties  have  followed  the  state’s example and raised their taxes to 30 cents for a pack of  20. No county cigarette tax is applicable within town limits if the town’s governing body does not authorize that county to levy the tax. This restriction applies to  towns in Fairfax County, including Herndon, Vienna, and Occoquan.
@@ -54,7 +54,7 @@ Among the many local taxes levied by Virginia’s localities are four excise tax
 |
 |   The cigarette tax is in addition to the state 4.3 percent sales tax (5 percent in localities constituting transportation districts in Northern Virginia and Hampton Roads) and the 1 percent local option sales tax.
 |
-### ADMISSIONS TAX
+## ADMISSIONS TAX
 |   In fiscal  year  2018,  the  admissions  tax  accounted  for  0.4  percent  of  the  total  tax  revenue  for  cities.  Receipts  were  negligible  for  counties  and  large  towns.  These  are  averages; the relative importance of the tax varies significantly among individual localities. For information on receipts by individual localities, see Appendix C.
 |
 |   Events to which admissions are charged are classified into five groups by § 58.1-3817 of the *Code of Virginia*; they are: (1) those events from which the gross receipts go entirely to  charitable  purposes;  (2)  admissions  charged  for  events sponsored  by  public  and  private  educational  institutions;  (3) admissions charged for entry into museums, botanical or similar gardens and zoos; (4) admissions charged for sporting events; and (5) all other admissions. 
