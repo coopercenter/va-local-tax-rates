@@ -9,8 +9,7 @@ exemptions whether or not mobile homes are permanently affixed. Finally, local g
 tax relief for the elderly and disabled to dwellings that are jointly owned by individuals, not all of whom are over 65
 or totally disabled. 
 
-The text table below indicates the range and media nof the combined gross income allowance and combined
-net worth limitations for those cities, counties, and towns responding to the survey. 
+The text table below indicates the range and media nof the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
 
 
 ```r
