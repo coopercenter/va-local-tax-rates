@@ -25,8 +25,8 @@ library(tidyverse)
 ```
 
 ```{r read in va local tax rates survey results from xlsx file, include = FALSE, message=FALSE, warning=FALSE,}
-path2xl   <- here::here("data", "TR2020inputdataMain.xlsx")
-tax_rates <- readxl::read_xlsx(path = path2xl)
+#path2xl   <- here::here("data", "TR2020inputdataMain.xlsx")
+#tax_rates <- readxl::read_xlsx(path = path2xl)
 ```
 
 ```{r write function to make a table, include=FALSE}
@@ -42,16 +42,16 @@ make_table <- function(vars){
 ```
 
 ```{r table17-1, echo=FALSE}
-table_17_1_vars   <- c("ExternalDataReference", "nat_tax_coal","nat_tax_oil","nat_tax_add_gas","nat_tax_road_impr","nat_tax_min")
-table_17_1_labels <- c("Locality","Coal & Gas Severance Tax\\\n(§ 58.1-3712)","Oil Severance Tax\\\n(§ 58.1-3712.1)","Additional Gas Severance Tax\\\n(§ 58.1-3713.4)", "Coal & Gas Road Improvement Tax\\\n(§ 58.1-3713)", "Tax on Mineral Land\\\n(§ 58.1-3286)")
+#table_17_1_vars   <- c("ExternalDataReference", "nat_tax_coal","nat_tax_oil","nat_tax_add_gas","nat_tax_road_impr","nat_tax_min")
+#table_17_1_labels <- c("Locality","Coal & Gas Severance Tax\\\n(§ 58.1-3712)","Oil Severance Tax\\\n(§ 58.1-3712.1)","Additional Gas Severance Tax\\\n(§ 58.1-3713.4)", "Coal & Gas Road Improvement Tax\\\n(§ 58.1-3713)", "Tax on Mineral Land\\\n(§ 58.1-3286)")
 
-table_17_1 <- make_table(table_17_1_vars)
+#table_17_1 <- make_table(table_17_1_vars)
 
-opts <- options(knitr.kable.NA = "--")
+#opts <- options(knitr.kable.NA = "--")
 
-knitr::kable(table_17_1, 
-             caption = "Natural Resource Taxes, 2019", 
-             col.names = table_17_1_labels, 
-             align = "lccccc",
-             format = "html")
+#knitr::kable(table_17_1, 
+             #caption = "Natural Resource Taxes, 2019", 
+             #col.names = table_17_1_labels, 
+             #align = "lccccc",
+             #format = "html")
 ```
