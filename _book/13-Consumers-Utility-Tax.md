@@ -1,0 +1,33 @@
+# Consumers' Utility Tax
+
+In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the consumers’ utility tax accounted for 2.9 percent of the tax revenue collected by cities, 1.3 percent by counties and 3.6 percent by large towns. These are averages; the relative importance of the tax in individual cities, counties, and towns varies significantly. For information on individual localities, see Appendix C.
+
+The *Code of Virginia*, § 58.1-3814, authorizes localities to impose a tax on the consumers of public utilities. (This tax should not be confused with the utility license tax, a tax levied on utility providers, which is discussed in Section 11.) Residential customers of gas, water, and electric services are not to be taxed at a rate higher than 20 percent of the first \$15 of the monthly bill. Any locality that had in effect before July 1, 1972, a tax rate exceeding the current statutory ceiling may continue to tax at the previous level. There is no statutory ceiling on the tax on commercial or industrial consumers, and localities generally levy higher rates on those entities.
+
+Counties are restricted in their authority to levy a consumers’ utility tax within the limits of an incorporated town if the town itself also levies such a tax, provided the town maintains certain services. If localities wish to change rates for local consumer utility taxes, they must give 120 days notice to providers for such a rate change.
+
+In 2001, the General Assembly repealed the utility license tax on providers of gas (any type used in residences, but not if sold in portable containers) and electric power and rearranged the rate structure of the consumers’ utility tax for electricity and natural gas consumption (see § 58.1-3814). The taxes are now per kilowatt hour (kwh) of electricity used by consumers and per hundred cubic feet (ccf) of gas delivered monthly to consumers. The tax schedules and services of the provider are explained in § 58.1-2901 for electricity and § 58.1-2905 for natural gas. The maximum amount of tax that can be imposed on residential consumers as a result of either conversion is limited to \$3.00 per month, except where a higher limit already existed. According to § 58.1-3816.2 churches and religious bodies may be exempted from any or all the consumer utility taxes at the discretion of the locality.
+
+In January 2007 the Virginia communications sales and use tax was implemented and several local taxes were eliminated, including the cable television system franchise tax, the local E-911 fees on land line phone service, the business license taxes in excess of 0.5 percent gross revenues collected by several localities, the local consumer utility taxes on land line and wireless phones, and the local consumer utility tax on cable television service except where it was “grandfathered” in a few localities. These local taxes were replaced by a new *state* tax of 5 percent of the bill for the service, which is collected by the Virginia Department of Taxation and remitted to localities as non-categorical aid based on a percentage developed by the Auditor of Public Accounts from its report, *Report of State and Local Communication Service Taxes and Fees: Report on Audit for the Year Ended June 30, 2006*, and available on the web at http://www.apa.virginia.gov/APA_Reports/Reports.aspx. Refer to Section 19, “Miscellaneous Taxes,” for more on the communications sales and use tax.
+
+**Table 13.1** shows the monthly tax on electricity for residential, commercial, and industrial users. Thirty-six cities, 86 counties, and 85 towns reported having a tax on electricity in 2019. The format of charges in terms of kilowatt hours reflects the changes made in the 2001 law though some localities still use the older tax terminology. Consequently, a locality’s rate might be described in terms of dollars per kilowatt hour (e.g., \$0.005/kwh) plus some minimum price or it might be described in the older manner (e.g., 10 percent on the first \$30 of the tax bill).
+
+The consumers’ tax on gas is listed in **Table 13.2**. As with the tax on electricity, the tax on gas has been changed to reflect the elimination of the utility license tax on gas companies and the subsequent incorporation of that tax into the consumers’ utility tax. The usual format for the tax is now a given minimum, with a given tax per additional ccf (hundred cubic feet) of gas used by the consumer, up to a certain maximum amount charged. In 2019, 32 cities, 51 counties, and 44 towns reported imposing the tax on residential, commercial and industrial users.
+
+Finally, **Table 13.3** lists localities with a monthly tax on water. Sixteen cities, 2 counties, and 3 towns reported having the tax. The water tax imposes a certain percentage tax on the first given dollar amount of usage, such as 10 percent on the first \$15 of usage.
+
+The following text table summarizes the number of localities reporting these taxes.
+
+
+```r
+# table name: Consumers' Utility Tax in Localities, 2019
+```
+
+
+```r
+# Table 13.1 Utility Consumers' Monthly Tax on Electricity, 2019
+
+# Table 13.2 Utility Consumers' Monthly Tax on Gas, 2019
+
+# Table 13.3 Utility Consumers' Monthly Tax on Water, 2019
+```
