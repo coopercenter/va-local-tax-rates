@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.0.2",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "agricultural-and-forestal-districts.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "00-introduction.md": {
+      "checksum": "d0fd963d4795721d97a93f09fbb5f267"
+    },
+    "01-legislative_changes.md": {
+      "checksum": "5478c5678a7c1eeefb8e24fee297d6fa"
+    },
+    "02-real_property.md": {
+      "checksum": "bfef8a828216999afcc8cbfdba52df03"
+    },
+    "03-real_property_tax_relief.md": {
+      "checksum": "205e1f29b20fbd602daaf0fafd2a5015"
+    },
+    "04-Value_Assessments.md": {
+      "checksum": "66e3e5cca0ec7a39d5e297df51e90774"
+    },
+    "05-Agricultural_Forestal_Districts.md": {
+      "checksum": "05c02995dbc9aea706b05c36f521cf3c"
+    },
+    "06-Property_Tax_Exemptions.md": {
+      "checksum": "593531ef658e75c9b36955561719f837"
+    },
+    "07-Service-Charges.md": {
+      "checksum": "d9875c5aad6fbf4fb56c15187448fd62"
+    },
+    "08-Merchants-Capital-Tax.md": {
+      "checksum": "10aa6489142a6a325348a889b667f2c4"
+    },
+    "09-Tangible-Personal-Tax.md": {
+      "checksum": "51724a948b36262e10ecad4a69d6caf1"
+    },
+    "10-Machinery-Tools-Tax.md": {
+      "checksum": "bd0117e7f7987d5bdddcbcb3ae9e07a0"
+    },
+    "11-Utility-License-Tax.md": {
+      "checksum": "58d283e56074681abc55959944ddb0c9"
+    },
+    "12-Cable-Television-System.md": {
+      "checksum": "1eecc0b40b27a92013f87664c06288cf"
+    },
+    "13-Consumers-Utility-Tax.md": {
+      "checksum": "a27571751fcc97d99e51e4d96941f912"
+    },
+    "14-Business-Professional-Occupational.md": {
+      "checksum": "0626c2165804d6ce2ee4b84738e79ee5"
+    },
+    "15-motor-vehicle-license-tax.md": {
+      "checksum": "efd1fd6702209ec17f960f23fcaaed39"
+    },
+    "16-meals.md": {
+      "checksum": "2f888b40b0baab5bd0337bf9432490b9"
+    },
+    "17-natural-resources.md": {
+      "checksum": "ea8219ed5be47317fae01791c753ac5a"
+    },
+    "18-legal-documents.md": {
+      "checksum": "c6aa3ecd7f8c71532f9719e86b3718b3"
+    },
+    "19-misc-taxes.md": {
+      "checksum": "c7a21ab67e97ee4f5a86b2ba8000f48f"
+    },
+    "20-refuse-recycling.md": {
+      "checksum": "8e637bff5e7a776fae91159c267d61b8"
+    },
+    "21-residential-water.md": {
+      "checksum": "190f96a144e5bb6306a8dc861cf4e62f"
+    },
+    "22-impact-fees-roads.md": {
+      "checksum": "4a922822b37ff3fe16c8cd9c99414a2b"
+    },
+    "23-Public-Rights-of-Way-Use-Fees.md": {
+      "checksum": "6c2e9aa07f9a79736cfa3bd7877738ea"
+    },
+    "24-Cash-Proffers.md": {
+      "checksum": "26d0f5f805c627efffc3812685acd1e9"
+    },
+    "25-Virginia-Enterprise-Zone-Program.md": {
+      "checksum": "beded3ebf4808e47917e4e9af0e0e22b"
+    },
+    "26-Fiscal-Content-Information-on-Local-Web-Sites.md": {
+      "checksum": "b015c96fd2500829bbbc24b1afeea5d1"
+    },
+    "agricultural-and-forestal-districts.html": {
+      "checksum": "e6262b3975fdcd1c7ad076b482fafb1d"
+    },
+    "appendix-a.html": {
+      "checksum": "346a4aaac8842c6f9245ff1a8711f97f"
+    },
+    "Appendix-A.md": {
+      "checksum": "25fb313162837537cce56101ee95a7ae"
+    },
+    "appendix-b.html": {
+      "checksum": "7c07296c194c0cf04ae55a5ca01c3e55"
+    },
+    "Appendix-B.md": {
+      "checksum": "01348c4928664cc17faa5244a34dc161"
+    },
+    "appendix-c.html": {
+      "checksum": "33e5b24411750d6142e23ced4de84677"
+    },
+    "Appendix-C.md": {
+      "checksum": "722d40ae9c20bdd83ca2a74e763fe7de"
+    },
+    "appendix-d.html": {
+      "checksum": "c251a6ac7ec9c3557ca58d1efcaf3a9e"
+    },
+    "Appendix-D.md": {
+      "checksum": "42682f15c8560ae0240d4ee4de9ad648"
+    },
+    "business-professional-and-occupational-license-tax.html": {
+      "checksum": "547bed8a8560591969015c88cf181f3a"
+    },
+    "cable-television-system-franchise-tax.html": {
+      "checksum": "e6ab67498c9062815a3d5138b55ecf7c"
+    },
+    "cash-proffers-fy-2018.html": {
+      "checksum": "beef709f834a38286005ef7da0dfcf5d"
+    },
+    "consumers-utility-tax.html": {
+      "checksum": "ce1923041a5c5fa4a4a8df492f3da903"
+    },
+    "fiscal-content-information-on-local-web-sites.html": {
+      "checksum": "40e7458339a1aa514875403ff25ddcf7"
+    },
+    "impact-fees-for-roads.html": {
+      "checksum": "5ddb2b630c9c2dc4daa5105a73e73f66"
+    },
+    "index.md": {
+      "checksum": "e9dfc5aa49e1625caa3981059b7b56a9"
+    },
+    "introduction.html": {
+      "checksum": "ca274109466d0e80ce8a55a0f501e2de"
+    },
+    "land-use-value-assessments-for-agricultural-horticultural-forestal-and-open-space-real-estate.html": {
+      "checksum": "d6ee7e462cb2a9201c2e94c90a19c47f"
+    },
+    "legal-document-taxes.html": {
+      "checksum": "a764973b35161dcbef21f3d15ff7ad83"
+    },
+    "libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
+      "checksum": "b06871f281fee6b241d60582ae9369b9"
+    },
+    "libs/gitbook-2.6.7/css/plugin-bookdown.css": {
+      "checksum": "44444d0f3eb8064760ba1976976a7101"
+    },
+    "libs/gitbook-2.6.7/css/plugin-clipboard.css": {
+      "checksum": "e4a3bdc1e3d5590f47cbac67976f3961"
+    },
+    "libs/gitbook-2.6.7/css/plugin-fontsettings.css": {
+      "checksum": "76af8c23a8138a4b66aa6959ca5c3a8e"
+    },
+    "libs/gitbook-2.6.7/css/plugin-highlight.css": {
+      "checksum": "467fbe4b6b5a4b88fdd75c463f8626ec"
+    },
+    "libs/gitbook-2.6.7/css/plugin-search.css": {
+      "checksum": "0d7a6bb6a50e00c7358cf61027f099f0"
+    },
+    "libs/gitbook-2.6.7/css/plugin-table.css": {
+      "checksum": "8cb82f94ce1446fa4bafe7a3933e6c65"
+    },
+    "libs/gitbook-2.6.7/css/style.css": {
+      "checksum": "11f13a161c95d0e8257d673dc27f9251"
+    },
+    "libs/gitbook-2.6.7/js/app.min.js": {
+      "checksum": "395a8093ce46450cabfaa545a0705a3b"
+    },
+    "libs/gitbook-2.6.7/js/clipboard.min.js": {
+      "checksum": "be72101c8c16ba95fd8b69760d5ebc56"
+    },
+    "libs/gitbook-2.6.7/js/jquery.highlight.js": {
+      "checksum": "999424d32e03b9857098d2c7f53928c2"
+    },
+    "libs/gitbook-2.6.7/js/lunr.js": {
+      "checksum": "fbc747c6143aabb39b0ea7c0524b7057"
+    },
+    "libs/gitbook-2.6.7/js/plugin-bookdown.js": {
+      "checksum": "36b5487b9c1020c0de1352b8f26b8a8e"
+    },
+    "libs/gitbook-2.6.7/js/plugin-clipboard.js": {
+      "checksum": "a30f95fcd3fde10637ace1fb691b7475"
+    },
+    "libs/gitbook-2.6.7/js/plugin-fontsettings.js": {
+      "checksum": "4f57689705fdfa3eabfb7b7b92614f33"
+    },
+    "libs/gitbook-2.6.7/js/plugin-search.js": {
+      "checksum": "2d4c4d47ba34946b8ebcbe41aa522756"
+    },
+    "libs/gitbook-2.6.7/js/plugin-sharing.js": {
+      "checksum": "799a983ef24c1cbe315d020a65aa1644"
+    },
+    "libs/header-attrs-2.6/header-attrs.js": {
+      "checksum": "9c32b58ed5fd8fe2efbd5bd7023cdef0"
+    },
+    "libs/jquery-2.2.3/jquery.min.js": {
+      "checksum": "33cabfa15c1060aaa3d207c653afb1ee"
+    },
+    "machinery-and-tools-property-tax.html": {
+      "checksum": "1135f55308b891a9dc5b36be6c2f37a9"
+    },
+    "meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html": {
+      "checksum": "18be98f875738278274fe8246db5ed32"
+    },
+    "merchants-capital-tax.html": {
+      "checksum": "17ae866437d7370b31fa3cff530f8862"
+    },
+    "miscellaneous-taxes-2018.html": {
+      "checksum": "54b4715e6a9f44072f787561f6ac99d8"
+    },
+    "motor-vehicle-local-license-tax-2019.html": {
+      "checksum": "cbac5c6f96f2442e7c8f48965bb1e8ef"
+    },
+    "property-tax-exemptions-for-certain-rehabilitated-real-estate-and-miscellaneous-property-exemptions.html": {
+      "checksum": "1ecea69c7134fb5e47e54ba1626d2acb"
+    },
+    "public-rights-of-way-use-fees.html": {
+      "checksum": "4813d0774f675b7280fd820cbca23270"
+    },
+    "real-property-tax-in-2019.html": {
+      "checksum": "f166de3e2afbb3c238b8e25965035c44"
+    },
+    "real-property-tax-relief-plans-and-housing-grants-for-the-elderly-and-disabled-in-2019.html": {
+      "checksum": "92e581b89622c939d43a685e826b78f5"
+    },
+    "reference-keys.txt": {
+      "checksum": "987cbeb037eadee8ed6f8de93765aca9"
+    },
+    "refuse-and-recycling-collection-fees.html": {
+      "checksum": "0eef444a0901b5347c4bb75cafbb7ac6"
+    },
+    "residential-water-and-sewer-connection-and-usage-fees.html": {
+      "checksum": "58fe8eaabee531ee74d63fa41b73ea61"
+    },
+    "search_index.json": {
+      "checksum": "9a83ebc65b460fd2fcfa1e94dfa5b973"
+    },
+    "service-charges-on-tax-exempt-property.html": {
+      "checksum": "48daa79b71078dcddb6b27c86e6145e9"
+    },
+    "style.css": {
+      "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
+    },
+    "summary-of-legislative-changes-in-local-taxation-in-2019.html": {
+      "checksum": "7b7844d65bcfa3685b4d66b38dfb71e7"
+    },
+    "tangible-personal-property-tax.html": {
+      "checksum": "879b3d94acbc3877fce8ebf3dcd5ec8a"
+    },
+    "taxes-on-natural-resources.html": {
+      "checksum": "1d2fc5fa4db73c2fbac94ada46675e41"
+    },
+    "utility-license-tax.html": {
+      "checksum": "25f6c1954100a80b568b8a8cba8061c5"
+    },
+    "virginia-enterprise-zone-program-2018.html": {
+      "checksum": "63020a85ab67daa89d53d84fb340fa4f"
+    }
+  },
+  "users": null
+}
