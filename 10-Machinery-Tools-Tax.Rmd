@@ -29,5 +29,3 @@ The following text table, using unweighted averages, compares localities using o
 
 # Table 10.3 Machinery and Tools Tax, Number of Accounts, 2019
 ```
-
-
