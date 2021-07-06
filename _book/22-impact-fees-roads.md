@@ -20,4 +20,3 @@ The  law  permits  urban  counties  with  existing  urban  transportation  servi
 ```r
 #Table 22.1 "Impact Fees For Road Improvement, 2019" goes here
 ```
-

@@ -35,7 +35,8 @@ number <- 0
 table <- tibble ("Year" = year, "Number"=number)
 kable(table, caption = "Year Enterprise Zones (EZ) Are Scheduled to Expire")
 ```
-##### Source: Virginia Department of Housing and Community Development, Grant  Year  2018  Annual  Report:  Virginia  Enterprise  Zone  Program. Provided by the DHCD to the author.
+
+Source: Virginia Department of Housing and Community Development, Grant  Year  2018  Annual  Report:  Virginia  Enterprise  Zone  Program. Provided by the DHCD to the author.
 
 
 *The information for this section came from the Virginia Department  of  Housing  and  Community  Development.  See  http://www.dhcd.virginia.gov/index.php/business-va-assistance/startingexpanding-a-business/virginia-enterprise-zone-vez-business.html

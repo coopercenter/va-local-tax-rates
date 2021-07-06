@@ -16,6 +16,3 @@ In the latest survey 136 localities responded that they had a utility license ta
 Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percent) permitted by the law. None reported charging a greater amount. A few localities reported charging less for the telephone utility tax, including the counties of Fairfax (0.24 percent), New Kent (0.42 percent) and Prince William (0.29 percent), and the towns of Haymarket (0.1 percent), Pembroke (0.3 percent), and Urbanna (0.23 percent).
 
 
-```r
-# Table 11.1 Utility License Tax, 2019
-```

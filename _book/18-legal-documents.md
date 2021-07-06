@@ -22,4 +22,3 @@
 
 #Table 18.1 "Legal Document Taxes, 2019" goes here
 ```
-

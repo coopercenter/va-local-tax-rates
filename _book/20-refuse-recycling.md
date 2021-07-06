@@ -2,7 +2,7 @@
 
 Many Virginia localities collect, or authorize to have collected,  refuse  and  recycled  materials.  In  its  survey,  the  Cooper Center inquired into the methods and fees for the collection  of  refuse  and  recycled  materials.  The  answers  are provided in four tables covering regular refuse pick up, tipping fees, recycling, and pickup of miscellaneous refuse items.
 
-### REFUSE COLLECTION
+## REFUSE COLLECTION
 
 **Table 20.1** shows information reported on refuse collection by all 38 cities, and by 24 counties and 101 towns. The table contains information on frequency of collection, collection fees  and  private  contracting.  There  are  three  methods  of  operation.  Some  Virginia  localities  levy  a  specific  refuse collection service fee for the costs of collection. Others pay for collection costs with general tax revenues. Finally, some localities provide no service; instead, they leave refuse collection to private contractors. 
 
@@ -17,7 +17,7 @@ Regarding  fees,  32  cities,  13  counties,  and  62  towns  reported  imposing
 
 **Table 20.2** shows tipping fees charged by various localities  to  dump  trash  at  landfills  and  waste  transfer  stations.  Localities  reporting  imposing  such  fees  included  9  cities,  34 counties, and 7 towns.
 
-### RECYCLING PROGRAMS
+## RECYCLING PROGRAMS
 
 **Table 20.3** provides data on localities that have instituted recycling  programs.  As  with  refuse  collection,  these  programs may be financed in a variety of ways. Many localities pick  up  recyclables  and  then  finance  the  collection  with  a  service  charge.  Other  localities  contract  with  a  private  firm. **Table 20.3** shows which localities offer collection of recyclables and which contract for collection with a private firm. It also shows the monthly fees associated with collecting recyclables.
 

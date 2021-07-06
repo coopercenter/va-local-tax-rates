@@ -11,7 +11,7 @@ The partial exemption from property taxation may be an amount equal to a percent
 
 **Table 6.1** contains information about the 32 cities, 21 counties, and 9 responding towns that have adopted a rehabilitation ordinance. The table also includes the minimum age requirement, the exemption schedule, and the percentage increase in assessed value required for exemption.
 
-### MISCELLANEOUS PROPERTY EXEMPTIONS
+## MISCELLANEOUS PROPERTY EXEMPTIONS
 
 Certain miscellaneous property tax exemptions are authorized in the *Code* from § 58.1-3660 and § 58.1-3666. Most exemptions pertain to real property, but several include both real and personal property items as part of their categories. Few localities reported authorizing these exemptions. For instance, in the latest survey no locality reportedly allowed exemptions for erosion control improvements (§ 58.1-3665). 
 
@@ -19,29 +19,29 @@ However, a small number of localities did report exempting property such as (1) 
 
 Survey information for miscellaneous property exemptions is shown in **Table 6.2**. The contents of the table are summarized following this text discussion of the various exemptions. 
 
-### Environmental Restoration Site
+## Environmental Restoration Site
 
 Any county, city or town may grant exemption or partial exemption from local taxation on certified environmental restoration sites. Section 58.1-3664 lists the requirements to qualify for this exemption as: “...real estate which contains or did contain environmental contamination from the release of hazardous substances, hazardous wastes, solid waste or petroleum, the restoration of which would abate or prevent pollution to the atmosphere or waters of the Commonwealth and which (i) is subject to voluntary remediation pursuant to § 10.1-1232 and (ii) receives a certificate of continued eligibility from the Virginia Waste Management Board during each year which it qualifies for the tax treatment described in this section.”
 
-### Recycling and Solar Energy Equipment 
+## Recycling and Solar Energy Equipment 
 
 A similar exemption or partial exemption is authorized by § 58.1-3661 for certified recycling equipment, facilities or devices and certified solar energy equipment, facilities or devices. Certified recycling items are defined as machinery and equipment certified by the Department of Waste Management as integral to the recycling process and for use primarily for the purpose of abating and/or preventing pollution of the atmosphere or water.
 
 Certified solar energy items are defined as any property, including real and personal property, equipment, facilities or devices which collect or use solar energy for water heating, space heating or cooling, or other applications which would otherwise require a conventional source of energy such as petroleum products, natural gas, or electricity.
 
-### Generating Equipment
+## Generating Equipment
 
 Generating equipment installed after 1974 for the purpose of converting from oil or natural gas to coal or to wood, wood bark, wood residue, or to any other alternate energy source for manufacturing and any co-generating equipment installed since that date to be used in manufacturing may be classified separately for property taxation. According to § 58.1-3662, localities may adopt an ordinance authorizing exemption or partial exemption for generating and co-generating equipment used for energy conservation. The ordinance becomes effective on January 1 of the year following the year of adoption.
 
-### Stormwater Management Developments
+## Stormwater Management Developments
 
 According to § 58.1-3660.1, certified stormwater management developments may be classified separately for property tax purposes. Such property is classified as “any real estate improvements constructed from permeable material, such as, but not limited to, roads, parking lots, patios, and driveways, which are otherwise constructed of impermeable materials, and which the Department of Conservation and Recreation has certified to be designed, constructed, or reconstructed for the primary purpose of abating or preventing pollution of the atmosphere or waters ... by minimizing stormwater runoff.”
 
-### Wetlands and Riparian Buffers
+## Wetlands and Riparian Buffers
 
 Wetlands and riparian buffers are considered a separate classification of property subject to perpetual easement according to requirements established in § 58.1-3666. A wetland is defined as an area “... inundated or saturated by surface or ground water at a frequency or duration sufficient to support, and that under normal conditions does support, a prevalence of vegetation typically adapted for life in saturated soil conditions, and that is subject to a perpetual easement permitting inundation by water.” A riparian buffer is an area “... of trees, shrubs or other vegetation, subject to a perpetual easement permitting inundation by water, that is (i) at least thirty-five feet in width, (ii) adjacent to a body of water, and (iii) managed to maintain the integrity of stream channels and shorelines and reduce the effects of upland sources of pollution by trapping filtering, and converting sediments, nutrients, and other chemicals.”
 
-### Summary of Miscellaneous Exemptions
+## Summary of Miscellaneous Exemptions
 
 The exemptions applying to property used for environmental restoration, recycling, solar energy, energy conservation, stormwater development, and wetlands and riparian buffers are summarized in Table 6.2. One town and 1 city reported an exemption for an environmental site. Eight cities and 7 counties reported exempting recycling equipment and facilities. Eleven cities and 17 counties reported exempting solar energy equipment and facilities. One city and 2 counties reported exempting generating equipment used for energy conservation purposes. Two cities, 3 counties and 2 towns reported exempting certified stormwater development property. Finally, 2 cities, 1 county, and 1 town reported an exemption for wetlands and riparian buffers.
 
