@@ -14,16 +14,38 @@ In the latest survey 136 localities responded that they had a utility license ta
 
 Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percent) permitted by the law. None reported charging a greater amount. A few localities reported charging less for the telephone utility tax, including the counties of Fairfax (0.24 percent), New Kent (0.42 percent) and Prince William (0.29 percent), and the towns of Haymarket (0.1 percent), Pembroke (0.3 percent), and Urbanna (0.23 percent).
 
-```{r make Table 11-1, echo=FALSE}
-# table_17_1_vars   <- c("ExternalDataReference", )
-# table_17_1_labels <- c("Locality","Telephone","Water")
 
-# table_11_1 <- make_table(table_11_1_vars)
+```{r load packages, message=FALSE, echo=FALSE}
+library(tidyverse)
+```
+
+```{r read in va local tax rates survey results from xlsx file, include = FALSE, message=FALSE, warning=FALSE,}
+path2xl   <- here::here("data", "TR2020inputdataMain.xlsx")
+tax_rates <- readxl::read_xlsx(path = path2xl)
+```
+
+```{r write function to make a table, include=FALSE}
+make_table <- function(vars){
+  tax_rates %>% 
+    select(all_of(vars)) %>%
+    # arrange(ExternalDataReference) %>%
+    distinct() -> new_table
+  
+  return(new_table)
+}
+```
+
+```{r make Table 11-1, echo=FALSE}
+table_11_1_vars   <- c("ExternalDataReference","utl_cie_tel","utl_cie_water")
+table_11_1_labels <- c("Locality","Telephone","Water")
+
+table_11_1 <- make_table(table_11_1_vars)
 
 opts <- options(knitr.kable.NA = "--")
-# knitr::kable(table_11_1, 
-#             caption = "xxx Table, 2019", 
-#             col.names = table_11_1_labels, 
-#             align = "lccccc",
-#             format = "html")
+ knitr::kable(table_11_1, 
+             caption = "Utility License Tax Table, 2019", 
+             col.names = table_11_1_labels, 
+             align = "lccccc",
+             format = "html")
+
 ```
