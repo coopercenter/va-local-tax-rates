@@ -35,17 +35,18 @@ make_table <- function(vars){
 }
 ```
 
-```{r make Table 11-1, echo=FALSE}
+```{r Table11-1, echo=FALSE}
 table_11_1_vars   <- c("ExternalDataReference","utl_cie_tel","utl_cie_water")
 table_11_1_labels <- c("Locality","Telephone","Water")
 
 table_11_1 <- make_table(table_11_1_vars)
 
 opts <- options(knitr.kable.NA = "--")
- knitr::kable(table_11_1, 
+
+knitr::kable(table_11_1, 
              caption = "Utility License Tax Table, 2019", 
              col.names = table_11_1_labels, 
-             align = "lccccc",
+             align = "lcc",
              format = "html")
 
 ```
