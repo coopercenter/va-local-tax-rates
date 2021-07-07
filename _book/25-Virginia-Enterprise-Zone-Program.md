@@ -1,0 +1,37 @@
+# Virginia Enterprise Zone Program 2018
+
+## INTRODUCTION
+This  section  on  the  Virginia  Enterprise  Zone  Program  is  included because of its relevance to local taxation. Along with  state  grants,  local  enterprise  zones  (EZ)  receive  tax  breaks  and  other  incentives  from  local  governments  that  must  be  in  accordance  with  state  and  local  tax  law.  The  program  is  administered  by  the  Virginia  Department  of  Housing  and  Community  Development  (VDHCD).  Each  year VDHCD produces a summary report about the enterprise zone program. The current report, Virginia Enterprise Zone Program Grant Year 2018 Annual Report, has not yet been added to the web. The description that follows is based on that report.
+
+## PURPOSE FOR THE PROGRAM
+The Virginia Enterprise Zone Program was created in 1982 to form a partnership between state and local governments to stimulate job creation, private investment, and revitalization of distressed Virginia localities. The act focused on state and local tax credits to help areas designated as enterprise zones. Cities and counties that applied for, and were granted the designation, were able to receive tax credits for businesses situated  in  the  zones.  Currently,  there  are  46  designated  enterprise zones in Virginia.
+
+In  2005  the  General  Assembly  passed  the  Enterprise  Zone  Grant  Act  (§  59.1-538),  modifying  the  program  to  transition from tax credits to grants. A zone will receive an initial ten-year designation period, with two five-year renewals possible (§ 59.1-542.E). In addition, the number of zones will be reduced to 30 as many of the older zones expire.
+
+The program is meant to target areas which have the greatest need and in which the greatest impact will be made. Consequently, the ranking of applications requires that 50 percent of an application’s suitability rest on a given measure of local economic distress. The application ranks the locality over the most recent three-year period for its average unemployment  rate,  its  average  median  adjusted  gross  income  on all returns, and the average percentage of public school students receiving free or reduced-price lunches.
+
+Only  cities  and  counties  can  apply  for  the  zone  designation  (§  59.1-542).  Towns  are  considered  part  of  the  county  acreage.  Cities  and  counties  can  jointly  apply  for  designation, provided that the proposed zone meets program standards. A locality can choose to put a zone where it best fits local economic development needs. There may be three zones per locality and each zone may be composed of three non-contiguous areas.
+
+## PROGRAM GRANTS 
+There  are  two  grants  associated  with  the  program:  job  creation grants and real property investment grants. Job creation grants are supposed to encourage the creation of higher quality jobs (§ 59.1-547). If a business within the zone meets a certain job creation threshold, provides health benefits and pays at least 175 percent of the federal minimum wage for the positions under consideration, it can receive a grant of up to \$500 per year for each position. A business that meets all the above conditions and pays at least 200 percent of the federal minimum wage can receive up to $800 per year for each position.
+
+Real property investment grants are meant to encourage creation or renovation of facilities within the enterprise zone (§  59.1-548).  The  grants  may  be  applied  to  commercial,  industrial or mixed-use buildings, paying up to 20 percent of the cost of qualifying real property. For property investments of less than \$5 million, grants of up to \$100,000 per building or facility are available for qualifying real property. For  property  investments  of  \$5  million  or  more,  grants  may  reach  $200,000  for  qualifying  property.  Qualifying  real  property  generally  includes  costs  associated  with  the  physical preparation and physical items such as excavation, grading, paving, driveways, roads, sidewalks, demolition, painting, sheetrock, carpentry and more. Costs that do not qualify  include  those  for  furnishings,  appraisal,  legal  services, closing services, insurance and more.
+
+## LOCAL INCENTIVES
+In addition to the state grants are the incentives provided by  localities to businesses within enterprise zones. A locality may offer any incentive as long as it is permissible under federal and state law and as long as it is applied uniformly within the zone (§ 59.1-543). Incentives may include reduced property taxes, both real and personal, within the zone, partial exemptions for rehabilitated real estate within the zone, reduced permit and user fees, and more.
+
+The current edition of Tax Rates does not carry a table listing  the  local  incentives  in  enterprise  zones  for  2018  because  the  information  is  provided  in  the  appendix  of  VDHCD’s annual report. The following text table lists the years in which the current zones are scheduled to expire. 
+
+
+
+
+Table: (\#tab:unnamed-chunk-2)Year Enterprise Zones (EZ) Are Scheduled to Expire
+
+| Year| Number|
+|----:|------:|
+|    0|      0|
+
+Source: Virginia Department of Housing and Community Development, Grant  Year  2018  Annual  Report:  Virginia  Enterprise  Zone  Program. Provided by the DHCD to the author.
+
+
+*The information for this section came from the Virginia Department  of  Housing  and  Community  Development.  See  http://www.dhcd.virginia.gov/index.php/business-va-assistance/startingexpanding-a-business/virginia-enterprise-zone-vez-business.html

@@ -3,7 +3,7 @@
 ## General Provisions
 
 ### Local License Tax on Mobile Food Units
-Senate Bill 1425 (Chapter 791) provides that when the owner of a new business that operates a mobile food unit has paid a license tax as required by the locality in which the mobile food unit is registered, the owner is not required to pay a license tax to any other locality for conducting business from such mobile food unit in such a locality.$^1$
+Senate Bill 1425 (Chapter 791) provides that when the owner of a new business that operates a mobile food unit has paid a license tax as required by the locality in which the mobile food unit is registered, the owner is not required to pay a license tax to any other locality for conducting business from such mobile food unit in such a locality.[^0]
 
 This  exemption  from  paying  the  license  tax  in  other  localities expires two years after the payment of the initial license tax in the locality in which the mobile food unit is registered. During the two year exemption period, the owner is  entitled  to  exempt  up  to  three  mobile  food  units  from  license taxation in other localities. However, the owner of the mobile food unit is required to register with the Commissioner  of  the  Revenue  or  Director  of  Finance  in  any  locality  in  which  he  conducts  business  from  such  mobile  food unit, regardless of whether the owner is exempt from paying license tax in the locality.
      
@@ -134,6 +134,4 @@ Effective: July 1, 2019
 Amended: §§ 58.1-1101 and 58.1-1103
 
 
-----------------------------------------------------------------------------------------------------------
-
-$^1$  Excerpted from the local tax legislation section of the Department of Taxation’s 2019 Legislative Summary. Minor changes were made in format and punctuation. See https://tax.virginia.gov/legislative-sum-mary-reports
+[^0]:  Excerpted from the local tax legislation section of the Department of Taxation’s 2019 Legislative Summary. Minor changes were made in format and punctuation. See https://tax.virginia.gov/legislative-sum-mary-reports

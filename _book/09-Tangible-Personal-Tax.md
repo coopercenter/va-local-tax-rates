@@ -1,0 +1,201 @@
+# Tangible Personal Property Tax
+
+The personal property tax is the second most important source of tax revenue for cities and counties, though it is not as important for towns. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the personal property tax accounted for 10.7 percent of tax revenue for cities, 14.6 percent for counties, and 4.5 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns may vary significantly. For information on individual localities, see Appendix C.
+
+Cities, counties, and towns are permitted to tax the tangible personal property of businesses and individuals pursuant to the *Code of Virginia*, §§ 58.1-3500 through 58.1-3521. Included in this category are such items as motor vehicles, business furniture and fixtures, farming equipment, trailers, boats, recreational vehicles, and campers.
+
+Localities may elect to prorate the taxes on motor vehicles, trailers, and boats which have acquired a situs within a locality after the tax day for the balance of the tax year. The proration must be on a monthly basis with a period of more than a half a month counted as a full month and a period of less than half a month not counted (§ 58.1-3516).
+
+Under § 58.1-3504, localities may elect to exempt household goods and personal effects from taxation; these effects may now include personal electronic and communication devices such as cell phones, tablets, and personal home computers. Under § 58.1-3505, localities may also exempt certain farm animals, products, and machinery. In addition, according to § 58.1-3506, the following categories are segregated as separate classes of tangible personal property under the condition that the tax rate on these items may not exceed that levied on other classifications of tangible personal property: boats or watercraft weighing five tons or more; privately owned pleasure boats and watercraft used for recreational purposes only; certain aircraft; antique automobiles; certain heavy construction machinery; certain computer hardware; motor vehicles specially equipped to provide transportation for physically handicapped individuals; privately owned vans with a seating capacity for twelve or more used exclusively for a ride-sharing arrangement; motor vehicles owned by a nonprofit organization and used to deliver meals to homebound persons or to provide transportation for senior or handicapped citizens; privately owned camping trailers and motor homes, as defined in § 46.2-100, which are used for recreational purposes only; and motor vehicles owned by members or auxiliary members of a volunteer rescue squad or volunteer fire department. Section 58.1-3506 provides for the segregation of motor vehicles owned or leased by a motor carrier into a separate classification of personal property. In addition, vehicles that use clean special fuels as authorized by § 46.2-749.3, which include hydrogen, natural gas, and electricity, are also treated as a separate tangible personal property category. In 2014, a separate classification was added for new business property for businesses qualifying as new businesses under the local business incentive program.
+
+The *Code of Virginia* provides that all vehicles without motor power that are used or designed to be used as mobile homes are segregated as separate classes of tangible personal property. This is conditional upon the assessment ratio and the tax being the same as those applicable to real property [§ 58.1-3506, Subsection A.8., and § 58.1-3506, Clause (iii), Subsection B].
+
+In addition, tangible personal property used in research and development of businesses and certain energy conversion equipment used in manufacturing are segregated as separate classes of tangible personal property. This is conditional upon the assessment ratio and the tax not exceeding that applicable to machinery and tools [§ 58.1-3506 Clause (ii), Subsection B]. For more on the machinery and tools tax, see Section 10.
+
+In addition to the property discussed in this section, the *Code* lists several special categories of property which are exempt from real *and* personal property taxes (see § 58.1- 3660 through § 58.1-3666). These categories are discussed in Section 6 under the heading, “Miscellaneous Property Exemptions,” and are listed in Table 6.2.
+
+## INFORMATION ON PERSONAL PROPERTY TAX
+
+**Table 9.1** provides information related to the personal property tax, including the number of personal property accounts within a locality, the personal property tax rate, whether localities have special levies, property tax due dates, effective dates of assessment, options for payment of the personal property tax, and categories of vehicles for which proration is offered. In the survey, one city (Chesapeake) and one county (Accomack) reported some kind of special district levy. Regarding collections, 23 cities, 64 counties, and 88 towns reported collecting the tax once a year, while 15 cities, 31 counties, and 11 towns reported collecting it at least semi-annually. The most common due dates for payment of the tax are June 5 and December 5. Also, localities predominantly indicated January 1 as the effective date of assessment. Of the localities that reported imposing a personal property tax, 18 cities, 57 counties, and 19 towns offered options for the payment of the tax. The most common payment alternative provided by local governments is the option for taxpayers to prepay their balance at any time during the calendar year before the due date. The due date terms apply to all types of vehicles for all but 10 localities that answered the question.
+
+Finally, 24 cities, 37 counties and 16 towns reported offering proration of the personal property tax on specific or all categories of motor vehicles. Though the term “motor vehicle” applies to all automotive vehicles with rubber tires for use on roadways, many localities use different definitions. For more detailed definitions of the categories for which proration is offered, please use the telephone/email listings in Appendix B to contact individual localities.
+
+**Table 9.2** contains information on personal property tax exemptions for the elderly and disabled. The survey indicated that 13 cities, 45 counties, and 4 towns permitted some sort of exemption for the elderly or the disabled constrained by specific income and net worth limits.
+
+## MOTOR VEHICLE TAX
+
+Historically, the most important tangible personal property category has been motor vehicles. This tax is often called the “car tax” even though it covers sport utility vehicles (SUVs), pickup and panel trucks, large trucks, minivans, and motorcycles as well. In the survey, localities were asked to provide the percentage of personal property taxes coming from motor vehicles in fiscal year 2019. The unweighted average percentages for cities, counties and towns were 68 percent, 66 percent, and 74 percent, respectively. It is possible that some localities misunderstood the question about this topic and incorrectly counted state Personal Property Tax Relief Act (PPTRA) reimbursements as part of a local tax instead of as non-categorical state aid.
+
+The Personal Property Tax Relief Act of 1998 (§ 58.1-3524) established a system by which the state would reimburse localities for relief on the tangible personal property tax.[^1] Passenger cars, pickup or panel trucks, and motorcycles owned or leased by natural persons and used for non-business purposes were to have the tax eliminated on the first \$20,000 of value over a five year period. Twelve and one-half percent of the tax was to be eliminated in tax year 1998, 27.5 percent in tax year 1999, 47.5 percent in tax year 2000 and 70 percent in tax year 2001. One hundred percent was slated to be eliminated in tax year 2002 and thereafter, but this final step was not implemented due to Virginia’s budget crisis in that period. Instead, in 2002, the General Assembly froze the reimbursement rate at 70 percent. Then, a special session of the General Assembly determined that the state would freeze what it was giving to localities at \$950 million annually. Beginning tax year 2006, each locality’s percentage share from the state distribution is based upon its actual share of the state reimbursements from tax year 2005. Each locality receiving a state reimbursement must reduce its rate on the first $20,000 value so that the sum of local tax revenue and state reimbursement to the locality approximates what the locality would have received based on the local valuation method and the local tax rate before the car tax rebate became law.
+
+Vehicle assessed values are based on published market guides. For valuation of automobiles, all localities use the National Automobile Dealers’ Association’s *Official Used Car Guide* (NADA) as their *primary* valuation guide for cars and sport utility vehicles. When a vehicle is not listed in the primary guide, the locality obtains values from some other source. All cities and counties in Virginia levy this tax on motor vehicles.
+
+Any comparison of personal property tax rates across localities is misleading if differences in the source of assessment value are not considered. Thus, the effective tax rates must be standardized by the assessment valuation method employed by a locality. To do this, an adjusted effective tax rate was calculated for each locality based on the NADA retail value of a 2018 Toyota Camry LE four-door sedan with a four-cylinder engine. In recent years, the Camry has been the best selling car in the U.S. The base data, summarized in the text table below, were obtained from NADA’s *Official Used Car Guide*.
+
+
+```r
+# table name: NADA Value, 2018 Toyota Camry, January 2019
+```
+
+The adjusted effective tax rate is found by multiplying the statutory tax rate by the percent of retail value and the assessment ratio. For those localities using the retail value and assessing at 100 percent, the statutory and effective tax rates are the same. The text table below summarizes the dispersion of the effective tax rates among localities.
+
+In regard to individual localities, the adjusted effective rate for cities ranged from \$1.76 (Galax) to \$4.64 (Alexandria, Falls Church). The adjusted effective rate for counties ranged from \$0.30 (Bath) to \$4.35 (Greensville) and, in towns, ranged from \$0.04 (Eastville) to \$3.53 (Chatham). The much lower town rates reflect their limited fiscal responsibilities as subordinate units of government within counties. The town tax is in addition to the county tax.
+
+
+```r
+# table name: Adjusted Effective Tax Rates Among Localities, 2019
+```
+
+Besides the adjusted effective tax rate, **Table 9.3** also provides data on the tax rate, assessment value concept, the percent of retail value, the assessment ratio, percentage of personal property tax receipts from automobiles and light trucks, and the number of automobiles and light trucks within a locality. Among the cities that answered the question, the number of vehicles ranged from 429,645 in Virginia Beach to 3,040 in Norton. Among counties, the number ranged from 994,469 in Fairfax to 3,050 in Highland.
+
+The assessment value is important because it provides an estimate of the percent of retail value the locality will assign to the vehicle when determining the effective tax rate. The assessment value used varies among localities. Care must be taken when evaluating the data based on the three valuation methods listed because a valuation method may have subcategories. The latest NADA book, for instance, lists three categories for trade-in value based on condition: rough, average, and clean. Other valuation guides may use some variant of this breakdown for the retail and loan value categories. This year and in past years our example listed the percentages based on clean retail, clean loan value, and clean trade-in.
+
+The following text table shows the frequency of each valuation method among localities. Since many towns use the same concept as their respective counties, a tally is not shown for them.
+
+
+```r
+# table name: Frequency of Valuation Methods, 2019
+```
+
+Localities incorporate an assessment ratio in the valuation process. Most cities and counties use a 100 percent ratio of whatever value concept they adopt. The following text table summarizes the dispersion of assessment ratios.
+
+Information on tax rates of towns that did not respond to the survey can be found in the Virginia
+
+
+```r
+# table name: Dispersion of Assessment Ratios, 2019
+```
+
+Department of Taxation’s local tax rates survey for tax year 2018.[^2] The rates shown are the most recent information available for towns that did not respond to the Cooper Center survey.
+
+**Table 9.4** continues with data related to the PPTRA for motor vehicles for tax years 2018 and 2019. The second column lists whether the locality offers exemptions for low-value automobiles and light trucks. Twenty-one cities, 49 counties and 25 towns reported offering an exemption of some sort to low-value vehicles. The third column refers to methods for applying PPTRA tax relief. A locality can use one of three methods: a reduced rate method (RR), a specific relief method that provides the same percentage of relief for all qualifying vehicles (SRSP), and a specific relief method that provides a declining percentage of relief as the vehicle’s value rises (SRDP). The text table below summarizes the choices by all cities, 93 counties and the 66 towns that answered the question.
+
+
+```r
+# table name: Frequency of PPTRA Methods of Relief, 2019
+```
+
+Localities overwhelmingly use the specific relief method that provides the same percentage of relief for all qualifying vehicles. We assume the reporting towns use the same method as is used by the counties in which they are located.
+
+The final set of columns provides data on the taxpayer liability for a vehicle assessed at \$20,000. What constitutes a \$20,000 vehicle in one locality may not match what constitutes a \$20,000 vehicle in another locality because of the differing valuation methods and assessment ratios used by the localities. Tax year 2019 is featured in the text table. The columns in Table 9.4 provide the locality’s total car tax, the amount of the state credit, and the resulting taxpayer liability for 2018 and 2019. In some cases we were not given the tax on a vehicle, but were provided the percentage share covered by the tax, the credit, and the taxpayer liability. In such cases only the percentage is listed. The text table below summarizes the percentage of state aid reported by cities and counties.
+
+
+```r
+# table name: Dispersion of State-Aid Assessment Ratios, 2019
+```
+
+For the $20,000 vehicle example, a lower percentage implies a higher resulting taxpayer liability relative to the total tax levied by a locality. Most cities provided a state credit between 50 percent and 60 percent of their total tax levied. The median state credit among cities in 2019 was 51.0 percent of the total tax, while the first quartile was 46.8 percent and the third quartile was 53.9 percent. Among counties the largest group reported the credit as a percentage of the total tax as between 20 percent and 49.9 percent. The median percentage of the taxpayer credit was 39.2 percent, with the first and third quartiles being 34.6 percent and 50.0 percent, respectively.
+
+While the state credit for many localities usually diminishes each year, it is possible to have a greater state credit percentage for a current survey than for a previous one. Because the state payout to each locality is fixed, and the number and value of vehicles normally rise, it is generally assumed that as time passes the funding will decrease for each automobile. That expectation, however, does not account for either a possible disinflationary trend in the automobile market during a recession or a possible fall in the number of motor vehicles in the locality. In either of these cases a locality may be able to increase its payout percentage for each automobile within the locality.
+
+The next text table summarizes the range of actual taxes for cities and counties based on the information from 2019. It summarizes the total tax, state credit and resulting taxpayer liability for those localities that provided dollar amounts. The measures of central tendency (the median and quartiles) do not include localities that did not answer.
+
+As shown in the text table, 29 cities reported levying a tax between \$501 and \$1,000 before the PPTRA credit was factored in, while 1 reported levying taxes of \$1,001 or more and 4 reported levying taxes of \$500 or less. The median tax levied for all cities was \$808. Most PPTRA credits, 22 of the 34 reported, were between \$251 and \$500. The median credit was \$389. Most of the resulting taxpayer liabilities in cities were also between \$251 and \$500, with the median at \$399. 
+
+Among counties, original tax liabilities ranged from \$251 to over \$1,000. The median of the tax was \$720. Most counties gave credits in the \$251 to \$500 range, though about one-third provided a credit in the \$0 to \$250 range. The median credit among counties was \$274. Thirty-nine counties collected between \$251 and \$500 after the PPTRA
+
+
+```r
+# table name: Total Tax, State Credit and Tax Liability for a $20,000 Vehicle in Cities and Counties, 2019
+```
+
+tax credit was figured in. For counties, the median taxpayer liability after allowing for the credit was \$437.
+
+**Table 9.5** lists localities that report giving a reduction in the personal property tax for high-mileage vehicles. This is permitted by § 58.1-3503.3, which states that the commissioner of the revenue, using an automobile pricing guide, may “use all applicable adjustments in such guide to determine the value of each individual automobile.” Many guides allow for adjustments in value for high- or low-mileage vehicles. Thirty-four cities, 73 counties, and 23 towns reported reduced valuations for high-mileage vehicles. Certain localities that reported giving such reductions also told us they couldn’t really ascertain the number of beneficiaries or foregone revenue because the software they used to determine valuation didn’t break down adjustments for them. Therefore, for some localities, though they responded that they had the reduction, they could not provide information about beneficiaries or foregone revenue.
+
+Based on localities that did respond for both questions on beneficiaries and foregone revenues, there were a total of 9,605 beneficiaries of the high-mileage adjustment in cities, with the amount of revenue foregone totaling \$563,465. Among localities that provided both number of beneficiaries and revenues foregone, this amounted to an average reduction per beneficiary of \$58.66. In counties, the number of beneficiaries of the adjustment reported was 30,341. The amount of foregone revenue reported was \$1,313,558. The average reduction per beneficiary for those reporting both figures was \$43.29. 
+
+**Table 9.6** compares the tax rates and assessment components of the car tax between 1997, the year before $^the PPTRA went into effect, and 2019. The table provides information on localities that have raised their personal property taxes on motor vehicles since the beginning of the PPTRA.
+
+When the PPTRA became law, some saw it as the beginning of the end of the “car tax.” However, as reimbursements rose and the state’s fiscal condition worsened, the commonwealth decided to limit the rollback. As previously noted, now each locality is annually given a lump sum by the state that is applied to each resident’s total property tax. The state reimbursements are based on 1997 effective rates as provided by the PPTRA. Any increase in the effective rate consequent to the 1997 rate is not covered by the PPTRA reimbursement from the state.[^3]
+
+Making certain assumptions about the assessment value concept (which will be discussed below), it appears that large majorities of cities and counties have increased their effective rates since 1997. Twenty-eight cities and 78 counties increased them. The assumption made here is that the value assessment concepts follow a clear path of valuation. In NADA’s *Official Used Car Guide*, for instance, the lowest valuation is applied to loan value, a higher valuation is applied to trade-in value, and the highest valuation is applied to retail value. This is the hierarchy one would expect to see when comparing average measures of loan, trade-in, and retail value, or clean measures of loan, trade-in, and retail value. A problem arises, however, with those valuations that maintain subcategories. NADA’s multiple trade-in values, based on condition of vehicles, as discussed earlier, have not been tracked as separate categories. Therefore, we can’t be sure whether certain localities have changed subcategories. Consequently, historical adjustments within this valuation cannot be determined from the table.
+
+**Table 9.7** gives the pricing guide, the value used, the tax rate, and the depreciation schedule, if any, for large trucks, two tons and over. Answers were provided by all cities and counties and 75 of the responding towns.
+
+## OTHER PERSONAL PROPERTY TAXES 
+
+As previously noted, tangible personal property taxes are not limited to motor vehicles. There are about 20 categories in addition to motor vehicles, ranging from farm equipment to recreational vehicles and mobile homes (the general categories can be found from § 58.1-3504 through § 58.1- 3506). Household goods are a legal category, but no locality reports taxing them.
+
+Localities exhibit a wide variation in their choices of valuation methods, pricing guides, and depreciation methods. Consequently, great care must be exercised when comparing taxes in different jurisdictions. Unless otherwise stated, the valuation method for the depreciation schedules is original cost.
+
+A further problem pertains to towns. Certain towns provided a tax rate without showing a basis or depreciation schedule. In a follow-up for a previous survey, we called several towns in an attempt to elicit more information. Generally, a town representative confirmed the rate existed, but told us the county determined the actual depreciation schedule. The county representative confirmed that the county determined the town’s depreciation schedule but added that if the county did not tax a particular item, there was no schedule. Therefore the town could not collect any taxes for that item.
+
+**Table 9.8** displays tangible personal property taxes on heavy tools and machinery, computers, and generating equipment for business use for cities, counties and 48 reporting towns. The text table below summarizes how many localities report a tax rate for each category.
+
+
+```r
+# table name: Taxes on Heavy Tools and Machinery, Computer Hardware, and Generating Equipment, 2019
+```
+
+**Table 9.9** displays tax rates on research and development, business furniture and fixtures, and biotechnology equipment for cities, counties and 46 respondent towns. The text table below shows how many localities report a tax rate for each category.
+
+
+```r
+# table name: Taxes on Research and Development, Furniture and Fixtures, and Biotechnology, 2019
+```
+
+**Table 9.10** displays tax rates on computer hardware in data centers, farm equipment, and livestock for cities, counties and 17 respondent towns. The text table below shows how many localities report a tax rate for each category.
+
+
+```r
+# table name: Taxes on Computer Hardware in Data Centers, Livestock, and Farm Equipment, 2019
+```
+
+**Table 9.11** displays tax rates on boats and aircraft for cities, counties, and 53 respondent towns. The text table below shows how many localities report a tax rate for each category.
+
+
+```r
+# table name: Taxes on Boats Over Five Tons, Pleasure Boats, and Aircraft, 2019
+```
+
+**Table 9.12** displays tax rates on antique motor vehicles, recreational vehicles, and mobile homes for cities, counties, and 66 respondent towns. The text table below shows how many localities report a tax rate in each category.
+
+
+```r
+# table name: Taxes on Antique Motor Vehicles, Recreational Vehicles, and Mobile Homes, 2019
+```
+
+**Table 9.13** displays tax rates on horse trailers, motor vehicles powered solely by an electric motor, and special clean fuel vehicles (hydrogen, natural gas, electric) used for driving for cities, counties, and 29 respondent towns. The text table below shows how many localities reported a tax rate in each category.
+
+
+```r
+# table name: Taxes on Horse Trailers, Special Fuel Vehicles, and Electric Vehicles, 2019
+```
+
+
+```r
+# Table 9.1 Tangible Personal Property Tax General Information, 2019
+
+# Table 9.2 Tangible Personal Property Tax Relief for Elderly and Disabled, 2019
+
+# Table 9.3 Tangible Personal Property Tax for Automobiles and Trucks of Less than Two Tons, 2019
+
+# Table 9.4 Personal Property Tax Relief Act for Motor Vehicles State Credit for $20,000 Vehicle, 2018 and 2019
+
+# Table 9.5 Localities That Report Having a Personal Property Tax Reduction for High Mileage Vehicles, 2018 or 2019
+
+# Table 9.6 Assessment Component Changes in Cities and Counties from 1997, When PPTRA Went into Effect, to 2019
+
+# Table 9.7 Tangible Personal Property Tax Rates for Large Trucks Two Tons and Over, 2019
+
+# Table 9.8 Tangible Personal Property Taxes Related to Business Use for Heavy Tools and Machinery, Computer Hardware, and Generating Equipment, 2019
+
+# Table 9.9 Tangible Personal Property Taxes Related to Business Use for Research and Development, Furniture and Fixtures, and Biotechnology Equipment, 2019
+
+# Table 9.10 Tangible Personal Property Taxes for Computer Hardware in Data Centers, Livestock, and Farm Equipment, 2019
+
+# Table 9.11 Tangible Personal Property Taxes for Boats and Aircraft, 2019
+
+# Table 9.12 Tangible Personal Property Taxes for Antique Motor Vehicles, Recreational Vehicles, and Mobile Homes, 2019
+
+# Table 9.13 Tangible Personal Property Taxes Related to Horse Trailers, Special Fuel Vehicles, and Electric Vehicles, 2019
+```
+
+[^1]: This history of the PPTRA and the subsequent discussion of its impact on the state since it was instituted is based on “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31. http://www.via.vt.edu/winter06/index.html
+
+[^2]: http://www.tax.virginia.gov/content/local-tax-rates
+
+[^3]: See “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31.
+http://www.via.vt.edu/winter06/index.html
+

@@ -1,0 +1,26 @@
+# Residential Water and Sewer Connection and Usage Fees
+
+The Code of Virginia § 15.2-2122 authorizes sewer connection fees to finance changes in a sewer system that improve public health. Localities may establish, construct, improve, enlarge, operate, and maintain a sewage disposal system with all that is necessary for the operation of such system. The terms under which the locality can charge a fee are defined in § 15.2-2119. In most cases, the information in this section does not include fees of service districts that are separate from local governments.  For further information about these fees, refer to the Draper Aden Associates report, The 31st Annual Virginia Water and Wastewater Rate Report, 2019, found at http://www.daa.com/resources/ 
+
+## CONNECTION FEES
+In this survey, we asked for the standard charges to connect  a  locality’s  pipelines  to  a  residence.  The  question  applies  only  to  residential  buildings,  including  single-family  homes,  townhouses,  apartment  buildings,  and  mobile  homes.  We  asked  for  the  combined  fees,  so  the  amount should include connection fees, availability fees, service charges, and any other fee charged by a locality.Connection  fees  for  nonresidential  structures  were  not  surveyed because of their complexity.
+
+**Table  21.1**  provides  the  water  and  sewer  connection  fees for the 25 cities, 48 counties, and 90 towns that reported imposing them. Fee schedules used by localities differ, but in general, charges apply to mains, valves, and meters that are installed by the locality. When an owner or developer installs all of the necessary equipment, the charge is generally waived. The following text table lists the unweighted mean, median, and first and third quartiles for connection fees for single-family housing for cities and counties. 
+
+
+```r
+#Text table "Residential Water and Sewer Combined Connection Fees for Cities and Counties, 2019" goes here 
+#Will probably want to split it up by cities and counties as the original has done
+```
+
+## USAGE FEES
+**Table 21.2** lists water and sewer usage fees for 36 cities, 54 counties, and 98 towns. The fees are often multitiered with the first several thousand gallons charged at a higher unit rate and the remaining amount at a lower basis. However, the opposite charging method, a multi-tiered system with the first usage charged at a lower rate than later usage, is also used. 
+
+For localities that responded with a single fee and not a schedule, it is assumed that the fee listed applies to the standard residential connection, even though no information on meter size was available. If you have questions concerning responses given in this table, please contact the appropriate water  and  sewer  department  or  authority  in  the  locality  or  visit their web site if applicable. 
+
+
+```r
+#Table 21.1 "Residential Water and Sewer Connection Fees, 2019" goes here
+
+#Table 21.2 "User Fees for Residential Water and Sewer, 2019"
+```
