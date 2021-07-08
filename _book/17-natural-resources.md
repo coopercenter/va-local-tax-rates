@@ -19,10 +19,6 @@
 |
 |   The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund  to  be  called  the  Coal  and  Gas  Road  Improvement Fund of the particular county or city where the  tax  is  collected.  In  addition,  “the  county  may  also,  in  its discretion, elect to improve city or town roads with its funds  if  consent  of  the  city  or  town  council  is  obtained.”  One-half  of  the  revenue  paid  to  this  fund  may  be  used  for  the  purpose  of  funding  the  construction  of  new  water  systems  and  lines  in  areas  of  insufficient  natural  supply  of water. Those same funds may also be used to improve existing water and sewer systems. Localities are required to develop and ratify an annual funding plan for such projects. Under § 58.1-3713.1, 20 percent of the funds collected in Wise County are distributed to the six incorporated towns within  the  county’s  boundaries  (Appalachia,  Big  Stone Gap,  Coeburn,  Pound,  Saint  Paul,  and  Wise)  and  the  city  of  Norton.  The  distribution  is  determined  as  follows:  (a)  25  percent  is  divided  among  the  incorporated  towns  and  the city of Norton based on the number of registered motor vehicles  in  each  town  and  the  city  of  Norton,  and  (b)  75  percent is divided equally among the towns and the city of Norton.  The  Coal  and  Gas  Road  Improvement  Advisory  Committee in the city of Norton and county must develop a  plan  before  July  1  of  each  year  for  road  improvements for the following fiscal year. For localities in the Virginia Coalfield  Economic  Development  Authority  (Lee,  Wise,  Scott, Buchanan, Russell, Tazewell, and Dickenson counties and the city of Norton), the receipts from this tax are distributed  as  follows:  three-fourths  to  the  Coal  and  Gas  Road  Improvement  Fund  and  one-fourth  to  the  Virginia  Coalfield Economic Development Fund. The purpose of this fund is to enhance the economic base for the seven counties and one city in the authority. 
 
------
-
-
-
 
 
 
