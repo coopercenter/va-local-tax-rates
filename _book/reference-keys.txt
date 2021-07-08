@@ -2,6 +2,8 @@ tab:unnamed-chunk-2
 tab:unnamed-chunk-3
 tab:Table11-1
 tab:table17-1
+tab:table20-2
+tab:table20-3
 summary-of-legislative-changes-in-local-taxation-in-2019
 general-provisions
 local-license-tax-on-mobile-food-units
