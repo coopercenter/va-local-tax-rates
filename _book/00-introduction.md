@@ -1,7 +1,7 @@
 # Introduction {-}
 
 ## Foreward  {-}
-This  is  the  thirty-eighth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns.[^1] The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Depart-ment of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
+This  is  the  thirty-eighth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns.[^index-1] The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Department of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
 
 
 ## Organization of the Book {-}
@@ -82,7 +82,7 @@ There are three major reasons why local governments do  not  to  impose  some  t
 
 ## Partnership with LexisNexis {-}
 
-The Weldon Cooper Center for Public Service is partner-ing  with  the  publisher  LexisNexis  to  produce  the  annual  Tax  Rates  books.  The  Cooper  Center  still  prepares  and  distributes the survey and writes up the results. LexisNexis  publishes the book and fulfi  lls orders from interested parties. This arrangement allows us to concentrate on providing the most accurate and up-to-date information about Virginia tax rates  and  leverages  LexisNexis’  considerable  expertise  in  production and distribution of the annual volume. We hope the arrangement will lead to continued improvements in our Virginia Local Tax Rates series. 
+The Weldon Cooper Center for Public Service is partner-ing  with  the  publisher  LexisNexis  to  produce  the  annual  Tax  Rates  books.  The  Cooper  Center  still  prepares  and  distributes the survey and writes up the results. LexisNexis  publishes the book and fulfi  lls orders from interested parties. This arrangement allows us to concentrate on providing the most accurate and up-to-date information about Virginia tax rates  and  leverages  LexisNexis’ considerable  expertise  in  production and distribution of the annual volume. We hope the arrangement will lead to continued improvements in our Virginia Local Tax Rates series. 
 
 ## Study Personnel {-}
 
@@ -112,5 +112,5 @@ February 2020
 
 
 
-[^1]: Locality  population  figures are based on estimates developed by the [Demographics Research Group of the Weldon Cooper Center for Public Service](https://demographics.coopercenter.org). See Appendix D.
+[^index-1]: Locality  population  figures are based on estimates developed by the [Demographics Research Group of the Weldon Cooper Center for Public Service](https://demographics.coopercenter.org). See Appendix D.
 
