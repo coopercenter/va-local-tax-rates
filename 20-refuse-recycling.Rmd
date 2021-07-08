@@ -30,11 +30,54 @@ Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns re
 
 For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere from \$1.33 to $16.50 per month.
 
+```{r load packages, message=FALSE, echo=FALSE}
+library(tidyverse)
+```
+
+```{r read in va local tax rates survey results from xlsx file, include = FALSE, message=FALSE, warning=FALSE,}
+path2xl   <- here::here("data", "TR2020inputdataMain.xlsx")
+tax_rates <- readxl::read_xlsx(path = path2xl)
+```
+
+```{r write function to make a table, include=FALSE}
+make_table <- function(vars){
+  tax_rates %>% 
+    select(all_of(vars)) %>%
+    # arrange(ExternalDataReference) %>%
+    distinct() -> new_table
+  
+  return(new_table)
+}
+```
+
 ```{r}
 #Table 20.1 "Refuse Collection Fees, 2019" goes here, formatting TBD
+```
 
-#Table 20.2 "Refuse Collection Tipping Fees, 2019", goes here, formatting TBD
+```{r table20-2, echo=FALSE}
+table_20_2_vars   <- c("ExternalDataReference","RCC_tipping_fees")
+table_20_2_labels <- c("Locality","Tipping Fee")
 
-#Table 20.3 "Recycling Collection Fees, 2019", goes here, formatting TBD
+table_20_2 <- make_table(table_20_2_vars)
 
+opts <- options(knitr.kable.NA = "--")
+ knitr::kable(table_20_2, 
+             caption = "Refuse Collection Tipping Fees Table, 2019", 
+             col.names = table_20_2_labels, 
+             align = "lc",
+             format = "html")
+```
+
+```{r table20-3, echo=FALSE}
+table_20_3_vars   <- c("ExternalDataReference","RCC_rec_serv_type","RCC_rec_charge_fee")
+table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
+
+table_20_3 <- make_table(table_20_3_vars)
+
+opts <- options(knitr.kable.NA = "--")
+ knitr::kable(table_20_3, 
+             caption = "Recycling Collection Fees Table, 2019", 
+             col.names = table_20_3_labels, 
+             align = "lcc",
+             format = "html")
 ```
