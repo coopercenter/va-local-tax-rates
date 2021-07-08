@@ -19,9 +19,6 @@ Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percen
 
 
 
-
-
-
 <table>
 <caption>(\#tab:Table11-1)Utility License Tax Table, 2019</caption>
  <thead>

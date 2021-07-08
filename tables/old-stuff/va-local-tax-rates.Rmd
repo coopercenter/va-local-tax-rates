@@ -1,0 +1,102 @@
+---
+title: "Virginia Local Tax Rates"
+output:
+  html_document: default
+  pdf_document: default
+editor_options:
+  chunk_output_type: inline
+---
+```{r, setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message=FALSE, cache = FALSE, fig.width = 8)
+```
+
+
+```{r , message=FALSE, echo=FALSE}
+# install.packages("qualtRics")
+library(tidyverse)
+library(qualtRics)
+```
+
+
+# Section 17: Taxes on Natural Resources, 2019
+
+```{r read in va local tax rates survey results from csv file, message=FALSE, warning=FALSE, eval=FALSE}
+# # path <- here::here("raw_data", "2021-04-14-CCPS_Tax_Rates.xlsx")
+# path2csv <- "/Users/Arthur/OneDrive - University of Virginia/CCPS/va-local-tax-rates/raw_data/CCPS Tax Rates_April 19, 2021_10.44.csv"
+# 
+# tax_rates <- qualtRics::read_survey(path2csv)
+```
+
+```{r read in va local tax rates survey results from Qualtrics, include=FALSE}
+all_surveys() %>%
+  filter(name == "CCPS Tax Rates - Copy") %>%
+  pull(id) -> va_tax_rates_survey_id
+
+fetch_survey(va_tax_rates_survey_id, force_request = TRUE) -> va_tax_rates_survey
+
+nrow(va_tax_rates_survey)
+```
+
+
+```{r create data mapping}
+extract_colmap(tax_rates) %>% select(qname : ImportId) -> colmap
+```
+
+
+```{r }
+colmap %>% 
+  filter(str_detect(qname, "nat_tax") & qname != "nat_tax_cmt") %>% 
+  pull(qname) -> nat_tax_qnames
+
+display_names_tbl <- tibble(qname = c("ExternalReference",nat_tax_qnames),
+                       display_name = c("Locality",
+                                        "Tax on Mineral Land\n(§ 58.1-3286)",
+                                        "Oil Severance Tax\n(§ 58.1-3712.1)",
+                                        "Coal & Gas Severance Tax\n(§ 58.1-3712)",
+                                        "Coal & Gas Road Improvement Tax\n(§ 58.1-3713)",
+                                        "Additional Gas Severance Tax\n(§ 58.1-3713.4)"))
+
+# colmap %>% left_join(display_names_tbl, by = "qname") -> colmap
+
+tax_rates %>% 
+  select(ExternalReference, all_of(nat_tax_qnames)) %>%
+  filter(!is.na(ExternalReference)) %>%
+  arrange(ExternalReference) %>%
+  distinct() %>%
+  select(ExternalReference, nat_tax_coal, nat_tax_oil,nat_tax_add_gas, nat_tax_road_impr,nat_tax_min) -> table_17_1_raw
+
+# table_17_1_raw %>%
+#   rename("Locality" = ExternalReference, 
+#          "Coal & Gas Severance Tax\n(§ 58.1-3712)" = nat_tax_coal,
+#          "Oil Severance Tax\n(§ 58.1-3712.1)" = nat_tax_oil,
+#          "Additional Gas Severance Tax\n(§ 58.1-3713.4)" = nat_tax_add_gas,
+#          "Coal & Gas Road Improvement Tax\n(§ 58.1-3713)" = nat_tax_road_impr,
+#          "Tax on Mineral Land\n(§ 58.1-3286)" = nat_tax_min) -> table_17_1
+
+table_17_1_raw %>%
+  rename("Locality" = ExternalReference, 
+         "Coal & Gas Severance Tax" = nat_tax_coal,
+         "Oil Severance Tax" = nat_tax_oil,
+         "Additional Gas Severance Tax" = nat_tax_add_gas,
+         "Coal & Gas Road Improvement Tax" = nat_tax_road_impr,
+         "Tax on Mineral Land" = nat_tax_min) -> table_17_1
+
+# colmap %>% 
+#   inner_join(display_names_tbl, by = "qname") %>%
+#   filter(qname %in% (table_17_1_raw %>% colnames())) %>%
+#   pull(qname) %>%
+#   match(., (table_17_1_raw %>% colnames())) -> ord
+#                   
+# display_names_tbl$display_name[ord]                  
+
+```
+
+
+
+```{r}
+opts <- options(knitr.kable.NA = "--")
+# inner_join(colmap, display_names_tbl, by = "qname")
+
+knitr::kable(table_17_1, caption = "Natural Resource Taxes, 2019",align = "lccccc")
+```
+
