@@ -44,6 +44,22 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> Buena Vista City </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> Yes </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Norton City </td>
+   <td style="text-align:center;"> 1.0 </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> -- </td>
+   <td style="text-align:center;"> 1.0 </td>
+   <td style="text-align:center;"> Yes </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Amherst County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -265,22 +281,6 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> 1 </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Yes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Buena Vista City </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Yes </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Norton City </td>
-   <td style="text-align:center;"> 1.0 </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> Yes </td>
   </tr>
 </tbody>

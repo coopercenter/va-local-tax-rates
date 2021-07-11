@@ -218,10 +218,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="15" data-path="motor-vehicle-local-license-tax-2019.html"><a href="motor-vehicle-local-license-tax-2019.html"><i class="fa fa-check"></i><b>15</b> Motor Vehicle Local License Tax 2019</a></li>
 <li class="chapter" data-level="16" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><i class="fa fa-check"></i><b>16</b> Meals, Transient Occupancy, Cigarettes, Tobacco, and Admissions Excise Taxes</a>
 <ul>
-<li class="chapter" data-level="16.1" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#meals-tax"><i class="fa fa-check"></i><b>16.1</b> MEALS TAX</a></li>
-<li class="chapter" data-level="16.2" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#transient-occupancy-tax"><i class="fa fa-check"></i><b>16.2</b> TRANSIENT OCCUPANCY TAX</a></li>
-<li class="chapter" data-level="16.3" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#cigarette-and-tobacco-taxes"><i class="fa fa-check"></i><b>16.3</b> CIGARETTE AND TOBACCO TAXES</a></li>
-<li class="chapter" data-level="16.4" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#admissions-tax"><i class="fa fa-check"></i><b>16.4</b> ADMISSIONS TAX</a></li>
+<li class="chapter" data-level="16.1" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#transient-occupancy-tax"><i class="fa fa-check"></i><b>16.1</b> TRANSIENT OCCUPANCY TAX</a></li>
+<li class="chapter" data-level="16.2" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#cigarette-and-tobacco-taxes"><i class="fa fa-check"></i><b>16.2</b> CIGARETTE AND TOBACCO TAXES</a></li>
+<li class="chapter" data-level="16.3" data-path="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html"><a href="meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes.html#admissions-tax"><i class="fa fa-check"></i><b>16.3</b> ADMISSIONS TAX</a></li>
 </ul></li>
 <li class="chapter" data-level="17" data-path="taxes-on-natural-resources.html"><a href="taxes-on-natural-resources.html"><i class="fa fa-check"></i><b>17</b> Taxes on Natural Resources</a>
 <ul>
@@ -290,7 +289,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>On January 2007 the Virginia Communications Sales and Use Tax Act eliminated several local taxes, including the cable television system franchise tax (§ 15.2.2108), the local E-911 fees on land-line phone service, the business license taxes in excess of 0.5 percent gross revenues collected by several localities, the local consumer utility taxes on land line and wireless phones, the video programming excise tax (§ 58.1.3818.1), and the local consumer utility tax on cable television service which had been “grandfathered” in a few localities. These local taxes were replaced by a new state tax of 5 percent of the sales price of the service, which is collected by the Virginia Department of Taxation and remitted to localities as non-categorical state aid based on a percentage developed by the Auditor of Public Accounts in its report, <em>Report of State and Local Communication Service Taxes and Fees: Report on Audit for the Year Ended June 30, 2006</em>, and available on the web at <a href="http://www.apa.virginia.gov/APA_Reports/Reports.aspx" class="uri">http://www.apa.virginia.gov/APA_Reports/Reports.aspx</a>. Refer to Section 19, “Miscellaneous Taxes,” for more on the communications sales and use tax.</p>
 <p>The cable television system franchise tax still exists in those localities with current contracts with cable operators. When those contracts expire, the localities will revert to the requirements of the state tax.</p>
 <p><strong>Table 12.1</strong> presents the localities with franchise fee contracts that extend to the end of 2019 and beyond. It includes the current franchise fee charged by the locality, whether the locality has multiple cable providers, and whether the locality authorizes a BPOL tax on the cable franchisee. Seven cities reported having contract clauses that extended to 2019 or beyond, as did 6 counties and 9 towns. The median of the fees for all localities was 5 percent. Thirty-four localities indicated that they had multiple cable providers.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="sec-cable-tv.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Table 12.1 Cable Television System Tax, 2019</span></span></code></pre></div>
+<div class="sourceCode" id="cb36"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb36-1"><a href="sec-cable-tv.html#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Table 12.1 Cable Television System Tax, 2019</span></span></code></pre></div>
 
 </div>
             </section>
@@ -349,6 +348,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

@@ -33,6 +33,156 @@ Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percen
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;"> Alexandria City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Buena Vista City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Charlottesville City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Chesapeake City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Covington City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Emporia City </td>
+   <td style="text-align:center;"> 20.00 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Fairfax City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Franklin City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Fredericksburg City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Galax City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hampton City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Harrisonburg City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hopewell City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lexington City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lynchburg City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Manassas Park City </td>
+   <td style="text-align:center;"> 0.05 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Martinsville City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Newport News City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Norfolk City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Norton City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Poquoson City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Portsmouth City </td>
+   <td style="text-align:center;"> 0.05 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Richmond City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Roanoke City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Salem City </td>
+   <td style="text-align:center;"> 0.05 </td>
+   <td style="text-align:center;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Staunton City </td>
+   <td style="text-align:center;"> 0.05 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Suffolk City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Virginia Beach City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Waynesboro City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Winchester City </td>
+   <td style="text-align:center;"> 0.50 </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Accomack County </td>
    <td style="text-align:center;"> 0.50 </td>
    <td style="text-align:center;"> 0.50 </td>
@@ -251,156 +401,6 @@ Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percen
    <td style="text-align:left;"> York County </td>
    <td style="text-align:center;"> 0.50 </td>
    <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Alexandria City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Buena Vista City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Charlottesville City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Chesapeake City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Covington City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Emporia City </td>
-   <td style="text-align:center;"> 20.00 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Fairfax City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Franklin City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Galax City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Hampton City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Harrisonburg City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Hopewell City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Lexington City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Lynchburg City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Manassas Park City </td>
-   <td style="text-align:center;"> 0.05 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Martinsville City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Newport News City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Norfolk City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Norton City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Poquoson City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Portsmouth City </td>
-   <td style="text-align:center;"> 0.05 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Richmond City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Roanoke City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> 0.05 </td>
-   <td style="text-align:center;"> 0.05 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Staunton City </td>
-   <td style="text-align:center;"> 0.05 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Suffolk City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Virginia Beach City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> 0.50 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Waynesboro City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Winchester City </td>
-   <td style="text-align:center;"> 0.50 </td>
-   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Abingdon Town </td>
