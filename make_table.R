@@ -19,6 +19,7 @@ tax_rates_raw %>%
   arrange(locality_type_ID, locality_name) %>% 
   relocate(ExternalDataReference, locality_name, locality_type, locality_type_ID, locality_group) -> tax_rates
 
+reference_vars <- c("ExternalDataReference", "locality_name", "locality_type", "locality_type_ID", "locality_group")
 
 # function to make a table
 make_table <- function(vars){
