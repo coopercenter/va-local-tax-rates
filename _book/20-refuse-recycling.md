@@ -635,6 +635,10 @@ Container Size
    <td style="text-align:center;"> 60.00/ton </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Belle Haven Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Berryville Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -649,6 +653,10 @@ Container Size
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
    <td style="text-align:center;"> no </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bloxom Town </td>
+   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bluefield Town </td>
@@ -671,11 +679,19 @@ Container Size
    <td style="text-align:center;"> 60 </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Branchville Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Bridgewater Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Broadway Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Brodnax Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -687,8 +703,16 @@ Container Size
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Burkeville Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Cape Charles Town </td>
    <td style="text-align:center;"> Collection rates vary based on item location and frequency. </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Capron Town </td>
+   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Charlotte Court House Town </td>
@@ -700,6 +724,10 @@ Container Size
   </tr>
   <tr>
    <td style="text-align:left;"> Chatham Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cheriton Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -724,7 +752,15 @@ Container Size
    <td style="text-align:center;"> 40.00 per ton </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Clifton Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Clifton Forge Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Clinchco Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -757,6 +793,10 @@ Container Size
   </tr>
   <tr>
    <td style="text-align:left;"> Dayton Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dendron Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -808,6 +848,10 @@ Container Size
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Fries Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Front Royal Town </td>
    <td style="text-align:center;"> 58.00 monthly for once weekly pickup and 116.00 for twice weekly pickup </td>
   </tr>
@@ -846,6 +890,10 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Halifax Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Hamilton Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -859,6 +907,10 @@ Business - 25.00/mo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Herndon Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hillsboro Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -878,7 +930,23 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Iron Gate Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Irvington Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Ivor Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jarratt Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Keller Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -930,7 +998,15 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> McKenney Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Middleburg Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Middletown Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -958,6 +1034,10 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Newsoms Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Nickelsville Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -970,11 +1050,31 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Onley Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Orange Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Pennington Gap Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Phenix Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Pocahontas Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Port Royal Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Pound Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -990,7 +1090,15 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> 0 </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Rich Creek Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Richlands Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ridgeway Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -1011,6 +1119,14 @@ Business - 25.00/mo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Saltville Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Saxis Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Scottsburg Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -1066,6 +1182,10 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Troutville Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Urbanna Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -1102,6 +1222,18 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Washington Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Waverly Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Weber City Town </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> West Point Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -1119,138 +1251,6 @@ Business - 25.00/mo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wytheville Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Belle Haven Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Bloxom Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Branchville Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Brodnax Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Burkeville Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Capron Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cheriton Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Clifton Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Clinchco Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Dendron Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Fries Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Halifax Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Hillsboro Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Iron Gate Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Irvington Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Jarratt Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Keller Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> McKenney Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Middletown Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Newsoms Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Onley Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pennington Gap Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pocahontas Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Port Royal Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pound Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Rich Creek Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ridgeway Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Saxis Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Scottsburg Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Troutville Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Washington Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Waverly Town </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Weber City Town </td>
    <td style="text-align:center;"> -- </td>
   </tr>
 </tbody>
@@ -1977,6 +1977,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Belle Haven Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Berryville Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -1994,6 +1999,11 @@ Business - 25.00/mo </td>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
    <td style="text-align:center;"> Directly </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Bloxom Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -2022,6 +2032,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Branchville Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Bridgewater Town </td>
    <td style="text-align:center;"> Directly </td>
    <td style="text-align:center;"> 4.82/mo. </td>
@@ -2029,6 +2044,11 @@ Business - 25.00/mo </td>
   <tr>
    <td style="text-align:left;"> Broadway Town </td>
    <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Brodnax Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -2042,7 +2062,17 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Burkeville Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Cape Charles Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Capron Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -2058,6 +2088,11 @@ Business - 25.00/mo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Chatham Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Cheriton Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -2087,8 +2122,18 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Clifton Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Clifton Forge Town </td>
    <td style="text-align:center;"> Contracted </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Clinchco Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -2130,6 +2175,11 @@ Business - 25.00/mo </td>
    <td style="text-align:left;"> Dayton Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> Included in monthly refuse fee </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Dendron Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Dillwyn Town </td>
@@ -2192,6 +2242,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Fries Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Front Royal Town </td>
    <td style="text-align:center;"> Directly </td>
    <td style="text-align:center;"> included in refuse collection charge </td>
@@ -2237,6 +2292,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Halifax Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Hamilton Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -2255,6 +2315,11 @@ Business - 25.00/mo </td>
    <td style="text-align:left;"> Herndon Town </td>
    <td style="text-align:center;"> Directly </td>
    <td style="text-align:center;"> 16 annually through 6/30/19 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Hillsboro Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hillsville Town </td>
@@ -2277,8 +2342,28 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Iron Gate Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Irvington Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Ivor Town </td>
    <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Jarratt Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Keller Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -2342,8 +2427,18 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> McKenney Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Middleburg Town </td>
    <td style="text-align:center;"> Contracted </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Middletown Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -2377,6 +2472,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Newsoms Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Nickelsville Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
@@ -2392,12 +2492,37 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Onley Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Orange Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Pennington Gap Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Phenix Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Pocahontas Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Port Royal Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Pound Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -2417,7 +2542,17 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Rich Creek Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Richlands Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Ridgeway Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -2443,6 +2578,16 @@ Business - 25.00/mo </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Saltville Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Saxis Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Scottsburg Town </td>
    <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -2512,6 +2657,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Troutville Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Urbanna Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -2557,6 +2707,21 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Washington Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Waverly Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Weber City Town </td>
+   <td style="text-align:center;"> Not Applicable </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> West Point Town </td>
    <td style="text-align:center;"> Directly </td>
    <td style="text-align:center;"> -- </td>
@@ -2579,171 +2744,6 @@ Business - 25.00/mo </td>
   <tr>
    <td style="text-align:left;"> Wytheville Town </td>
    <td style="text-align:center;"> Directly </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Belle Haven Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Bloxom Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Branchville Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Brodnax Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Burkeville Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Capron Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Cheriton Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Clifton Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Clinchco Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Dendron Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Fries Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Halifax Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Hillsboro Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Iron Gate Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Irvington Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Jarratt Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Keller Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> McKenney Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Middletown Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Newsoms Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Onley Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pennington Gap Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pocahontas Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Port Royal Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Pound Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Rich Creek Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ridgeway Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Saxis Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Scottsburg Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Troutville Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Washington Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Waverly Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
-   <td style="text-align:center;"> -- </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Weber City Town </td>
-   <td style="text-align:center;"> Not Applicable </td>
    <td style="text-align:center;"> -- </td>
   </tr>
 </tbody>

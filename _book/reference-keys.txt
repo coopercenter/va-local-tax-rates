@@ -89,8 +89,7 @@ purpose-for-the-program
 program-grants
 local-incentives
 fiscal-content-information-on-local-web-sites
-appendix-a
 tax-rates-questionnaire
-appendix-b
-appendix-c
-appendix-d
+list-of-respondents-and-non-respondents
+percentage-share-of-total-local-taxes-from-specific-sources-fy-2018
+population-estimates-for-virginias-cities-counties-and-towns-july-1-2018
