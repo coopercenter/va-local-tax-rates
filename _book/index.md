@@ -5,7 +5,7 @@ author:   "Stephen C. Kulp, Weldon Cooper Center for Public Service, University 
 date:     "2021"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: book.bib
+bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Information for All Cities and Counties and Selected Incorporated Towns"
@@ -17,8 +17,8 @@ description: "Information for All Cities and Counties and Selected Incorporated 
 # Introduction {-}
 
 ## Foreward  {-}
-This  is  the  thirty-eighth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns.[^index-1] The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Department of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
 
+This  is  the  thirty-eighth  edition  of  the  Cooper  Center’s  annual publication about the tax rates of Virginia’s local governments. In addition to information about tax rates, the publication contains details about tax administration, valuation methods, and due dates. There is also information on water and sewer rates, waste disposal charges and numerous other aspects  of  local  government  finance. This comprehensive guide to local taxes is based on information gathered in the spring, summer, and early fall of  2019. The study includes all of Virginia’s 38 independent cities and 95 counties and 118 of the 190 incorporated towns. The included towns account for 92 percent of the Commonwealth’s population in towns.[^index-1] The  study  also  contains  information  from  several  outside  sources, including two Department of Taxation studies, 2019 Legislative Summary and The 2017 Assessment/Sales Ratio Study, as well as Department of Taxation information on the assessed value of real estate by type of property. We also used the Auditor of Public Accounts’ Comparative Report of Local Government Revenues and Expenditures, Year Ended June 30, 2018, the Commission on Local Governments’ Report on Proffered Cash Payments and Expenditures by Virginia’s Counties,  Cities  and  Towns,  2017-2018,  and  the  Department of Housing and Community Development’s Virginia Enterprise Zone Program 2018 Grant Year Annual Report.
 
 ## Organization of the Book {-}
 
@@ -66,7 +66,7 @@ Table: (\#tab:unnamed-chunk-2)Sources of Virginia Local Government Tax Revenue, 
 |Merchants' Capital                  |     $14,301,188|       0.08|
 |Penalties and interest              |    $128,130,305|       0.71|
 
-There are six localities where the real property tax is not  dominant.  Bath  and  Surry  counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes  that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the [least populous independent city in Virginia](https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/)  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
+There are six localities where the real property tax is not dominant. Bath and Surry counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the [least populous independent city in Virginia](https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/)  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
 
 Thirty-six cities (two cities–Hopewell and Petersburg–did  not  provide  information  for  the  2018  Comparative Report)  and 95 counties imposed four of the taxes shown in  the  previous  table—the  real  property  tax,  the  personal  property tax, the local option sales and use tax, and the public service corporation property tax. Most, but not all, localities imposed recordation and will taxes, consumer utility taxes, motor  vehicle  license  taxes,  and  taxes  on  manufacturers’  machinery and tools. Nonetheless, as shown in the next text table, there are a number of taxes, a few of them signifi cant sources  of  revenue,  which  are  not  levied  by  all  localities.  Also,  some  of  the  taxes  are  used  so  sparingly  that  their  revenue yield is very low.
 
@@ -106,9 +106,15 @@ Stephen  C.  Kulp,  Research  Specialist  at  the  Center  for  Economic and Pol
  
 The strong support for this publication by the Virginia Association of Counties and the Virginia Municipal League helps ensure our continued efforts to provide this resource as a basic reference on Virginia local taxes.
 
+
+## About the Online Edition {-}
+
+This online edition of the *Virginia Local Tax Rates* survey report was developed by Arthur Small, Principal Scientist in the Weldon Cooper Center, with capable assistance from intern Anne Bader of Grinnell College.
+
+
 ## Final Comments {-}
 
-The Cooper Center is grateful to the many local officials throughout  the  commonwealth  who  supplied  the  survey information  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. 
+The Cooper Center is grateful to the many local officials throughout the Commonwealth who  supplied  the  survey information  presented  in  this  study.  Their  willingness  to  provide information and their patience in answering follow-up questions is what makes this book successful. The high response rates could not have been achieved without their cooperation. 
 
 <!-- Corrections to the text or suggestions for possible changes or additions to future editions can be made using the email address and phone number listed below. -->
 
@@ -129,5 +135,7 @@ February 2020
 
 
 [^index-1]: Locality  population  figures are based on estimates developed by the [Demographics Research Group of the Weldon Cooper Center for Public Service](https://demographics.coopercenter.org). See Appendix D.
+
+
 
 
