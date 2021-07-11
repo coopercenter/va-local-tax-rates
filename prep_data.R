@@ -22,11 +22,10 @@ tax_rates_raw %>%
 reference_vars <- c("ExternalDataReference", "locality_name", "locality_type", "locality_type_ID", "locality_group")
 
 # function to make a table
-make_table <- function(vars){
+make_long_table <- function(ref_vars, data_vars){
   tax_rates %>% 
-    select(all_of(vars)) %>%
-    # arrange(ExternalDataReference) %>%
-    distinct() -> new_table
+    select(all_of(ref_vars), all_of(data_vars)) %>%
+    filter(!across(all_of(data_vars), is.na)) -> new_table
   
   return(new_table)
 }

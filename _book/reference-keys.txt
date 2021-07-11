@@ -1,5 +1,6 @@
 tab:unnamed-chunk-2
 tab:unnamed-chunk-3
+tab:unnamed-chunk-1
 tab:Table11-1
 tab:table17-1
 tab:table20-2
@@ -55,7 +56,7 @@ motor-vehicle-tax
 other-personal-property-taxes
 machinery-and-tools-property-tax
 utility-license-tax
-cable-television-system-franchise-tax
+sec:cable-tv
 consumers-utility-tax
 business-professional-and-occupational-license-tax
 motor-vehicle-local-license-tax-2019
@@ -91,5 +92,5 @@ local-incentives
 fiscal-content-information-on-local-web-sites
 tax-rates-questionnaire
 list-of-respondents-and-non-respondents
-percentage-share-of-total-local-taxes-from-specific-sources-fy-2018
+secAppendixC
 population-estimates-for-virginias-cities-counties-and-towns-july-1-2018
