@@ -28,8 +28,32 @@ A majority of the localities that impose the merchants’ capital tax compute th
 
 All reporting towns used the inventory tax component. None reported imposing a short-term rental tax. Amherst, Timberville and Pembroke reported imposing the rental vehicle tax.
 
-```{r}
-# Table 8.1 Merchants' Capital Tax, Basic Features, 2019
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
 
-# Table 8.2 Merchants' Capital Tax Provisions Concerning Taxation of Inventories, Rental Vehicles, and Short-Term Rentals, 2019
+```{r table08-1, echo=FALSE}
+table_08_1_vars   <- c("ExternalDataReference","merch_assmt_meth", "merch_date_oth", "merch_rate", "merch_assmt", "merch_assmt_pc")
+table_08_1_labels <- c("Locality","Assessment Source","Valuation Date","Statutory (Nominal) Tax Rate (per $100)","Assessment Method*","Assessment Percentage (%)")
+
+table_08_1 <- make_table(table_08_1_vars)
+
+knitr::kable(table_20_2, 
+             caption = "Merchants' Capital Tax, Basic Features, 2019", 
+             col.names = table_08_1_labels, 
+             align = "lccccc",
+             format = "html")
+```
+
+```{r table08-2, echo=FALSE}
+table_08_2_vars   <- c("ExternalDataReference","","","")
+table_08_2_labels <- c("Locality","Inventory Tax","Rental Vehicle Tax", "Short-Term Rental Tax")
+
+table_08_2 <- make_table(table_08_2_vars)
+
+knitr::kable(table_08_2, 
+             caption = "Merchants' Capital Tax Provisions Concerning Taxation of Inventories, Rental Vehicles, and Short-Term Rentals Table, 2019", 
+             col.names = table_08_2_labels, 
+             align = "lccc",
+             format = "html")
 ```
