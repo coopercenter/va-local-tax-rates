@@ -1,16 +1,19 @@
-# Utility License Tax
+# Utility License Tax {#sec:utility-license-tax}
 
-```{r code to make tables 11, message=FALSE, echo=FALSE}
-source("make_table.R")
+```{r prep data for section 11, message=FALSE, echo=FALSE}
+source("get_tax_rates_table.R")
 
-section_vars   <- c("utl_cie_tel",
-                    "utl_cie_water")
+section_vars <- c("utl_cie_tel", "utl_cie_water")
 
-section_tbl <- tax_rates %>% select(all_of(reference_vars),
-                                    all_of(section_vars))
+tax_rates %>% 
+  select(all_of(reference_vars), all_of(section_vars))  %>%
+  mutate(across(.cols = section_vars, ~ ifelse(.==0, NA, .)))   %>%          # Convert zero values to NA's
+  mutate(has_tel_tax    = (!is.na(utl_cie_tel)   & utl_cie_tel != 0),
+         has_water_tax  = (!is.na(utl_cie_water) & utl_cie_water != 0)) %>%
+filter(has_tel_tax | has_water_tax) -> section_tbl
 ```
 
-In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the utility license tax accounted for 0.1 percent of the total tax revenue for cities, 0.1 percent for counties, and 0.6 percent for large towns. These percentages are based on the franchise license tax reported in Appendix C. The franchise license tax includes not only the license fees of electric and water utilities, which are discussed in this section, but also cable television utilities, discussed in Section 12. These are averages; the relative importance of this tax in individual cities, counties, and towns varies significantly. For information on individual localities, see Appendix C.
+In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the utility license tax accounted for 0.1 percent of the total tax revenue for cities, 0.1 percent for counties, and 0.6 percent for large towns. These percentages are based on the franchise license tax reported in [Appendix C](#secAppendixC). The franchise license tax includes not only the license fees of electric and water utilities, which are discussed in this section, but also cable television utilities, discussed in Section \@ref(sec:cable-tv). These are averages; the relative importance of this tax in individual cities, counties, and towns varies significantly. For information on individual localities, see [Appendix C](#secAppendixC).
 
 Localities in Virginia may impose a local license tax on certain types of public service corporations. As authorized by § 58.1-3731 of the *Code*, localities may levy a license tax on telephone and water companies not to exceed one-half of 1 percent of the gross receipts of such company accruing from sales to the ultimate consumer in the locality. For telephone companies, long-distance calls are not taxable under this provision. County utility license taxes do not apply within the limits of an incorporated town if the town also imposes the tax.
 
@@ -18,8 +21,6 @@ Prior to 2006, any locality that had in effect before January 1, 1972 a tax rate
 
 ```{r Localities Reporting the Utility License Tax, include=FALSE}
 section_tbl %>%
-  mutate(has_tel_tax    = !is.na(utl_cie_tel),
-         has_water_tax  = !is.na(utl_cie_water)) %>%
   group_by(locality_group) %>%
   summarize(Telephone = sum(has_tel_tax),
             Water     = sum(has_water_tax)) %>%
@@ -39,13 +40,11 @@ utility_license_summary_tbl %>%
 Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percent) permitted by the law. None reported charging a greater amount. A few localities reported charging less for the telephone utility tax, including the counties of Fairfax (0.24 percent), New Kent (0.42 percent) and Prince William (0.29 percent), and the towns of Haymarket (0.1 percent), Pembroke (0.3 percent), and Urbanna (0.23 percent).
 
 ```{r Table11-1, echo=FALSE}
-table_11_1_vars <- c("ExternalDataReference", section_vars)
+table_11_1 <- section_tbl %>% select("ExternalDataReference", section_vars)
 
 table_11_1_labels <- c("Locality",
                        "Telephone",
                        "Water")
-
-table_11_1 <- make_table(table_11_1_vars)
 
 knitr::kable(table_11_1, 
              caption = "Utility License Tax Table, 2019", 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  10 JUL 2021 18:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  11 JUL 2021 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1354,440 +1354,452 @@ Chapter 10.
 
 ]
 Chapter 11.
-[69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
-[85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
+
+LaTeX Warning: Reference `(' on page 69 undefined on input line 1228.
+
+
+Package natbib Warning: Citation `secn:Appendix-C' on page 69 undefined on inpu
+t line 1228.
+
+[69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84
+
+]
 Chapter 12.
-[99
-
-] [100]
+[85] [86]
 Chapter 13.
-[101
+[87
 
-] [102] [103] [104
+] [88] [89] [90
 
 ]
 Chapter 14.
 
-Underfull \hbox (badness 4048) in paragraph at lines 3085--3086
+Underfull \hbox (badness 4048) in paragraph at lines 2106--2107
 []\EU1/lmr/m/n/10 Although revised guidelines in January 1997 made administrati
 on of
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 3085--3086
+Underfull \hbox (badness 1881) in paragraph at lines 2106--2107
 \EU1/lmr/m/n/10 the BPOL tax more uniform in terms of due dates, penalties, int
 er-
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 3085--3086
+Underfull \hbox (badness 2310) in paragraph at lines 2106--2107
 \EU1/lmr/m/n/10 est, appeals, and definitions of situs, localities retained som
 e flexibil-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 3085--3086
+Underfull \hbox (badness 1292) in paragraph at lines 2106--2107
 \EU1/lmr/m/n/10 ity. In 2000, the 1997 guidelines were updated. They are viewab
 le
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 3085--3086
+Underfull \hbox (badness 5288) in paragraph at lines 2106--2107
 \EU1/lmr/m/n/10 on the internet site, []$[][][][] [] [] [] [][][][][][][][] [] 
 [][][][][][][][] [] [][][] [] [] [] [][][][][][][] [] [][][] [] [][][][] [] [] 
 []
  []
 
-[105]
-Overfull \hbox (56.33673pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 106 \EU1/lmr/m/sl/10 CHAPTER 14.  BUSINESS, PROFESSIONAL, AND O
-CCUPATIONAL LICENSE TAX
+[91]
+Overfull \hbox (51.33673pt too wide) has occurred while \output is active
+\EU1/lmr/m/n/10 92 \EU1/lmr/m/sl/10 CHAPTER 14.  BUSINESS, PROFESSIONAL, AND OC
+CUPATIONAL LICENSE TAX
  []
 
-[106] [107]
-Overfull \hbox (56.33673pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 108 \EU1/lmr/m/sl/10 CHAPTER 14.  BUSINESS, PROFESSIONAL, AND O
-CCUPATIONAL LICENSE TAX
+[92] [93]
+Overfull \hbox (51.33673pt too wide) has occurred while \output is active
+\EU1/lmr/m/n/10 94 \EU1/lmr/m/sl/10 CHAPTER 14.  BUSINESS, PROFESSIONAL, AND OC
+CUPATIONAL LICENSE TAX
  []
 
-[108
+[94
 
 ]
 Chapter 15.
-[109]
-Underfull \hbox (badness 10000) in paragraph at lines 3152--3158
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2179
 
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 3152--3158
+Underfull \hbox (badness 1418) in paragraph at lines 2173--2179
 | | \EU1/lmr/bx/n/10 Table 15.2 \EU1/lmr/m/n/10 lists whether localities requir
 e the display of decals and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3152--3158
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3152--3158
+Underfull \hbox (badness 10000) in paragraph at lines 2173--2179
 
  []
 
-[110] [111] [112
+[96] [97] [98
 
 ]
 Chapter 16.
-[113]
-Underfull \hbox (badness 10000) in paragraph at lines 3191--3193
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 2212--2214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3210
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2231
 
  []
 
 
 Overfull \hbox (207.37563pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 114 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
+\EU1/lmr/m/n/10 100 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
 IGARETTES, TOBACCO, AND ADMISSIONS EXCISE TAXES
  []
 
-[114] [115]
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3219
+[100] [101]
+Underfull \hbox (badness 10000) in paragraph at lines 2238--2240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3223--3228
+Underfull \hbox (badness 10000) in paragraph at lines 2244--2249
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3223--3228
+Underfull \hbox (badness 10000) in paragraph at lines 2244--2249
 
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 3223--3228
+Underfull \hbox (badness 1112) in paragraph at lines 2244--2249
 | | \EU1/lmr/m/n/10 Unlike the meals and transient occupancy taxes, which are a
 dded di-
  []
 
 
 Overfull \hbox (207.37563pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 116 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
+\EU1/lmr/m/n/10 102 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
 IGARETTES, TOBACCO, AND ADMISSIONS EXCISE TAXES
  []
 
-[116]
-Underfull \hbox (badness 10000) in paragraph at lines 3235--3237
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 2256--2258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3241--3248
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3241--3248
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2269
 
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 3241--3248
+Underfull \hbox (badness 1694) in paragraph at lines 2262--2269
 | | \EU1/lmr/m/n/10 In imposing the admissions tax, localities have the authori
 ty to tax
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3241--3248
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2269
 
  []
 
 
 Underfull \vbox (badness 1331) has occurred while \output is active []
 
-[117]
+[103]
 Overfull \hbox (207.37563pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 118 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
+\EU1/lmr/m/n/10 104 \EU1/lmr/m/sl/10 CHAPTER 16.  MEALS, TRANSIENT OCCUPANCY, C
 IGARETTES, TOBACCO, AND ADMISSIONS EXCISE TAXES
  []
 
-[118]
+[104]
 Chapter 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 3260--3263
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2284
 
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 3260--3263
+Underfull \hbox (badness 1424) in paragraph at lines 2281--2284
 | | \EU1/lmr/m/n/10 Localities are permitted to impose several taxes on natural
  resources.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3260--3263
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3267--3270
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2291
 
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 3267--3270
+Underfull \hbox (badness 1210) in paragraph at lines 2288--2291
 | | \EU1/lmr/m/n/10 In 2009, this section was amended to allow Buchanan County 
 to re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3267--3270
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2291
 
  []
 
-[119
+[105
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3274--3277
+Underfull \hbox (badness 10000) in paragraph at lines 2295--2298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3274--3277
+Underfull \hbox (badness 10000) in paragraph at lines 2295--2298
 
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 3279--3279
+Underfull \hbox (badness 2452) in paragraph at lines 2300--2300
 []\EU1/lmr/bx/n/14.4 COAL AND GAS ROAD IMPROVE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3281--3284
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2305
 
  []
 
-[120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [
-133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [1
-46] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [15
-9] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172
-] [173] [174] [175] [176] [177] [178] [179] [180
+[106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [
+119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [1
+32] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [14
+5] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158
+] [159] [160] [161] [162] [163] [164] [165] [166
 
 ]
 Chapter 18.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6859--6874
+Underfull \hbox (badness 10000) in paragraph at lines 5880--5895
 
  []
 
-[181] [182]
+[167] [168]
 Chapter 19.
-[183
+[169
 
-] [184]
+] [170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[185]
+[171]
 Underfull \vbox (badness 2556) has occurred while \output is active []
 
-[186] [187] [188]
+[172] [173] [174]
 Chapter 20.
-[189
+[175
 
-] [190] [191] [192]
-Underfull \hbox (badness 1122) in paragraph at lines 7152--7153
+] [176] [177] [178]
+Underfull \hbox (badness 1122) in paragraph at lines 6173--6174
 []\EU1/lmr/m/n/10 Effective July 1 2013 43.00 per ton. TIRES: CAR LIGHT TRUCKS
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 7152--7153
+Underfull \hbox (badness 1152) in paragraph at lines 6173--6174
 \EU1/lmr/m/n/10 2.00 EACH;SEMI TRUCK 4.00 EACH;TRACTOR/HEAVY EQUIP 6.00
  []
 
-[193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [
-206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [2
-19] [220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [23
-2] [233] [234] [235] [236] [237] [238] [239] [240
+[179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [
+192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [2
+05] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [21
+8] [219] [220] [221] [222] [223] [224] [225] [226
 
 ]
 Chapter 21.
-[241]
+[227]
 Overfull \hbox (77.23235pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 242 \EU1/lmr/m/sl/10 CHAPTER 21.  RESIDENTIAL WATER AND SEWER C
+\EU1/lmr/m/n/10 228 \EU1/lmr/m/sl/10 CHAPTER 21.  RESIDENTIAL WATER AND SEWER C
 ONNECTION AND USAGE FEES
  []
 
-[242]
+[228]
 Chapter 22.
-[243
+[229
 
-] [244]
+] [230]
 Chapter 23.
-[245
+[231
 
-] [246]
+] [232]
 Chapter 24.
-[247
+[233
 
-] [248]
+] [234]
 Chapter 25.
-[249
+[235
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[250]
-Underfull \hbox (badness 10000) in paragraph at lines 10198--10199
+[236]
+Underfull \hbox (badness 10000) in paragraph at lines 9219--9220
 [][][][][][][][] [][] [][] [][] [][][][][][][][][][] [] [][][][][][][][][][][][
 ][][][][][] [][] [] [][] [][][][][][][][] [] [][][][][][][][] [][] [][][][][][]
 [][][][] [][] [][][][] [][]
  []
 
-[251] [252
+[237] [238
 
 ]
 Chapter 26.
-[253]
-Overfull \hbox (78.5pt too wide) in paragraph at lines 10223--10223
+[239]
+Overfull \hbox (78.5pt too wide) in paragraph at lines 9244--9244
 []\EU1/lmtt/m/n/10 ## -- Attaching packages -----------------------------------
 ---- tidyverse 1.3.0 --[] 
  []
 
 
-Overfull \hbox (82.0pt too wide) in paragraph at lines 10236--10236
+Overfull \hbox (82.0pt too wide) in paragraph at lines 9257--9257
 []\EU1/lmtt/m/n/10 ## -- Conflicts ------------------------------------------ t
 idyverse_conflicts() --[] 
  []
 
 
-Overfull \hbox (509.03012pt too wide) in paragraph at lines 10265--10272
+Overfull \hbox (509.03012pt too wide) in paragraph at lines 9286--9293
  [][] 
  []
 
 
 Overfull \hbox (20.60341pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 254 \EU1/lmr/m/sl/10 CHAPTER 26.  FISCAL CONTENT INFORMATION ON
+\EU1/lmr/m/n/10 240 \EU1/lmr/m/sl/10 CHAPTER 26.  FISCAL CONTENT INFORMATION ON
  LOCAL WEB SITES
  []
 
-[254] [255
+[240] [241
 
 ]
 Overfull \hbox (20.60341pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 256 \EU1/lmr/m/sl/10 CHAPTER 26.  FISCAL CONTENT INFORMATION ON
+\EU1/lmr/m/n/10 242 \EU1/lmr/m/sl/10 CHAPTER 26.  FISCAL CONTENT INFORMATION ON
  LOCAL WEB SITES
  []
 
-[256
+[242
 
 ]
 Appendix A.
-[257] [258
+[243] [244
 
 ]
 Appendix B.
-[259] [260
+[245] [246
 
 ]
 Appendix C.
-[261]
+[247]
 Overfull \hbox (148.72012pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 262 \EU1/lmr/m/sl/10 APPENDIX C.  PERCENTAGE SHARE OF TOTAL LOC
+\EU1/lmr/m/n/10 248 \EU1/lmr/m/sl/10 APPENDIX C.  PERCENTAGE SHARE OF TOTAL LOC
 AL TAXES FROM SPECIFIC SOURCES, FY 2018
  []
 
-[262
+[248
 
 ]
 Appendix D.
-(./va-local-tax-rates-2019.bbl [263]
+(./va-local-tax-rates-2019.bbl [249]
 Overfull \hbox (177.83543pt too wide) has occurred while \output is active
-\EU1/lmr/m/n/10 264 \EU1/lmr/m/sl/10 APPENDIX D.  POPULATION ESTIMATES FOR VIRG
+\EU1/lmr/m/n/10 250 \EU1/lmr/m/sl/10 APPENDIX D.  POPULATION ESTIMATES FOR VIRG
 INIA’S CITIES, COUNTIES, AND TOWNS, JULY 1, 2018
  []
 
-[264
+[250
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 10327.
-[265]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 10327.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9348.
+[251]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9348.
 (./va-local-tax-rates-2019.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 10327.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 10327.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9348.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 9348.
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 10327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9348.
  ) 
 Here is how much of TeX's memory you used:
- 28875 strings out of 493591
- 502824 string characters out of 6143546
- 649304 words of memory out of 5000000
- 31981 multiletter control sequences out of 15000+600000
+ 28878 strings out of 493591
+ 502813 string characters out of 6143546
+ 649378 words of memory out of 5000000
+ 31984 multiletter control sequences out of 15000+600000
  11122 words of font info for 81 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  58i,8n,109p,10418b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on va-local-tax-rates-2019.pdf (265 pages).
+Output written on va-local-tax-rates-2019.pdf (251 pages).
