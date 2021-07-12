@@ -23,12 +23,19 @@ Regarding  fees,  32  cities,  13  counties,  and  62  towns  reported  imposing
 
 **Table 20.3** provides data on localities that have instituted recycling  programs.  As  with  refuse  collection,  these  programs may be financed in a variety of ways. Many localities pick  up  recyclables  and  then  finance  the  collection  with  a  service  charge.  Other  localities  contract  with  a  private  firm. **Table 20.3** shows which localities offer collection of recyclables and which contract for collection with a private firm. It also shows the monthly fees associated with collecting recyclables.
 
-Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The text table below shows this breakdown.
 
 
-```r
-#Text table "Residential Recycling Programs, 2019" goes here (uncertain if these text tables are queryable from the database, or if they were created out of calculations from the data, or something else entirely)
-```
+Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The table below shows this breakdown.
+
+
+
+Table: (\#tab:unnamed-chunk-2)Residential Recycling Programs, 2019
+
+|Service    | Cities| Counties| Towns|
+|:----------|------:|--------:|-----:|
+|Direct     |     17|       37|    26|
+|Contracted |     21|       46|    34|
+
 
 For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere from \$1.33 to $16.50 per month.
 
@@ -1008,6 +1015,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> 4.82/mo. </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Broadway Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Buchanan Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -1016,6 +1028,11 @@ Business - 25.00/mo </td>
    <td style="text-align:left;"> Christiansburg Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> included in garbage service for residential only </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Clarksville Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Clifton Forge Town </td>
@@ -1073,6 +1090,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> included in refuse collection charge </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Gordonsville Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Gretna Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -1103,8 +1125,23 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Ivor Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Kenbridge Town </td>
    <td style="text-align:center;"> Contracted </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Keysville Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Lawrenceville Town </td>
+   <td style="text-align:center;"> Done by County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -1143,6 +1180,11 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Montross Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Mount Jackson Town </td>
    <td style="text-align:center;"> Contracted </td>
    <td style="text-align:center;"> -- </td>
@@ -1168,8 +1210,18 @@ Business - 25.00/mo </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> Remington Town </td>
+   <td style="text-align:center;"> Done by County </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Round Hill Town </td>
    <td style="text-align:center;"> Contracted </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Saint Paul Town </td>
+   <td style="text-align:center;"> Done by County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
@@ -1225,6 +1277,11 @@ Business - 25.00/mo </td>
   <tr>
    <td style="text-align:left;"> Warrenton Town </td>
    <td style="text-align:center;"> Directly </td>
+   <td style="text-align:center;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Warsaw Town </td>
+   <td style="text-align:center;"> Done by County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>

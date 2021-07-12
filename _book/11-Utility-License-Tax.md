@@ -22,6 +22,14 @@ Table: (\#tab:unnamed-chunk-1)Localities Reporting the Utility License Tax, 2019
 
 Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percent) permitted by the law. None reported charging a greater amount. A few localities reported charging less for the telephone utility tax, including the counties of Fairfax (0.24 percent), New Kent (0.42 percent) and Prince William (0.29 percent), and the towns of Haymarket (0.1 percent), Pembroke (0.3 percent), and Urbanna (0.23 percent).
 
+
+```
+## Note: Using an external vector in selections is ambiguous.
+## ℹ Use `all_of(section_vars)` instead of `section_vars` to silence this message.
+## ℹ See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>.
+## This message is displayed once per session.
+```
+
 <table>
 <caption>(\#tab:Table11-1)Utility License Tax Table, 2019</caption>
  <thead>

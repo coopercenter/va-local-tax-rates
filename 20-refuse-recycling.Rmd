@@ -14,7 +14,7 @@ tax_rates %>%
   mutate(has_RCC_tipping_fees = case_when(!(has_RCC_tipping_fees) ~ FALSE,
                                           RCC_tipping_fees %in% c("no", "No", "N/A", "Landfill closed") ~ FALSE,
                                           TRUE ~ TRUE)) %>%
-  mutate(has_RCC_rec_serv_type = (RCC_rec_serv_type %in% c("Contracted","Directly"))) %>%
+  mutate(has_RCC_rec_serv_type = (RCC_rec_serv_type != "Not Applicable")) %>%
   filter(if_any(starts_with("has_"))) -> section_tbl
 ```
 
@@ -38,13 +38,24 @@ Regarding  fees,  32  cities,  13  counties,  and  62  towns  reported  imposing
 
 **Table 20.3** provides data on localities that have instituted recycling  programs.  As  with  refuse  collection,  these  programs may be financed in a variety of ways. Many localities pick  up  recyclables  and  then  finance  the  collection  with  a  service  charge.  Other  localities  contract  with  a  private  firm. **Table 20.3** shows which localities offer collection of recyclables and which contract for collection with a private firm. It also shows the monthly fees associated with collecting recyclables.
 
-Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The text table below shows this breakdown.
-
-```{r}
-
-#Text table "Residential Recycling Programs, 2019" goes here (uncertain if these text tables are queryable from the database, or if they were created out of calculations from the data, or something else entirely)
-
+```{r Residential Recycling Programs, include=FALSE}
+section_tbl %>%
+  group_by(locality_group) %>%
+  summarize(Direct     = sum(RCC_rec_serv_type == "Directly"),
+            Contracted = sum(RCC_rec_serv_type == "Contracted")) %>%
+  ungroup() %>%
+  pivot_longer(!locality_group, names_to = "Service", values_to = "count") %>%
+  pivot_wider(names_from = locality_group, values_from = count) -> res_recycling_summary_tbl
 ```
+
+Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The table below shows this breakdown.
+
+
+```{r , echo=FALSE}
+res_recycling_summary_tbl %>%
+  knitr::kable(caption = "Residential Recycling Programs, 2019")
+```
+
 
 For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere from \$1.33 to $16.50 per month.
 
