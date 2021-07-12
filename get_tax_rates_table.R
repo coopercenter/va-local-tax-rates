@@ -1,5 +1,5 @@
 # File get_tax_rates_table.R
-# Read in tax rates and prepare a date table with local tax rates
+# Read in tax rates and prepare a data table with local tax rates
 
 library(tidyverse)
 

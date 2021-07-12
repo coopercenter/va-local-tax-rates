@@ -43,8 +43,9 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Buena Vista City </td>
+  <tr grouplength="2"><td colspan="6" style="border-bottom: 1px solid;"><strong>Cities</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Buena Vista </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -52,15 +53,16 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Norton City </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Norton </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> Yes </td>
   </tr>
-  <tr>
-   <td style="text-align:left;"> Amherst County </td>
+  <tr grouplength="28"><td colspan="6" style="border-bottom: 1px solid;"><strong>Counties</strong></td></tr>
+<tr>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Amherst </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -68,7 +70,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Augusta County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Augusta </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -76,7 +78,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Bedford County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Bedford </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -84,7 +86,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Brunswick County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Brunswick </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -92,7 +94,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Buchanan County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Buchanan </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> 1 </td>
@@ -100,7 +102,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> No </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Buckingham County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Buckingham </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -108,7 +110,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Campbell County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Campbell </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -116,7 +118,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Caroline County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Caroline </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -124,7 +126,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Chesterfield County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Chesterfield </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> -- </td>
@@ -132,7 +134,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> No </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Culpeper County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Culpeper </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -140,7 +142,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Dickenson County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Dickenson </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> 1 </td>
@@ -148,7 +150,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Goochland County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Goochland </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -156,7 +158,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Grayson County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Grayson </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -164,7 +166,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Greensville County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Greensville </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -172,7 +174,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Hanover County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Hanover </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -180,7 +182,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Highland County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Highland </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -188,7 +190,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> King William County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> King William </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -196,7 +198,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Lee County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Lee </td>
    <td style="text-align:center;"> 2.0 </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> 2 </td>
@@ -204,7 +206,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Pittsylvania County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Pittsylvania </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -212,7 +214,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Powhatan County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Powhatan </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -220,7 +222,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Pulaski County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Pulaski </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> 1 </td>
@@ -228,7 +230,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> No </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Rockingham County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Rockingham </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> -- </td>
@@ -236,7 +238,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Russell County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Russell </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> -- </td>
@@ -244,7 +246,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Scott County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Scott </td>
    <td style="text-align:center;"> 1.0 </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> -- </td>
@@ -252,7 +254,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> No </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Tazewell County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Tazewell </td>
    <td style="text-align:center;"> 1.5 </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 1 </td>
@@ -260,7 +262,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Warren County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Warren </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -268,7 +270,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Washington County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Washington </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -276,7 +278,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
    <td style="text-align:center;"> Yes </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Wise County </td>
+   <td style="text-align:left;padding-left: 2em;" indentlevel="1"> Wise </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0.5 </td>
    <td style="text-align:center;"> 1 </td>

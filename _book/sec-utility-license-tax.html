@@ -51,6 +51,8 @@
 
 
 
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
 
 <style type="text/css">
@@ -291,38 +293,66 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Prior to 2006, any locality that had in effect before January 1, 1972 a tax rate exceeding the statutory ceiling could continue to tax at the previous level but could not raise the rate (see <em>Virginia, Acts of Assembly, 1972</em>, c. 858). This provision changed in 2006 under the Virginia Communication Sales and Use Tax when the General Assembly eliminated the business license tax in excess of 0.5 percent.</p>
 <p>In the latest survey 130 localities responded that they had a utility license tax on telephone service and 36 had a tax on water service. The table below summarizes the numbers of positive respondents by type of service and locality.</p>
 <table>
-<caption><span id="tab:unnamed-chunk-1">Table 11.1: </span>Localities Reporting the Utility License Tax, 2019</caption>
+<caption>
+<span id="tab:unnamed-chunk-1">Table 11.1: </span>Localities Reporting the Utility License Tax, 2019
+</caption>
 <thead>
-<tr class="header">
-<th align="left">Utility</th>
-<th align="right">Cities</th>
-<th align="right">Counties</th>
-<th align="right">Towns</th>
-<th align="right">Total</th>
+<tr>
+<th style="text-align:left;">
+Utility
+</th>
+<th style="text-align:right;">
+Cities
+</th>
+<th style="text-align:right;">
+Counties
+</th>
+<th style="text-align:right;">
+Towns
+</th>
+<th style="text-align:right;">
+Total
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">Telephone</td>
-<td align="right">30</td>
-<td align="right">43</td>
-<td align="right">57</td>
-<td align="right">130</td>
+<tr>
+<td style="text-align:left;">
+Telephone
+</td>
+<td style="text-align:right;">
+30
+</td>
+<td style="text-align:right;">
+43
+</td>
+<td style="text-align:right;">
+57
+</td>
+<td style="text-align:right;">
+130
+</td>
 </tr>
-<tr class="even">
-<td align="left">Water</td>
-<td align="right">8</td>
-<td align="right">21</td>
-<td align="right">7</td>
-<td align="right">36</td>
+<tr>
+<td style="text-align:left;">
+Water
+</td>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:right;">
+36
+</td>
 </tr>
 </tbody>
 </table>
 <p>Nearly all localities reported charging the maximum 0.5 percent (1/2 of 1 percent) permitted by the law. None reported charging a greater amount. A few localities reported charging less for the telephone utility tax, including the counties of Fairfax (0.24 percent), New Kent (0.42 percent) and Prince William (0.29 percent), and the towns of Haymarket (0.1 percent), Pembroke (0.3 percent), and Urbanna (0.23 percent).</p>
-<pre><code>## Note: Using an external vector in selections is ambiguous.
-## ℹ Use `all_of(section_vars)` instead of `section_vars` to silence this message.
-## ℹ See &lt;https://tidyselect.r-lib.org/reference/faq-external-vector.html&gt;.
-## This message is displayed once per session.</code></pre>
 <table>
 <caption>
 <span id="tab:Table11-1">Table 11.2: </span>Utility License Tax Table, 2019
@@ -341,9 +371,14 @@ Water
 </tr>
 </thead>
 <tbody>
+<tr grouplength="30">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Cities</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Alexandria City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Alexandria
 </td>
 <td style="text-align:center;">
 0.50
@@ -353,8 +388,8 @@ Alexandria City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Buena Vista City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Buena Vista
 </td>
 <td style="text-align:center;">
 0.50
@@ -364,8 +399,8 @@ Buena Vista City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charlottesville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charlottesville
 </td>
 <td style="text-align:center;">
 0.50
@@ -375,8 +410,8 @@ Charlottesville City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Chesapeake City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Chesapeake
 </td>
 <td style="text-align:center;">
 0.50
@@ -386,8 +421,8 @@ Chesapeake City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Covington City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Covington
 </td>
 <td style="text-align:center;">
 0.50
@@ -397,8 +432,8 @@ Covington City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Emporia City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Emporia
 </td>
 <td style="text-align:center;">
 20.00
@@ -408,8 +443,8 @@ Emporia City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fairfax City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fairfax
 </td>
 <td style="text-align:center;">
 0.50
@@ -419,8 +454,8 @@ Fairfax City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 0.50
@@ -430,8 +465,8 @@ Franklin City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fredericksburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fredericksburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -441,8 +476,8 @@ Fredericksburg City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Galax City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Galax
 </td>
 <td style="text-align:center;">
 0.50
@@ -452,8 +487,8 @@ Galax City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hampton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hampton
 </td>
 <td style="text-align:center;">
 0.50
@@ -463,8 +498,8 @@ Hampton City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Harrisonburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Harrisonburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -474,8 +509,8 @@ Harrisonburg City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hopewell City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hopewell
 </td>
 <td style="text-align:center;">
 0.50
@@ -485,8 +520,8 @@ Hopewell City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lexington City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lexington
 </td>
 <td style="text-align:center;">
 0.50
@@ -496,8 +531,8 @@ Lexington City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lynchburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lynchburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -507,8 +542,8 @@ Lynchburg City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Manassas Park City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Manassas Park
 </td>
 <td style="text-align:center;">
 0.05
@@ -518,8 +553,8 @@ Manassas Park City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Martinsville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Martinsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -529,8 +564,8 @@ Martinsville City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Newport News City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Newport News
 </td>
 <td style="text-align:center;">
 0.50
@@ -540,8 +575,8 @@ Newport News City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Norfolk City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Norfolk
 </td>
 <td style="text-align:center;">
 0.50
@@ -551,8 +586,8 @@ Norfolk City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Norton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Norton
 </td>
 <td style="text-align:center;">
 0.50
@@ -562,8 +597,8 @@ Norton City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Poquoson City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Poquoson
 </td>
 <td style="text-align:center;">
 0.50
@@ -573,8 +608,8 @@ Poquoson City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Portsmouth City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Portsmouth
 </td>
 <td style="text-align:center;">
 0.05
@@ -584,8 +619,8 @@ Portsmouth City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Richmond City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Richmond
 </td>
 <td style="text-align:center;">
 0.50
@@ -595,8 +630,8 @@ Richmond City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Roanoke City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Roanoke
 </td>
 <td style="text-align:center;">
 0.50
@@ -606,8 +641,8 @@ Roanoke City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Salem City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Salem
 </td>
 <td style="text-align:center;">
 0.05
@@ -617,8 +652,8 @@ Salem City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Staunton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Staunton
 </td>
 <td style="text-align:center;">
 0.05
@@ -628,8 +663,8 @@ Staunton City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Suffolk City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Suffolk
 </td>
 <td style="text-align:center;">
 0.50
@@ -639,8 +674,8 @@ Suffolk City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Virginia Beach City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Virginia Beach
 </td>
 <td style="text-align:center;">
 0.50
@@ -650,8 +685,8 @@ Virginia Beach City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Waynesboro City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Waynesboro
 </td>
 <td style="text-align:center;">
 0.50
@@ -661,8 +696,8 @@ Waynesboro City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Winchester City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Winchester
 </td>
 <td style="text-align:center;">
 0.50
@@ -671,9 +706,14 @@ Winchester City
 –
 </td>
 </tr>
+<tr grouplength="44">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Counties</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Accomack County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Accomack
 </td>
 <td style="text-align:center;">
 0.50
@@ -683,8 +723,8 @@ Accomack County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Alleghany County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Alleghany
 </td>
 <td style="text-align:center;">
 0.50
@@ -694,8 +734,8 @@ Alleghany County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Amelia County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Amelia
 </td>
 <td style="text-align:center;">
 0.05
@@ -705,8 +745,8 @@ Amelia County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Arlington County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Arlington
 </td>
 <td style="text-align:center;">
 0.50
@@ -716,8 +756,8 @@ Arlington County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Augusta County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Augusta
 </td>
 <td style="text-align:center;">
 0.05
@@ -727,8 +767,8 @@ Augusta County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bedford County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bedford
 </td>
 <td style="text-align:center;">
 0.50
@@ -738,8 +778,8 @@ Bedford County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Campbell County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Campbell
 </td>
 <td style="text-align:center;">
 0.50
@@ -749,8 +789,8 @@ Campbell County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Caroline County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Caroline
 </td>
 <td style="text-align:center;">
 0.50
@@ -760,8 +800,8 @@ Caroline County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Carroll County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Carroll
 </td>
 <td style="text-align:center;">
 0.50
@@ -771,8 +811,8 @@ Carroll County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charles City County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charles City
 </td>
 <td style="text-align:center;">
 0.50
@@ -782,8 +822,8 @@ Charles City County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clarke County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clarke
 </td>
 <td style="text-align:center;">
 0.50
@@ -793,8 +833,8 @@ Clarke County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Craig County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Craig
 </td>
 <td style="text-align:center;">
 0.50
@@ -804,8 +844,8 @@ Craig County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fairfax County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fairfax
 </td>
 <td style="text-align:center;">
 0.24
@@ -815,8 +855,8 @@ Fairfax County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fauquier County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fauquier
 </td>
 <td style="text-align:center;">
 0.50
@@ -826,8 +866,8 @@ Fauquier County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fluvanna County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fluvanna
 </td>
 <td style="text-align:center;">
 0.50
@@ -837,8 +877,8 @@ Fluvanna County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 0.50
@@ -848,8 +888,8 @@ Franklin County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Frederick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Frederick
 </td>
 <td style="text-align:center;">
 0.50
@@ -859,8 +899,8 @@ Frederick County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gloucester County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gloucester
 </td>
 <td style="text-align:center;">
 0.50
@@ -870,8 +910,8 @@ Gloucester County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Goochland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Goochland
 </td>
 <td style="text-align:center;">
 0.05
@@ -881,8 +921,8 @@ Goochland County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hanover County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hanover
 </td>
 <td style="text-align:center;">
 0.50
@@ -892,8 +932,8 @@ Hanover County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Henrico County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Henrico
 </td>
 <td style="text-align:center;">
 0.50
@@ -903,8 +943,8 @@ Henrico County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Isle of Wight County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Isle of Wight
 </td>
 <td style="text-align:center;">
 0.50
@@ -914,8 +954,8 @@ Isle of Wight County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-James City County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+James City
 </td>
 <td style="text-align:center;">
 0.50
@@ -925,8 +965,8 @@ James City County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King &amp; Queen County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King &amp; Queen
 </td>
 <td style="text-align:center;">
 0.50
@@ -936,8 +976,8 @@ King &amp; Queen County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King George County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King George
 </td>
 <td style="text-align:center;">
 0.50
@@ -947,8 +987,8 @@ King George County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King William County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King William
 </td>
 <td style="text-align:center;">
 0.50
@@ -958,8 +998,8 @@ King William County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lunenburg County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lunenburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -969,8 +1009,8 @@ Lunenburg County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Mathews County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Mathews
 </td>
 <td style="text-align:center;">
 0.50
@@ -980,8 +1020,8 @@ Mathews County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-New Kent County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+New Kent
 </td>
 <td style="text-align:center;">
 0.42
@@ -991,8 +1031,8 @@ New Kent County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Page County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Page
 </td>
 <td style="text-align:center;">
 –
@@ -1002,8 +1042,8 @@ Page County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Pittsylvania County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Pittsylvania
 </td>
 <td style="text-align:center;">
 0.50
@@ -1013,8 +1053,8 @@ Pittsylvania County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince Edward County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince Edward
 </td>
 <td style="text-align:center;">
 0.50
@@ -1024,8 +1064,8 @@ Prince Edward County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince George County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince George
 </td>
 <td style="text-align:center;">
 0.50
@@ -1035,8 +1075,8 @@ Prince George County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince William County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince William
 </td>
 <td style="text-align:center;">
 0.29
@@ -1046,8 +1086,8 @@ Prince William County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rappahannock County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rappahannock
 </td>
 <td style="text-align:center;">
 0.50
@@ -1057,8 +1097,8 @@ Rappahannock County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Roanoke County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Roanoke
 </td>
 <td style="text-align:center;">
 0.50
@@ -1068,8 +1108,8 @@ Roanoke County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rockingham County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rockingham
 </td>
 <td style="text-align:center;">
 0.50
@@ -1079,8 +1119,8 @@ Rockingham County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Southampton County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Southampton
 </td>
 <td style="text-align:center;">
 0.50
@@ -1090,8 +1130,8 @@ Southampton County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Stafford County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Stafford
 </td>
 <td style="text-align:center;">
 0.50
@@ -1101,8 +1141,8 @@ Stafford County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Surry County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Surry
 </td>
 <td style="text-align:center;">
 0.50
@@ -1112,8 +1152,8 @@ Surry County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warren County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warren
 </td>
 <td style="text-align:center;">
 0.50
@@ -1123,8 +1163,8 @@ Warren County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Washington County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Washington
 </td>
 <td style="text-align:center;">
 0.50
@@ -1134,8 +1174,8 @@ Washington County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wise County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wise
 </td>
 <td style="text-align:center;">
 0.50
@@ -1145,8 +1185,8 @@ Wise County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-York County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+York
 </td>
 <td style="text-align:center;">
 0.50
@@ -1155,9 +1195,14 @@ York County
 0.50
 </td>
 </tr>
+<tr grouplength="57">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Towns</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Abingdon Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Abingdon
 </td>
 <td style="text-align:center;">
 0.50
@@ -1167,8 +1212,8 @@ Abingdon Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Amherst Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Amherst
 </td>
 <td style="text-align:center;">
 0.50
@@ -1178,8 +1223,8 @@ Amherst Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Appomattox Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Appomattox
 </td>
 <td style="text-align:center;">
 0.50
@@ -1189,8 +1234,8 @@ Appomattox Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Ashland Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Ashland
 </td>
 <td style="text-align:center;">
 0.50
@@ -1200,8 +1245,8 @@ Ashland Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Big Stone Gap Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Big Stone Gap
 </td>
 <td style="text-align:center;">
 0.50
@@ -1211,8 +1256,8 @@ Big Stone Gap Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Blacksburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Blacksburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -1222,8 +1267,8 @@ Blacksburg Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Blackstone Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Blackstone
 </td>
 <td style="text-align:center;">
 0.50
@@ -1233,8 +1278,8 @@ Blackstone Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Boydton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Boydton
 </td>
 <td style="text-align:center;">
 0.50
@@ -1244,8 +1289,8 @@ Boydton Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bridgewater Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bridgewater
 </td>
 <td style="text-align:center;">
 0.50
@@ -1255,8 +1300,8 @@ Bridgewater Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Brookneal Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Brookneal
 </td>
 <td style="text-align:center;">
 0.05
@@ -1266,8 +1311,8 @@ Brookneal Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Cape Charles Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Cape Charles
 </td>
 <td style="text-align:center;">
 0.50
@@ -1277,8 +1322,8 @@ Cape Charles Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charlotte Court House Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charlotte Court House
 </td>
 <td style="text-align:center;">
 0.05
@@ -1288,8 +1333,8 @@ Charlotte Court House Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Chase City Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Chase City
 </td>
 <td style="text-align:center;">
 0.50
@@ -1299,8 +1344,8 @@ Chase City Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clarksville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clarksville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1310,8 +1355,8 @@ Clarksville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clifton Forge Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clifton Forge
 </td>
 <td style="text-align:center;">
 0.50
@@ -1321,8 +1366,8 @@ Clifton Forge Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clintwood Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clintwood
 </td>
 <td style="text-align:center;">
 0.50
@@ -1332,8 +1377,8 @@ Clintwood Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Courtland Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Courtland
 </td>
 <td style="text-align:center;">
 0.50
@@ -1343,8 +1388,8 @@ Courtland Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Damascus Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Damascus
 </td>
 <td style="text-align:center;">
 0.50
@@ -1354,8 +1399,8 @@ Damascus Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dayton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dayton
 </td>
 <td style="text-align:center;">
 0.50
@@ -1365,8 +1410,8 @@ Dayton Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dillwyn Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dillwyn
 </td>
 <td style="text-align:center;">
 0.50
@@ -1376,8 +1421,8 @@ Dillwyn Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Farmville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Farmville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1387,8 +1432,8 @@ Farmville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Front Royal Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Front Royal
 </td>
 <td style="text-align:center;">
 0.50
@@ -1398,8 +1443,8 @@ Front Royal Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gate City Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gate City
 </td>
 <td style="text-align:center;">
 0.50
@@ -1409,8 +1454,8 @@ Gate City Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gordonsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gordonsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1420,8 +1465,8 @@ Gordonsville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Goshen Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Goshen
 </td>
 <td style="text-align:center;">
 0.50
@@ -1431,8 +1476,8 @@ Goshen Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gretna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gretna
 </td>
 <td style="text-align:center;">
 0.50
@@ -1442,8 +1487,8 @@ Gretna Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Grottoes Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Grottoes
 </td>
 <td style="text-align:center;">
 0.50
@@ -1453,8 +1498,8 @@ Grottoes Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Haymarket Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Haymarket
 </td>
 <td style="text-align:center;">
 0.10
@@ -1464,8 +1509,8 @@ Haymarket Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Haysi Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Haysi
 </td>
 <td style="text-align:center;">
 0.50
@@ -1475,8 +1520,8 @@ Haysi Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hillsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hillsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1486,8 +1531,8 @@ Hillsville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Honaker Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Honaker
 </td>
 <td style="text-align:center;">
 0.05
@@ -1497,8 +1542,8 @@ Honaker Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Kilmarnock Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Kilmarnock
 </td>
 <td style="text-align:center;">
 0.50
@@ -1508,8 +1553,8 @@ Kilmarnock Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lebanon Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lebanon
 </td>
 <td style="text-align:center;">
 0.50
@@ -1519,8 +1564,8 @@ Lebanon Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lovettsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lovettsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1530,8 +1575,8 @@ Lovettsville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Luray Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Luray
 </td>
 <td style="text-align:center;">
 0.50
@@ -1541,8 +1586,8 @@ Luray Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Marion Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Marion
 </td>
 <td style="text-align:center;">
 0.50
@@ -1552,8 +1597,8 @@ Marion Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Middleburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Middleburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -1563,8 +1608,8 @@ Middleburg Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-New Market Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+New Market
 </td>
 <td style="text-align:center;">
 0.05
@@ -1574,8 +1619,8 @@ New Market Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Nickelsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Nickelsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1585,8 +1630,8 @@ Nickelsville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Orange Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Orange
 </td>
 <td style="text-align:center;">
 0.50
@@ -1596,8 +1641,8 @@ Orange Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Purcellville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Purcellville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1607,8 +1652,8 @@ Purcellville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rocky Mount Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rocky Mount
 </td>
 <td style="text-align:center;">
 0.50
@@ -1618,8 +1663,8 @@ Rocky Mount Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Round Hill Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Round Hill
 </td>
 <td style="text-align:center;">
 0.09
@@ -1629,8 +1674,8 @@ Round Hill Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rural Retreat Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rural Retreat
 </td>
 <td style="text-align:center;">
 0.05
@@ -1640,8 +1685,8 @@ Rural Retreat Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Saint Paul Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Saint Paul
 </td>
 <td style="text-align:center;">
 0.05
@@ -1651,8 +1696,8 @@ Saint Paul Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Scottsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Scottsville
 </td>
 <td style="text-align:center;">
 0.50
@@ -1662,8 +1707,8 @@ Scottsville Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Shenandoah Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Shenandoah
 </td>
 <td style="text-align:center;">
 0.50
@@ -1673,8 +1718,8 @@ Shenandoah Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-South Boston Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+South Boston
 </td>
 <td style="text-align:center;">
 0.50
@@ -1684,8 +1729,8 @@ South Boston Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Strasburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Strasburg
 </td>
 <td style="text-align:center;">
 0.50
@@ -1695,8 +1740,8 @@ Strasburg Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Tappahannock Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Tappahannock
 </td>
 <td style="text-align:center;">
 0.50
@@ -1706,8 +1751,8 @@ Tappahannock Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Urbanna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Urbanna
 </td>
 <td style="text-align:center;">
 0.23
@@ -1717,8 +1762,8 @@ Urbanna Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Vienna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Vienna
 </td>
 <td style="text-align:center;">
 0.50
@@ -1728,8 +1773,8 @@ Vienna Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Vinton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Vinton
 </td>
 <td style="text-align:center;">
 0.50
@@ -1739,8 +1784,8 @@ Vinton Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warsaw Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warsaw
 </td>
 <td style="text-align:center;">
 0.05
@@ -1750,8 +1795,8 @@ Warsaw Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Windsor Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Windsor
 </td>
 <td style="text-align:center;">
 0.50
@@ -1761,8 +1806,8 @@ Windsor Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wise Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wise
 </td>
 <td style="text-align:center;">
 0.50
@@ -1772,8 +1817,8 @@ Wise Town
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wytheville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wytheville
 </td>
 <td style="text-align:center;">
 0.50

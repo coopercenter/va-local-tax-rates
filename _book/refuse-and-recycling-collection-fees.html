@@ -51,6 +51,8 @@
 
 
 
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
 
 <style type="text/css">
@@ -292,7 +294,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p><strong>Table 20.1</strong> shows information reported on refuse collection by all 38 cities, and by 24 counties and 101 towns. The table contains information on frequency of collection, collection fees and private contracting. There are three methods of operation. Some Virginia localities levy a specific refuse collection service fee for the costs of collection. Others pay for collection costs with general tax revenues. Finally, some localities provide no service; instead, they leave refuse collection to private contractors.</p>
 <p>A majority of cities and counties provide basic residential services on a weekly basis. Only the counties of Arlington, Chesterfield, and Halifax offer regular collections more frequently.</p>
 <p>Regarding fees, 32 cities, 13 counties, and 62 towns reported imposing a residential refuse collection service fee. Eleven cities, 7 counties, and 42 towns contracted with private firms for refuse collection. The text table below shows this breakdown.</p>
-<div class="sourceCode" id="cb50"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb50-1"><a href="refuse-and-recycling-collection-fees.html#cb50-1" aria-hidden="true" tabindex="-1"></a><span class="co">#text table &quot;Residential Refuse Collection, 2019&quot; goes here</span></span></code></pre></div>
+<div class="sourceCode" id="cb49"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb49-1"><a href="refuse-and-recycling-collection-fees.html#cb49-1" aria-hidden="true" tabindex="-1"></a><span class="co">#text table &quot;Residential Refuse Collection, 2019&quot; goes here</span></span></code></pre></div>
 <p><strong>Table 20.2</strong> shows tipping fees charged by various localities to dump trash at landfills and waste transfer stations. Localities reporting imposing such fees included 9 cities, 34 counties, and 7 towns.</p>
 </div>
 <div id="recycling-programs" class="section level2" number="20.2">
@@ -300,32 +302,58 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p><strong>Table 20.3</strong> provides data on localities that have instituted recycling programs. As with refuse collection, these programs may be financed in a variety of ways. Many localities pick up recyclables and then finance the collection with a service charge. Other localities contract with a private firm. <strong>Table 20.3</strong> shows which localities offer collection of recyclables and which contract for collection with a private firm. It also shows the monthly fees associated with collecting recyclables.</p>
 <p>Of the total survey respondents, 38 cities, 83 counties, and 67 towns reported having some form of recycling activity. Seventeen cities provided recycling collection directly, and 21 contracted it out. Thirty-seven counties provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The table below shows this breakdown.</p>
 <table>
-<caption><span id="tab:unnamed-chunk-2">Table 0.1: </span>Residential Recycling Programs, 2019</caption>
+<caption>
+<span id="tab:unnamed-chunk-2">Table 0.1: </span>Residential Recycling Programs, 2019
+</caption>
 <thead>
-<tr class="header">
-<th align="left">Service</th>
-<th align="right">Cities</th>
-<th align="right">Counties</th>
-<th align="right">Towns</th>
+<tr>
+<th style="text-align:left;">
+Service
+</th>
+<th style="text-align:right;">
+Cities
+</th>
+<th style="text-align:right;">
+Counties
+</th>
+<th style="text-align:right;">
+Towns
+</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">Direct</td>
-<td align="right">17</td>
-<td align="right">37</td>
-<td align="right">26</td>
+<tr>
+<td style="text-align:left;">
+Direct
+</td>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:right;">
+37
+</td>
+<td style="text-align:right;">
+26
+</td>
 </tr>
-<tr class="even">
-<td align="left">Contracted</td>
-<td align="right">21</td>
-<td align="right">46</td>
-<td align="right">34</td>
+<tr>
+<td style="text-align:left;">
+Contracted
+</td>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:right;">
+46
+</td>
+<td style="text-align:right;">
+34
+</td>
 </tr>
 </tbody>
 </table>
 <p>For localities that charged a service fee, the amount ranged anywhere from $1.33 to $16.50 per month.</p>
-<div class="sourceCode" id="cb51"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb51-1"><a href="refuse-and-recycling-collection-fees.html#cb51-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Table 20.1 &quot;Refuse Collection Fees, 2019&quot; goes here, formatting </span><span class="al">TBD</span></span></code></pre></div>
+<div class="sourceCode" id="cb50"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb50-1"><a href="refuse-and-recycling-collection-fees.html#cb50-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Table 20.1 &quot;Refuse Collection Fees, 2019&quot; goes here, formatting </span><span class="al">TBD</span></span></code></pre></div>
 <table>
 <caption>
 <span id="tab:table20-2">Table 20.1: </span>Refuse Collection Tipping Fees Table, 2019
@@ -341,17 +369,22 @@ Tipping Fee
 </tr>
 </thead>
 <tbody>
+<tr grouplength="12">
+<td colspan="2" style="border-bottom: 1px solid;">
+<strong>Cities</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Bristol City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bristol
 </td>
 <td style="text-align:center;">
 30.00 per ton with a 15.00 minimum charge
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charlottesville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charlottesville
 </td>
 <td style="text-align:center;">
 <p>Charge per Collection</p>
@@ -364,40 +397,40 @@ Charlottesville City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Colonial Heights City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Colonial Heights
 </td>
 <td style="text-align:center;">
 800 tractor-trailer load; 600 tandem-axle truck
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Covington City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Covington
 </td>
 <td style="text-align:center;">
 88.13 per Ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 included in the rate
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hampton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hampton
 </td>
 <td style="text-align:center;">
 38.00 a ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lynchburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lynchburg
 </td>
 <td style="text-align:center;">
 <p>35 per ton for commercial.</p>
@@ -405,48 +438,53 @@ Lynchburg City
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Martinsville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Martinsville
 </td>
 <td style="text-align:center;">
 Done privately
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Richmond City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Richmond
 </td>
 <td style="text-align:center;">
 27.38
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Roanoke City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Roanoke
 </td>
 <td style="text-align:center;">
 45 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Staunton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Staunton
 </td>
 <td style="text-align:center;">
 45/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Waynesboro City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Waynesboro
 </td>
 <td style="text-align:center;">
 44.00/ton
 </td>
 </tr>
+<tr grouplength="42">
+<td colspan="2" style="border-bottom: 1px solid;">
+<strong>Counties</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Accomack County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Accomack
 </td>
 <td style="text-align:center;">
 <p>80.00</p>
@@ -454,8 +492,8 @@ per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Augusta County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Augusta
 </td>
 <td style="text-align:center;">
 <p>45/ton industrial commercial</p>
@@ -464,32 +502,32 @@ Augusta County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bath County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bath
 </td>
 <td style="text-align:center;">
 large firm=40/ton; small=13.36 fee; med=25
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bedford County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bedford
 </td>
 <td style="text-align:center;">
 41 per ton commercial. Residents 1000 lbs. free per month per household then 57 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Brunswick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Brunswick
 </td>
 <td style="text-align:center;">
 19.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Campbell County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Campbell
 </td>
 <td style="text-align:center;">
 <p>28.75 per ton for Region 2000 service Auth. members</p>
@@ -497,40 +535,40 @@ Campbell County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Culpeper County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Culpeper
 </td>
 <td style="text-align:center;">
 50.32/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dickenson County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dickenson
 </td>
 <td style="text-align:center;">
 60.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dinwiddie County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dinwiddie
 </td>
 <td style="text-align:center;">
 35/ton over 500 lbs
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fairfax County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fairfax
 </td>
 <td style="text-align:center;">
 68/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fauquier County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fauquier
 </td>
 <td style="text-align:center;">
 <p>25.00 permit fee per vehicle</p>
@@ -539,40 +577,40 @@ Fauquier County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Floyd County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Floyd
 </td>
 <td style="text-align:center;">
 municip.comm.indust.only-ton-40; pick up 3 55/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 Effective July 1 2013 43.00 per ton. TIRES: CAR LIGHT TRUCKS 2.00 EACH;SEMI TRUCK 4.00 EACH;TRACTOR/HEAVY EQUIP 6.00 EACH;ATV LAWN MOWER &amp; M/C 1.00 EACH; single wide mobile homes 400. each; double wide mobile homes 800. each.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Frederick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Frederick
 </td>
 <td style="text-align:center;">
 Comm 50/ton; Concrete 15/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Greene County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Greene
 </td>
 <td style="text-align:center;">
 1.00 per bag
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Greensville County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Greensville
 </td>
 <td style="text-align:center;">
 <p>55.00/ton Municipal solid waste</p>
@@ -581,32 +619,32 @@ Greensville County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hanover County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hanover
 </td>
 <td style="text-align:center;">
 50/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Henrico County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Henrico
 </td>
 <td style="text-align:center;">
 Henrico no longer accepts refuse from commercial collectors. A Public Use Area is available for Henrico residents at a cost of 3 per trip.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King George County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King George
 </td>
 <td style="text-align:center;">
 N/A
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lee County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lee
 </td>
 <td style="text-align:center;">
 <p>Business 37.50/ton; tires 60.00/ton</p>
@@ -614,16 +652,16 @@ check with County Administrators Office 276-346-7714
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Loudoun County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Loudoun
 </td>
 <td style="text-align:center;">
 5 flat rate to 65/ton; see www.loudoun.gov/Default.aspx?tabid=744#unit
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Louisa County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Louisa
 </td>
 <td style="text-align:center;">
 <p>Please Contact Facilities Management/Public Works</p>
@@ -631,48 +669,48 @@ Louisa County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lunenburg County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lunenburg
 </td>
 <td style="text-align:center;">
 Private firm/operator sets rate(s)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Madison County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Madison
 </td>
 <td style="text-align:center;">
 65/ton for rolloffs; other size vehicles vary
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Mecklenburg County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Mecklenburg
 </td>
 <td style="text-align:center;">
 40.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Nelson County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Nelson
 </td>
 <td style="text-align:center;">
 55 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Northampton County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Northampton
 </td>
 <td style="text-align:center;">
 72.00 PER TON
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Orange County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Orange
 </td>
 <td style="text-align:center;">
 <p>Contact the Orange County Landfill</p>
@@ -680,72 +718,72 @@ Orange County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Patrick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Patrick
 </td>
 <td style="text-align:center;">
 55.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Pittsylvania County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Pittsylvania
 </td>
 <td style="text-align:center;">
 41.00 ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince Edward County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince Edward
 </td>
 <td style="text-align:center;">
 35/ton for commercial and institutional
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Pulaski County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Pulaski
 </td>
 <td style="text-align:center;">
 34.50 (call Public Svc: 540-674-8720)
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rappahannock County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rappahannock
 </td>
 <td style="text-align:center;">
 50.00 per ton for one non-commercial user. No others accepted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rockbridge County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rockbridge
 </td>
 <td style="text-align:center;">
 54.50 ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rockingham County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rockingham
 </td>
 <td style="text-align:center;">
 58/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Russell County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Russell
 </td>
 <td style="text-align:center;">
 31.56 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Shenandoah County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Shenandoah
 </td>
 <td style="text-align:center;">
 <p>45/ton Commercial waste</p>
@@ -754,32 +792,32 @@ Shenandoah County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Smyth County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Smyth
 </td>
 <td style="text-align:center;">
 56.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warren County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warren
 </td>
 <td style="text-align:center;">
 See charges below
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Westmoreland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Westmoreland
 </td>
 <td style="text-align:center;">
 Construction debris 49.77/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wythe County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wythe
 </td>
 <td style="text-align:center;">
 <ol start="52" style="list-style-type: decimal">
@@ -787,56 +825,61 @@ Wythe County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-York County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+York
 </td>
 <td style="text-align:center;">
 No tipping fee for solid waste customers. For others see below.
 </td>
 </tr>
+<tr grouplength="11">
+<td colspan="2" style="border-bottom: 1px solid;">
+<strong>Towns</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Amherst Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Amherst
 </td>
 <td style="text-align:center;">
 VARIES BY DUMPSTER SIZE AND COLLECTION FREQUENCY
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bedford Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bedford
 </td>
 <td style="text-align:center;">
 60.00/ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Boydton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Boydton
 </td>
 <td style="text-align:center;">
 60
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Cape Charles Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Cape Charles
 </td>
 <td style="text-align:center;">
 Collection rates vary based on item location and frequency.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Chase City Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Chase City
 </td>
 <td style="text-align:center;">
 1.84 per cubic yd/commercial dumpster service
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Christiansburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Christiansburg
 </td>
 <td style="text-align:center;">
 Montgomery Regional Solid Waste Authority</li>
@@ -845,24 +888,24 @@ Montgomery Regional Solid Waste Authority</li>
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clarksville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clarksville
 </td>
 <td style="text-align:center;">
 40.00 per ton
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Front Royal Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Front Royal
 </td>
 <td style="text-align:center;">
 58.00 monthly for once weekly pickup and 116.00 for twice weekly pickup
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Glade Spring Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Glade Spring
 </td>
 <td style="text-align:center;">
 <p>In Town Residential - 15.00/mo</p>
@@ -871,16 +914,16 @@ Business - 25.00/mo
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-La Crosse Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+La Crosse
 </td>
 <td style="text-align:center;">
 1.10 per cu. yd. per pickup
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-South Hill Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+South Hill
 </td>
 <td style="text-align:center;">
 Varies by # of dumpsters &amp; pickups: Commercial Only
@@ -906,9 +949,14 @@ Service Fee
 </tr>
 </thead>
 <tbody>
+<tr grouplength="38">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Cities</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Alexandria City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Alexandria
 </td>
 <td style="text-align:center;">
 Directly
@@ -918,8 +966,8 @@ Included in refuse fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bristol City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bristol
 </td>
 <td style="text-align:center;">
 Directly
@@ -929,8 +977,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Buena Vista City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Buena Vista
 </td>
 <td style="text-align:center;">
 Directly
@@ -940,8 +988,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charlottesville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charlottesville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -951,8 +999,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Chesapeake City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Chesapeake
 </td>
 <td style="text-align:center;">
 Contracted
@@ -962,8 +1010,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Colonial Heights City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Colonial Heights
 </td>
 <td style="text-align:center;">
 Contracted
@@ -973,8 +1021,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Covington City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Covington
 </td>
 <td style="text-align:center;">
 Contracted
@@ -984,8 +1032,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Danville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Danville
 </td>
 <td style="text-align:center;">
 Directly
@@ -995,8 +1043,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Emporia City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Emporia
 </td>
 <td style="text-align:center;">
 Directly
@@ -1006,8 +1054,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fairfax City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fairfax
 </td>
 <td style="text-align:center;">
 Directly
@@ -1017,8 +1065,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Falls Church City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Falls Church
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1028,8 +1076,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1039,8 +1087,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fredericksburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fredericksburg
 </td>
 <td style="text-align:center;">
 Directly
@@ -1050,8 +1098,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Galax City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Galax
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1061,8 +1109,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hampton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hampton
 </td>
 <td style="text-align:center;">
 Directly
@@ -1072,8 +1120,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Harrisonburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Harrisonburg
 </td>
 <td style="text-align:center;">
 Directly
@@ -1083,8 +1131,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hopewell City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hopewell
 </td>
 <td style="text-align:center;">
 Directly
@@ -1094,8 +1142,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lexington City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lexington
 </td>
 <td style="text-align:center;">
 Directly
@@ -1105,8 +1153,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lynchburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lynchburg
 </td>
 <td style="text-align:center;">
 Directly
@@ -1116,8 +1164,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Manassas City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Manassas
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1127,8 +1175,8 @@ included in monthly fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Manassas Park City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Manassas Park
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1138,8 +1186,8 @@ Included in refuse fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Martinsville City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Martinsville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1149,8 +1197,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Newport News City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Newport News
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1160,8 +1208,8 @@ included in solid waste user fee.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Norfolk City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Norfolk
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1171,8 +1219,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Norton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Norton
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1182,8 +1230,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Petersburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Petersburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1193,8 +1241,8 @@ Included in trash pickup fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Poquoson City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Poquoson
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1204,8 +1252,8 @@ Charge is built in with the refuse collection charge
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Portsmouth City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Portsmouth
 </td>
 <td style="text-align:center;">
 Directly
@@ -1215,8 +1263,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Radford City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Radford
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1226,8 +1274,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Richmond City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Richmond
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1237,8 +1285,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Roanoke City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Roanoke
 </td>
 <td style="text-align:center;">
 Directly
@@ -1248,8 +1296,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Salem City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Salem
 </td>
 <td style="text-align:center;">
 Directly
@@ -1259,8 +1307,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Staunton City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Staunton
 </td>
 <td style="text-align:center;">
 Directly
@@ -1270,8 +1318,8 @@ For recycle only 16.50 per month.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Suffolk City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Suffolk
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1281,8 +1329,8 @@ included in refuse collection fee of 17.50 per month
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Virginia Beach City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Virginia Beach
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1292,8 +1340,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Waynesboro City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Waynesboro
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1303,8 +1351,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Williamsburg City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Williamsburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1314,8 +1362,68 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Winchester City
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Winchester
+</td>
+<td style="text-align:center;">
+Directly
+</td>
+<td style="text-align:center;">
+–
+</td>
+</tr>
+<tr grouplength="83">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Counties</strong>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Accomack
+</td>
+<td style="text-align:center;">
+Contracted
+</td>
+<td style="text-align:center;">
+–
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Albemarle
+</td>
+<td style="text-align:center;">
+Contracted
+</td>
+<td style="text-align:center;">
+–
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Amelia
+</td>
+<td style="text-align:center;">
+Contracted
+</td>
+<td style="text-align:center;">
+–
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Amherst
+</td>
+<td style="text-align:center;">
+Contracted
+</td>
+<td style="text-align:center;">
+–
+</td>
+</tr>
+<tr>
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Appomattox
 </td>
 <td style="text-align:center;">
 Directly
@@ -1325,63 +1433,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Accomack County
-</td>
-<td style="text-align:center;">
-Contracted
-</td>
-<td style="text-align:center;">
-–
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Albemarle County
-</td>
-<td style="text-align:center;">
-Contracted
-</td>
-<td style="text-align:center;">
-–
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Amelia County
-</td>
-<td style="text-align:center;">
-Contracted
-</td>
-<td style="text-align:center;">
-–
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Amherst County
-</td>
-<td style="text-align:center;">
-Contracted
-</td>
-<td style="text-align:center;">
-–
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Appomattox County
-</td>
-<td style="text-align:center;">
-Directly
-</td>
-<td style="text-align:center;">
-–
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Arlington County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Arlington
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1391,8 +1444,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Augusta County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Augusta
 </td>
 <td style="text-align:center;">
 Directly
@@ -1402,8 +1455,8 @@ No
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bath County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bath
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1413,8 +1466,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bedford County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bedford
 </td>
 <td style="text-align:center;">
 Directly
@@ -1424,8 +1477,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1435,8 +1488,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Botetourt County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Botetourt
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1446,8 +1499,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Brunswick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Brunswick
 </td>
 <td style="text-align:center;">
 Directly
@@ -1457,8 +1510,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Buckingham County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Buckingham
 </td>
 <td style="text-align:center;">
 Directly
@@ -1468,8 +1521,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Campbell County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Campbell
 </td>
 <td style="text-align:center;">
 Directly
@@ -1479,8 +1532,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Caroline County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Caroline
 </td>
 <td style="text-align:center;">
 Directly
@@ -1490,8 +1543,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Carroll County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Carroll
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1501,8 +1554,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Charlotte County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Charlotte
 </td>
 <td style="text-align:center;">
 Directly
@@ -1512,8 +1565,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Chesterfield County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Chesterfield
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1523,8 +1576,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clarke County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clarke
 </td>
 <td style="text-align:center;">
 Directly
@@ -1534,8 +1587,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Craig County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Craig
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1545,8 +1598,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Culpeper County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Culpeper
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1556,8 +1609,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Cumberland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Cumberland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1567,8 +1620,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dinwiddie County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dinwiddie
 </td>
 <td style="text-align:center;">
 Directly
@@ -1578,8 +1631,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Essex County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Essex
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1589,8 +1642,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fairfax County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fairfax
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1600,8 +1653,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fauquier County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fauquier
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1611,8 +1664,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Floyd County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Floyd
 </td>
 <td style="text-align:center;">
 Directly
@@ -1622,8 +1675,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Fluvanna County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Fluvanna
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1633,8 +1686,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Franklin County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Franklin
 </td>
 <td style="text-align:center;">
 Directly
@@ -1644,8 +1697,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Frederick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Frederick
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1655,8 +1708,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Giles County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Giles
 </td>
 <td style="text-align:center;">
 Directly
@@ -1666,8 +1719,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Goochland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Goochland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1677,8 +1730,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Grayson County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Grayson
 </td>
 <td style="text-align:center;">
 Directly
@@ -1688,8 +1741,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Greene County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Greene
 </td>
 <td style="text-align:center;">
 Directly
@@ -1699,8 +1752,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Greensville County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Greensville
 </td>
 <td style="text-align:center;">
 Directly
@@ -1710,8 +1763,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Halifax County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Halifax
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1721,8 +1774,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hanover County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hanover
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1732,8 +1785,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Henrico County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Henrico
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1743,8 +1796,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Henry County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Henry
 </td>
 <td style="text-align:center;">
 Directly
@@ -1754,8 +1807,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Highland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Highland
 </td>
 <td style="text-align:center;">
 Directly
@@ -1765,8 +1818,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Isle of Wight County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Isle of Wight
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1776,8 +1829,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-James City County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+James City
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1787,8 +1840,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King George County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King George
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1798,8 +1851,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-King William County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+King William
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1809,8 +1862,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lancaster County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lancaster
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1820,8 +1873,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lee County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lee
 </td>
 <td style="text-align:center;">
 Directly
@@ -1831,8 +1884,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Loudoun County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Loudoun
 </td>
 <td style="text-align:center;">
 Directly
@@ -1842,8 +1895,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lunenburg County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lunenburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1853,8 +1906,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Madison County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Madison
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1864,8 +1917,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Mecklenburg County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Mecklenburg
 </td>
 <td style="text-align:center;">
 Directly
@@ -1875,8 +1928,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Middlesex County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Middlesex
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1886,8 +1939,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Montgomery County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Montgomery
 </td>
 <td style="text-align:center;">
 Directly
@@ -1897,8 +1950,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Nelson County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Nelson
 </td>
 <td style="text-align:center;">
 Directly
@@ -1908,8 +1961,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-New Kent County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+New Kent
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1919,8 +1972,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Northampton County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Northampton
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1930,8 +1983,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Northumberland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Northumberland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1941,8 +1994,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Orange County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Orange
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1952,8 +2005,8 @@ contact the Landfill at 540-672-9315
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Page County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Page
 </td>
 <td style="text-align:center;">
 Directly
@@ -1963,8 +2016,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Patrick County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Patrick
 </td>
 <td style="text-align:center;">
 Directly
@@ -1974,8 +2027,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Pittsylvania County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Pittsylvania
 </td>
 <td style="text-align:center;">
 Directly
@@ -1985,8 +2038,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Powhatan County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Powhatan
 </td>
 <td style="text-align:center;">
 Contracted
@@ -1996,8 +2049,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince Edward County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince Edward
 </td>
 <td style="text-align:center;">
 Directly
@@ -2007,8 +2060,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince George County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince George
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2018,8 +2071,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Prince William County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Prince William
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2029,8 +2082,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Pulaski County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Pulaski
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2040,8 +2093,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Richmond County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Richmond
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2051,8 +2104,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Roanoke County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Roanoke
 </td>
 <td style="text-align:center;">
 Directly
@@ -2062,8 +2115,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rockbridge County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rockbridge
 </td>
 <td style="text-align:center;">
 Directly
@@ -2073,8 +2126,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Rockingham County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Rockingham
 </td>
 <td style="text-align:center;">
 Directly
@@ -2084,8 +2137,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Russell County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Russell
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2095,8 +2148,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Scott County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Scott
 </td>
 <td style="text-align:center;">
 Directly
@@ -2106,8 +2159,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Shenandoah County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Shenandoah
 </td>
 <td style="text-align:center;">
 Directly
@@ -2117,8 +2170,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Smyth County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Smyth
 </td>
 <td style="text-align:center;">
 Directly
@@ -2128,8 +2181,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Southampton County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Southampton
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2139,8 +2192,8 @@ no charge to residents; county pays contractor 2.66 per household for bi-weekly 
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Spotsylvania County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Spotsylvania
 </td>
 <td style="text-align:center;">
 Directly
@@ -2150,8 +2203,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Stafford County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Stafford
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2161,8 +2214,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Surry County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Surry
 </td>
 <td style="text-align:center;">
 Directly
@@ -2172,8 +2225,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warren County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warren
 </td>
 <td style="text-align:center;">
 Directly
@@ -2183,8 +2236,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Washington County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Washington
 </td>
 <td style="text-align:center;">
 Directly
@@ -2194,8 +2247,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Westmoreland County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Westmoreland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2205,8 +2258,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wise County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wise
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2216,8 +2269,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wythe County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wythe
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2227,8 +2280,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-York County
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+York
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2237,9 +2290,14 @@ Contracted
 24.50 combined fee for garbage &amp; recycling collection
 </td>
 </tr>
+<tr grouplength="70">
+<td colspan="3" style="border-bottom: 1px solid;">
+<strong>Towns</strong>
+</td>
+</tr>
 <tr>
-<td style="text-align:left;">
-Abingdon Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Abingdon
 </td>
 <td style="text-align:center;">
 Directly
@@ -2249,8 +2307,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Altavista Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Altavista
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2260,8 +2318,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Appomattox Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Appomattox
 </td>
 <td style="text-align:center;">
 Directly
@@ -2271,8 +2329,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Ashland Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Ashland
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2282,8 +2340,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bedford Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bedford
 </td>
 <td style="text-align:center;">
 Directly
@@ -2293,8 +2351,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Berryville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Berryville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2304,8 +2362,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Big Stone Gap Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Big Stone Gap
 </td>
 <td style="text-align:center;">
 Directly
@@ -2315,8 +2373,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Blacksburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Blacksburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2326,8 +2384,8 @@ included in the refuse fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Blackstone Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Blackstone
 </td>
 <td style="text-align:center;">
 Directly
@@ -2337,8 +2395,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bluefield Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bluefield
 </td>
 <td style="text-align:center;">
 Directly
@@ -2348,8 +2406,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Boyce Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Boyce
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2359,8 +2417,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Bridgewater Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Bridgewater
 </td>
 <td style="text-align:center;">
 Directly
@@ -2370,8 +2428,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Broadway Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Broadway
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2381,8 +2439,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Buchanan Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Buchanan
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2392,8 +2450,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Christiansburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Christiansburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2403,8 +2461,8 @@ included in garbage service for residential only
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clarksville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clarksville
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2414,8 +2472,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Clifton Forge Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Clifton Forge
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2425,8 +2483,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Colonial Beach Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Colonial Beach
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2436,8 +2494,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Culpeper Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Culpeper
 </td>
 <td style="text-align:center;">
 Directly
@@ -2447,8 +2505,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dayton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dayton
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2458,8 +2516,8 @@ Included in monthly refuse fee
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Drakes Branch Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Drakes Branch
 </td>
 <td style="text-align:center;">
 Directly
@@ -2469,8 +2527,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Dublin Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Dublin
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2480,8 +2538,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Edinburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Edinburg
 </td>
 <td style="text-align:center;">
 Directly
@@ -2491,8 +2549,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Elkton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Elkton
 </td>
 <td style="text-align:center;">
 Directly
@@ -2502,8 +2560,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Farmville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Farmville
 </td>
 <td style="text-align:center;">
 Directly
@@ -2513,8 +2571,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Floyd Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Floyd
 </td>
 <td style="text-align:center;">
 Directly
@@ -2524,8 +2582,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Front Royal Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Front Royal
 </td>
 <td style="text-align:center;">
 Directly
@@ -2535,8 +2593,8 @@ included in refuse collection charge
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gordonsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gordonsville
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2546,8 +2604,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Gretna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Gretna
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2557,8 +2615,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hamilton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hamilton
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2568,8 +2626,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Haymarket Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Haymarket
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2579,8 +2637,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Herndon Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Herndon
 </td>
 <td style="text-align:center;">
 Directly
@@ -2590,8 +2648,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Hillsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Hillsville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2601,8 +2659,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Independence Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Independence
 </td>
 <td style="text-align:center;">
 Directly
@@ -2612,8 +2670,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Ivor Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Ivor
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2623,8 +2681,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Kenbridge Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Kenbridge
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2634,8 +2692,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Keysville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Keysville
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2645,8 +2703,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lawrenceville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lawrenceville
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2656,8 +2714,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Leesburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Leesburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2667,8 +2725,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Louisa Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Louisa
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2678,8 +2736,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Lovettsville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Lovettsville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2689,8 +2747,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Luray Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Luray
 </td>
 <td style="text-align:center;">
 Directly
@@ -2700,8 +2758,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Marion Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Marion
 </td>
 <td style="text-align:center;">
 Directly
@@ -2711,8 +2769,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Middleburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Middleburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2722,8 +2780,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Mineral Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Mineral
 </td>
 <td style="text-align:center;">
 Directly
@@ -2733,8 +2791,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Montross Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Montross
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2744,8 +2802,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Mount Jackson Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Mount Jackson
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2755,8 +2813,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-New Market Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+New Market
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2766,8 +2824,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Occoquan Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Occoquan
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2777,8 +2835,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Orange Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Orange
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2788,8 +2846,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Purcellville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Purcellville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2799,8 +2857,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Remington Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Remington
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2810,8 +2868,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Round Hill Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Round Hill
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2821,8 +2879,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Saint Paul Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Saint Paul
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2832,8 +2890,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Smithfield Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Smithfield
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2843,8 +2901,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-South Boston Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+South Boston
 </td>
 <td style="text-align:center;">
 Directly
@@ -2854,8 +2912,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-South Hill Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+South Hill
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2865,8 +2923,8 @@ Included in residential refuse collection fee - not available for commercial cus
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Strasburg Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Strasburg
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2876,8 +2934,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Tappahannock Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Tappahannock
 </td>
 <td style="text-align:center;">
 Directly
@@ -2887,8 +2945,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Timberville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Timberville
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2898,8 +2956,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Urbanna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Urbanna
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2909,8 +2967,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Victoria Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Victoria
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2920,8 +2978,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Vienna Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Vienna
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2931,8 +2989,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Vinton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Vinton
 </td>
 <td style="text-align:center;">
 Directly
@@ -2942,8 +3000,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warrenton Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warrenton
 </td>
 <td style="text-align:center;">
 Directly
@@ -2953,8 +3011,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Warsaw Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Warsaw
 </td>
 <td style="text-align:center;">
 Done by County
@@ -2964,8 +3022,8 @@ Done by County
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-West Point Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+West Point
 </td>
 <td style="text-align:center;">
 Directly
@@ -2975,8 +3033,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wise Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wise
 </td>
 <td style="text-align:center;">
 Directly
@@ -2986,8 +3044,8 @@ Directly
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Woodstock Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Woodstock
 </td>
 <td style="text-align:center;">
 Contracted
@@ -2997,8 +3055,8 @@ Contracted
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Wytheville Town
+<td style="text-align:left;padding-left: 2em;" indentlevel="1">
+Wytheville
 </td>
 <td style="text-align:center;">
 Directly
