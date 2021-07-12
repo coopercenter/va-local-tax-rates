@@ -1,5 +1,23 @@
 # Refuse and Recycling Collection Fees
 
+```{r prep data for section 20, message=FALSE, echo=FALSE}
+source("get_tax_rates_table.R")
+
+section_vars <- c("RCC_tipping_fees",
+                  "RCC_rec_serv_type",
+                  "RCC_rec_charge_fee")
+
+tax_rates %>% 
+  select(all_of(reference_vars), all_of(section_vars))  %>%
+  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
+  mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
+  mutate(has_RCC_tipping_fees = case_when(!(has_RCC_tipping_fees) ~ FALSE,
+                                          RCC_tipping_fees %in% c("no", "No", "N/A", "Landfill closed") ~ FALSE,
+                                          TRUE ~ TRUE)) %>%
+  mutate(has_RCC_rec_serv_type = (RCC_rec_serv_type %in% c("Contracted","Directly"))) %>%
+  filter(if_any(starts_with("has_"))) -> section_tbl
+```
+
 Many Virginia localities collect, or authorize to have collected,  refuse  and  recycled  materials.  In  its  survey,  the  Cooper Center inquired into the methods and fees for the collection  of  refuse  and  recycled  materials.  The  answers  are provided in four tables covering regular refuse pick up, tipping fees, recycling, and pickup of miscellaneous refuse items.
 
 ## REFUSE COLLECTION
@@ -24,25 +42,22 @@ Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns re
 
 ```{r}
 
-#Text table "Residential Recycling Programs, 2019" goes here (uncertain if these text tables are queryable from the database, or if they were created out of calculations from te the data, or something else entirely)
+#Text table "Residential Recycling Programs, 2019" goes here (uncertain if these text tables are queryable from the database, or if they were created out of calculations from the data, or something else entirely)
 
 ```
 
 For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere from \$1.33 to $16.50 per month.
-
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
 ```{r}
 #Table 20.1 "Refuse Collection Fees, 2019" goes here, formatting TBD
 ```
 
 ```{r table20-2, echo=FALSE}
-table_20_2_vars   <- c("ExternalDataReference","RCC_tipping_fees")
-table_20_2_labels <- c("Locality","Tipping Fee")
+section_tbl %>% 
+  filter(has_RCC_tipping_fees) %>%
+  select(ExternalDataReference, RCC_tipping_fees) -> table_20_2
 
-table_20_2 <- make_table(table_20_2_vars)
+table_20_2_labels <- c("Locality","Tipping Fee")
 
 knitr::kable(table_20_2, 
              caption = "Refuse Collection Tipping Fees Table, 2019", 
@@ -52,10 +67,11 @@ knitr::kable(table_20_2,
 ```
 
 ```{r table20-3, echo=FALSE}
-table_20_3_vars   <- c("ExternalDataReference","RCC_rec_serv_type","RCC_rec_charge_fee")
-table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
+section_tbl %>% 
+  filter(has_RCC_rec_serv_type) %>%
+  select(ExternalDataReference, RCC_rec_serv_type, RCC_rec_charge_fee) -> table_20_3
 
-table_20_3 <- make_table(table_20_3_vars)
+table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
 
 knitr::kable(table_20_3, 
              caption = "Recycling Collection Fees Table, 2019", 
