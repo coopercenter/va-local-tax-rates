@@ -28,13 +28,31 @@ Regarding  fees,  32  cities,  13  counties,  and  62  towns  reported  imposing
 Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The table below shows this breakdown.
 
 
-
-Table: (\#tab:unnamed-chunk-2)Residential Recycling Programs, 2019
-
-|Service    | Cities| Counties| Towns|
-|:----------|------:|--------:|-----:|
-|Direct     |     17|       37|    26|
-|Contracted |     21|       46|    34|
+<table>
+<caption>(\#tab:unnamed-chunk-2)Residential Recycling Programs, 2019</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Service </th>
+   <th style="text-align:right;"> Cities </th>
+   <th style="text-align:right;"> Counties </th>
+   <th style="text-align:right;"> Towns </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Direct </td>
+   <td style="text-align:right;"> 17 </td>
+   <td style="text-align:right;"> 37 </td>
+   <td style="text-align:right;"> 26 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Contracted </td>
+   <td style="text-align:right;"> 21 </td>
+   <td style="text-align:right;"> 46 </td>
+   <td style="text-align:right;"> 34 </td>
+  </tr>
+</tbody>
+</table>
 
 
 For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere from \$1.33 to $16.50 per month.

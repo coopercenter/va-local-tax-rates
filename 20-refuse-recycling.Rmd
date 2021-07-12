@@ -1,7 +1,7 @@
 # Refuse and Recycling Collection Fees
 
 ```{r prep data for section 20, message=FALSE, echo=FALSE}
-source("get_tax_rates_table.R")
+source("get_and_prep_data.R")
 
 section_vars <- c("RCC_tipping_fees",
                   "RCC_rec_serv_type",

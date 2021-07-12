@@ -1,7 +1,7 @@
 # Taxes on Natural Resources
 
 ```{r prep data for section 17, message=FALSE, echo=FALSE}
-source("get_tax_rates_table.R")
+source("get_and_prep_data.R")
 
 section_vars <- c("nat_tax_coal",
                   "nat_tax_oil",
@@ -15,6 +15,9 @@ tax_rates %>%
   mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
   mutate(has_nat_tax_min = (nat_tax_min == "Yes")) %>%
   filter(if_any(starts_with("has_"))) -> section_tbl
+
+
+
 ```
 
 Taxes on natural resources  are  rarely  used  by  localities  because many are not endowed with such resources. As a consequence, natural resources taxes accounted for less than 0.1 percent of total city tax revenue in fiscal year 2018, 0.2  percent of total county tax revenue, and less than 0.1 percent of total tax revenue of large towns, according to information from the Auditor of Public Accounts. These are averages; the vast majority of localities receive no revenue from this source. All the exceptions are located in Southwest Virginia. For information on individual localities, see Appendix C.
@@ -41,7 +44,9 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
 
 
 ```{r table17-1, echo=FALSE}
-table_17_1 <- section_tbl %>% select("ExternalDataReference", all_of(section_vars))
+# table_17_1 <- section_tbl %>% select(locality_name, all_of(section_vars))
+
+table_17_1 <- section_tbl %>% select(locality_name, locality_group, all_of(section_vars))
 
 table_17_1_labels <- c("Locality",
                        "Coal & Gas Severance Tax\\\n(§ 58.1-3712)",
@@ -50,9 +55,17 @@ table_17_1_labels <- c("Locality",
                        "Coal & Gas Road Improvement Tax\\\n(§ 58.1-3713)", 
                        "Tax on Mineral Land\\\n(§ 58.1-3286)")
 
-knitr::kable(table_17_1, 
+# kbl(tbl %>% select(-locality_group), 
+#              caption = "Natural Resource Taxes, 2019", 
+#              col.names = table_17_1_labels, 
+#              align = "lccccc",
+#              format = "html") %>%
+#   pack_rows(index = count_localities_by_type(tbl))
+
+make_long_table(table_17_1, 
              caption = "Natural Resource Taxes, 2019", 
              col.names = table_17_1_labels, 
              align = "lccccc",
              format = "html")
+
 ```
