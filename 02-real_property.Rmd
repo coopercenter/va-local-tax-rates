@@ -108,15 +108,14 @@ because reassessments lag market increases and tend to be conservative. Conseque
 
 **Table 2.7** shows city and county average effective tax rates in the year 2017. The department makes its computation in order to control for the variance in localities’ assessment procedures and timing. Therefore, when comparing tax rates among localities, the reader may wish to consult both Tables 2.1 and 2.7. Table 2.1 shows statutory rates in 2019. Table 2.7 shows statutory and effective rates in 2017. The following text table summarizes the effective tax rates for the localities shown in Table 2.7.
 
-It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real 
+It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real estate *taxable assessed value*,[^6] as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.[^7]
+
 
 ```{r}
 
 #table name: Effective Real Estate Tax Rates, 2017
 
 ```
-
-estate *taxable assessed value*,[^6] as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.[^7]
 
 In 2 cities and 10 counties the statutory rate was less than the effective rate. In two cities and seven counties statutory and effective rates were the same. Finally, in 34 cities and 78 counties statutory rates exceeded effective rates. 
 
@@ -168,6 +167,7 @@ source("make_table.R")
 
 ```{r table02-1, echo=FALSE}
 table_02_1_vars   <- c("ExternalDataReference","real_parcels", "real_parcels_res", "", "", "real_due_date1", "real_due_date2", "real_due_date3", "real_due_date4", "real_prorate")
+
 table_02_1_labels <- c("Locality","Total Number of Taxable Parcels","Number of Residential Taxable Parcels", "Tax Rate per $100 of Assessed Value, CY 2019", "Tax Rate per $100 of Assessed Value, FY 2020", "Tax Due Dates", "Tax Due Dates","Tax Due Dates", "Tax Due Dates", "Prorate Tax")
 
 table_02_1 <- make_table(table_02_1_vars)
@@ -220,6 +220,7 @@ knitr::kable(table_02_4,
 
 ```{r table02-5, echo=FALSE}
 table_02_5_vars   <- c("ExternalDataReference","real_fullAss", "real_reAssmt", "real_reAssmt_yrs", "real_phys", "real_reAssmt_last", "real_reAssmt_yLast", "real_maint_assmt", "real_phys_cycle", "real_phys_freq")
+
 table_02_5_labels <- c("Locality","Employs Full-time Assessor", "Conduct of General Reassessments, Contracted or In-house", "Conduct of General Reassessments, Reassessment Frequency (Years)", "Conduct of General Reassessments, Physical Insp. Part of Reassessment", "Conduct of General Reassessments, Last Done", "Conduct of General Reassessments, Last Done", "Maintenance Assessments Contracted or In-house", "Physical Inspection Cycle, Inspection", "Physical Inspection Cycle, Cycle (Years)")
 
 table_02_5 <- make_table(table_02_5_vars)
@@ -233,6 +234,7 @@ knitr::kable(table_02_5,
 
 ```{r table02-6, echo=FALSE}
 table_02_6_vars   <- c("ExternalDataReference","")
+
 table_02_6_labels <- c("Locality","Total Taxable Assessed Value ($)[^a]", "Percentage of Distribution by Category (%)[^b], Residential, Single Family", "Percentage of Distribution by Category (%)[^b], Residential, Multifamily", "Percentage of Distribution by Category (%)[^b], Commercial and Industrial", "Percentage of Distribution by Category (%)[^b], Agricultural")
 
 table_02_6 <- make_table(table_02_6_vars)
@@ -259,6 +261,7 @@ knitr::kable(table_02_7,
 
 ```{r table02-8, echo=FALSE}
 table_02_8_vars   <- c("ExternalDataReference","")
+
 table_02_8_labels <- c("Locality","Recreation Tax", "Deferral of Tax", "Tax Increment Financing Fund", "Energy Efficient Building Rate", "Manufacturing Renewable Energy Rate", "Low-Income Relief Grants")
 
 table_02_8 <- make_table(table_02_8_vars)
@@ -269,8 +272,6 @@ knitr::kable(table_02_8,
              align = "lcccccc",
              format = "html")
 ```
-
--------------------------------------------------------------------------------
 
 [^1]: Charlottesville Housing Affordability Program: https://www.
 charlottesville.org/departments-and-services/departments-a-g/
