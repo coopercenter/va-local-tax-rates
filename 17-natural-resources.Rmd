@@ -65,7 +65,5 @@ table_17_1_labels <- c("Locality",
 make_long_table(table_17_1, 
              caption = "Natural Resource Taxes, 2019", 
              col.names = table_17_1_labels, 
-             align = "lccccc",
-             format = "html")
-
+             align = "lccccc")
 ```

@@ -66,27 +66,25 @@ For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere f
 ```{r table20-2, echo=FALSE}
 section_tbl %>% 
   filter(has_RCC_tipping_fees) %>%
-  select(ExternalDataReference, RCC_tipping_fees) -> table_20_2
+  select(locality_name, locality_group, RCC_tipping_fees) -> table_20_2
 
 table_20_2_labels <- c("Locality","Tipping Fee")
 
-knitr::kable(table_20_2, 
+make_long_table(table_20_2, 
              caption = "Refuse Collection Tipping Fees Table, 2019", 
              col.names = table_20_2_labels, 
-             align = "lc",
-             format = "html")
+             align = "lc")
 ```
 
 ```{r table20-3, echo=FALSE}
 section_tbl %>% 
   filter(has_RCC_rec_serv_type) %>%
-  select(ExternalDataReference, RCC_rec_serv_type, RCC_rec_charge_fee) -> table_20_3
+  select(locality_name, locality_group, RCC_rec_serv_type, RCC_rec_charge_fee) -> table_20_3
 
 table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
 
-knitr::kable(table_20_3, 
+make_long_table(table_20_3, 
              caption = "Recycling Collection Fees Table, 2019", 
              col.names = table_20_3_labels, 
-             align = "lcc",
-             format = "html")
+             align = "lcc")
 ```

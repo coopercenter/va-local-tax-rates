@@ -52,7 +52,7 @@ make_long_table <- function(tbl, caption = "", col.names, align = NULL, format =
   require(dplyr)
   
   # Generate default column alignment if none specified
-  align <- ifelse(is.null(align), c("l", rep("c", ncol(tbl)-1)), align)
+  align <- ifelse(is.null(align), c("l", rep("c", ncol(tbl)-2)), align)
   
   # Generate table; drop "locality_type" column from display
   kbl(tbl %>% select(-locality_group),
