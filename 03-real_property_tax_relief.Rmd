@@ -6,7 +6,7 @@ Sections 58.1-3210 through 58.1-3218 of the *Code of Virginia* provides that loc
 Localities are allowed to establish by ordinance the net financial worth and annual income limitations pertaining to owners, relatives and non-relatives living in the dwelling(§ 58.1-3212) of qualified elderly or handicapped persons. Further, mobile homes that are owned by elderly and disabled persons are included in the allowable property tax exemptions whether or not mobile homes are permanently affixed. Finally, local governments are authorized to extend tax relief for the elderly and disabled to dwellings that are jointly owned by individuals, not all of whom are over 65 or totally disabled. 
 
 
-The text table below indicates the range and media of the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
+The table below indicates the range and media of the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
 
 ```{r}
 
@@ -14,7 +14,7 @@ The text table below indicates the range and media of the combined gross income 
 ```
 
 
-The following text table indicates, for those localities responding, how many localities have a tax relief plan that applies to both the elderly and the disabled, the elderly only,or the disabled only. 
+The following table indicates, for those localities responding, how many localities have a tax relief plan that applies to both the elderly and the disabled, the elderly only,or the disabled only. 
 
 
 ```{r}
