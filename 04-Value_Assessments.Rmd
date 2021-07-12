@@ -58,11 +58,24 @@ If the qualifying land reverts to a non-qualifying use, the property is subject 
 
 There is also a penalty for any misstatement made in the application for special assessment. In such a case, the owner is liable for all taxes that would have been incurred had the real estate not been subject to special assessment, together with penalties due on such sum. If the misstatement was made with the intent to defraud the locality, the owner is assessed an additional penalty of 100 percent of the unpaid taxes. 
 
-```{r}
-# Table 4.1 Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate, 2019
-
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
 ```
 
+```{r table04-1, echo=FALSE}
+table_04_1_vars   <- c("ExternalDataReference", "real_useVal_date", "real_useVal_land", "real_acre_uv", "real_useVal_fee", "", "", "real_useVal_estimate")
+table_04_1_labels <- c("Locality","Effective Date", "Types of Real Estate Subject to Assessment", "Acres Under Use Value Assessment", "Application Fee", "Agriculture Value per Acre, SLEAC*, Income Method", "Agriculture Value per Acre, SLEAC*, Rental Method", "Agriculture Value per Acre, Locality's Figure") 
+
+table_04_1 <- make_table(table_04_1_vars)
+
+knitr::kable(table_04_1, 
+             caption = "Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate Table, 2019", 
+             col.names = table_04_1_labels, 
+             align = "lccccccc",
+             format = "html")
+```
+
+---------------------------------------------------------------------------------------
 
 [^1]: Adele C. Morris, "Property Tax Treatment of Farmland: Does Tax Relief Delay Land Development," Helen F. Ladd, editor. *Local Government Tax and Land Use Policies in the United States*. (Northampton, MA: Edward Elgar, 1998), p. 156. 
 
