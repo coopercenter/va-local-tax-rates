@@ -7,7 +7,7 @@ section_vars <- c("utl_cie_tel", "utl_cie_water")
 
 tax_rates %>% 
   select(all_of(reference_vars), all_of(section_vars))  %>%
-  mutate(across(.cols = section_vars, ~ ifelse(.==0, NA, .)))   %>%          # Convert zero values to NA's
+  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%          # Convert zero values to NA's
   mutate(has_tel_tax    = (!is.na(utl_cie_tel)   & utl_cie_tel != 0),
          has_water_tax  = (!is.na(utl_cie_water) & utl_cie_water != 0)) %>%
 filter(has_tel_tax | has_water_tax) -> section_tbl

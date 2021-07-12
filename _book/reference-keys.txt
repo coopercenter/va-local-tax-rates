@@ -55,7 +55,7 @@ information-on-personal-property-tax
 motor-vehicle-tax
 other-personal-property-taxes
 machinery-and-tools-property-tax
-utility-license-tax
+sec:utility-license-tax
 sec:cable-tv
 consumers-utility-tax
 business-professional-and-occupational-license-tax

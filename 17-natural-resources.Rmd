@@ -11,8 +11,8 @@ section_vars <- c("nat_tax_coal",
 
 tax_rates %>% 
   select(all_of(reference_vars), all_of(section_vars))  %>%
-  mutate(across(.cols = section_vars, ~ ifelse(.==0, NA, .)))   %>%             # Convert zero values to NA's
-  mutate(across(.cols = section_vars, ~ !is.na(.), .names = "has_{.col}")) %>%
+  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
+  mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
   mutate(has_nat_tax_min = (nat_tax_min == "Yes")) %>%
   filter(if_any(starts_with("has_"))) -> section_tbl
 ```
@@ -41,7 +41,7 @@ The  amount  collected  under  this  tax  must  be  paid  into  a  special  fund
 
 
 ```{r table17-1, echo=FALSE}
-table_17_1 <- section_tbl %>% select("ExternalDataReference", section_vars)
+table_17_1 <- section_tbl %>% select("ExternalDataReference", all_of(section_vars))
 
 table_17_1_labels <- c("Locality",
                        "Coal & Gas Severance Tax\\\n(§ 58.1-3712)",
