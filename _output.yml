@@ -14,3 +14,6 @@ bookdown::gitbook:
 #   citation_package: natbib
 #   keep_tex: yes
 # bookdown::epub_book: default
+# pagedown::book_crc:
+#   toc-title: Contents
+#   lot: true
