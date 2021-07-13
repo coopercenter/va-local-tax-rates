@@ -30,8 +30,7 @@ A majority of the localities that impose the merchants’ capital tax compute th
 All reporting towns used the inventory tax component. None reported imposing a short-term rental tax. Amherst, Timberville and Pembroke reported imposing the rental vehicle tax.
 
 
-```r
-# Table 8.1 Merchants' Capital Tax, Basic Features, 2019
 
-# Table 8.2 Merchants' Capital Tax Provisions Concerning Taxation of Inventories, Rental Vehicles, and Short-Term Rentals, 2019
-```
+
+
+
