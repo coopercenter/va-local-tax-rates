@@ -6,7 +6,7 @@ Sections 58.1-3210 through 58.1-3218 of the *Code of Virginia* provides that loc
 Localities are allowed to establish by ordinance the net financial worth and annual income limitations pertaining to owners, relatives and non-relatives living in the dwelling(§ 58.1-3212) of qualified elderly or handicapped persons. Further, mobile homes that are owned by elderly and disabled persons are included in the allowable property tax exemptions whether or not mobile homes are permanently affixed. Finally, local governments are authorized to extend tax relief for the elderly and disabled to dwellings that are jointly owned by individuals, not all of whom are over 65 or totally disabled. 
 
 
-The text table below indicates the range and media of the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
+The table below indicates the range and media of the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
 
 
 ```r
@@ -14,7 +14,7 @@ The text table below indicates the range and media of the combined gross income 
 ```
 
 
-The following text table indicates, for those localities responding, how many localities have a tax relief plan that applies to both the elderly and the disabled, the elderly only,or the disabled only. 
+The following table indicates, for those localities responding, how many localities have a tax relief plan that applies to both the elderly and the disabled, the elderly only,or the disabled only. 
 
 
 
@@ -33,10 +33,9 @@ For example, if the table reads “\$7,500; first \$1,500 exempt,” this indica
 **Table 3.3** lists the combined elderly and disabled beneficiaries reported by each locality in 2018 or 2019 and the amount of revenue foregone by each locality because of the homeowner exemptions. The amounts were reported by 23 cities, 66 counties, and 31 towns that responded to the question. The amounts reported foregone totaled \$21,698,890 for cities, \$60,242,734 for counties and \$636,229 for the reporting towns. The grand total amount foregone by reporting cities, counties, and towns was \$82,577,853. An estimate of the average revenue foregone per beneficiary is also provided for localities reporting both number of beneficiaries and foregone revenue. For cities, the average revenue foregone was \$1,518 per beneficiary. The amount for counties was \$1,581, and for towns it was \$360. 
 
 
-```r
-#Table 3.1 Real Property Owner Tax Relief Plans for the Elderly and Disabled, 2019
 
-#Table 3.2 Real Property Renter Tax Relief Plans for the Elderly and Disabled, 2019
 
-#Table 3.3 Real Property Tax Relief Plans for the Elderly and Disabled Homeowners: Number of Beneficiaries and Foregone Tax Revenue, 2018 or 2019
-```
+
+
+
+

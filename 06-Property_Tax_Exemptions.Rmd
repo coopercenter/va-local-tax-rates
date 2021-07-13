@@ -1,4 +1,3 @@
-
 # Property Tax Exemptions for Certain Rehabilitated Real Estate and Miscellaneous Property Exemptions
 
 ## General provisions

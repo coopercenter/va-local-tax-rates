@@ -22,7 +22,7 @@ real-estate-with-delinquent-taxes-or-liens-appointment-of-special-commissioner-i
 personal-property-tax
 constitutional-amendment-personal-property-tax-exemption-for-motor-vehicle-of-a-disabled-veteran
 personal-property-tax-exemption-for-agricultural-vehicles
-intangible-personal-property-tax-classifi-cation-of-certain-business-property
+intangible-personal-property-tax-classification-of-certain-business-property
 real-property-tax-in-2019
 public-service-corporations
 tax-relief-programs
@@ -61,6 +61,7 @@ consumers-utility-tax
 business-professional-and-occupational-license-tax
 motor-vehicle-local-license-tax-2019
 meals-transient-occupancy-cigarettes-tobacco-and-admissions-excise-taxes
+meals-tax
 transient-occupancy-tax
 cigarette-and-tobacco-taxes
 admissions-tax

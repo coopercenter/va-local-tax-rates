@@ -36,7 +36,7 @@ For example, if the table reads “\$7,500; first \$1,500 exempt,” this indica
 source("make_table.R")
 ```
 
-```{r table03-1, echo=FALSE}
+```{r table03-1, echo=FALSE, eval=FALSE}
 table_03_1_vars   <- c("ExternalDataReference","real_own_inc", "real_own_net", "")
 table_03_1_labels <- c("Locality","Combined Gross Income", "Combined Net Worth", "Relief Plan/Exemption")
 
@@ -49,7 +49,7 @@ knitr::kable(table_03_1,
              format = "html")
 ```
 
-```{r table03-2, echo=FALSE}
+```{r table03-2, echo=FALSE, eval=FALSE}
 table_03_2_vars   <- c("ExternalDataReference", "real_rent_inc", "real_rent_net", "")
 table_03_2_labels <- c("Locality","Combined Gross Income", "Combined Net Worth", "Relief Plan")
 
@@ -62,7 +62,7 @@ knitr::kable(table_03_2,
              format = "html")
 ```
 
-```{r table03-3, echo=FALSE}
+```{r table03-3, echo=FALSE, eval=FALSE}
 table_03_3_vars   <- c("ExternalDataReference","")
 table_03_3_labels <- c("Locality","")
 
