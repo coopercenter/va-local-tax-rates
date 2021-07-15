@@ -1,5 +1,25 @@
 # Tangible Personal Property Tax
 
+```{r prep data for section 20, message=FALSE, echo=FALSE}
+source("get_and_prep_data.R")
+
+table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+table_09_5_vars   <- c("tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
+table_09_8_vars   <- c("tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
+table_09_9_vars   <- c("tang_research", "tang_research_rate", "tang_furn", "tang_furn_rate", "tang_bio", "tang_bio_rate")
+table_09_11_vars  <- c("tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
+table_09_12_vars  <- c("tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
+
+section_vars <- unique(unlist(mget(ls(pattern = "table_09_\\d?\\d_vars"))))
+
+# Select relevant rows and non-empty columns
+tax_rates %>% 
+  select(all_of(reference_vars), all_of(section_vars))  %>%
+  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
+  mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
+  filter(if_any(starts_with("has_"))) -> section_tbl
+```
+
 The personal property tax is the second most important source of tax revenue for cities and counties, though it is not as important for towns. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the personal property tax accounted for 10.7 percent of tax revenue for cities, 14.6 percent for counties, and 4.5 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns may vary significantly. For information on individual localities, see Appendix C.
 
 Cities, counties, and towns are permitted to tax the tangible personal property of businesses and individuals pursuant to the *Code of Virginia*, §§ 58.1-3500 through 58.1-3521. Included in this category are such items as motor vehicles, business furniture and fixtures, farming equipment, trailers, boats, recreational vehicles, and campers.
@@ -150,25 +170,22 @@ A further problem pertains to towns. Certain towns provided a tax rate without s
 # table name: Taxes on Horse Trailers, Special Fuel Vehicles, and Electric Vehicles, 2019
 ```
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
-
 ```{r table09-1, echo=FALSE}
-table_09_1_vars   <- c("ExternalDataReference","tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+# Table 9.1 Tangible Personal Property Tax General Information, 2019
+
 table_09_1_labels <- c("Locality","Personal Property Tax Rate/$100", "Personal Property Tax Due Date(s)", "Effective Date of Assessment", "Option for Payment of Tax", "Due Date and Option Terms[^§]", "Categories of Property for Which Proration Offered*", "Number of Accounts, All", "Number of Accounts, Business Only")
 
-table_09_1 <- make_table(table_09_1_vars)
+section_tbl %>% 
+  select(locality_name, locality_group, all_of(table_09_1_vars)) -> table_09_1
 
-knitr::kable(table_09_1, 
+make_long_table(table_09_1, 
              caption = "Tangible Personal Property Tax General Information Table, 2019", 
              col.names = table_09_1_labels, 
-             align = "lcccccccc",
-             format = "html")
+             align = "lcccccccc")
+
 ```
 
 ```{r table09-2, echo=FALSE}
-table_09_2_vars   <- c("ExternalDataReference","tang_eld_form", "tang_disd_form", "", "")
 table_09_2_labels <- c("Locality","Type of Relief or Exemption", "Type of Relief or Exemption", "Income Limit ($)", "Net Worth Limit ($)")
 
 table_09_2 <- make_table(table_09_2_vars)
@@ -207,7 +224,7 @@ knitr::kable(table_09_4,
 ```
 
 ```{r table09-5, echo=FALSE}
-table_09_5_vars   <- c("ExternalDataReference", "tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
+# table_09_5_vars   <- c("ExternalDataReference", "tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
 table_09_5_labels <- c("Locality", "Year Reporting", "Number of Beneficiaries", "Foregone Revenue ($)")
 
 table_09_5 <- make_table(table_09_5_vars)
@@ -246,7 +263,7 @@ knitr::kable(table_09_7,
 ```
 
 ```{r table09-8, echo=FALSE}
-table_09_8_vars   <- c("ExternalDataReference", "tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
+# table_09_8_vars   <- c("ExternalDataReference", "tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
 table_09_8_labels <- c("Locality", "Heaby Tools & Machinery*, Basis", "Heavy Tools & Machinery*, Rate/$100", "Computer Hardware*, Basis", "Computer Hardware*, Rate/$100", "Generating Equipment*, Basis", "Generating Equipment*, Rate/$100")
 
 table_09_8 <- make_table(table_09_8_vars)
@@ -259,7 +276,8 @@ knitr::kable(table_09_8,
 ```
 
 ```{r table09-9, echo=FALSE}
-table_09_9_vars   <- c("ExternalDataReference", "tang_research", "tang_research_rate", "tang_furn", "tang_furn_rate", "tang_bio", "tang_bio_rate")
+# 
+
 table_09_9_labels <- c("Locality", "Research & Development*, Basis", "Research & Development*, Rate/$100", "Business Furniture & Fixtures*, Basis", "Business Furniture & Fixtures*, Rate/$100", "Biotechnology*, Basis", "Biotechnology*, Rate/$100")
 
 table_09_9 <- make_table(table_09_9_vars)
@@ -285,7 +303,7 @@ knitr::kable(table_09_10,
 ```
 
 ```{r table09-11, echo=FALSE}
-table_09_11_vars   <- c("ExternalDataReference", "tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
+# table_09_11_vars   <- c("ExternalDataReference", "tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
 table_09_11_labels <- c("Locality", "Boats & Watercraft Over 5 Tons*, Basis", "Boats & Watercraft Over 5 Tons*, Rate/$100[^†]", "Private Pleasure Boats & Watercraft*, Basis", "Private Pleasure Boats & Watercraft*, Rate/$100[^†]", "Aircraft*, Basis", "Aircraft*, Rate/$100[^†]")
 
 table_09_11 <- make_table(table_09_11_vars)
@@ -298,7 +316,7 @@ knitr::kable(table_09_11,
 ```
 
 ```{r table09-12, echo=FALSE}
-table_09_12_vars   <- c("ExternalDataReference", "tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
+# table_09_12_vars   <- c("ExternalDataReference", "tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
 table_09_12_labels <- c("Locality", "Antique Motor Vehicles*, Basis", "Antique Motor Vehicles*, Rate/$100[^†]", "Recreational Vehicles*, Basis", "Recreational Vehicles*, Rate/$100[^†]", "Mobile Homes*, Basis", "Mobile Homes*, Rate/$100[^†]")
 
 table_09_12 <- make_table(table_09_12_vars)
@@ -323,9 +341,9 @@ knitr::kable(table_09_13,
              format = "html")
 ```
 
-```{r}
-# Table 9.1 Tangible Personal Property Tax General Information, 2019
 
+
+```{r}
 # Table 9.2 Tangible Personal Property Tax Relief for Elderly and Disabled, 2019
 
 # Table 9.3 Tangible Personal Property Tax for Automobiles and Trucks of Less than Two Tons, 2019
