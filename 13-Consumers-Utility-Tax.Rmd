@@ -29,3 +29,46 @@ The following text table summarizes the number of localities reporting these tax
 
 # Table 13.3 Utility Consumers' Monthly Tax on Water, 2019
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table13-1, echo=FALSE}
+table_13_1_vars   <- c("ExternalDataReference", "utl_elec_res", "utl_elec_comm", "utl_elec_ind")
+table_13_1_labels <- c("Locality","Residential", "Commercial", "Industrial")
+
+table_13_1 <- make_table(table_13_1_vars)
+
+knitr::kable(table_13_1, 
+             caption = "Utility Consumers' Monthly Tax on Electricity Table, 2019", 
+             col.names = table_13_1_labels, 
+             align = "lccc",
+             format = "html")
+```
+
+```{r table13-2, echo=FALSE}
+table_13_2_vars   <- c("ExternalDataReference", "utl_gas_res", "utl_gas_comm", "utl_gas_ind")
+table_13_2_labels <- c("Locality","Residential", "Commercial", "Industrial")
+
+table_13_2 <- make_table(table_13_2_vars)
+
+knitr::kable(table_13_2, 
+             caption = "Utility Consumers' Monthly Tax on Gas Table, 2019", 
+             col.names = table_13_2_labels, 
+             align = "lccc",
+             format = "html")
+```
+
+```{r table13-3, echo=FALSE}
+table_13_3_vars   <- c("ExternalDataReference", "utl_water_res", "utl_water_comm", "utl_water_ind")
+table_13_3_labels <- c("Locality","Residential", "Commercial", "Industrial")
+
+table_13_3 <- make_table(table_13_3_vars)
+
+knitr::kable(table_13_3, 
+             caption = "Utility Consumers' Monthly Tax on Water Table, 2019", 
+             col.names = table_13_3_labels, 
+             align = "lccc",
+             format = "html")
+```

@@ -22,6 +22,49 @@ The following text table, using unweighted averages, compares localities using o
 
 **Table 10.3** presents the number of machinery and tool accounts each locality reported for 2019. Twenty-eight cities reported their number of accounts, as did 69 counties and 27 towns. When we asked the question, we assumed localities organized their accounts by business entity (i.e., each business had an account and within that account resided any number of tools). However, based on responses from some localities, this might not always be the case. Some localities responded that the machinery or tool item, not the business entity, was the basis of the account. Others informed us that their machinery and tools accounts included items we did not expect, such as company work trucks. Localities which reported having such systems tended to report a higher number of accounts.
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table10-1, echo=FALSE}
+table_10_1_vars   <- c("ExternalDataReference","src_assmt_value", "mach_tool_assmt", "src_assmt_rate", "src_assmt_ratio", "")
+table_10_1_labels <- c("Locality","Basis of Assessment*", "Assessment Type*", "Statutory Rate Per $100", "Assessment, Year, Ratio (%)", "Effective Rate Per $100[^†]")
+
+table_10_1 <- make_table(table_10_1_vars)
+
+knitr::kable(table_10_1, 
+             caption = "Machinery and Tools Property Tax, General Information Table, 2019", 
+             col.names = table_10_1_labels, 
+             align = "lcccccc",
+             format = "html")
+```
+
+```{r table10-2, echo=FALSE}
+table_10_2_vars   <- c("ExternalDataReference","semi_manuf_rate", "forest_harv_rate", "", "", "", "")
+table_10_2_labels <- c("Locality","Rate Per $100 of Assessed Value, Semiconductor", ",Forestry", ",Vehicle Cleaning", ",Castings", ",Defense", ",Other Business")
+
+table_10_2 <- make_table(table_10_2_vars)
+
+knitr::kable(table_10_2, 
+             caption = "Machinery and Tools Tax on Specific Types of Equipment Table, 2019", 
+             col.names = table_10_2_labels, 
+             align = "lcccccc",
+             format = "html")
+```
+
+```{r table10-3, echo=FALSE}
+table_10_3_vars   <- c("ExternalDataReference","")
+table_10_3_labels <- c("Locality","")
+
+table_10_3 <- make_table(table_10_3_vars)
+
+knitr::kable(table_10_3, 
+             caption = "Machinery and Tools Tax, Number of Accounts Table, 2019", 
+             col.names = table_10_3_labels, 
+             align = "lcccccccc",
+             format = "html")
+```
+
 ```{r}
 # Table 10.1 Machinery and Tools Property Tax, General Information, 2019
 

@@ -9,3 +9,20 @@ The cable television system franchise tax still exists in those localities with 
 ```{r}
 # Table 12.1 Cable Television System Tax, 2019
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table12-1, echo=FALSE}
+table_12_1_vars   <- c("ExternalDataReference", "cable_tax_year", "cable_tax_rate", "cable_tax_provs", "cable_BPOL")
+table_12_1_labels <- c("Locality","Dates Contract Clauses Scheduled to Expire", "Franchise Tax on Gross Receipts (%)", "Multiple Cable Providers", "Cable BPOL Tax")
+
+table_12_1 <- make_table(table_12_1_vars)
+
+knitr::kable(table_12_1, 
+             caption = "Cable Television System Tax Table, 2019", 
+             col.names = table_12_1_labels, 
+             align = "lcccc",
+             format = "html")
+```
