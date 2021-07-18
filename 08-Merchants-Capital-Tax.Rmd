@@ -32,7 +32,7 @@ All reporting towns used the inventory tax component. None reported imposing a s
 source("make_table.R")
 ```
 
-```{r table08-1, echo=FALSE}
+```{r table08-1, echo=FALSE, eval=FALSE}
 table_08_1_vars   <- c("ExternalDataReference","merch_assmt_meth", "merch_date_oth", "merch_rate", "merch_assmt", "merch_assmt_pc")
 table_08_1_labels <- c("Locality","Assessment Source","Valuation Date","Statutory (Nominal) Tax Rate (per $100)","Assessment Method*","Assessment Percentage (%)")
 
@@ -45,7 +45,7 @@ knitr::kable(table_20_2,
              format = "html")
 ```
 
-```{r table08-2, echo=FALSE}
+```{r table08-2, echo=FALSE, eval=FALSE}
 table_08_2_vars   <- c("ExternalDataReference","","","")
 table_08_2_labels <- c("Locality","Inventory Tax","Rental Vehicle Tax", "Short-Term Rental Tax")
 

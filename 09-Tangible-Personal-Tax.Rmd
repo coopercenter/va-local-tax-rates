@@ -1,5 +1,25 @@
 # Tangible Personal Property Tax
 
+```{r prep data for section 20, message=FALSE, echo=FALSE}
+source("get_and_prep_data.R")
+
+table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+table_09_5_vars   <- c("tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
+table_09_8_vars   <- c("tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
+table_09_9_vars   <- c("tang_research", "tang_research_rate", "tang_furn", "tang_furn_rate", "tang_bio", "tang_bio_rate")
+table_09_11_vars  <- c("tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
+table_09_12_vars  <- c("tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
+
+section_vars <- unique(unlist(mget(ls(pattern = "table_09_\\d?\\d_vars"))))
+
+# Select relevant rows and non-empty columns
+tax_rates %>% 
+  select(all_of(reference_vars), all_of(section_vars))  %>%
+  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
+  mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
+  filter(if_any(starts_with("has_"))) -> section_tbl
+```
+
 The personal property tax is the second most important source of tax revenue for cities and counties, though it is not as important for towns. In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the personal property tax accounted for 10.7 percent of tax revenue for cities, 14.6 percent for counties, and 4.5 percent for large towns. These are averages; the relative importance of taxes in individual cities, counties, and towns may vary significantly. For information on individual localities, see Appendix C.
 
 Cities, counties, and towns are permitted to tax the tangible personal property of businesses and individuals pursuant to the *Code of Virginia*, §§ 58.1-3500 through 58.1-3521. Included in this category are such items as motor vehicles, business furniture and fixtures, farming equipment, trailers, boats, recreational vehicles, and campers.
@@ -26,7 +46,7 @@ Finally, 24 cities, 37 counties and 16 towns reported offering proration of the 
 
 Historically, the most important tangible personal property category has been motor vehicles. This tax is often called the “car tax” even though it covers sport utility vehicles (SUVs), pickup and panel trucks, large trucks, minivans, and motorcycles as well. In the survey, localities were asked to provide the percentage of personal property taxes coming from motor vehicles in fiscal year 2019. The unweighted average percentages for cities, counties and towns were 68 percent, 66 percent, and 74 percent, respectively. It is possible that some localities misunderstood the question about this topic and incorrectly counted state Personal Property Tax Relief Act (PPTRA) reimbursements as part of a local tax instead of as non-categorical state aid.
 
-The Personal Property Tax Relief Act of 1998 (§ 58.1-3524) established a system by which the state would reimburse localities for relief on the tangible personal property tax.[^1] Passenger cars, pickup or panel trucks, and motorcycles owned or leased by natural persons and used for non-business purposes were to have the tax eliminated on the first \$20,000 of value over a five year period. Twelve and one-half percent of the tax was to be eliminated in tax year 1998, 27.5 percent in tax year 1999, 47.5 percent in tax year 2000 and 70 percent in tax year 2001. One hundred percent was slated to be eliminated in tax year 2002 and thereafter, but this final step was not implemented due to Virginia’s budget crisis in that period. Instead, in 2002, the General Assembly froze the reimbursement rate at 70 percent. Then, a special session of the General Assembly determined that the state would freeze what it was giving to localities at \$950 million annually. Beginning tax year 2006, each locality’s percentage share from the state distribution is based upon its actual share of the state reimbursements from tax year 2005. Each locality receiving a state reimbursement must reduce its rate on the first $20,000 value so that the sum of local tax revenue and state reimbursement to the locality approximates what the locality would have received based on the local valuation method and the local tax rate before the car tax rebate became law.
+The Personal Property Tax Relief Act of 1998 (§ 58.1-3524) established a system by which the state would reimburse localities for relief on the tangible personal property tax.[^09-1] Passenger cars, pickup or panel trucks, and motorcycles owned or leased by natural persons and used for non-business purposes were to have the tax eliminated on the first \$20,000 of value over a five year period. Twelve and one-half percent of the tax was to be eliminated in tax year 1998, 27.5 percent in tax year 1999, 47.5 percent in tax year 2000 and 70 percent in tax year 2001. One hundred percent was slated to be eliminated in tax year 2002 and thereafter, but this final step was not implemented due to Virginia’s budget crisis in that period. Instead, in 2002, the General Assembly froze the reimbursement rate at 70 percent. Then, a special session of the General Assembly determined that the state would freeze what it was giving to localities at \$950 million annually. Beginning tax year 2006, each locality’s percentage share from the state distribution is based upon its actual share of the state reimbursements from tax year 2005. Each locality receiving a state reimbursement must reduce its rate on the first $20,000 value so that the sum of local tax revenue and state reimbursement to the locality approximates what the locality would have received based on the local valuation method and the local tax rate before the car tax rebate became law.
 
 Vehicle assessed values are based on published market guides. For valuation of automobiles, all localities use the National Automobile Dealers’ Association’s *Official Used Car Guide* (NADA) as their *primary* valuation guide for cars and sport utility vehicles. When a vehicle is not listed in the primary guide, the locality obtains values from some other source. All cities and counties in Virginia levy this tax on motor vehicles.
 
@@ -62,7 +82,7 @@ Information on tax rates of towns that did not respond to the survey can be foun
 # table name: Dispersion of Assessment Ratios, 2019
 ```
 
-Department of Taxation’s local tax rates survey for tax year 2018.[^2] The rates shown are the most recent information available for towns that did not respond to the Cooper Center survey.
+Department of Taxation’s local tax rates survey for tax year 2018.[^09-2] The rates shown are the most recent information available for towns that did not respond to the Cooper Center survey.
 
 **Table 9.4** continues with data related to the PPTRA for motor vehicles for tax years 2018 and 2019. The second column lists whether the locality offers exemptions for low-value automobiles and light trucks. Twenty-one cities, 49 counties and 25 towns reported offering an exemption of some sort to low-value vehicles. The third column refers to methods for applying PPTRA tax relief. A locality can use one of three methods: a reduced rate method (RR), a specific relief method that provides the same percentage of relief for all qualifying vehicles (SRSP), and a specific relief method that provides a declining percentage of relief as the vehicle’s value rises (SRDP). The text table below summarizes the choices by all cities, 93 counties and the 66 towns that answered the question.
 
@@ -100,7 +120,7 @@ Based on localities that did respond for both questions on beneficiaries and for
 
 **Table 9.6** compares the tax rates and assessment components of the car tax between 1997, the year before $^the PPTRA went into effect, and 2019. The table provides information on localities that have raised their personal property taxes on motor vehicles since the beginning of the PPTRA.
 
-When the PPTRA became law, some saw it as the beginning of the end of the “car tax.” However, as reimbursements rose and the state’s fiscal condition worsened, the commonwealth decided to limit the rollback. As previously noted, now each locality is annually given a lump sum by the state that is applied to each resident’s total property tax. The state reimbursements are based on 1997 effective rates as provided by the PPTRA. Any increase in the effective rate consequent to the 1997 rate is not covered by the PPTRA reimbursement from the state.[^3]
+When the PPTRA became law, some saw it as the beginning of the end of the “car tax.” However, as reimbursements rose and the state’s fiscal condition worsened, the commonwealth decided to limit the rollback. As previously noted, now each locality is annually given a lump sum by the state that is applied to each resident’s total property tax. The state reimbursements are based on 1997 effective rates as provided by the PPTRA. Any increase in the effective rate consequent to the 1997 rate is not covered by the PPTRA reimbursement from the state.[^09-3]
 
 Making certain assumptions about the assessment value concept (which will be discussed below), it appears that large majorities of cities and counties have increased their effective rates since 1997. Twenty-eight cities and 78 counties increased them. The assumption made here is that the value assessment concepts follow a clear path of valuation. In NADA’s *Official Used Car Guide*, for instance, the lowest valuation is applied to loan value, a higher valuation is applied to trade-in value, and the highest valuation is applied to retail value. This is the hierarchy one would expect to see when comparing average measures of loan, trade-in, and retail value, or clean measures of loan, trade-in, and retail value. A problem arises, however, with those valuations that maintain subcategories. NADA’s multiple trade-in values, based on condition of vehicles, as discussed earlier, have not been tracked as separate categories. Therefore, we can’t be sure whether certain localities have changed subcategories. Consequently, historical adjustments within this valuation cannot be determined from the table.
 
@@ -150,25 +170,22 @@ A further problem pertains to towns. Certain towns provided a tax rate without s
 # table name: Taxes on Horse Trailers, Special Fuel Vehicles, and Electric Vehicles, 2019
 ```
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
-
 ```{r table09-1, echo=FALSE}
-table_09_1_vars   <- c("ExternalDataReference","tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+# Table 9.1 Tangible Personal Property Tax General Information, 2019
+
 table_09_1_labels <- c("Locality","Personal Property Tax Rate/$100", "Personal Property Tax Due Date(s)", "Effective Date of Assessment", "Option for Payment of Tax", "Due Date and Option Terms[^§]", "Categories of Property for Which Proration Offered*", "Number of Accounts, All", "Number of Accounts, Business Only")
 
-table_09_1 <- make_table(table_09_1_vars)
+section_tbl %>% 
+  select(locality_name, locality_group, all_of(table_09_1_vars)) -> table_09_1
 
-knitr::kable(table_09_1, 
+make_long_table(table_09_1, 
              caption = "Tangible Personal Property Tax General Information Table, 2019", 
              col.names = table_09_1_labels, 
-             align = "lcccccccc",
-             format = "html")
+             align = "lcccccccc")
+
 ```
 
 ```{r table09-2, echo=FALSE}
-table_09_2_vars   <- c("ExternalDataReference","tang_eld_form", "tang_disd_form", "", "")
 table_09_2_labels <- c("Locality","Type of Relief or Exemption", "Type of Relief or Exemption", "Income Limit ($)", "Net Worth Limit ($)")
 
 table_09_2 <- make_table(table_09_2_vars)
@@ -207,7 +224,7 @@ knitr::kable(table_09_4,
 ```
 
 ```{r table09-5, echo=FALSE}
-table_09_5_vars   <- c("ExternalDataReference", "tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
+# table_09_5_vars   <- c("ExternalDataReference", "tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
 table_09_5_labels <- c("Locality", "Year Reporting", "Number of Beneficiaries", "Foregone Revenue ($)")
 
 table_09_5 <- make_table(table_09_5_vars)
@@ -246,7 +263,7 @@ knitr::kable(table_09_7,
 ```
 
 ```{r table09-8, echo=FALSE}
-table_09_8_vars   <- c("ExternalDataReference", "tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
+# table_09_8_vars   <- c("ExternalDataReference", "tang_construct", "tang_construct_rate", "tang_comp", "tang_comp_rate", "tang_gen_equip", "tang_gen_equip_rate")
 table_09_8_labels <- c("Locality", "Heaby Tools & Machinery*, Basis", "Heavy Tools & Machinery*, Rate/$100", "Computer Hardware*, Basis", "Computer Hardware*, Rate/$100", "Generating Equipment*, Basis", "Generating Equipment*, Rate/$100")
 
 table_09_8 <- make_table(table_09_8_vars)
@@ -259,7 +276,8 @@ knitr::kable(table_09_8,
 ```
 
 ```{r table09-9, echo=FALSE}
-table_09_9_vars   <- c("ExternalDataReference", "tang_research", "tang_research_rate", "tang_furn", "tang_furn_rate", "tang_bio", "tang_bio_rate")
+# 
+
 table_09_9_labels <- c("Locality", "Research & Development*, Basis", "Research & Development*, Rate/$100", "Business Furniture & Fixtures*, Basis", "Business Furniture & Fixtures*, Rate/$100", "Biotechnology*, Basis", "Biotechnology*, Rate/$100")
 
 table_09_9 <- make_table(table_09_9_vars)
@@ -285,7 +303,7 @@ knitr::kable(table_09_10,
 ```
 
 ```{r table09-11, echo=FALSE}
-table_09_11_vars   <- c("ExternalDataReference", "tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
+# table_09_11_vars   <- c("ExternalDataReference", "tang_boat5t_assmt", "tang_boat5t_rate", "tang_boat_assmt", "tang_boat_rate", "tang_air_assmt", "tang_air_rate")
 table_09_11_labels <- c("Locality", "Boats & Watercraft Over 5 Tons*, Basis", "Boats & Watercraft Over 5 Tons*, Rate/$100[^†]", "Private Pleasure Boats & Watercraft*, Basis", "Private Pleasure Boats & Watercraft*, Rate/$100[^†]", "Aircraft*, Basis", "Aircraft*, Rate/$100[^†]")
 
 table_09_11 <- make_table(table_09_11_vars)
@@ -298,7 +316,7 @@ knitr::kable(table_09_11,
 ```
 
 ```{r table09-12, echo=FALSE}
-table_09_12_vars   <- c("ExternalDataReference", "tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
+# table_09_12_vars   <- c("ExternalDataReference", "tang_amv_assmt", "tang_amv_rate", "tang_rv_assmt", "tang_rv_rate", "tang_mh_assmt", "tang_mh_rate")
 table_09_12_labels <- c("Locality", "Antique Motor Vehicles*, Basis", "Antique Motor Vehicles*, Rate/$100[^†]", "Recreational Vehicles*, Basis", "Recreational Vehicles*, Rate/$100[^†]", "Mobile Homes*, Basis", "Mobile Homes*, Rate/$100[^†]")
 
 table_09_12 <- make_table(table_09_12_vars)
@@ -323,9 +341,9 @@ knitr::kable(table_09_13,
              format = "html")
 ```
 
-```{r}
-# Table 9.1 Tangible Personal Property Tax General Information, 2019
 
+
+```{r}
 # Table 9.2 Tangible Personal Property Tax Relief for Elderly and Disabled, 2019
 
 # Table 9.3 Tangible Personal Property Tax for Automobiles and Trucks of Less than Two Tons, 2019
@@ -351,10 +369,10 @@ knitr::kable(table_09_13,
 # Table 9.13 Tangible Personal Property Taxes Related to Horse Trailers, Special Fuel Vehicles, and Electric Vehicles, 2019
 ```
 
-[^1]: This history of the PPTRA and the subsequent discussion of its impact on the state since it was instituted is based on “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31. http://www.via.vt.edu/winter06/index.html
+[^09-1]: This history of the PPTRA and the subsequent discussion of its impact on the state since it was instituted is based on “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31. http://www.via.vt.edu/winter06/index.html
 
-[^2]: http://www.tax.virginia.gov/content/local-tax-rates
+[^09-2]: http://www.tax.virginia.gov/content/local-tax-rates
 
-[^3]: See “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31.
+[^09-3]: See “What Will Become of the Car Tax?” by John L. Knapp in *Virginia Issues and Answers*. (Winter 2006), Vol. 13, No. 1, pp. 27-31.
 http://www.via.vt.edu/winter06/index.html
 

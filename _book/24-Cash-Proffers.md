@@ -6,7 +6,7 @@ Eligibility requirements are listed in § 15.2-2298 and §   15.2-2303.   Sectio
 
 Further  eligibility  requirements  listed  in  §  15.2-2303  permit  proffers  for  (1)  any  county  with  an  urban  county  executive  form  of  government;  (2)  any  city  next  to  or  surrounded  by  a  county  with  an  urban  county  executive  form of government; (3) any county next to a county with an urban county executive form of government; (4) any city next to or surrounded by a county contiguous to a county with  an  urban  county  executive  form  of  government;  (5)  any town within a county contiguous to a county with an urban  county  executive  form  of  government;  and  (6)  any  county  east  of  the  Chesapeake  Bay  (i.e.,  Accomack  and  Northampton  counties).  Finally,  §  15.2-2303.1  permits  proffers  for  any  county  with  a  1990  census  population  between  10,300  and  11,000  through  which  an  interstate  highway  passes.  This  section  was  meant  to  include  New  Kent County.
 
-Proffers  may  entail  the  giving  of  property,  property  improvements,  or  cash.  Proffers  of  cash  payments  are  required  to  be  disclosed  to  the  Commission  on  Local  Government  in  accordance  with  §  15.2-2303.2.There  is  no requirement for reporting non-cash proffers, a category that  may  be  significant.  Cash  proffers  are  reported  in  an  annual commission publication[^1]. The study presented here covers fiscal  year  2018.  In  that  period,  the  commission  shows  a  total  of  298  localities  eligible  to  receive  cash  proffers (36 cities, 89 counties, and 177 towns). Of those, 36 reported cash proffer activity.
+Proffers  may  entail  the  giving  of  property,  property  improvements,  or  cash.  Proffers  of  cash  payments  are  required  to  be  disclosed  to  the  Commission  on  Local  Government  in  accordance  with  §  15.2-2303.2.There  is  no requirement for reporting non-cash proffers, a category that  may  be  significant.  Cash  proffers  are  reported  in  an  annual commission publication[^24-1]. The study presented here covers fiscal  year  2018.  In  that  period,  the  commission  shows  a  total  of  298  localities  eligible  to  receive  cash  proffers (36 cities, 89 counties, and 177 towns). Of those, 36 reported cash proffer activity.
 
 The  following  text  table  shows  the  total  cash  proffer  revenue expended annually from 2011 through 2018. 
 
@@ -32,4 +32,4 @@ The   following   text   table   shows   the   relative   importance of the vari
 
 
 
-[^1]: Commission on Local Government, Report on Proffered Cash Payments and Expenditures by Virginia’s Counties, Cities and Towns, 2017-2018. https://www.dhcd.virginia.gov/cash-proffers. 
+[^24-1]: Commission on Local Government, Report on Proffered Cash Payments and Expenditures by Virginia’s Counties, Cities and Towns, 2017-2018. https://www.dhcd.virginia.gov/cash-proffers. 

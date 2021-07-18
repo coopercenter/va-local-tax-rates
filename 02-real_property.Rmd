@@ -16,11 +16,11 @@ The commissioner of the revenue or another designated official in each city or c
 
 There are several types of locally financed tax relief programs available. Section 3 of this study contains information on so-called circuit breaker plans for the elderly and disabled. Section 4 covers land use assessments for agricultural, horticultural, forestal, and open space real estate. Section 5 contains information on preferential assessments for agricultural and forestal districts. Finally, Section 6 covers property tax exemptions for certain rehabilitated real estate and other exemptions.
 
-Only the city of Charlottesville, Loudoun County, and Arlington County reported providing tax relief for low-income owners and renters who are not elderly. The city of Charlottesville administers the Charlottesville Housing Affordability Program (CHAP) to help low and middle income homeowners. The program awards grants up to \$1,000 to homeowners with houses assessed at less than \$375,000 and having an annual income less than \$55,000.[^1] Loudoun County administers the Affordable Dwelling Unit Program for renters and first-time buyers. Buyers need an income greater than 30 percent but less than 70 percent of the area median income to participate. Qualified renters are eligible to rent apartments at rates from \$630 to \$1,300. Arlington County’s Housing Grants Program is available to working families with at least one child under age 18. Personal assets may not exceed \$35,000 and there is an income limit based on household size.
+Only the city of Charlottesville, Loudoun County, and Arlington County reported providing tax relief for low-income owners and renters who are not elderly. The city of Charlottesville administers the Charlottesville Housing Affordability Program (CHAP) to help low and middle income homeowners. The program awards grants up to \$1,000 to homeowners with houses assessed at less than \$375,000 and having an annual income less than \$55,000.[^02-1] Loudoun County administers the Affordable Dwelling Unit Program for renters and first-time buyers. Buyers need an income greater than 30 percent but less than 70 percent of the area median income to participate. Qualified renters are eligible to rent apartments at rates from \$630 to \$1,300. Arlington County’s Housing Grants Program is available to working families with at least one child under age 18. Personal assets may not exceed \$35,000 and there is an income limit based on household size.
 
-Localities are permitted to institute deferral for a portion of the real estate tax by § 58.1-3219 of the *Code of Virginia*. Localities are permitted to grant deferrals from the full amount by which each taxpayer’s real estate tax levy exceeds 105 percent of the previous year’s tax, or such higher percentage adopted by the locality. Deferred taxes are subject to interest in an amount established by the governing body, not to exceed the rate published by the IRS code.[^2] The deferral potentially applies to every property owner, not just the elderly and disabled. (For deferrals limited to the elderly and disabled see Section 3 of this study.)
+Localities are permitted to institute deferral for a portion of the real estate tax by § 58.1-3219 of the *Code of Virginia*. Localities are permitted to grant deferrals from the full amount by which each taxpayer’s real estate tax levy exceeds 105 percent of the previous year’s tax, or such higher percentage adopted by the locality. Deferred taxes are subject to interest in an amount established by the governing body, not to exceed the rate published by the IRS code.[^02-2] The deferral potentially applies to every property owner, not just the elderly and disabled. (For deferrals limited to the elderly and disabled see Section 3 of this study.)
 
-The deferral program is rarely used. Administrative problems appear to be the major reason for the unpopularity of deferral programs. Loudoun County had a deferral program in place in the 1990s but terminated it “… because the program was administratively complex, cumbersome and required staff time in disproportion to the benefit received by the taxpayer.”[^3] The cities of Alexandria, Falls Church, and Fairfax and the counties of Fairfax and Henrico considered deferral but did not adopt it. According to Henrico staff, “The administrative procedures for tracing the properties and recovering the relevant taxes upon either the death of the owner or transfer of the property itself would be both cumbersome and time consuming and could not be accomplished with existing staffing levels or existing computer systems.”[^4] Another reason for the unpopularity of the programs may be that taxpayers only receive postponement, not removal, of the tax liability. The cities of Charlottesville and Richmond, the county of Middlesex, and the town of Amherst were the only localities reporting a deferral program in 2019. 
+The deferral program is rarely used. Administrative problems appear to be the major reason for the unpopularity of deferral programs. Loudoun County had a deferral program in place in the 1990s but terminated it “… because the program was administratively complex, cumbersome and required staff time in disproportion to the benefit received by the taxpayer.”[^02-3] The cities of Alexandria, Falls Church, and Fairfax and the counties of Fairfax and Henrico considered deferral but did not adopt it. According to Henrico staff, “The administrative procedures for tracing the properties and recovering the relevant taxes upon either the death of the owner or transfer of the property itself would be both cumbersome and time consuming and could not be accomplished with existing staffing levels or existing computer systems.”[^02-4] Another reason for the unpopularity of the programs may be that taxpayers only receive postponement, not removal, of the tax liability. The cities of Charlottesville and Richmond, the county of Middlesex, and the town of Amherst were the only localities reporting a deferral program in 2019. 
 
 ## STATUTORY RATES, SPECIAL TAXES, DUE DATES, PRORATION, AND BILLING PRACTICES
 
@@ -58,7 +58,7 @@ The final category of special districts is that of localities within the Norther
 
 The second column lists whether a locality has a full-time assessor. Twenty-seven cities reported employing a full-time property tax assessor, while 11 did not. In contrast, only 36 counties had a full-time assessor while 59 did not. This reflects the fact that many counties reassess property less frequently than cities. No towns had assessors, since towns rely on assessed values established by their host counties. 
 
-Columns three, four, five, and six of Table 2.5 provide data on the conduct of general reassessments and cover four questions. (1) Are reassessments done by the locality or contracted out? (2) What is the reassessment frequency? (3) Is physical inspection part of the reassessment? (4) When was the reassessment last done? Regarding the conduct of the general reassessment, 28 cities reported conducting reassessments in-house while 10 reported contracting with outside assessors. Twenty-eight counties reported doing general reassessments in-house, while 67 reported contracting out for services. Section 58.1-3250 of the *Code* requires cities to have a general reassessment of real estate every two years. However, any city with a total population of 30,000 or less may elect to conduct its general reassessments at four-year intervals.[^5] Counties are required to have a general reassessment every four years (§ 58.1-3252). There is an exception for counties with a total population of 50,000 or less. These counties may elect to reassess at either five-year or six-year intervals (§ 58.1-3252). However, nothing in these sections affects the power of cities and counties to reassess more frequently. A large majority of the cities (30) reassess at one or two year intervals. In contrast, less than three out of ten counties (27) reassess that frequently. Virtually all of the populous cities and counties reassess annually or biennially. Towns rely on their surrounding county to provide assessments, so a town’s reassessment occurs with the same frequency as the county’s. The reassessment periods are summarized in the table on the following page.
+Columns three, four, five, and six of Table 2.5 provide data on the conduct of general reassessments and cover four questions. (1) Are reassessments done by the locality or contracted out? (2) What is the reassessment frequency? (3) Is physical inspection part of the reassessment? (4) When was the reassessment last done? Regarding the conduct of the general reassessment, 28 cities reported conducting reassessments in-house while 10 reported contracting with outside assessors. Twenty-eight counties reported doing general reassessments in-house, while 67 reported contracting out for services. Section 58.1-3250 of the *Code* requires cities to have a general reassessment of real estate every two years. However, any city with a total population of 30,000 or less may elect to conduct its general reassessments at four-year intervals.[^02-5] Counties are required to have a general reassessment every four years (§ 58.1-3252). There is an exception for counties with a total population of 50,000 or less. These counties may elect to reassess at either five-year or six-year intervals (§ 58.1-3252). However, nothing in these sections affects the power of cities and counties to reassess more frequently. A large majority of the cities (30) reassess at one or two year intervals. In contrast, less than three out of ten counties (27) reassess that frequently. Virtually all of the populous cities and counties reassess annually or biennially. Towns rely on their surrounding county to provide assessments, so a town’s reassessment occurs with the same frequency as the county’s. The reassessment periods are summarized in the table on the following page.
 
 Column seven of Table 2.5 shows information about maintenance assessments. While general reassessments involve reassessing all parcels to reflect changes in market value, maintenance assessments involve adjusting assessed values between reassessments because of new construction, improvements, damages, demolitions, subdivisions, and consolidations. Thirty-three cities responded that they performed maintenance assessments using staff, while five reported contracting for the work. Among counties, 66 reported performing maintenance reassessments using staff, while 29 reported contracting the work to independent appraisers.
 
@@ -104,7 +104,7 @@ Tax rates are generally discussed in terms of either statutory (nominal) rates o
 
 **Table 2.7** shows city and county average effective tax rates in the year 2017. The department makes its computation in order to control for the variance in localities’ assessment procedures and timing. Therefore, when comparing tax rates among localities, the reader may wish to consult both Tables 2.1 and 2.7. Table 2.1 shows statutory rates in 2019. Table 2.7 shows statutory and effective rates in 2017. The following text table summarizes the effective tax rates for the localities shown in Table 2.7.
 
-It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real estate *taxable assessed value*,[^6] as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.[^7]
+It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real estate *taxable assessed value*,[^02-6] as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.[^02-7]
 
 
 ```{r}
@@ -128,7 +128,7 @@ The *coefficient of dispersion* measures how closely the individual ratios of ea
 $$
 CD =\left[ \frac{\sum_i |X_i + X_m |/n}{X_m} \right] \times 100
 $$
-where $X_i$ represents the assessment/sales ratio for the $i^\text{th}$ sale in a sample of size $n$, and $X_m$ represents the median ratio of the sample.[^8] If there were no dispersion, CD would equal zero.
+where $X_i$ represents the assessment/sales ratio for the $i^\text{th}$ sale in a sample of size $n$, and $X_m$ represents the median ratio of the sample.[^02-8] If there were no dispersion, CD would equal zero.
 
 The table below summarizes the coefficients of dispersion tabulated for the cities and counties. Eighteen of the cities had CDs of no more than 9.9 percent. Eight had CDs between 10 percent and 14.9 percent, 7 had CDs between 15 and 19.9 percent, and 4 had CDs between 20 and 24.9 percent. Counties tended to vary more in the degree of dispersion. Thirteen had CDs between 5 and 9.9 percent, 18 had CDs between 10 and 14.9 percent, 25 had CDs between 15 and 19.9 percent, 26 had CDs between 20 and 24.9 percent, 11 had CDs between 25 and 29.9 percent, and 2 had CDs between 30 and 34.9 percent. 
 
@@ -138,7 +138,7 @@ The table below summarizes the coefficients of dispersion tabulated for the citi
 
 ```
 
-There is no upper limit for what is tolerable, but the International Association of Assessing Officers recommends an upper limit of 15 percent for residential properties.[^9] Twenty-eight cities and 34 counties met the 15 percent standard.[^10]
+There is no upper limit for what is tolerable, but the International Association of Assessing Officers recommends an upper limit of 15 percent for residential properties.[^02-9] Twenty-eight cities and 34 counties met the 15 percent standard.[^02-10]
 
 As one would expect, the quality of local assessments, as measured by the CD is generally better in those localities that reassess annually, biennially, or that have just conducted a general reassessment. In 2017, of the 57 localities with CDs under 15 percent, all but 12 reassessed annually (28), biennially (10), or had just completed general reassessments (7).
 
@@ -160,7 +160,7 @@ Finally, the last column refers to low-income grant programs, discussed earlier 
 source("make_table.R")
 ```
 
-```{r table02-1, echo=FALSE}
+```{r table02-1, echo=FALSE, eval=FALSE}
 table_02_1_vars   <- c("ExternalDataReference","real_parcels", "real_parcels_res", "", "", "real_due_date1", "real_due_date2", "real_due_date3", "real_due_date4", "real_prorate")
 
 table_02_1_labels <- c("Locality","Total Number of Taxable Parcels","Number of Residential Taxable Parcels", "Tax Rate per $100 of Assessed Value, CY 2019", "Tax Rate per $100 of Assessed Value, FY 2020", "Tax Due Dates", "Tax Due Dates","Tax Due Dates", "Tax Due Dates", "Prorate Tax")
@@ -174,7 +174,7 @@ knitr::kable(table_02_1,
              format = "html")
 ```
 
-```{r table02-2, echo=FALSE}
+```{r table02-2, echo=FALSE, eval=FALSE}
 table_02_2_vars   <- c("ExternalDataReference","")
 table_02_2_labels <- c("Locality","Based Rate ($) Per $100 of Assessed Value", "District", "Purpose", "District Rate ($) Per $100 of Assessed Value") 
 
@@ -187,7 +187,7 @@ knitr::kable(table_02_2,
              format = "html")
 ```
 
-```{r table02-3, echo=FALSE}
+```{r table02-3, echo=FALSE, eval=FALSE}
 table_02_3_vars   <- c("ExternalDataReference","")
 table_02_3_labels <- c("Locality","Project","Purpose", "Acres","Bond Amount ($ Mil.)", "Current Value ($ Mil.)")
 
@@ -200,7 +200,7 @@ knitr::kable(table_02_3,
              format = "html")
 ```
 
-```{r table02-4, echo=FALSE}
+```{r table02-4, echo=FALSE, eval=FALSE}
 table_02_4_vars   <- c("ExternalDataReference","")
 table_02_4_labels <- c("Locality","Tax Rate per $100 of Assessed Value, Base Rate ($)", "Tax Rate per $100 of Assessed Value, Additional Rate ($)")
 
@@ -213,7 +213,7 @@ knitr::kable(table_02_4,
              format = "html")
 ```
 
-```{r table02-5, echo=FALSE}
+```{r table02-5, echo=FALSE, eval=FALSE}
 table_02_5_vars   <- c("ExternalDataReference","real_fullAss", "real_reAssmt", "real_reAssmt_yrs", "real_phys", "real_reAssmt_last", "real_reAssmt_yLast", "real_maint_assmt", "real_phys_cycle", "real_phys_freq")
 
 table_02_5_labels <- c("Locality","Employs Full-time Assessor", "Conduct of General Reassessments, Contracted or In-house", "Conduct of General Reassessments, Reassessment Frequency (Years)", "Conduct of General Reassessments, Physical Insp. Part of Reassessment", "Conduct of General Reassessments, Last Done", "Conduct of General Reassessments, Last Done", "Maintenance Assessments Contracted or In-house", "Physical Inspection Cycle, Inspection", "Physical Inspection Cycle, Cycle (Years)")
@@ -227,7 +227,7 @@ knitr::kable(table_02_5,
              format = "html")
 ```
 
-```{r table02-6, echo=FALSE}
+```{r table02-6, echo=FALSE, eval=FALSE}
 table_02_6_vars   <- c("ExternalDataReference","")
 
 table_02_6_labels <- c("Locality","Total Taxable Assessed Value ($)[^a]", "Percentage of Distribution by Category (%)[^b], Residential, Single Family", "Percentage of Distribution by Category (%)[^b], Residential, Multifamily", "Percentage of Distribution by Category (%)[^b], Commercial and Industrial", "Percentage of Distribution by Category (%)[^b], Agricultural")
@@ -241,7 +241,7 @@ knitr::kable(table_02_6,
              format = "html")
 ```
 
-```{r table02-7, echo=FALSE}
+```{r table02-7, echo=FALSE, eval=FALSE}
 table_02_7_vars   <- c("ExternalDataReference","")
 table_02_7_labels <- c("Locality","Latest Reassessment as of 2016", "Number of Sales in Sample", "Median Assessment/Sales Ratio (Percent)", "Coefficient of Dispersion (Percent)", "Statutory Tax Rate per $100 of Assessed Value", "Effective Tax Rate per $100 of True Value")
 
@@ -254,7 +254,7 @@ knitr::kable(table_02_7,
              format = "html")
 ```
 
-```{r table02-8, echo=FALSE}
+```{r table02-8, echo=FALSE, eval=FALSE}
 table_02_8_vars   <- c("ExternalDataReference","")
 
 table_02_8_labels <- c("Locality","Recreation Tax", "Deferral of Tax", "Tax Increment Financing Fund", "Energy Efficient Building Rate", "Manufacturing Renewable Energy Rate", "Low-Income Relief Grants")
@@ -268,30 +268,26 @@ knitr::kable(table_02_8,
              format = "html")
 ```
 
-[^1]: Charlottesville Housing Affordability Program: https://www.
-charlottesville.org/departments-and-services/departments-a-g/
-commissioner-of-revenue/real-estate-tax-relief-for-the-elderlyand-disabled. Loudoun County Affordable Dwelling Unit Program: http://www.loudoun.gov/adu. Arlington County Housing
+[^02-1]: Charlottesville Housing Affordability Program: https://www.charlottesville.org/departments-and-services/departments-a-g/commissioner-of-revenue/real-estate-tax-relief-for-the-elderly-and-disabled. Loudoun County Affordable Dwelling Unit Program: http://www.loudoun.gov/adu. Arlington County Housing
 Grants Program: http://housing.arlingtonva.us/get-help/rentalservices/local-housing-grants/.
 
-[^2]:  The statute allows the use of the Internal Revenue Service rate. Section 6621 of the Internal Revenue Code establishes a rate of 3 percent plus the federal short-term rate. In December 2019, when the short-term rate was 1.616 percent, the combined annual rate was 4.61 percent.
+[^02-2]:  The statute allows the use of the Internal Revenue Service rate. Section 6621 of the Internal Revenue Code establishes a rate of 3 percent plus the federal short-term rate. In December 2019, when the short-term rate was 1.616 percent, the combined annual rate was 4.61 percent.
 
-[^3]: City of Alexandria, *Budget Memo #46: Review of Other Jurisdictions’ Experience with a Real Estate Tax Deferral Program for the General Population* (Councilman Speck’s Request), 4/25/2003.
+[^02-3]: City of Alexandria, *Budget Memo #46: Review of Other Jurisdictions’ Experience with a Real Estate Tax Deferral Program for the General Population* (Councilman Speck’s Request), 4/25/2003.
 
-[^4]: Henrico County, *Budget Memo #46*.
+[^02-4]: Henrico County, *Budget Memo #46*.
 
-[^5]: The *Code* does not specify which census is to be used.
+[^02-5]: The *Code* does not specify which census is to be used.
 
-[^6]: Taxable assessed value treats property qualifying for use value
+[^02-6]: Taxable assessed value treats property qualifying for use value
 as taxable at its use value rather than at its full market value.
 
-[^7]: Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study* (Richmond, February 2019), p. 35. The study
-can be found at https://tax.virginia.gov/assessment-sales-ratiostudies.
+[^02-7]: Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study* (Richmond, February 2019), p. 35. The study
+can be found at https://tax.virginia.gov/assessment-sales-ratio-studies.
 
-[^8]: Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study*, p. 34.
+[^02-8]: Virginia Department of Taxation, *The 2017 Virginia Assessment/Sales Ratio Study*, p. 34.
 
-[^9]: International Association of Assessing Officers, *Standard on Ratio Studies*, (approved April 2013), p. 17. http://www.iaao.
-org/media/standards/Standard_on_Ratio_Studies.pdf.
+[^02-9]: International Association of Assessing Officers, *Standard on Ratio Studies*, (approved April 2013), p. 17. http://www.iaao.org/media/standards/Standard_on_Ratio_Studies.pdf.
 
-[^10]: The Department of Taxation’s study applies to all types of property, not just residential property. Nonetheless, the majority of
-the measured sales are for single-family residential properties. 
+[^02-10]: The Department of Taxation’s study applies to all types of property, not just residential property. Nonetheless, the majority of the measured sales are for single-family residential properties. 
 

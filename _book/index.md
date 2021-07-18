@@ -53,7 +53,7 @@ Table: (\#tab:unnamed-chunk-2)Sources of Virginia Local Government Tax Revenue, 
 |Restaurant meals                    |    $612,940,580|       3.41|
 |Public service corporation property |    $412,121,081|       2.29|
 |Consumer utility                    |    $327,627,947|       1.82|
-|Hotel and motel room                |     $244,412,96|       1.36|
+|Hotel and motel room                |    $244,412,964|       1.36|
 |Machinery and tools                 |    $233,076,157|       1.30|
 |Motor vehicle license               |    $197,705,384|       1.10|
 |Recordation and will                |    $126,458,487|       0.70|
@@ -68,7 +68,7 @@ Table: (\#tab:unnamed-chunk-2)Sources of Virginia Local Government Tax Revenue, 
 
 There are six localities where the real property tax is not dominant. Bath and Surry counties  have  large  power  plants  that  pay  public  service  corporation  property  taxes that  overwhelm  other  sources.  Buchanan  County  has  rich  mineral deposits subject to local severance taxes that exceed the real property tax. Covington City and Alleghany County receive large shares of revenue from machinery and tools taxes on  MeadWestvaco’s large paperboard manufacturing facility. Finally, the small city of Norton, the [least populous independent city in Virginia](https://demographics.coopercenter.org/population-estimates-age-sex-race-hispanic-towns/)  (3,908 in 2018) received almost as much money from the local option sales and use tax as from the real property tax. In the remaining 127 cities and counties where the real property tax is dominant, its relative importance  varies  from  30.3  percent  of  total  tax  revenue  in  Galax  City  to  78.8  percent  in  Lancaster  County  (see  Appendix C). 
 
-Thirty-six cities (two cities–Hopewell and Petersburg–did  not  provide  information  for  the  2018  Comparative Report)  and 95 counties imposed four of the taxes shown in  the  previous  table—the  real  property  tax,  the  personal  property tax, the local option sales and use tax, and the public service corporation property tax. Most, but not all, localities imposed recordation and will taxes, consumer utility taxes, motor  vehicle  license  taxes,  and  taxes  on  manufacturers’  machinery and tools. Nonetheless, as shown in the next text table, there are a number of taxes, a few of them signifi cant sources  of  revenue,  which  are  not  levied  by  all  localities.  Also,  some  of  the  taxes  are  used  so  sparingly  that  their  revenue yield is very low.
+Thirty-six cities (two cities–Hopewell and Petersburg–did  not  provide  information  for  the  2018  Comparative Report)  and 95 counties imposed four of the taxes shown in  the  previous  table—the  real  property  tax,  the  personal  property tax, the local option sales and use tax, and the public service corporation property tax. Most, but not all, localities imposed recordation and will taxes, consumer utility taxes, motor  vehicle  license  taxes,  and  taxes  on  manufacturers’  machinery and tools. Nonetheless, as shown in the next table, there are a number of taxes, a few of them significant sources  of  revenue,  which  are  not  levied  by  all  localities.  Also,  some  of  the  taxes  are  used  so  sparingly  that  their  revenue yield is very low.
 
 
 Table: (\#tab:unnamed-chunk-3)Number of Virginia Localities Imposing Taxes by Type, FY 2018
@@ -98,7 +98,7 @@ There are three major reasons why local governments do  not  to  impose  some  t
 
 ## Partnership with LexisNexis {-}
 
-The Weldon Cooper Center for Public Service is partner-ing  with  the  publisher  LexisNexis  to  produce  the  annual  Tax  Rates  books.  The  Cooper  Center  still  prepares  and  distributes the survey and writes up the results. LexisNexis  publishes the book and fulfi  lls orders from interested parties. This arrangement allows us to concentrate on providing the most accurate and up-to-date information about Virginia tax rates  and  leverages  LexisNexis’ considerable  expertise  in  production and distribution of the annual volume. We hope the arrangement will lead to continued improvements in our Virginia Local Tax Rates series. 
+The Weldon Cooper Center for Public Service is partnering  with  the  publisher  LexisNexis  to  produce  the  annual  Tax  Rates  books.  The  Cooper  Center  still  prepares  and  distributes the survey and writes up the results. LexisNexis  publishes the book and fulfills orders from interested parties. This arrangement allows us to concentrate on providing the most accurate and up-to-date information about Virginia tax rates  and  leverages  LexisNexis’ considerable  expertise  in  production and distribution of the annual volume. We hope the arrangement will lead to continued improvements in our Virginia Local Tax Rates series. 
 
 ## Study Personnel {-}
 
