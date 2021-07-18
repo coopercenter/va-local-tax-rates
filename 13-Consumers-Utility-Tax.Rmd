@@ -41,7 +41,7 @@ table_13_1_labels <- c("Locality","Residential", "Commercial", "Industrial")
 table_13_1 <- make_table(table_13_1_vars)
 
 knitr::kable(table_13_1, 
-             caption = "Utility Consumers' Monthly Tax on Electricity Table, 2019", 
+             caption = "Utility Consumers' Monthly Tax on Electricity, 2019", 
              col.names = table_13_1_labels, 
              align = "lccc",
              format = "html")
@@ -54,7 +54,7 @@ table_13_2_labels <- c("Locality","Residential", "Commercial", "Industrial")
 table_13_2 <- make_table(table_13_2_vars)
 
 knitr::kable(table_13_2, 
-             caption = "Utility Consumers' Monthly Tax on Gas Table, 2019", 
+             caption = "Utility Consumers' Monthly Tax on Gas, 2019", 
              col.names = table_13_2_labels, 
              align = "lccc",
              format = "html")
@@ -67,7 +67,7 @@ table_13_3_labels <- c("Locality","Residential", "Commercial", "Industrial")
 table_13_3 <- make_table(table_13_3_vars)
 
 knitr::kable(table_13_3, 
-             caption = "Utility Consumers' Monthly Tax on Water Table, 2019", 
+             caption = "Utility Consumers' Monthly Tax on Water, 2019", 
              col.names = table_13_3_labels, 
              align = "lccc",
              format = "html")
