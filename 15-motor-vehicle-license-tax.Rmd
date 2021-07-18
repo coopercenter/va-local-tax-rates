@@ -29,5 +29,36 @@ In recent years, many localities have dispensed with the decal  because  new  te
 #Table 15.2 "Motor Vehicle Local License Tax Decal Display Policy and Exemptions, 2019" goes here
 ```
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table15-1, echo=FALSE}
+table_15_1_vars   <- c("ExternalDataReference", "decals_due_date", "decals_priv_pass", "decals_expt_old", "decals_expt_dis", "decals_motorcycle", "decals_trucks")
+table_15_1_labels <- c("Locality","Due Date Display or Payment", "Private Passenger Vehicles, Tax", "Private Passenger Vehicles, Exempt, Elderly", "Private Passenger Vehicles, Exempt, Disabled", "Motorcycles", "Trucks Not for Hire")
+
+table_15_1 <- make_table(table_15_1_vars)
+
+knitr::kable(table_15_1, 
+             caption = "Motor Vehicle Local License Tax Table, 2019", 
+             col.names = table_15_1_labels, 
+             align = "lcccccc",
+             format = "html")
+```
+
+```{r table15-2, echo=FALSE}
+table_15_2_vars   <- c("ExternalDataReference", "decals_affixed", "decals_expt_oth")
+table_15_2_labels <- c("Locality","Display Decals", "Special Exemptions Other Than Elderly and Disabled")
+
+table_15_2 <- make_table(table_15_2_vars)
+
+knitr::kable(table_15_2, 
+             caption = "Motor Vehicle Local License Tax Decal Display Policy and Exemptions Table, 2019", 
+             col.names = table_15_2_labels, 
+             align = "lcc",
+             format = "html")
+```
+
 
 [^15-1]: The *Code*  refers  to  school  district  rather  than  school  division.  Colonial  Beach  and  West  Point  are  the  only  towns  that  have  school divisions.
+

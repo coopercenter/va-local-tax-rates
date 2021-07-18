@@ -73,3 +73,20 @@ Cities and towns are granted the authority to levy the admissions tax under the 
 
 #Table 16.1 "Meals, Transient Occupancy, Cigarette, and Admissions Excise Taxes, 2019" goes here
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table16-1, echo=FALSE}
+table_16_1_vars   <- c("ExternalDataReference", "local_tax_rest_rate", "local_tax_occ_rate", "cig_tax_20_rate", "cig_tax_25_rate", "cig_tax_30_rate", "local_tax_entert_rate")
+table_16_1_labels <- c("Locality","Meals (Restaurant) Tax (%)", "Transient Occupancy (Hotel and Motel) Tax (%)", "Cigarette Tax (Per Pack)", "Cigarette Tax (Per Pack)", "Cigarette Tax (Per Pack)", "Admissions Tax (%)")
+
+table_16_1 <- make_table(table_16_1_vars)
+
+knitr::kable(table_16_1, 
+             caption = "Meals, Transient Occupancy, Cigarette, and Admissions Excise Taxes Table, 2019", 
+             col.names = table_16_1_labels, 
+             align = "lcccc",
+             format = "html")
+```

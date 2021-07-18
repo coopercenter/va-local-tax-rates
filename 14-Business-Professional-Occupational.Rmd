@@ -43,3 +43,59 @@ One business classification not presented in Table 14.3 is that of rental proper
 
 # Table 14.4 Taxes and Fees on Peddlers and Itinerant Merchants, 2019
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table14-1, echo=FALSE}
+table_14_1_vars   <- c("ExternalDataReference", "BPOL_date", "BPOL_payment_date", "", "BPOL_tax_threshold", "BPOL_tax_threshold_amt", "")
+table_14_1_labels <- c("Locality","Due Dates, Filing", "Due Dates, Payments", "License Fee Applied", "Gross Receipts Tax Threshold", "Threshold Amount", "Separate Gross Receipts Tax Threshold for Each License")
+
+table_14_1 <- make_table(table_14_1_vars)
+
+knitr::kable(table_14_1, 
+             caption = "BPOL Due Dates and Other Provisions Table, 2019", 
+             col.names = table_14_1_labels, 
+             align = "lcccccc",
+             format = "html")
+```
+
+```{r table14-2, echo=FALSE}
+table_14_2_vars   <- c("ExternalDataReference", "BPOL_contr_fee", "BPOL_contr_min_tax", "BPOL_contr_cmt")
+table_14_2_labels <- c("Locality","Fee", "Minimum Tax", "Description of Tax and Fee Classifications")
+
+table_14_2 <- make_table(table_14_2_vars)
+
+knitr::kable(table_14_2, 
+             caption = "Specific BPOL Fees and Minimum Taxes Table, 2019", 
+             col.names = table_14_2_labels, 
+             align = "lccc",
+             format = "html")
+```
+
+```{r table14-3, echo=FALSE}
+table_14_3_vars   <- c("ExternalDataReference", "BPOL_contr_tax", "BPOL_retail_tax", "BPOL_repair_tax", "BPOL_pers_tax", "BPOL_busS_tax", "BPOL_fin_tax", "BPOL_estate_tax", "BPOL_prof_tax", "BPOL_whole_tax")
+table_14_3_labels <- c("Locality","Contracting", "Retail", "Repair, Personal, & Business Svcs.[^†]", "Repair, Personal, & Business Svcs.[^†]", "Repair, Personal, & Business Svcs.[^†]", "Financial, Real Estate & Prof. Svcs.[^†]", "Financial, Real Estate & Prof. Svcs.[^†]", "Financial, Real Estate & Prof. Svcs.[^†]", "Wholesale Gross Receipts or Gross Purchases")
+
+table_14_3 <- make_table(table_14_3_vars)
+
+knitr::kable(table_14_3, 
+             caption = "Specific BPOL Tax Rates per $100 by Business Category Table, 2019", 
+             col.names = table_14_3_labels, 
+             align = "lccccc",
+             format = "html")
+```
+
+```{r table14-4, echo=FALSE}
+table_14_4_vars   <- c("ExternalDataReference", "BPOL_peddlers", "BPOL_itinerants", "BPOL_whole_pedItin")
+table_14_4_labels <- c("Locality","Annual Amount (Unless Otherwise Stated), Retail Peddlers", "Annual Amount (Unless Otherwise Stated), Retail Itinerant Merchants", "Annual Amount (Unless Otherwise Stated), Wholesale Peddlers & Itinerant Merchants")
+
+table_14_4 <- make_table(table_14_4_vars)
+
+knitr::kable(table_14_4, 
+             caption = "Taxes and Fees on Peddlers and Itinerant Merchants Table, 2019", 
+             col.names = table_14_4_labels, 
+             align = "lccc",
+             format = "html")
+```
