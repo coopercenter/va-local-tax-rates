@@ -25,3 +25,33 @@ For localities that responded with a single fee and not a schedule, it is assume
 
 #Table 21.2 "User Fees for Residential Water and Sewer, 2019"
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table21-1, echo=FALSE}
+table_21_1_vars   <- c("ExternalDataReference", "water_cost_single_in", "water_cost_single_out", "water_cost_apt_in", "water_cost_apt_out", "water_cost_townHouse_in", "water_cost_townHouse_out", "water_cost_mobile_in", "water_cost_mobile_out", "sewer_cost_single_in", "sewer_cost_single_out", "sewer_cost_apt_in", "sewer_cost_apt_out", "sewer_cost_townHouse_in", "sewer_cost_townHouse_out", "sewer_cost_mobile_in", "sewer_cost_mobile_out")
+table_21_1_labels <- c("Locality","Water ($), Single", "Water ($), Single", "Water ($), Apartment", "Water ($), Apartment", "Water ($), Town House", "Water ($), Town House", "Water ($), Mobile Home", "Water ($), Mobile Home", "Sewer ($), Single", "Sewer ($), Single", "Sewer ($), Apartment", "Sewer ($), Apartment", "Sewer ($), Town House", "Sewer ($), Town House", "Sewer ($), Mobile Home", "Sewer ($), Mobile Home")
+
+table_21_1 <- make_table(table_21_1_vars)
+
+knitr::kable(table_21_1, 
+             caption = "Residential Water and Sewer Connection Fees Table, 2019", 
+             col.names = table_21_1_labels, 
+             align = "lcccccccc",
+             format = "html")
+```
+
+```{r table21-2, echo=FALSE}
+table_21_2_vars   <- c("ExternalDataReference", "res_bill_period", "period_water_fee", "period_sewer_fee")
+table_21_2_labels <- c("Locality","Billing Cycle", "Water Use Fee ($)", "Sewer Use Fee ($)")
+
+table_21_2 <- make_table(table_21_2_vars)
+
+knitr::kable(table_21_2, 
+             caption = "User Fees for Residential Water and Sewer Table, 2019", 
+             col.names = table_21_2_labels, 
+             align = "lccc",
+             format = "html")
+```
