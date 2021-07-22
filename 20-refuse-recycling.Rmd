@@ -63,6 +63,24 @@ For  localities  that  charged  a  service  fee,  the  amount  ranged anywhere f
 #Table 20.1 "Refuse Collection Fees, 2019" goes here, formatting TBD
 ```
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table20-1, echo=FALSE, eval=FALSE}
+table_20_1_vars   <- c("ExternalDataReference", "RCC_res_freq","RCC_ind_freq", "RCC_res_fee", "RCC_ind_fee", "RCC_private_contract")
+
+table_20_1_labels <- c("Locality","Frequency of Collections per Week", "", "Collection Fee (Dollars Per Month Unless Otherwise Stated)", "", "Locality Contracts with Private Firm(s) for Refuse Collection")
+
+table_20_1 <- make_table(table_20_1_vars)
+
+knitr::kable(table_20_1, 
+             caption = "Refuse Collection Fees Table, 2019", 
+             col.names = table_20_1_labels, 
+             align = "lccc",
+             format = "html")
+```
+
 ```{r table20-2, echo=FALSE}
 section_tbl %>% 
   filter(has_RCC_tipping_fees) %>%
