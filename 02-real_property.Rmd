@@ -161,9 +161,9 @@ source("make_table.R")
 ```
 
 ```{r table02-1, echo=FALSE, eval=FALSE}
-table_02_1_vars   <- c("ExternalDataReference","real_parcels", "real_parcels_res", "", "", "real_due_date1", "real_due_date2", "real_due_date3", "real_due_date4", "real_prorate")
+table_02_1_vars   <- c("ExternalDataReference","real_parcels", "real_parcels_res", "real_taxAsmt_year", "real_rate_jul", "real_rate_jan", "real_due_date1", "real_due_date2", "real_due_date3", "real_due_date4", "real_prorate")
 
-table_02_1_labels <- c("Locality","Total Number of Taxable Parcels","Number of Residential Taxable Parcels", "Tax Rate per $100 of Assessed Value, CY 2019", "Tax Rate per $100 of Assessed Value, FY 2020", "Tax Due Dates", "Tax Due Dates","Tax Due Dates", "Tax Due Dates", "Prorate Tax")
+table_02_1_labels <- c("Locality","Total Number of Taxable Parcels","Number of Residential Taxable Parcels", "", "Tax Rate per $100 of Assessed Value, CY 2019", "Tax Rate per $100 of Assessed Value, FY 2020", "Tax Due Dates", "Tax Due Dates","Tax Due Dates", "Tax Due Dates", "Prorate Tax")
 
 table_02_1 <- make_table(table_02_1_vars)
 
