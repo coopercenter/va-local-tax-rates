@@ -19,3 +19,20 @@ The  law  permits  urban  counties  with  existing  urban  transportation  servi
 ```{r}
 #Table 22.1 "Impact Fees For Road Improvement, 2019" goes here
 ```
+
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table22-1, echo=FALSE}
+table_22_1_vars   <- c("ExternalDataReference", "impact_fee_road_amt")
+table_22_1_labels <- c("Locality","Impact Fee on Developers ($)")
+
+table_22_1 <- make_table(table_22_1_vars)
+
+knitr::kable(table_22_1, 
+             caption = "Impact Fees For Road Improvement Table, 2019", 
+             col.names = table_22_1_labels, 
+             align = "lcc",
+             format = "html")
+```
