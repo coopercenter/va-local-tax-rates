@@ -50,3 +50,34 @@ The exemptions applying to property used for environmental restoration, recyclin
 # Table 6.2 Property Tax Exemptions for Restoration Sites, Recycling, Solar Energy, Generators, Stormwater Developments, and Wetlands, 2019
 ```
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table06-1, echo=FALSE, eval=FALSE}
+table_06_1_vars   <- c("ExternalDataReference", "real_expt_res_minAge", "real_expt_ind_minAge1", "real_expt_ind_minAge0", "real_expt_res_sched", "real_expt_ind_sched", "real_expt_res_incrVal", "real_expt_res_incrFoot", "real_expt_ind_incrVal", "real_expt_ind_incrFoot")
+
+table_06_1_labels <- c("Locality","Minimum Age of Structure (Years), R", "Minimum Age of Structure (Years), C/I", "Exemption Schedule, R, Years", "R, Exempt (%)", "Exemption Schedule, C/I, Years", "C/I, Exempt (%)", "Percentage Increase Required in Assessed Value/Square Footage, R", ", C/I") 
+
+table_06_1 <- make_table(table_06_1_vars)
+
+knitr::kable(table_06_1, 
+             caption = "Property Tax Exemptions for Certain Rehabilitated Real Estate Table, 2019", 
+             col.names = table_06_1_labels, 
+             align = "lcccccccc",
+             format = "html")
+```
+
+```{r table06-2, echo=FALSE, eval=FALSE}
+table_06_2_vars   <- c("ExternalDataReference", "")
+
+table_06_2_labels <- c("Locality","Environmental Restoration Sites", "Recycling Equipment and Facilities", "Solar Energy Equipment and Facilities", "Generating Equipment for Energy Conservation", "Certified Stormwater Developments", "Wetlands and Riparian Buffers") 
+
+table_06_2 <- make_table(table_06_2_vars)
+
+knitr::kable(table_06_2, 
+             caption = "Property Tax Exemptions for Restoration Sites, Recycling, Solar Energy, Generators, Stormwater Developments, and Wetlands Table, 2019", 
+             col.names = table_06_2_labels, 
+             align = "lcccccc",
+             format = "html")
+```
