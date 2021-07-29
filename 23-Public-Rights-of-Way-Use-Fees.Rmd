@@ -14,4 +14,21 @@ The fee is calculated each year by VDOT based on information  about  the  number
 #Table 23.1 "Localities Imposing Public Rights-of-Way Use Fees, 2019*" goes here
 ```
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table23-1, echo=FALSE}
+table_23_1_vars   <- c("ExternalDataReference", "row_fee")
+table_23_1_labels <- c("Locality")
+
+table_23_1 <- make_table(table_23_1_vars)
+
+knitr::kable(table_23_1, 
+             caption = "Localities Imposing Public Rights-of-Way Use Fees Table, 2019*", 
+             col.names = table_23_1_labels, 
+             align = "l",
+             format = "html")
+```
+
 * In years prior to 2009 this table was based on information provided by the Virginia Department of Transportation. The current table uses data based on responses to the Cooper Center’s survey. To compare survey responses with VDOT information, refer to http://virginiadot.org/business/row-usefee.asp
