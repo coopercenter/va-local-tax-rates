@@ -33,6 +33,6 @@ table_22_1 <- make_table(table_22_1_vars)
 knitr::kable(table_22_1, 
              caption = "Impact Fees For Road Improvement Table, 2019", 
              col.names = table_22_1_labels, 
-             align = "lcc",
+             align = "lc",
              format = "html")
 ```

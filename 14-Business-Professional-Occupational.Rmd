@@ -99,3 +99,7 @@ knitr::kable(table_14_4,
              align = "lccc",
              format = "html")
 ```
+
+```{r}
+# excel column, comments for table 14.1 : BPOL_fee_cmt
+```

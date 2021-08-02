@@ -40,7 +40,7 @@ knitr::kable(table_10_1,
 ```
 
 ```{r table10-2, echo=FALSE}
-table_10_2_vars   <- c("ExternalDataReference","semi_manuf_rate", "forest_harv_rate", "", "", "", "")
+table_10_2_vars   <- c("ExternalDataReference","semi_manuf_rate", "forest_harv_rate", "", "", "national_defense_rate", "")
 table_10_2_labels <- c("Locality","Rate Per $100 of Assessed Value, Semiconductor", ",Forestry", ",Vehicle Cleaning", ",Castings", ",Defense", ",Other Business")
 
 table_10_2 <- make_table(table_10_2_vars)
@@ -53,8 +53,8 @@ knitr::kable(table_10_2,
 ```
 
 ```{r table10-3, echo=FALSE}
-table_10_3_vars   <- c("ExternalDataReference","")
-table_10_3_labels <- c("Locality","")
+table_10_3_vars   <- c("ExternalDataReference","manuf_accs")
+table_10_3_labels <- c("Locality","Number of Accounts")
 
 table_10_3 <- make_table(table_10_3_vars)
 
