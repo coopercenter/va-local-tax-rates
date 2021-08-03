@@ -1,0 +1,73 @@
+# Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate
+
+The *Code of Virginia*, §§ 58.1-3230 through 58.1-3244, allows any locality that has adopted a comprehensive land use plan to enact a local ordinance providing for special assessments of agricultural, horticultural, forestal, and open space real estate. (Also see Article 10, Section 2, of the *Constitution of Virginia*.) Before implementing such an ordinance, the locality's land use plan must have been adopted by June 30 of the year preceding the one in which taxes are first assessed and levied under the special assessment provision. (For localities that have adopted a fiscal year assessment date of July 1, the plan must have been adopted by December 31 of the preceding year).
+
+Since 1957, every state has enacted legislation allowing some type of preferential treatment of farmland and in some states, like Virginia, open space land has also been included. There is an ongoing debate among tax specialists about how effectively preferential assessment slows conversion of land to more intensive uses. If the difference in returns from farming and development is high enough, development will occur even if farmland is taxed at a zero rate. A 1998 study showed that preferential assessment of farmland "... produced a gradual but significant difference in the loss of farmland that after a 20-year period amounted to about 10 percent more of land in a county being retained in farming than would have otherwise been the case."[^04-1] This was a general result and the effectiveness of the policy would depend on local circumstances with greater success associated with modest development pressure. Additional information on use value assessment as well as other land preservation techniques is contained in a *Virginia News Letter* article by Terance Rephann.[^04-2] 
+
+## AGRICULTURAL, HORITCULTURAL, FORESTAL, AND OPEN SPACE REAL ESTATE 
+
+The authorizing statute sets forth certain definitions for qualifying property. Real estate devoted to agricultural use includes either land devoted to the bona fide production for sale of plants and animals useful to man or land that meets the requirements for payments or other compensation pursuant to a soil conservation program. Real estate devoted to horticultural use is either land devoted to the bona fide production for sale of fruits, vegetables, and nursery and floral products, or land that meets the requirements for payments from a soil conservation program. Real estate devoted to forestal use in land devoted to tree growth in such quantity and so spaced as to constitute a forest area. And finally, real estate devoted to open space is real property used to preserve park and recreational areas, conserve land or other natural resources, or preserve floodways and land of historic or scenic value. Under this definition, golf courses can be considered open space property. 
+
+Agricultural and horticultural land must consist of a minimum of five acres, unless the acreage is used for aquaculture or raising specialty crops, in which case it may be less than five acres. Forestal land must consist of a minimum of 20 acres. Open space land must consist of a minimum of five acres. Exceptions include land adjacent to a scenic river, a scenic highway, a Virginia Byway, or public property in the Virginia Outdoors Plan as well as property in any city, county, or town having population density greater than 5,000 per square mile; in those localities the governing body may adopt a two acre minimum. 
+
+**Table 4.1** presents the information for the 114 localities reporting a land use assessment ordinance in effect for the 2019 tax year. The table includes the effective date of the ordinance, the types of real estate included, the cost of the application fee, the use value per acre valuation used by the locality, and the comparable State Land Evaluation Advisory Council (SLEAC) use value estimate. Section 5 provides details on the related program of agricultural and forestal districts. 
+
+## LOCAL AUTHORITY IN LAND USE ASSESSMENTS
+
+Nineteen cities, 75 counties, and 20 towns reported having some type of real estate subject to land use assessment in 2019. A locality is not required to include each of the four classifications of property in its local ordinance. It may choose which classifications are subject to land use assessment. Twelve cities, 36 counties, and 13 towns reported excluding one or more types of property. Upon the adoption of a land use assessment ordinance, the locality is authorized to direct a general reassessment in the following year. 
+
+In order to have their land assessed on the basis of use, property owners must apply to the local assessing officer at least 60 days preceding the tax year for which the special assessment is sought.[^04-3] Localities may also require the owner to pay an application fee. 
+
+Localities may also have a minimum prior use requirement. However, prior use requirements can be waived for real estate devoted to the production of agricultural and horticultural crops that require more than two years from initial planting until commercially feasible harvesting. 
+
+Finally, property that would otherwise qualify for land use assessment is not disqualified because a portion of the property is being used for a different purpose, if it is authorized by a special use permit or allowed by zoning. However, that portion being used for a different purpose is deemed a separate piece of property for assessment purposes. 
+
+## THE USE OF SPECIAL ASSESSMENTS
+
+In 1973, the first year in which local ordinances could take effect, only four localities - the counties of Fauquier, Loudoun, Prince William, and the city of Virginia Beach - adopted special assessment ordinances. Currently, 114 localities report land use assessment ordinances in effect for at least one type of property. The total acreage reported covered is 247,180 for cities and 7,157,010 for counties. Nine towns reported 76,473 acres; this number is presumably already included in the county counts. 
+
+Localities reporting agricultural assessment ordinances numbered 110, while localities with forestal assessment ordinances numbered 88, and those with horticultural special assessments numbered 88. Open space special assessments are less common; 60 localities reported them. The breakdown of types of special assessment is shown in the text table. 
+
+
+```r
+#table name: Types of Special Assessments, 2019
+```
+
+## APPLICATION FEES FOR AGRICULTURAL LAND
+
+More localities charge special assessment application fees for agricultural land than for any other type. Application fees for agricultural land vary widely by locality. They can be one-time charges or may have to be revalidated after several years. Among the cities, six reported charging no fee, two reported charging a one-time fee, eight reported a flat fee for each application, and three reported a base fee plus an additional amount per acre. Reported fees were as high as $300 in the city of Staunton for its one-time fee. 
+
+Among the 75 counties reporting having land use assessments, one (Stafford) reported charging no fees, 29 reported a flat fee, one (York) reported a flat fee revalidated every sixth year, and 44 reported charging some variant of a base fee plus an additional amount per acre or per parcel. 
+
+Twenty-three towns reported having land use assessments. Eleven reported using the same method for determining application fees as used by the county in which the town is located. Five reported imposing no fees, four charged a base fee plus an additional amount per acre, and three charged a flat rate. The highest application fee reported was for the town of Blacksburg which has a flat fee of $150. 
+
+## VALUING REAL ESTATE FOR LAND USE ASSESSMENT 
+
+The local assessing officer has responsibility for determining which real estate meets the state-imposed criteria for land use assessment. This officer may request an opinion, depending on the type of property, from the Director of the Department of Conservation and Recreation, the State Forester, or the Commissioner of Agriculture and Consumer Services. These agency heads are also authorized to provide, either to the commissioner of revenue or to the assessing officer of each locality that has adopted a land use assessment ordinance, a statement of uniform statewide standards to be used in determining the qualifications for each type of property. Further, the State Land Evaluation Advisory Council is required to provided each locality using special assessments with a recommended range of suggested values for each type of property, based on the productive earning power of that particular type of land. SLEAC provides estimates based on two methods - an income method and a cash rental rate method.[^04-4] The income method capitalizes the average net income for agricultural properties in different categories (cropland 1, cropland 2, pastureland 1, pastureland 2, etc.). The method also provides a downward adjustment for land at risk of flooding. The rental rate method capitalizes average rents on agricultural properties in a locality or in the region if the sample for a locality is too small. The two methods do not have to provide similar figures. For the SLEAC estimates by locality for the two methods see *Virginia's Use Value Assessment Program*, "Agricultural and Horticultural Estimates," at https://aaec.vt.edu/extension/use-value.html
+
+Only those indices of value that relate to agricultural, horticultural, forestal or open space use may be considered in determining the assessment. Any structure not related to such special use and the real estate upon which the structure is located cannot be included in the special assessment but must be taxed on the basis used for assessing other real property in the locality. 
+
+In our survey we included a question about the use value per acre used by the locality to determine the taxable value of Class I agricultural land, one of several classifications of agricultural land estimated by SLEAC. Seventy-eight localities (14 cities and 64 counties) provided information. We have also listed the SLEAC values for both the income and cash rental methods for comparison. In some cases, the local estimate seems to mirror either the income or rental method. In other cases, the locality seems to have chosen its own method. These differences in the valuations between SLEAC and the locality may be caused by a number of factors: (1) the locality may have better information on local conditions than SLEAC; (2) the locality may use different assessment procedures; or (3) the locality may have made an administrative decision to assess use value at a higher or lower value than SLEAC. A 2008 article by two Virginia Tech economists, *Why Use-value Estimates Can Differ Between Counties*, by Franklin Bruce Jr. and Gordon E. Graham, explains why variation exists in use-value estimates for neighboring localities. See https://pubs.ext.vt.edu/446/446-013/446-013.html.
+
+For general information on use values and other aspects of the program, see the home page for Virginia's use value assessment program at https://aaec.vt.edu/extension/use-value.html. 
+
+## CHANGES IN USE
+
+Land use assessment can remain in effect only as long as the property is used for the purpose for which the special assessment was granted. A change from use value assessment will be based only upon a change in the use of the land. A change in ownership does not bring about a change in assessment unless the new owner changes the use of the land from a qualifying use to a non-qualifying use.
+
+If the qualifying land reverts to a non-qualifying use, the property is subject to rollback taxes. These taxes are equal to the amount by which the tax on the property, had it been assessed on the same basis as other non-qualifying property in the locality, exceeds the tax that was paid on the property under special assessment. This provision is applicable to the five most recent complete tax years prior to the change. Property owners are also held responsible for a 5 percent payment penalty and for an interest penalty established by each locality, pursuant to §§ 58.1-3915 and 58.1-3916. Any change in use must be reported to the commissioner of revenue or other assessing officer within 60 days. Failure to comply subjects the owner to the amount of tax due plus interest and penalties, to be determined by the local ordinance. 
+
+There is also a penalty for any misstatement made in the application for special assessment. In such a case, the owner is liable for all taxes that would have been incurred had the real estate not been subject to special assessment, together with penalties due on such sum. If the misstatement was made with the intent to defraud the locality, the owner is assessed an additional penalty of 100 percent of the unpaid taxes. 
+
+
+
+
+
+
+[^04-1]: Adele C. Morris, "Property Tax Treatment of Farmland: Does Tax Relief Delay Land Development," Helen F. Ladd, editor. *Local Government Tax and Land Use Policies in the United States*. (Northampton, MA: Edward Elgar, 1998), p. 156. 
+
+[^04-2]: Terance Rephann, "Preserving Virginia's Farm and Forest Land and Natural Landscape, An Assessment of Existing Tools and the Potential for Transfer of Development Rights," *The Virginia News Letter* 86:5 (October 2010). 
+
+[^04-3]: In the case of a general reassessment, the property owner may submit the application up until thirty days after the notice of an increase in assessment. 
+
+[^04-4]: Virginia Cooperative Extension, "A Citizens' Guide to The Use Value Taxation Program in Virginia."  https://pubs.ext.vt.edu/448/448-037/448-037.html
