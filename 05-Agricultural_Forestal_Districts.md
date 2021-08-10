@@ -10,7 +10,8 @@ Three cities and 28 counties reported having a total of 372 agricultural and for
 
 The following text table shows by year when the existing city and county districts came into existence. Four new districts were reported in 2019. 
 
-```{r}
+
+```r
 # table name: Agricultural and Forestal Districts by Year of Creation for Cities and Counties, 1978 and 2019
 ```
 
@@ -18,27 +19,14 @@ The following text table shows by year when the existing city and county distric
 
 Section 4 of this publication provides details on the related program of land use value assessments and cites literature that questions the effectiveness of special assessments in slowing the conversion of participating land to other uses. 
 
-```{r}
+
+```r
 # Table 5.1 Agricultural and Forestal Districts, 2019
 ```
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table05-1, echo=FALSE, eval=FALSE}
-#table_05_1_vars   <- c("ExternalDataReference", "")
 
-#table_05_1_labels <- c("Locality","Name of District", "Date Created", "Review Period (Years)", "Acreage") 
 
-#table_05_1 <- make_table(table_05_1_vars)
-
-#knitr::kable(table_05_1, 
-             #caption = "Agricultural and Forestal Districts Table, 2019", 
-             #col.names = table_05_1_labels, 
-             #align = "lcccc",
-             #format = "html")
-```
 
 
 [^05-1]: Under provisions of the Local Agricultural and Forestal Districts Act, only counties satisfying the following conditions are "participating localities" empowered to establish districts with this reduced acreage requirement: (1) a county with an urban county executive form of government, (2) any adjacent county having the county executive form of government, and (3) counties with population sizes ranging from 63,400 to 73,900 or from 85,000 to 90,000 [no census cited]. See §§ 15.2-4402 through 4405. 

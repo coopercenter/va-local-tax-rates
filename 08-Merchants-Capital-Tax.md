@@ -18,7 +18,8 @@ Those counties employing the merchants’ capital tax generally have one or more
 
 **Table 8.1** shows the statutory (nominal) tax rates per \$100 for the counties and towns, the value used for assessment, and the percentage of value. As shown in the text table, the unweighted mean of the statutory tax rate for counties was \$1.93 per \$100 of assessed value. The median was \$1.00 and the first and third quartiles were \$0.69 and \$2.85, respectively. The unweighted mean of the statutory tax rate for towns was \$0.49 per \$100 of assessed value. The median was \$0.46, and the first and third quartiles were \$0.20 and \$0.72, respectively. 
 
-```{r}
+
+```r
 # Table name: Merchants' Capital Statutory Tax Rate, 2019
 ```
 
@@ -28,32 +29,8 @@ A majority of the localities that impose the merchants’ capital tax compute th
 
 All reporting towns used the inventory tax component. None reported imposing a short-term rental tax. Amherst, Timberville and Pembroke reported imposing the rental vehicle tax.
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table08-1, echo=FALSE, eval=FALSE}
-table_08_1_vars   <- c("ExternalDataReference","merch_assmt_meth", "merch_date_oth", "merch_rate", "merch_assmt", "merch_assmt_pc")
-table_08_1_labels <- c("Locality","Assessment Source","Valuation Date","Statutory (Nominal) Tax Rate (per $100)","Assessment Method*","Assessment Percentage (%)")
 
-table_08_1 <- make_table(table_08_1_vars)
 
-knitr::kable(table_20_2, 
-             caption = "Merchants' Capital Tax, Basic Features, 2019", 
-             col.names = table_08_1_labels, 
-             align = "lccccc",
-             format = "html")
-```
 
-```{r table08-2, echo=FALSE, eval=FALSE}
-#table_08_2_vars   <- c("ExternalDataReference","","","")
-#table_08_2_labels <- c("Locality","Inventory Tax","Rental Vehicle Tax", "Short-Term Rental Tax")
 
-#table_08_2 <- make_table(table_08_2_vars)
-
-#knitr::kable(table_08_2, 
-             #caption = "Merchants' Capital Tax Provisions Concerning Taxation of Inventories, Rental Vehicles, and Short-Term Rentals Table, 2019", 
-             #col.names = table_08_2_labels, 
-             #align = "lccc",
-             #format = "html")
-```

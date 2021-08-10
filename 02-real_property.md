@@ -30,10 +30,9 @@ Table 2.1 also lists the statutory (nominal) tax rates. The statutory rate is th
 
 The statutory tax rates were reported to the Cooper Center by all cities and counties and 112 of the responding towns. The text table below lists the averages for the statutory rates from the localities. 
 
-```{r}
 
+```r
 #table name: Statutory Real Estate Tax Rates per $100 of Assessed Taxable Value for Localities Reporting, CY 2019 and FY 2020
-
 ```
 
 Statutory rates are generally higher for cities than counties. The rates are lowest in towns because they are subordinate to counties and have limited responsibilities.
@@ -64,10 +63,9 @@ Column seven of Table 2.5 shows information about maintenance assessments. While
 
 Columns eight and nine of Table 2.5 cover physical inspection. Physical inspection refers to the actual inspection of the property as opposed to computerized mass-appraisal of parcels. If a locality responded that it did not perform physical inspections during the general reassessment, two further questions were asked: 
 
-```{r}
 
+```r
 #table name: Reassessment Periods for Real Estate, 2019
-
 ```
 
 (1) Does the locality perform a physical inspection at all? (2) If so, what is the inspection cycle? Among cities that responded, 18 reportedly did not have a physical inspection separate from the general reassessment cycle. Twenty others reported having a physical inspection cycle, the periods ranging anywhere from two to six years. Among counties that responded, 70 indicated they performed physical inspections during general reassessment, while 25 reported having physical inspection cycles ranging anywhere from one to six years.
@@ -80,10 +78,9 @@ The total assessed value of property by category for counties in 2018 amounted t
 
 With the total amounts from cities and counties combined, the total assessed valuation amounted to $1,131.9 billion. Of that, 70.2 percent applied to single-family residential property, 7.1 percent applied to multi-family residential property, 19.6 percent applied to commercial/industrial property, and 3.0 percent to agricultural property.
 
-```{r}
 
+```r
 #table name: Taxable Assessed Value by Category for Cities and Counties, 2018
-
 ```
 
 Looking at the percentage breakdown for each type of locality, in 2018 the share of taxable assessed value for cities in the single-family residential category was between 40 percent and 59.9 percent in 19 cities and 60 percent or more in 18 cities. All cities but two had multi-family residential values under 19.9 percent of the total assessed value. Commercial and industrial property was the second most common category with 21 of the cities having between 20 percent and 39.9 percent of their property valuations coming from this type of property. Finally, only the cities of Suffolk and Franklin had more than 2 percent of their property valuation associated with agriculture.
@@ -96,10 +93,9 @@ The category with the second highest valuation in counties was commercial and in
 
 Tax rates are generally discussed in terms of either statutory (nominal) rates or effective rates. The statutory rate is the rate used by localities and is applied to the assessed value of a property.The effective rate is published by the Virginia Department of Taxation in their annual assessment/sales ratio study. The department derives the effective rate by multiplying the statutory tax rate by the median assessment ratio. In normal times when property values are rising, the median assessment ratio is usually less than 100 percent because reassessments lag market increases and tend to be conservative. Consequently, the statutory rate is generally higher than the effective rate. However, this may not be true in difficult real estate markets. A limitation of the effective rates published by the Virginia Department of Taxation is that they are not current. The most recent year available at the present time is 2017. Despite the time lag, effective rates are important because they give a more accurate reflection of the differences in real property tax rates across localities.
 
-```{r}
 
+```r
 #table name: Share of Assessed Value of Real Estate by Category, 2018
-
 ```
 
 **Table 2.7** shows city and county average effective tax rates in the year 2017. The department makes its computation in order to control for the variance in localities’ assessment procedures and timing. Therefore, when comparing tax rates among localities, the reader may wish to consult both Tables 2.1 and 2.7. Table 2.1 shows statutory rates in 2019. Table 2.7 shows statutory and effective rates in 2017. The following text table summarizes the effective tax rates for the localities shown in Table 2.7.
@@ -107,18 +103,16 @@ Tax rates are generally discussed in terms of either statutory (nominal) rates o
 It should also be pointed out that the Virginia Department of Taxation does not use the locally reported statutory tax rate in its computations. Instead, it calculates the statutory rate by dividing the real estate levy by the local real estate *taxable assessed value*,[^02-6] as reported in the local land book. This method of computing the statutory tax rate takes additional district levies into account.[^02-7]
 
 
-```{r}
 
+```r
 #table name: Effective Real Estate Tax Rates, 2017
-
 ```
 
 In 2 cities and 10 counties the statutory rate was less than the effective rate. In two cities and seven counties statutory and effective rates were the same. Finally, in 34 cities and 78 counties statutory rates exceeded effective rates. 
 
-```{r}
 
+```r
 #table name: Statutory and Effective Real Estate Tax Rates, 2017
-
 ```
 
 The real property tax rates reported in Table 2.7 are a more accurate reflection of the differences among localities in tax rates on real property than those in Table 2.1 because they control for variations in assessment frequency and technique among localities. Table 2.7 also shows the latest reassessment in effect when the median ratio study was conducted, the number of sales used in the study, the median ratio, and the coefficient of dispersion. 
@@ -132,10 +126,9 @@ where $X_i$ represents the assessment/sales ratio for the $i^\text{th}$ sale in 
 
 The table below summarizes the coefficients of dispersion tabulated for the cities and counties. Eighteen of the cities had CDs of no more than 9.9 percent. Eight had CDs between 10 percent and 14.9 percent, 7 had CDs between 15 and 19.9 percent, and 4 had CDs between 20 and 24.9 percent. Counties tended to vary more in the degree of dispersion. Thirteen had CDs between 5 and 9.9 percent, 18 had CDs between 10 and 14.9 percent, 25 had CDs between 15 and 19.9 percent, 26 had CDs between 20 and 24.9 percent, 11 had CDs between 25 and 29.9 percent, and 2 had CDs between 30 and 34.9 percent. 
 
-```{r}
 
+```r
 #table name: Coefficient of Dispersion, 2017
-
 ```
 
 There is no upper limit for what is tolerable, but the International Association of Assessing Officers recommends an upper limit of 15 percent for residential properties.[^02-9] Twenty-eight cities and 34 counties met the 15 percent standard.[^02-10]
@@ -156,117 +149,23 @@ The fifth column lists localities that reported providing a separate real proper
 
 Finally, the last column refers to low-income grant programs, discussed earlier in this text under the subheading, “Tax Relief Programs.” Only the cities of Charlottesville and Norfolk, and the county of Arlington reported having these programs. 
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table02-1, echo=FALSE, eval=FALSE}
-table_02_1_vars   <- c("ExternalDataReference","real_parcels", "real_parcels_res", "real_taxAsmt_year", "real_rate_jul", "real_rate_jan", "real_due_date1", "real_due_date2", "real_due_date3", "real_due_date4", "real_prorate")
 
-table_02_1_labels <- c("Locality","Total Number of Taxable Parcels","Number of Residential Taxable Parcels", "", "Tax Rate per $100 of Assessed Value, CY 2019", "Tax Rate per $100 of Assessed Value, FY 2020", "Tax Due Dates", "Tax Due Dates","Tax Due Dates", "Tax Due Dates", "Prorate Tax")
 
-table_02_1 <- make_table(table_02_1_vars)
 
-knitr::kable(table_02_1, 
-             caption = "Real Property Statutory (Nominal) Tax Rates, CY 2019 and FY 2020 Table", 
-             col.names = table_02_1_labels, 
-             align = "lcccccc",
-             format = "html")
-```
 
-```{r table02-2, echo=FALSE, eval=FALSE}
-#table_02_2_vars   <- c("ExternalDataReference","")
-#table_02_2_labels <- c("Locality","Based Rate ($) Per $100 of Assessed Value", "District", "Purpose", "District Rate ($) Per $100 of Assessed Value") 
 
-#table_02_2 <- make_table(table_02_2_vars)
 
-#knitr::kable(table_02_2, 
-             #caption = "Additional Real Property Special District Tax Levies for Special Purposes Table, 2019", 
-             #col.names = table_02_2_labels, 
-             #align = "lcccc",
-             #format = "html")
-```
 
-```{r table02-3, echo=FALSE, eval=FALSE}
-#table_02_3_vars   <- c("ExternalDataReference","")
-#table_02_3_labels <- c("Locality","Project","Purpose", "Acres","Bond Amount ($ Mil.)", "Current Value ($ Mil.)")
 
-#table_02_3 <- make_table(table_02_3_vars)
 
-#knitr::kable(table_02_3, 
-             #caption = "Community Development Authorities Requiring a Special Purpose Real Property Levy Table, 2019", 
-             #col.names = table_02_3_labels, 
-             #align = "lccccc",
-             #format = "html")
-```
 
-```{r table02-4, echo=FALSE, eval=FALSE}
-#table_02_4_vars   <- c("ExternalDataReference","")
-#table_02_4_labels <- c("Locality","Tax Rate per $100 of Assessed Value, Base Rate ($)", "Tax Rate per $100 of Assessed Value, Additional Rate ($)")
 
-#table_02_4 <- make_table(table_02_4_vars)
 
-#knitr::kable(table_02_4, 
-             #caption = "Special Purpose Real Property Tax Levies on Commercial Property in Northern Virginia Transportation Authority Region Table, 2019", 
-             #col.names = table_02_4_labels, 
-             #align = "lcc",
-             #format = "html")
-```
 
-```{r table02-5, echo=FALSE, eval=FALSE}
-table_02_5_vars   <- c("ExternalDataReference","real_fullAss", "real_reAssmt", "real_reAssmt_yrs", "real_phys", "real_reAssmt_last", "real_reAssmt_yLast", "real_maint_assmt", "real_phys_cycle", "real_phys_freq")
 
-table_02_5_labels <- c("Locality","Employs Full-time Assessor", "Conduct of General Reassessments, Contracted or In-house", "Conduct of General Reassessments, Reassessment Frequency (Years)", "Conduct of General Reassessments, Physical Insp. Part of Reassessment", "Conduct of General Reassessments, Last Done", "Conduct of General Reassessments, Last Done", "Maintenance Assessments Contracted or In-house", "Physical Inspection Cycle, Inspection", "Physical Inspection Cycle, Cycle (Years)")
 
-table_02_5 <- make_table(table_02_5_vars)
 
-knitr::kable(table_02_5, 
-             caption = "Real Property Assessment Procedures for Virginia Localities Table, 2019", 
-             col.names = table_02_5_labels, 
-             align = "lcccccccc",
-             format = "html")
-```
-
-```{r table02-6, echo=FALSE, eval=FALSE}
-#table_02_6_vars   <- c("ExternalDataReference","")
-
-#table_02_6_labels <- c("Locality","Total Taxable Assessed Value ($)[^a]", "Percentage of Distribution by Category (%)[^b], Residential, Single Family", "Percentage of Distribution by Category (%)[^b], Residential, Multifamily", "Percentage of Distribution by Category (%)[^b], Commercial and Industrial", "Percentage of Distribution by Category (%)[^b], Agricultural")
-
-#table_02_6 <- make_table(table_02_6_vars)
-
-#knitr::kable(table_02_6, 
-             #caption = "Assessed Value of Real Property by Category and by Locality Table, 2018*", 
-             #col.names = table_02_6_labels, 
-             #align = "lccccc",
-             #format = "html")
-```
-
-```{r table02-7, echo=FALSE, eval=FALSE}
-#table_02_7_vars   <- c("ExternalDataReference","")
-#table_02_7_labels <- c("Locality","Latest Reassessment as of 2016", "Number of Sales in Sample", "Median Assessment/Sales Ratio (Percent)", "Coefficient of Dispersion (Percent)", "Statutory Tax Rate per $100 of Assessed Value", "Effective Tax Rate per $100 of True Value")
-
-#table_02_7 <- make_table(table_02_7_vars)
-
-#knitr::kable(table_02_7, 
-             #caption = "Real Property Effective True Tax Rates Table, 2017", 
-             #col.names = table_02_7_labels, 
-             #align = "lcccccc",
-             #format = "html")
-```
-
-```{r table02-8, echo=FALSE, eval=FALSE}
-#table_02_8_vars   <- c("ExternalDataReference","")
-
-#table_02_8_labels <- c("Locality","Recreation Tax", "Deferral of Tax", "Tax Increment Financing Fund", "Energy Efficient Building Rate", "Manufacturing Renewable Energy Rate", "Low-Income Relief Grants")
-
-#table_02_8 <- make_table(table_02_8_vars)
-
-#knitr::kable(table_02_8, 
-             #caption = "Real Property Miscellaneous Items Table, 2019", 
-             #col.names = table_02_8_labels, 
-             #align = "lcccccc",
-             #format = "html")
-```
 
 [^02-1]: Charlottesville Housing Affordability Program: https://www.charlottesville.org/departments-and-services/departments-a-g/commissioner-of-revenue/real-estate-tax-relief-for-the-elderly-and-disabled. Loudoun County Affordable Dwelling Unit Program: http://www.loudoun.gov/adu. Arlington County Housing
 Grants Program: http://housing.arlingtonva.us/get-help/rentalservices/local-housing-grants/.

@@ -28,7 +28,8 @@ In 1973, the first year in which local ordinances could take effect, only four l
 
 Localities reporting agricultural assessment ordinances numbered 110, while localities with forestal assessment ordinances numbered 88, and those with horticultural special assessments numbered 88. Open space special assessments are less common; 60 localities reported them. The breakdown of types of special assessment is shown in the text table. 
 
-```{r}
+
+```r
 #table name: Types of Special Assessments, 2019
 ```
 
@@ -58,23 +59,9 @@ If the qualifying land reverts to a non-qualifying use, the property is subject 
 
 There is also a penalty for any misstatement made in the application for special assessment. In such a case, the owner is liable for all taxes that would have been incurred had the real estate not been subject to special assessment, together with penalties due on such sum. If the misstatement was made with the intent to defraud the locality, the owner is assessed an additional penalty of 100 percent of the unpaid taxes. 
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table04-1, echo=FALSE, eval=FALSE}
-#table_04_1_vars   <- c("ExternalDataReference", "real_useVal_date", "real_useVal_land", "real_acre_uv", "real_useVal_fee", "", "", "real_useVal_estimate")
 
-#table_04_1_labels <- c("Locality","Effective Date", "Types of Real Estate Subject to Assessment", "Acres Under Use Value Assessment", "Application Fee", "Agriculture Value per Acre, SLEAC*, Income Method", "Agriculture Value per Acre, SLEAC*, Rental Method", "Agriculture Value per Acre, Locality's Figure") 
 
-#table_04_1 <- make_table(table_04_1_vars)
-
-#knitr::kable(table_04_1, 
-             #caption = "Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate Table, 2019", 
-             #col.names = table_04_1_labels, 
-             #align = "lccccccc",
-             #format = "html")
-```
 
 
 [^04-1]: Adele C. Morris, "Property Tax Treatment of Farmland: Does Tax Relief Delay Land Development," Helen F. Ladd, editor. *Local Government Tax and Land Use Policies in the United States*. (Northampton, MA: Edward Elgar, 1998), p. 156. 

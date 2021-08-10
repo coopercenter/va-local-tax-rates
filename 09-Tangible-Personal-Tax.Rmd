@@ -186,41 +186,41 @@ make_long_table(table_09_1,
 ```
 
 ```{r table09-2, echo=FALSE}
-table_09_2_labels <- c("Locality","Type of Relief or Exemption", "Type of Relief or Exemption", "Income Limit ($)", "Net Worth Limit ($)")
+#table_09_2_labels <- c("Locality","Type of Relief or Exemption", "Type of Relief or Exemption", "Income Limit ($)", "Net Worth Limit ($)")
 
-table_09_2 <- make_table(table_09_2_vars)
+#table_09_2 <- make_table(table_09_2_vars)
 
-knitr::kable(table_09_2, 
-             caption = "Tangible Personal Property Tax Relief for Elderly and Disabled Table, 2019", 
-             col.names = table_09_2_labels, 
-             align = "lccc",
-             format = "html")
+#knitr::kable(table_09_2, 
+             #caption = "Tangible Personal Property Tax Relief for Elderly and Disabled Table, 2019", 
+             #col.names = table_09_2_labels, 
+             #align = "lccc",
+             #format = "html")
 ```
 
 ```{r table09-3, echo=FALSE}
-table_09_3_vars   <- c("ExternalDataReference","", "tang_sAuto_cond", "tang_sAuto_assmt", "", "", "",  "tang_autos_pc", "tang_autos", "tang_autos_bus")
-table_09_3_labels <- c("Locality","Tax Rate/$100", "Assessment Value Concept*/Condition", "Assessment Value Concept*/Condition", "Relationship to Retail Value (%)[^†]", "Assessment Ratio (%)", "Adjusted Effective Rate/$100[^#]", "Share of Tax from Vehicles FY 2016 (%)", "Number of Motor Vehicles, Total", "Number of Motor Vehicles, Business")
+#table_09_3_vars   <- c("ExternalDataReference","", "tang_sAuto_cond", "tang_sAuto_assmt", "", "", "",  "tang_autos_pc", "tang_autos", "tang_autos_bus")
+#table_09_3_labels <- c("Locality","Tax Rate/$100", "Assessment Value Concept*/Condition", "Assessment Value Concept*/Condition", "Relationship to Retail Value (%)[^†]", "Assessment Ratio (%)", "Adjusted Effective Rate/$100[^#]", "Share of Tax from Vehicles FY 2016 (%)", "Number of Motor Vehicles, Total", "Number of Motor Vehicles, Business")
 
-table_09_3 <- make_table(table_09_3_vars)
+#table_09_3 <- make_table(table_09_3_vars)
 
-knitr::kable(table_09_3, 
-             caption = "Tangible Personal Property Tax for Automobiles and Trucks of Less than Two Tons Table, 2019", 
-             col.names = table_09_3_labels, 
-             align = "lccccccc",
-             format = "html")
+#knitr::kable(table_09_3, 
+             #caption = "Tangible Personal Property Tax for Automobiles and Trucks of Less than Two Tons Table, 2019", 
+             #col.names = table_09_3_labels, 
+             #align = "lccccccc",
+             #format = "html")
 ```
 
 ```{r table09-4, echo=FALSE}
-table_09_4_vars   <- c("ExternalDataReference", "tang_low_vehicle_subsidy", "tang_reliefMeth", "", "", "", "", "", "")
-table_09_4_labels <- c("Locality","Forgiveness for Low-value Vehicles", "PPTRA Method*", "2018, Total Tax", "2018, State Credit", "2018, Taxpayer Liability", "2019, Total Tax", "2019, State Credit", "2019, Taxpayer Liability")
+#table_09_4_vars   <- c("ExternalDataReference", "tang_low_vehicle_subsidy", "tang_reliefMeth", "", "", "", "", "", "")
+#table_09_4_labels <- c("Locality","Forgiveness for Low-value Vehicles", "PPTRA Method*", "2018, Total Tax", "2018, State Credit", "2018, Taxpayer Liability", "2019, Total Tax", "2019, State Credit", "2019, Taxpayer Liability")
 
-table_09_4 <- make_table(table_09_4_vars)
+#table_09_4 <- make_table(table_09_4_vars)
 
-knitr::kable(table_09_4, 
-             caption = "Personal Property Tax Relief Act for Motor Vehicles State Credit for $20,000 Vehicle Table, 2018 and 2019", 
-             col.names = table_09_4_labels, 
-             align = "lcccccccc",
-             format = "html")
+#knitr::kable(table_09_4, 
+             #caption = "Personal Property Tax Relief Act for Motor Vehicles State Credit for $20,000 Vehicle Table, 2018 and 2019", 
+             #col.names = table_09_4_labels, 
+             #align = "lcccccccc",
+             #format = "html")
 ```
 
 ```{r table09-5, echo=FALSE}
@@ -237,29 +237,29 @@ knitr::kable(table_09_5,
 ```
 
 ```{r table09-6, echo=FALSE}
-table_09_6_vars   <- c("ExternalDataReference", "")
-table_09_6_labels <- c("Locality", "1997, Tax Rate/$100", "1997, Assessment Value Concept*", "1997, Assessment Ratio (%)", "2019, Tax Rate/$100", "2019, Assessment Value Concept*", "2019, Assessment Ratio (%)")
+#table_09_6_vars   <- c("ExternalDataReference", "")
+#table_09_6_labels <- c("Locality", "1997, Tax Rate/$100", "1997, Assessment Value Concept*", "1997, Assessment Ratio (%)", "2019, Tax Rate/$100", "2019, Assessment Value Concept*", "2019, Assessment Ratio (%)")
 
-table_09_6 <- make_table(table_09_6_vars)
+#table_09_6 <- make_table(table_09_6_vars)
 
-knitr::kable(table_09_6, 
-             caption = "Assessment Component Changes in Cities and Counties from 1997, When PPTRA Went into Effect, to 2019 Table", 
-             col.names = table_09_6_labels, 
-             align = "lccc",
-             format = "html")
+#knitr::kable(table_09_6, 
+             #caption = "Assessment Component Changes in Cities and Counties from 1997, When PPTRA Went into Effect, to 2019 Table", 
+             #col.names = table_09_6_labels, 
+             #align = "lccc",
+             #format = "html")
 ```
 
 ```{r table09-7, echo=FALSE}
-table_09_7_vars   <- c("ExternalDataReference", "")
-table_09_7_labels <- c("Locality", "Concepts and Tools Used for Tax Purposes*, Value", "Concepts and Tools Used for Tax Purposes*, Percent of Value", "Concepts and Tools Used for Tax Purposes*, Pricing Guides", "Depreciation Schedule if No Pricing Guide Available", "Tax Rate/$100 Assessed Value")
+#table_09_7_vars   <- c("ExternalDataReference", "")
+#table_09_7_labels <- c("Locality", "Concepts and Tools Used for Tax Purposes*, Value", "Concepts and Tools Used for Tax Purposes*, Percent of Value", "Concepts and Tools Used for Tax Purposes*, Pricing Guides", "Depreciation Schedule if No Pricing Guide Available", "Tax Rate/$100 Assessed Value")
 
-table_09_7 <- make_table(table_09_7_vars)
+#table_09_7 <- make_table(table_09_7_vars)
 
-knitr::kable(table_09_7, 
-             caption = "Tangible Personal Property Tax Rates for Large Trucks Two Tons and Over Table, 2019", 
-             col.names = table_09_7_labels, 
-             align = "lccccc",
-             format = "html")
+#knitr::kable(table_09_7, 
+             #caption = "Tangible Personal Property Tax Rates for Large Trucks Two Tons and Over Table, 2019", 
+             #col.names = table_09_7_labels, 
+             #align = "lccccc",
+             #format = "html")
 ```
 
 ```{r table09-8, echo=FALSE}
@@ -290,16 +290,16 @@ knitr::kable(table_09_9,
 ```
 
 ```{r table09-10, echo=FALSE}
-table_09_10_vars   <- c("ExternalDataReference", "", "", "tang_lstock_assmt", "tang_lstock_rate", "", "")
-table_09_10_labels <- c("Locality", "Computer Data Center, Basis", "Computer Data Center, Rate/$100", "Livestock*, Basis", "Livestock*, Rate/$100", "Farm Equipment*, Basis", "Farm Equipment*, Rate/$100")
+#table_09_10_vars   <- c("ExternalDataReference", "", "", "tang_lstock_assmt", "tang_lstock_rate", "", "")
+#table_09_10_labels <- c("Locality", "Computer Data Center, Basis", "Computer Data Center, Rate/$100", "Livestock*, Basis", "Livestock*, Rate/$100", "Farm Equipment*, Basis", "Farm Equipment*, Rate/$100")
 
-table_09_10 <- make_table(table_09_10_vars)
+#table_09_10 <- make_table(table_09_10_vars)
 
-knitr::kable(table_09_10, 
-             caption = "Tangible Personal Property Taxes for Computer Hardware in Data Centers, Livestock, and Farm Equipment Table, 2019", 
-             col.names = table_09_10_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_09_10, 
+             #caption = "Tangible Personal Property Taxes for Computer Hardware in Data Centers, Livestock, and Farm Equipment Table, 2019", 
+             #col.names = table_09_10_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 ```{r table09-11, echo=FALSE}
@@ -329,16 +329,16 @@ knitr::kable(table_09_12,
 ```
 
 ```{r table09-13, echo=FALSE}
-table_09_13_vars   <- c("ExternalDataReference", "tang_ht_assmt", "tang_ht_rate", "tang_specfmv_assmt", "tang_specfmv_rate", "", "")
-table_09_13_labels <- c("Locality", "Horse Trailers, Basis*", "Horse Trailers, Rate/$100", "Special Fuel Vehicles, Basis*", "Special Fuel Vehicles, Rate/$100", "Electric Vehicles, Basis*", "Electric Vehicles, Rate/$100")
+#table_09_13_vars   <- c("ExternalDataReference", "tang_ht_assmt", "tang_ht_rate", "tang_specfmv_assmt", "tang_specfmv_rate", "", "")
+#table_09_13_labels <- c("Locality", "Horse Trailers, Basis*", "Horse Trailers, Rate/$100", "Special Fuel Vehicles, Basis*", "Special Fuel Vehicles, Rate/$100", "Electric Vehicles, Basis*", "Electric Vehicles, Rate/$100")
 
-table_09_13 <- make_table(table_09_13_vars)
+#table_09_13 <- make_table(table_09_13_vars)
 
-knitr::kable(table_09_13, 
-             caption = "Tangible Personal Property Taxes Related to Horse Trailers, Special Fuel Vehicles, and Electric Vehicles Table, 2019", 
-             col.names = table_09_13_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_09_13, 
+             #caption = "Tangible Personal Property Taxes Related to Horse Trailers, Special Fuel Vehicles, and Electric Vehicles Table, 2019", 
+             #col.names = table_09_13_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 

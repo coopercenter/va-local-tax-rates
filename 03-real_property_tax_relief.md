@@ -8,8 +8,8 @@ Localities are allowed to establish by ordinance the net financial worth and ann
 
 The table below indicates the range and media of the combined gross income allowance and combined net worth limitations for those cities, counties, and towns responding to the survey. 
 
-```{r}
 
+```r
 #table name: Relief Plan Statistics: Gross Income and Net Worth, 2019
 ```
 
@@ -17,8 +17,8 @@ The table below indicates the range and media of the combined gross income allow
 The following table indicates, for those localities responding, how many localities have a tax relief plan that applies to both the elderly and the disabled, the elderly only,or the disabled only. 
 
 
-```{r}
 
+```r
 # table name: Relief Plans for Elderly and Disabled, 2019
 ```
 
@@ -32,45 +32,10 @@ For example, if the table reads “\$7,500; first \$1,500 exempt,” this indica
 
 **Table 3.3** lists the combined elderly and disabled beneficiaries reported by each locality in 2018 or 2019 and the amount of revenue foregone by each locality because of the homeowner exemptions. The amounts were reported by 23 cities, 66 counties, and 31 towns that responded to the question. The amounts reported foregone totaled \$21,698,890 for cities, \$60,242,734 for counties and \$636,229 for the reporting towns. The grand total amount foregone by reporting cities, counties, and towns was \$82,577,853. An estimate of the average revenue foregone per beneficiary is also provided for localities reporting both number of beneficiaries and foregone revenue. For cities, the average revenue foregone was \$1,518 per beneficiary. The amount for counties was \$1,581, and for towns it was \$360. 
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table03-1, echo=FALSE, eval=FALSE}
-#table_03_1_vars   <- c("ExternalDataReference","real_own_inc", "real_own_net", "")
-#table_03_1_labels <- c("Locality","Combined Gross Income", "Combined Net Worth", "Relief Plan/Exemption")
 
-#table_03_1 <- make_table(table_03_1_vars)
 
-#knitr::kable(table_03_1, 
-             #caption = "Real Property Owner Tax Relief Plans for the Elderly and Disabled Table, 2019", 
-             #col.names = table_03_1_labels, 
-             #align = "lccc",
-             #format = "html")
-```
 
-```{r table03-2, echo=FALSE, eval=FALSE}
-#table_03_2_vars   <- c("ExternalDataReference", "real_rent_inc", "real_rent_net", "")
-#table_03_2_labels <- c("Locality","Combined Gross Income", "Combined Net Worth", "Relief Plan")
 
-#table_03_2 <- make_table(table_03_2_vars)
 
-#knitr::kable(table_03_2, 
-             #caption = "Real Property Renter Tax Relief Plans for the Elderly and Disabled Table, 2019", 
-             #col.names = table_03_2_labels, 
-             #align = "lccc",
-             #format = "html")
-```
 
-```{r table03-3, echo=FALSE, eval=FALSE}
-#table_03_3_vars   <- c("ExternalDataReference","")
-#table_03_3_labels <- c("Locality","")
-
-#table_03_3 <- make_table(table_03_3_vars)
-
-#knitr::kable(table_03_3, 
-             #caption = "Real Property Tax Relief Plans for the Elderly and Disabled Homeowners: Number of Beneficiaries and Foregone Tax Revenue Table, 2018 or 2019", 
-             #col.names = table_03_3_labels, 
-             #align = "lcccc",
-             #format = "html")
-```

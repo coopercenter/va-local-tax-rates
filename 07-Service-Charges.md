@@ -12,23 +12,11 @@ The city of Richmond, as the seat of state government, clearly satisfies the 3 p
 
 Based on the survey and some follow-up conversations, it was found that localities that have state educational institutions and which also charge the service fee include the cities of Charlottesville (University of Virginia), Fredericksburg (University of Mary Washington), Harrisonburg (James Madison University), Lexington (Virginia Military Institute), and Wise County (University of Virginia at Wise). Counties that impose service charges based on the presence of correctional institutions include Brunswick (Brunswick Correctional Center and Brunswick Work Center for Women), Buckingham (Buckingham Correctional Center and Dillwyn Correctional Center), Greensville (Greensville Correctional Center and Greensville Work Center), Fluvanna (Fluvanna Correctional Center for Women), Southampton (Southampton Correctional Center, Southampton Work Center for Men, Southampton Pre-Release and Work Center for Women, and Deerfield Correctional Center), and Wise (Red Onion State Prison, Wallens Ridge State Prison, and Wise Correctional Unit #18). **Table 7.1** shows that 12 cities, 7 counties, and 1 town report imposing a service charge of some sort on state-owned or privately-owned property.
 
-```{r}
+
+```r
 # Table 7.1 Service Charges on Tax-exempt Property, 2019
 ```
 
-```{r load code to make tables 20, message=FALSE, echo=FALSE}
-source("make_table.R")
-```
 
-```{r table07-1, echo=FALSE}
-#table_07_1_vars   <- c("ExternalDataReference","", "", "real_serv_cmt")
-#table_07_1_labels <- c("Locality","Rate per $100 of Assessed Value, State-owned", "Privately-owned", "Property Description")
 
-#table_07_1 <- make_table(table_07_1_vars)
 
-#knitr::kable(table_07_1, 
-             #caption = "Service Charges on Tax-exempt Property Table, 2019", 
-             #col.names = table_07_1_labels, 
-             #align = "lccc",
-             #format = "html")
-```
