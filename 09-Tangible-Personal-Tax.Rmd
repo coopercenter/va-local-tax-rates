@@ -1,7 +1,7 @@
 # Tangible Personal Property Tax
 
 ```{r prep data for section 20, message=FALSE, echo=FALSE}
-source("get_and_prep_data.R")
+#source("get_and_prep_data.R")
 
 #table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
 #table_09_5_vars   <- c("tang_redtnMil_year", "tang_redtnMil_nbr", "tang_redtnMil_amt")
