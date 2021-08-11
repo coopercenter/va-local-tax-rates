@@ -175,42 +175,42 @@ knitr::kable(table_02_1,
 ```
 
 ```{r table02-2, echo=FALSE, eval=FALSE}
-table_02_2_vars   <- c("ExternalDataReference","")
-table_02_2_labels <- c("Locality","Based Rate ($) Per $100 of Assessed Value", "District", "Purpose", "District Rate ($) Per $100 of Assessed Value") 
+#table_02_2_vars   <- c("ExternalDataReference","")
+#table_02_2_labels <- c("Locality","Based Rate ($) Per $100 of Assessed Value", "District", "Purpose", "District Rate ($) Per $100 of Assessed Value") 
 
-table_02_2 <- make_table(table_02_2_vars)
+#table_02_2 <- make_table(table_02_2_vars)
 
-knitr::kable(table_02_2, 
-             caption = "Additional Real Property Special District Tax Levies for Special Purposes Table, 2019", 
-             col.names = table_02_2_labels, 
-             align = "lcccc",
-             format = "html")
+#knitr::kable(table_02_2, 
+             #caption = "Additional Real Property Special District Tax Levies for Special Purposes Table, 2019", 
+             #col.names = table_02_2_labels, 
+             #align = "lcccc",
+             #format = "html")
 ```
 
 ```{r table02-3, echo=FALSE, eval=FALSE}
-table_02_3_vars   <- c("ExternalDataReference","")
-table_02_3_labels <- c("Locality","Project","Purpose", "Acres","Bond Amount ($ Mil.)", "Current Value ($ Mil.)")
+#table_02_3_vars   <- c("ExternalDataReference","")
+#table_02_3_labels <- c("Locality","Project","Purpose", "Acres","Bond Amount ($ Mil.)", "Current Value ($ Mil.)")
 
-table_02_3 <- make_table(table_02_3_vars)
+#table_02_3 <- make_table(table_02_3_vars)
 
-knitr::kable(table_02_3, 
-             caption = "Community Development Authorities Requiring a Special Purpose Real Property Levy Table, 2019", 
-             col.names = table_02_3_labels, 
-             align = "lccccc",
-             format = "html")
+#knitr::kable(table_02_3, 
+             #caption = "Community Development Authorities Requiring a Special Purpose Real Property Levy Table, 2019", 
+             #col.names = table_02_3_labels, 
+             #align = "lccccc",
+             #format = "html")
 ```
 
 ```{r table02-4, echo=FALSE, eval=FALSE}
-table_02_4_vars   <- c("ExternalDataReference","")
-table_02_4_labels <- c("Locality","Tax Rate per $100 of Assessed Value, Base Rate ($)", "Tax Rate per $100 of Assessed Value, Additional Rate ($)")
+#table_02_4_vars   <- c("ExternalDataReference","")
+#table_02_4_labels <- c("Locality","Tax Rate per $100 of Assessed Value, Base Rate ($)", "Tax Rate per $100 of Assessed Value, Additional Rate ($)")
 
-table_02_4 <- make_table(table_02_4_vars)
+#table_02_4 <- make_table(table_02_4_vars)
 
-knitr::kable(table_02_4, 
-             caption = "Special Purpose Real Property Tax Levies on Commercial Property in Northern Virginia Transportation Authority Region Table, 2019", 
-             col.names = table_02_4_labels, 
-             align = "lcc",
-             format = "html")
+#knitr::kable(table_02_4, 
+             #caption = "Special Purpose Real Property Tax Levies on Commercial Property in Northern Virginia Transportation Authority Region Table, 2019", 
+             #col.names = table_02_4_labels, 
+             #align = "lcc",
+             #format = "html")
 ```
 
 ```{r table02-5, echo=FALSE, eval=FALSE}
@@ -228,44 +228,44 @@ knitr::kable(table_02_5,
 ```
 
 ```{r table02-6, echo=FALSE, eval=FALSE}
-table_02_6_vars   <- c("ExternalDataReference","")
+#table_02_6_vars   <- c("ExternalDataReference","")
 
-table_02_6_labels <- c("Locality","Total Taxable Assessed Value ($)[^a]", "Percentage of Distribution by Category (%)[^b], Residential, Single Family", "Percentage of Distribution by Category (%)[^b], Residential, Multifamily", "Percentage of Distribution by Category (%)[^b], Commercial and Industrial", "Percentage of Distribution by Category (%)[^b], Agricultural")
+#table_02_6_labels <- c("Locality","Total Taxable Assessed Value ($)[^a]", "Percentage of Distribution by Category (%)[^b], Residential, Single Family", "Percentage of Distribution by Category (%)[^b], Residential, Multifamily", "Percentage of Distribution by Category (%)[^b], Commercial and Industrial", "Percentage of Distribution by Category (%)[^b], Agricultural")
 
-table_02_6 <- make_table(table_02_6_vars)
+#table_02_6 <- make_table(table_02_6_vars)
 
-knitr::kable(table_02_6, 
-             caption = "Assessed Value of Real Property by Category and by Locality Table, 2018*", 
-             col.names = table_02_6_labels, 
-             align = "lccccc",
-             format = "html")
+#knitr::kable(table_02_6, 
+             #caption = "Assessed Value of Real Property by Category and by Locality Table, 2018*", 
+             #col.names = table_02_6_labels, 
+             #align = "lccccc",
+             #format = "html")
 ```
 
 ```{r table02-7, echo=FALSE, eval=FALSE}
-table_02_7_vars   <- c("ExternalDataReference","")
-table_02_7_labels <- c("Locality","Latest Reassessment as of 2016", "Number of Sales in Sample", "Median Assessment/Sales Ratio (Percent)", "Coefficient of Dispersion (Percent)", "Statutory Tax Rate per $100 of Assessed Value", "Effective Tax Rate per $100 of True Value")
+#table_02_7_vars   <- c("ExternalDataReference","")
+#table_02_7_labels <- c("Locality","Latest Reassessment as of 2016", "Number of Sales in Sample", "Median Assessment/Sales Ratio (Percent)", "Coefficient of Dispersion (Percent)", "Statutory Tax Rate per $100 of Assessed Value", "Effective Tax Rate per $100 of True Value")
 
-table_02_7 <- make_table(table_02_7_vars)
+#table_02_7 <- make_table(table_02_7_vars)
 
-knitr::kable(table_02_7, 
-             caption = "Real Property Effective True Tax Rates Table, 2017", 
-             col.names = table_02_7_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_02_7, 
+             #caption = "Real Property Effective True Tax Rates Table, 2017", 
+             #col.names = table_02_7_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 ```{r table02-8, echo=FALSE, eval=FALSE}
-table_02_8_vars   <- c("ExternalDataReference","")
+#table_02_8_vars   <- c("ExternalDataReference","")
 
-table_02_8_labels <- c("Locality","Recreation Tax", "Deferral of Tax", "Tax Increment Financing Fund", "Energy Efficient Building Rate", "Manufacturing Renewable Energy Rate", "Low-Income Relief Grants")
+#table_02_8_labels <- c("Locality","Recreation Tax", "Deferral of Tax", "Tax Increment Financing Fund", "Energy Efficient Building Rate", "Manufacturing Renewable Energy Rate", "Low-Income Relief Grants")
 
-table_02_8 <- make_table(table_02_8_vars)
+#table_02_8 <- make_table(table_02_8_vars)
 
-knitr::kable(table_02_8, 
-             caption = "Real Property Miscellaneous Items Table, 2019", 
-             col.names = table_02_8_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_02_8, 
+             #caption = "Real Property Miscellaneous Items Table, 2019", 
+             #col.names = table_02_8_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 [^02-1]: Charlottesville Housing Affordability Program: https://www.charlottesville.org/departments-and-services/departments-a-g/commissioner-of-revenue/real-estate-tax-relief-for-the-elderly-and-disabled. Loudoun County Affordable Dwelling Unit Program: http://www.loudoun.gov/adu. Arlington County Housing

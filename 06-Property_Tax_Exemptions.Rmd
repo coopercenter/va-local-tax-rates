@@ -69,15 +69,15 @@ knitr::kable(table_06_1,
 ```
 
 ```{r table06-2, echo=FALSE, eval=FALSE}
-table_06_2_vars   <- c("ExternalDataReference", "")
+#table_06_2_vars   <- c("ExternalDataReference", "")
 
-table_06_2_labels <- c("Locality","Environmental Restoration Sites", "Recycling Equipment and Facilities", "Solar Energy Equipment and Facilities", "Generating Equipment for Energy Conservation", "Certified Stormwater Developments", "Wetlands and Riparian Buffers") 
+#table_06_2_labels <- c("Locality","Environmental Restoration Sites", "Recycling Equipment and Facilities", "Solar Energy Equipment and Facilities", "Generating Equipment for Energy Conservation", "Certified Stormwater Developments", "Wetlands and Riparian Buffers") 
 
-table_06_2 <- make_table(table_06_2_vars)
+#table_06_2 <- make_table(table_06_2_vars)
 
-knitr::kable(table_06_2, 
-             caption = "Property Tax Exemptions for Restoration Sites, Recycling, Solar Energy, Generators, Stormwater Developments, and Wetlands Table, 2019", 
-             col.names = table_06_2_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_06_2, 
+             #caption = "Property Tax Exemptions for Restoration Sites, Recycling, Solar Energy, Generators, Stormwater Developments, and Wetlands Table, 2019", 
+             #col.names = table_06_2_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```

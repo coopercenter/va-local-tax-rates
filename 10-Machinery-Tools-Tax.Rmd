@@ -27,29 +27,29 @@ source("make_table.R")
 ```
 
 ```{r table10-1, echo=FALSE}
-table_10_1_vars   <- c("ExternalDataReference","src_assmt_value", "mach_tool_assmt", "src_assmt_rate", "src_assmt_ratio", "")
-table_10_1_labels <- c("Locality","Basis of Assessment*", "Assessment Type*", "Statutory Rate Per $100", "Assessment, Year, Ratio (%)", "Effective Rate Per $100[^†]")
+#table_10_1_vars   <- c("ExternalDataReference","src_assmt_value", "mach_tool_assmt", "src_assmt_rate", "src_assmt_ratio", "")
+#table_10_1_labels <- c("Locality","Basis of Assessment*", "Assessment Type*", "Statutory Rate Per $100", "Assessment, Year, Ratio (%)", "Effective Rate Per $100[^†]")
 
-table_10_1 <- make_table(table_10_1_vars)
+#table_10_1 <- make_table(table_10_1_vars)
 
-knitr::kable(table_10_1, 
-             caption = "Machinery and Tools Property Tax, General Information Table, 2019", 
-             col.names = table_10_1_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_10_1, 
+             #caption = "Machinery and Tools Property Tax, General Information Table, 2019", 
+             #col.names = table_10_1_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 ```{r table10-2, echo=FALSE}
-table_10_2_vars   <- c("ExternalDataReference","semi_manuf_rate", "forest_harv_rate", "", "", "national_defense_rate", "")
-table_10_2_labels <- c("Locality","Rate Per $100 of Assessed Value, Semiconductor", ",Forestry", ",Vehicle Cleaning", ",Castings", ",Defense", ",Other Business")
+#table_10_2_vars   <- c("ExternalDataReference","semi_manuf_rate", "forest_harv_rate", "", "", "national_defense_rate", "")
+#table_10_2_labels <- c("Locality","Rate Per $100 of Assessed Value, Semiconductor", ",Forestry", ",Vehicle Cleaning", ",Castings", ",Defense", ",Other Business")
 
-table_10_2 <- make_table(table_10_2_vars)
+#table_10_2 <- make_table(table_10_2_vars)
 
-knitr::kable(table_10_2, 
-             caption = "Machinery and Tools Tax on Specific Types of Equipment Table, 2019", 
-             col.names = table_10_2_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_10_2, 
+             #caption = "Machinery and Tools Tax on Specific Types of Equipment Table, 2019", 
+             #col.names = table_10_2_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 ```{r table10-3, echo=FALSE}

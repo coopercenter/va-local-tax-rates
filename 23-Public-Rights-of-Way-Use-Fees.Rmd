@@ -20,7 +20,7 @@ source("make_table.R")
 
 ```{r table23-1, echo=FALSE}
 table_23_1_vars   <- c("ExternalDataReference", "row_fee")
-table_23_1_labels <- c("Locality")
+table_23_1_labels <- c("Locality", "")
 
 table_23_1 <- make_table(table_23_1_vars)
 
