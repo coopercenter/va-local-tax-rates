@@ -21,14 +21,14 @@ source("make_table.R")
 ```
 
 ```{r table07-1, echo=FALSE}
-table_07_1_vars   <- c("ExternalDataReference","", "", "real_serv_cmt")
-table_07_1_labels <- c("Locality","Rate per $100 of Assessed Value, State-owned", "Privately-owned", "Property Description")
+#table_07_1_vars   <- c("ExternalDataReference","", "", "real_serv_cmt")
+#table_07_1_labels <- c("Locality","Rate per $100 of Assessed Value, State-owned", "Privately-owned", "Property Description")
 
-table_07_1 <- make_table(table_07_1_vars)
+#table_07_1 <- make_table(table_07_1_vars)
 
-knitr::kable(table_07_1, 
-             caption = "Service Charges on Tax-exempt Property Table, 2019", 
-             col.names = table_07_1_labels, 
-             align = "lccc",
-             format = "html")
+#knitr::kable(table_07_1, 
+             #caption = "Service Charges on Tax-exempt Property Table, 2019", 
+             #col.names = table_07_1_labels, 
+             #align = "lccc",
+             #format = "html")
 ```

@@ -28,5 +28,22 @@ The   following   text   table   shows   the   relative   importance of the vari
 ```
 
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table24-1, echo=FALSE}
+#table_24_1_vars   <- c("ExternalDataReference", "")
+#table_24_1_labels <- c("Locality","Total Cash Proffer Revenue Collected ($)", "Total Pledged but Payment Conditioned Only on Time[^†] ($)", "Total Cash Proffer Revenue Expended ($)", "Purpose for Which Cash Proffer Revenue Expended, Percent of Total (%)*, Schools", "Roads and Other Transporation Improvements", "Fire, Rescue, and Public Safety", "Library", "Parks, Recreation and Open Space", "Water and Sewer Service Extension", "Community Centers", "Stormwater Mgmt.", "Special Needs Housing", "Affordable Housing", "Misc.")
+
+#table_24_1 <- make_table(table_24_1_vars)
+
+#knitr::kable(table_24_1, 
+             #caption = "Total Cash Proffer Revenue Collected and Expended by Purpose, by Locality, FY Table, 2018", 
+             #col.names = table_24_1_labels, 
+             #align = "lcccccccccccccc",
+             #format = "html")
+```
+
 
 [^24-1]: Commission on Local Government, Report on Proffered Cash Payments and Expenditures by Virginia’s Counties, Cities and Towns, 2017-2018. https://www.dhcd.virginia.gov/cash-proffers. 

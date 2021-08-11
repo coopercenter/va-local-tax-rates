@@ -64,6 +64,49 @@ For  purposes  of  taxation  under  the  short-term  rental  tax, property is cl
 
 ```
 
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
+
+```{r table19-1, echo=FALSE}
+table_19_1_vars   <- c("ExternalDataReference", "bank_franchise_tax")
+table_19_1_labels <- c("Locality", "")
+
+table_19_1 <- make_table(table_19_1_vars)
+
+knitr::kable(table_19_1, 
+             caption = "Localities Reporting That They Levy a Bank Franchise Tax Table, 2019", 
+             col.names = table_19_1_labels, 
+             align = "l",
+             format = "html")
+```
+
+```{r table19-2, echo=FALSE}
+#table_19_2_vars   <- c("ExternalDataReference", "")
+#table_19_2_labels <- c("Locality")
+
+#table_19_2 <- make_table(table_19_2_vars)
+
+#knitr::kable(table_19_2, 
+             #caption = "Localities Receiving Communications Sales and Use Tax Distributions, FY Table, 2018", 
+             #col.names = table_19_2_labels, 
+             #align = "l",
+             #format = "html")
+```
+
+```{r table19-3, echo=FALSE}
+table_19_3_vars   <- c("ExternalDataReference", "daily_rental_tax_rate", "daily_rental_tax_equip_rate")
+table_19_3_labels <- c("Locality","Daily Rental Tax Rate (%), Light Equipment", "Daily Rental Tax Rate (%), Heavy Equipment")
+
+table_19_3 <- make_table(table_19_3_vars)
+
+knitr::kable(table_19_3, 
+             caption = "Short-Term Daily Rental Tax Table, 2019", 
+             col.names = table_19_3_labels, 
+             align = "lcc",
+             format = "html")
+```
+
 
 [^19-1]: The *Code* refers to school districts. The Virginia Department of Education refers to school divisions. Colonial Beach and West Point are the only towns with school divisions. Obviously, the *Code* is referring to those towns.
 

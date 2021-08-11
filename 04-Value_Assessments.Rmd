@@ -63,17 +63,17 @@ source("make_table.R")
 ```
 
 ```{r table04-1, echo=FALSE, eval=FALSE}
-table_04_1_vars   <- c("ExternalDataReference", "real_useVal_date", "real_useVal_land", "real_acre_uv", "real_useVal_fee", "", "", "real_useVal_estimate")
+#table_04_1_vars   <- c("ExternalDataReference", "real_useVal_date", "real_useVal_land", "real_acre_uv", "real_useVal_fee", "", "", "real_useVal_estimate")
 
-table_04_1_labels <- c("Locality","Effective Date", "Types of Real Estate Subject to Assessment", "Acres Under Use Value Assessment", "Application Fee", "Agriculture Value per Acre, SLEAC*, Income Method", "Agriculture Value per Acre, SLEAC*, Rental Method", "Agriculture Value per Acre, Locality's Figure") 
+#table_04_1_labels <- c("Locality","Effective Date", "Types of Real Estate Subject to Assessment", "Acres Under Use Value Assessment", "Application Fee", "Agriculture Value per Acre, SLEAC*, Income Method", "Agriculture Value per Acre, SLEAC*, Rental Method", "Agriculture Value per Acre, Locality's Figure") 
 
-table_04_1 <- make_table(table_04_1_vars)
+#table_04_1 <- make_table(table_04_1_vars)
 
-knitr::kable(table_04_1, 
-             caption = "Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate Table, 2019", 
-             col.names = table_04_1_labels, 
-             align = "lccccccc",
-             format = "html")
+#knitr::kable(table_04_1, 
+             #caption = "Land Use Value Assessments for Agricultural, Horticultural, Forestal, and Open Space Real Estate Table, 2019", 
+             #col.names = table_04_1_labels, 
+             #align = "lccccccc",
+             #format = "html")
 ```
 
 

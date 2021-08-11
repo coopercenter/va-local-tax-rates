@@ -60,15 +60,19 @@ kable(table26.1,caption="Table 26.1 Fiscal Content Information on Local Websites
 
 ```
 
-```{r table24-1, echo=FALSE}
-table_24_1_vars   <- c("ExternalDataReference", "Web_exist", "Web_proposedBudget", "Web_adoptedBudget", "Web_taxRates", "Web_capitalImpPgrms", "Web_utilityCharges", "Web_landbookInfo", "Web_GISMapping", "Web_CAFR")
-table_24_1_labels <- c("Locality","Have a Website?", "Information That Exists on Website, Proposed Budget", "Adopted Budget", "Tax Rates", "Capital Improvement Programs", "Utility Charges", "Landbook Information", "GIS Mapping*", "Audit (CAFR)*")
+```{r load code to make tables 20, message=FALSE, echo=FALSE}
+source("make_table.R")
+```
 
-table_24_1 <- make_table(table_24_1_vars)
+```{r table26-1, echo=FALSE}
+table_26_1_vars   <- c("ExternalDataReference", "Web_exist", "Web_proposedBudget", "Web_adoptedBudget", "Web_taxRates", "Web_capitalImpPgrms", "Web_utilityCharges", "Web_landbookInfo", "Web_GISMapping", "Web_CAFR")
+table_26_1_labels <- c("Locality","Have a Website?", "Information That Exists on Website, Proposed Budget", "Adopted Budget", "Tax Rates", "Capital Improvement Programs", "Utility Charges", "Landbook Information", "GIS Mapping*", "Audit (CAFR)*")
 
-knitr::kable(table_24_1, 
+table_26_1 <- make_table(table_26_1_vars)
+
+knitr::kable(table_26_1, 
              caption = "Fiscal Content Information on Local Websites Table, 2019", 
-             col.names = table_24_1_labels, 
+             col.names = table_26_1_labels, 
              align = "lccccccccc",
              format = "html")
 ```

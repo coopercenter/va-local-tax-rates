@@ -25,6 +25,10 @@ Section 4 of this publication provides details on the related program of land us
 ```
 
 
+
+
+
+
 [^05-1]: Under provisions of the Local Agricultural and Forestal Districts Act, only counties satisfying the following conditions are "participating localities" empowered to establish districts with this reduced acreage requirement: (1) a county with an urban county executive form of government, (2) any adjacent county having the county executive form of government, and (3) counties with population sizes ranging from 63,400 to 73,900 or from 85,000 to 90,000 [no census cited]. See §§ 15.2-4402 through 4405. 
 
 

@@ -49,16 +49,16 @@ source("make_table.R")
 ```
 
 ```{r table14-1, echo=FALSE}
-table_14_1_vars   <- c("ExternalDataReference", "BPOL_date", "BPOL_payment_date", "", "BPOL_tax_threshold", "BPOL_tax_threshold_amt", "")
-table_14_1_labels <- c("Locality","Due Dates, Filing", "Due Dates, Payments", "License Fee Applied", "Gross Receipts Tax Threshold", "Threshold Amount", "Separate Gross Receipts Tax Threshold for Each License")
+#table_14_1_vars   <- c("ExternalDataReference", "BPOL_date", "BPOL_payment_date", "", "BPOL_tax_threshold", "BPOL_tax_threshold_amt", "")
+#table_14_1_labels <- c("Locality","Due Dates, Filing", "Due Dates, Payments", "License Fee Applied", "Gross Receipts Tax Threshold", "Threshold Amount", "Separate Gross Receipts Tax Threshold for Each License")
 
-table_14_1 <- make_table(table_14_1_vars)
+#table_14_1 <- make_table(table_14_1_vars)
 
-knitr::kable(table_14_1, 
-             caption = "BPOL Due Dates and Other Provisions Table, 2019", 
-             col.names = table_14_1_labels, 
-             align = "lcccccc",
-             format = "html")
+#knitr::kable(table_14_1, 
+             #caption = "BPOL Due Dates and Other Provisions Table, 2019", 
+             #col.names = table_14_1_labels, 
+             #align = "lcccccc",
+             #format = "html")
 ```
 
 ```{r table14-2, echo=FALSE}
