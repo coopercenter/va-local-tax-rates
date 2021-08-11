@@ -70,7 +70,7 @@ source("make_table.R")
 
 ```{r table19-1, echo=FALSE}
 table_19_1_vars   <- c("ExternalDataReference", "bank_franchise_tax")
-table_19_1_labels <- c("Locality")
+table_19_1_labels <- c("Locality", "")
 
 table_19_1 <- make_table(table_19_1_vars)
 

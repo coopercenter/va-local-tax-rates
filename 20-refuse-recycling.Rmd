@@ -1,21 +1,21 @@
 # Refuse and Recycling Collection Fees
 
 ```{r prep data for section 20, message=FALSE, echo=FALSE}
-source("get_and_prep_data.R")
+#source("get_and_prep_data.R")
 
 section_vars <- c("RCC_tipping_fees",
                   "RCC_rec_serv_type",
                   "RCC_rec_charge_fee")
 
-tax_rates %>% 
-  select(all_of(reference_vars), all_of(section_vars))  %>%
-  mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
-  mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
-  mutate(has_RCC_tipping_fees = case_when(!(has_RCC_tipping_fees) ~ FALSE,
-                                          RCC_tipping_fees %in% c("no", "No", "N/A", "Landfill closed") ~ FALSE,
-                                          TRUE ~ TRUE)) %>%
-  mutate(has_RCC_rec_serv_type = (RCC_rec_serv_type != "Not Applicable")) %>%
-  filter(if_any(starts_with("has_"))) -> section_tbl
+#tax_rates %>% 
+  #select(all_of(reference_vars), all_of(section_vars))  %>%
+  #mutate(across(.cols = all_of(section_vars), ~ ifelse(.==0, NA, .)))   %>%   # Convert zero values to NA's
+  #mutate(across(.cols = all_of(section_vars), ~ !is.na(.), .names = "has_{.col}")) %>%
+  #mutate(has_RCC_tipping_fees = case_when(!(has_RCC_tipping_fees) ~ FALSE,
+                                          #RCC_tipping_fees %in% c("no", "No", "N/A", "Landfill closed") ~ FALSE,
+                                          #TRUE ~ TRUE)) %>%
+  #mutate(has_RCC_rec_serv_type = (RCC_rec_serv_type != "Not Applicable")) %>%
+  #filter(if_any(starts_with("has_"))) -> section_tbl
 ```
 
 Many Virginia localities collect, or authorize to have collected,  refuse  and  recycled  materials.  In  its  survey,  the  Cooper Center inquired into the methods and fees for the collection  of  refuse  and  recycled  materials.  The  answers  are provided in four tables covering regular refuse pick up, tipping fees, recycling, and pickup of miscellaneous refuse items.
@@ -39,21 +39,21 @@ Regarding  fees,  32  cities,  13  counties,  and  62  towns  reported  imposing
 **Table 20.3** provides data on localities that have instituted recycling  programs.  As  with  refuse  collection,  these  programs may be financed in a variety of ways. Many localities pick  up  recyclables  and  then  finance  the  collection  with  a  service  charge.  Other  localities  contract  with  a  private  firm. **Table 20.3** shows which localities offer collection of recyclables and which contract for collection with a private firm. It also shows the monthly fees associated with collecting recyclables.
 
 ```{r Residential Recycling Programs, include=FALSE}
-section_tbl %>%
-  group_by(locality_group) %>%
-  summarize(Direct     = sum(RCC_rec_serv_type == "Directly"),
-            Contracted = sum(RCC_rec_serv_type == "Contracted")) %>%
-  ungroup() %>%
-  pivot_longer(!locality_group, names_to = "Service", values_to = "count") %>%
-  pivot_wider(names_from = locality_group, values_from = count) -> res_recycling_summary_tbl
+#section_tbl %>%
+  #group_by(locality_group) %>%
+  #summarize(Direct     = sum(RCC_rec_serv_type == "Directly"),
+            #Contracted = sum(RCC_rec_serv_type == "Contracted")) %>%
+  #ungroup() %>%
+  #pivot_longer(!locality_group, names_to = "Service", values_to = "count") %>%
+  #pivot_wider(names_from = locality_group, values_from = count) -> res_recycling_summary_tbl
 ```
 
 Of  the  total  survey  respondents,  38  cities,  83  counties, and 67 towns reported having some form of recycling activity.  Seventeen  cities  provided  recycling  collection  directly,  and  21  contracted  it  out.  Thirty-seven  counties  provided services directly, while 46 contracted them out. Of the towns, 8 had their services provided by their host county, 25 provided direct services, and 34 contracted for services. The table below shows this breakdown.
 
 
 ```{r , echo=FALSE}
-res_recycling_summary_tbl %>%
-  knitr::kable(caption = "Residential Recycling Programs, 2019")
+#res_recycling_summary_tbl %>%
+  #knitr::kable(caption = "Residential Recycling Programs, 2019")
 ```
 
 
@@ -82,27 +82,27 @@ knitr::kable(table_20_1,
 ```
 
 ```{r table20-2, echo=FALSE}
-section_tbl %>% 
-  filter(has_RCC_tipping_fees) %>%
-  select(locality_name, locality_group, RCC_tipping_fees) -> table_20_2
+#section_tbl %>% 
+  #filter(has_RCC_tipping_fees) %>%
+  #select(locality_name, locality_group, RCC_tipping_fees) -> table_20_2
 
-table_20_2_labels <- c("Locality","Tipping Fee")
+#table_20_2_labels <- c("Locality","Tipping Fee")
 
-make_long_table(table_20_2, 
-             caption = "Refuse Collection Tipping Fees Table, 2019", 
-             col.names = table_20_2_labels, 
-             align = "lc")
+#make_long_table(table_20_2, 
+             #caption = "Refuse Collection Tipping Fees Table, 2019", 
+             #col.names = table_20_2_labels, 
+             #align = "lc")
 ```
 
 ```{r table20-3, echo=FALSE}
-section_tbl %>% 
-  filter(has_RCC_rec_serv_type) %>%
-  select(locality_name, locality_group, RCC_rec_serv_type, RCC_rec_charge_fee) -> table_20_3
+#section_tbl %>% 
+  #filter(has_RCC_rec_serv_type) %>%
+  #select(locality_name, locality_group, RCC_rec_serv_type, RCC_rec_charge_fee) -> table_20_3
 
-table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
+#table_20_3_labels <- c("Locality","Provided Directly or Contracted","Service Fee")
 
-make_long_table(table_20_3, 
-             caption = "Recycling Collection Fees Table, 2019", 
-             col.names = table_20_3_labels, 
-             align = "lcc")
+#make_long_table(table_20_3, 
+             #caption = "Recycling Collection Fees Table, 2019", 
+             #col.names = table_20_3_labels, 
+             #align = "lcc")
 ```

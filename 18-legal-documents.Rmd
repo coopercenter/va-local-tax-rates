@@ -28,8 +28,8 @@ source("make_table.R")
 ```
 
 ```{r table18-1, echo=FALSE}
-#table_18_1_vars   <- c("ExternalDataReference", "legal_tax_record", "legal_tax_record_other", "legal_tax_wills", "legal_tax_wills_other")
-table_18_1_labels <- c("Locality","Recordation Tax Rate (Per $100)", "Tax on Wills and Administration (Per $100)")
+table_18_1_vars   <- c("ExternalDataReference", "legal_tax_record", "legal_tax_record_other", "legal_tax_wills", "legal_tax_wills_other")
+table_18_1_labels <- c("Locality","Recordation Tax Rate (Per $100)", "Recordation Tax Rate (Per $100)", "Tax on Wills and Administration (Per $100)", "Tax on Wills and Administration (Per $100)")
 
 table_18_1 <- make_table(table_18_1_vars)
 
