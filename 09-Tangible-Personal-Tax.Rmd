@@ -172,18 +172,31 @@ A further problem pertains to towns. Certain towns provided a tax rate without s
 
 ```{r table09-1, echo=FALSE}
 # Table 9.1 Tangible Personal Property Tax General Information, 2019
-table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+#table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
 
-table_09_1_labels <- c("Locality","Personal Property Tax Rate/$100", "Personal Property Tax Due Date(s)", "Effective Date of Assessment", "Option for Payment of Tax", "Due Date and Option Terms[^§]", "Categories of Property for Which Proration Offered*", "Number of Accounts, All", "Number of Accounts, Business Only")
+#table_09_1_labels <- c("Locality","Personal Property Tax Rate/$100", "Personal Property Tax Due Date(s)", "Effective Date of Assessment", "Option for Payment of Tax", "Due Date and Option Terms[^§]", "Categories of Property for Which Proration Offered*", "Number of Accounts, All", "Number of Accounts, Business Only")
 
 #section_tbl %>% 
   #select(locality_name, locality_group, all_of(table_09_1_vars)) -> table_09_1
 
-make_long_table(table_09_1, 
+#make_long_table(table_09_1, 
+             #caption = "Tangible Personal Property Tax General Information Table, 2019", 
+             #col.names = table_09_1_labels, 
+             #align = "lcccccccc")
+
+```
+
+```{r table09-1, echo=FALSE, eval=FALSE}
+table_09_1_vars   <- c("tang_rate", "tang_due_date", "tang_date_effect", "tang_pay_opts", "tang_types", "tang_prorCat", "tang_accs", "tang_accs_bus")
+table_09_1_labels <- c("Locality","Personal Property Tax Rate/$100", "Personal Property Tax Due Date(s)", "Effective Date of Assessment", "Option for Payment of Tax", "Due Date and Option Terms[^§]", "Categories of Property for Which Proration Offered*", "Number of Accounts, All", "Number of Accounts, Business Only")
+
+table_09_1 <- make_table(table_09_1_vars)
+
+knitr::kable(table_09_1, 
              caption = "Tangible Personal Property Tax General Information Table, 2019", 
              col.names = table_09_1_labels, 
-             align = "lcccccccc")
-
+             align = "lcccccccc",
+             format = "html")
 ```
 
 ```{r table09-2, echo=FALSE}
