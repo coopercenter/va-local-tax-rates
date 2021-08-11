@@ -51,3 +51,8 @@ The exemptions applying to property used for environmental restoration, recyclin
 # Table 6.2 Property Tax Exemptions for Restoration Sites, Recycling, Solar Energy, Generators, Stormwater Developments, and Wetlands, 2019
 ```
 
+
+
+
+
+
