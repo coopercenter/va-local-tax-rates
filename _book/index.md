@@ -4,6 +4,8 @@ subtitle: "38th Annual Edition: Information for All Cities and Counties and Sele
 author:   "Stephen C. Kulp, Weldon Cooper Center for Public Service, University of Virginia"
 date:     "2021"
 site: bookdown::bookdown_site
+output:  bookdown::gitbook
+cover-image: cover.png
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -15,6 +17,8 @@ description: "Information for All Cities and Counties and Selected Incorporated 
 
 
 # Introduction {-}
+
+<img src="cover.png" width="50%" />
 
 ## Foreward  {-}
 

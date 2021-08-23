@@ -215,11 +215,11 @@ The following text table summarizes the number of localities reporting these tax
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
-   <td style="text-align:center;"> 0.00605/kwh + 0.56/bill; 
+   <td style="text-align:center;"> 0.00605/kwh + 0.56/bill; 
 4.00 max/bill. </td>
-   <td style="text-align:center;"> 0.00707/kwh + 1.15/bill; 
+   <td style="text-align:center;"> 0.00707/kwh + 1.15/bill; 
 1000 max/bill </td>
-   <td style="text-align:center;"> 0.00594/kwh + 1.15/bill; 
+   <td style="text-align:center;"> 0.00594/kwh + 1.15/bill; 
 1000 max/bill. </td>
   </tr>
   <tr>
@@ -272,14 +272,14 @@ The following text table summarizes the number of localities reporting these tax
   </tr>
   <tr>
    <td style="text-align:left;"> Grayson County </td>
-   <td style="text-align:center;"> 0.0155 /kWh
-min. 1.50
+   <td style="text-align:center;"> 0.0155 /kWh
+min. 1.50
 max. 3.00 </td>
-   <td style="text-align:center;"> 0.0155 /kWh
-min. 1.50
+   <td style="text-align:center;"> 0.0155 /kWh
+min. 1.50
 max. 20.00 </td>
-   <td style="text-align:center;"> 0.0155 /kWh
-min. 1.50
+   <td style="text-align:center;"> 0.0155 /kWh
+min. 1.50
 max.40.00 </td>
   </tr>
   <tr>
@@ -344,11 +344,11 @@ max.40.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King George County </td>
-   <td style="text-align:center;"> Min. tax 1.05
+   <td style="text-align:center;"> Min. tax 1.05
 Max. tax 1.50 </td>
-   <td style="text-align:center;"> Min. tax 1.15
+   <td style="text-align:center;"> Min. tax 1.15
 Max. tax 10.00 </td>
-   <td style="text-align:center;"> Min. tax 1.15
+   <td style="text-align:center;"> Min. tax 1.15
 Max. tax 10.00 </td>
   </tr>
   <tr>
@@ -371,11 +371,11 @@ Max. tax 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Loudoun County </td>
-   <td style="text-align:center;"> 0.63/month + 0.006804/kwh
+   <td style="text-align:center;"> 0.63/month + 0.006804/kwh
 Max- 2.70 </td>
-   <td style="text-align:center;"> 0.92/month + 0.005393/kwh
+   <td style="text-align:center;"> 0.92/month + 0.005393/kwh
 Max- 72.00 </td>
-   <td style="text-align:center;"> 0.92/month + 0.005393/kwh
+   <td style="text-align:center;"> 0.92/month + 0.005393/kwh
 Max- 72.00 </td>
   </tr>
   <tr>
@@ -518,14 +518,14 @@ Max- 72.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke County </td>
-   <td style="text-align:center;"> .009 kwh
-min 0.90
+   <td style="text-align:center;"> .009 kwh
+min 0.90
 max 1.80 </td>
-   <td style="text-align:center;"> .00610 kwh
-min 0.90
+   <td style="text-align:center;"> .00610 kwh
+min 0.90
 max 600 </td>
-   <td style="text-align:center;"> .00640 kwh
-min 0.90
+   <td style="text-align:center;"> .00640 kwh
+min 0.90
 max 600 </td>
   </tr>
   <tr>
@@ -620,14 +620,14 @@ max 600 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wise County </td>
-   <td style="text-align:center;"> 0.015625 per kwh
-Min. 1.50 per month
+   <td style="text-align:center;"> 0.015625 per kwh
+Min. 1.50 per month
 Max. 3.00 per month </td>
-   <td style="text-align:center;"> .01800 per kwh
-Min. 1.50 per month
+   <td style="text-align:center;"> .01800 per kwh
+Min. 1.50 per month
 Max. 15.00 per month </td>
-   <td style="text-align:center;"> .01900 per kwh
-Min. 1.50 per month
+   <td style="text-align:center;"> .01900 per kwh
+Min. 1.50 per month
 Max. 7.50 per month </td>
   </tr>
   <tr>
@@ -638,14 +638,14 @@ Max. 7.50 per month </td>
   </tr>
   <tr>
    <td style="text-align:left;"> York County </td>
-   <td style="text-align:center;"> 0-2500 KWH
-2501 - 50000
+   <td style="text-align:center;"> 0-2500 KWH
+2501 - 50000
 50001 - + </td>
-   <td style="text-align:center;"> .000380
-.000240
+   <td style="text-align:center;"> .000380
+.000240
 .000180 </td>
-   <td style="text-align:center;"> .000380
-.000240
+   <td style="text-align:center;"> .000380
+.000240
 .000180 </td>
   </tr>
   <tr>
@@ -722,11 +722,11 @@ Max. 7.50 per month </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> 1.40 + .015080/kwh
-Apt or multifamily
-=3.00/unit  
+   <td style="text-align:center;"> 1.40 + .015080/kwh
+Apt or multifamily
+=3.00/unit  
 Max 3.00 </td>
-   <td style="text-align:center;"> 2.15 + .005194 on 1st 30630 kwh and .001494 on cons &gt;30360 kwh
+   <td style="text-align:center;"> 2.15 + .005194 on 1st 30630 kwh and .001494 on cons &gt;30360 kwh
 Max 20% consumer chg/month </td>
    <td style="text-align:center;"> Same as commercial </td>
   </tr>
@@ -745,9 +745,9 @@ Max 20% consumer chg/month </td>
   <tr>
    <td style="text-align:left;"> Harrisonburg City </td>
    <td style="text-align:center;"> 1.00/month + .0024/kwh 2.00 max </td>
-   <td style="text-align:center;"> 1.00/month + .0166/kwh 
+   <td style="text-align:center;"> 1.00/month + .0166/kwh 
 20.00 max tax </td>
-   <td style="text-align:center;"> 1.00/month + .0166/kwh 
+   <td style="text-align:center;"> 1.00/month + .0166/kwh 
 20.00 max tax </td>
   </tr>
   <tr>
@@ -783,8 +783,8 @@ Max 20% consumer chg/month </td>
   <tr>
    <td style="text-align:left;"> Martinsville City </td>
    <td style="text-align:center;"> 2.00 + .00328/kwh; 3.00 max </td>
-   <td style="text-align:center;"> .00528/kwh; 400 max LGS
-.00626/kwh;400 max MGS
+   <td style="text-align:center;"> .00528/kwh; 400 max LGS
+.00626/kwh;400 max MGS
 .00949/kwh; 400 max SGS </td>
    <td style="text-align:center;"> .00528/kwh; 400 max </td>
   </tr>
@@ -797,8 +797,8 @@ Max 20% consumer chg/month </td>
   <tr>
    <td style="text-align:left;"> Norfolk City </td>
    <td style="text-align:center;"> 1.75 + 0.016891/kwh not to exceed 3.75/month </td>
-   <td style="text-align:center;"> non-mfg 2.87 + .017933/kwh for 1st 537 kwhs; .006330/kwh on rest: 
-Manufacturing: 1.38+.004965/kwh 
+   <td style="text-align:center;"> non-mfg 2.87 + .017933/kwh for 1st 537 kwhs; .006330/kwh on rest: 
+Manufacturing: 1.38+.004965/kwh 
 0-3625100kwhs +.004014/kwh on balance not to exceed 53000 per month </td>
    <td style="text-align:center;"> same as Industrial </td>
   </tr>
@@ -847,13 +847,13 @@ Manufacturing: 1.38+.004965/kwh
   <tr>
    <td style="text-align:left;"> Salem City </td>
    <td style="text-align:center;"> A minimum charge of .40 per customer plus .003 per KWh with the amount of tax not to exceed  .90 maximum </td>
-   <td style="text-align:center;"> A minimum charge of
-1.00 plus .003 per
-KWh with the amount
+   <td style="text-align:center;"> A minimum charge of
+1.00 plus .003 per
+KWh with the amount
 not to exceed 300.00 </td>
-   <td style="text-align:center;"> A minimum charge of
-1.00 plus .003 per
-KWh with the amount
+   <td style="text-align:center;"> A minimum charge of
+1.00 plus .003 per
+KWh with the amount
 not to exceed 300.00 </td>
   </tr>
   <tr>
@@ -864,11 +864,11 @@ not to exceed 300.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Suffolk City </td>
-   <td style="text-align:center;"> 1.40 + .014679/kwh
+   <td style="text-align:center;"> 1.40 + .014679/kwh
 3.00 max/mo. </td>
-   <td style="text-align:center;"> 1.49 + .008283/kwh
+   <td style="text-align:center;"> 1.49 + .008283/kwh
 1300.00 max/mo. </td>
-   <td style="text-align:center;"> 1.49 + .007722/kwh
+   <td style="text-align:center;"> 1.49 + .007722/kwh
 1300 max/mo. </td>
   </tr>
   <tr>
@@ -975,32 +975,32 @@ not to exceed 300.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
-   <td style="text-align:center;"> 8.29 per month
-first 800  .10044
-801-2500  .11149
-2501-50000 .11224
+   <td style="text-align:center;"> 8.29 per month
+first 800  .10044
+801-2500  .11149
+2501-50000 .11224
 OVER 50001  .11258 </td>
-   <td style="text-align:center;"> Basic charge  15.98 per month
-first 20 kw  free
-
-all over 20 kw  9.21
-
-first 2500 kwh
-.10555
-2501-3000 kwh  .10629
-3000-50000 kwh
-.07745
+   <td style="text-align:center;"> Basic charge  15.98 per month
+first 20 kw  free
+
+all over 20 kw  9.21
+
+first 2500 kwh
+.10555
+2501-3000 kwh  .10629
+3000-50000 kwh
+.07745
 all over 50001 kwh  .07778 </td>
-   <td style="text-align:center;"> Basic charge  15.44 per month
-first 20 kw  free
-
-all over 20 kw  8.9
-
-first 2500 kwh
-.09712
-2501-3000 kwh  .09781
-3000-50000 kwh
-.07127
+   <td style="text-align:center;"> Basic charge  15.44 per month
+first 20 kw  free
+
+all over 20 kw  8.9
+
+first 2500 kwh
+.09712
+2501-3000 kwh  .09781
+3000-50000 kwh
+.07127
 all over 50001 kwh  .07157 </td>
   </tr>
   <tr>
@@ -1197,8 +1197,8 @@ all over 50001 kwh  .07157 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper Town </td>
-   <td style="text-align:center;"> 0-2500 = 0.00038
-2501-50000 = 0.00024
+   <td style="text-align:center;"> 0-2500 = 0.00038
+2501-50000 = 0.00024
 50001-over = 0.00018 </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -1211,7 +1211,7 @@ all over 50001 kwh  .07157 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Dayton Town </td>
-   <td style="text-align:center;"> .0373/kwh/month; 1.50 max/month;
+   <td style="text-align:center;"> .0373/kwh/month; 1.50 max/month;
 no min. </td>
    <td style="text-align:center;"> 0.0251/kwh for 1st 625 kwh/month &amp; .0027/kwh in excess of 625 kwh/month;no min. </td>
    <td style="text-align:center;"> 0.0251/kwh for 1st 625 kwh/month &amp; .0027/kwh in excess of 625 kwh/month;no min. </td>
@@ -1368,13 +1368,13 @@ no min. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Haymarket Town </td>
-   <td style="text-align:center;"> 20% of the monthly charge with a 3.00 
+   <td style="text-align:center;"> 20% of the monthly charge with a 3.00 
 maximum charge </td>
-   <td style="text-align:center;"> 20% of the monthly cha
-rge with a 100.00 
+   <td style="text-align:center;"> 20% of the monthly cha
+rge with a 100.00 
 maximum charge </td>
-   <td style="text-align:center;"> 20% of the monthly cha
-rge with a 100.00 
+   <td style="text-align:center;"> 20% of the monthly cha
+rge with a 100.00 
 maximum charge </td>
   </tr>
   <tr>
@@ -1481,11 +1481,11 @@ maximum charge </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lebanon Town </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
   </tr>
   <tr>
@@ -1736,11 +1736,11 @@ Maximum 3.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Smithfield Town </td>
-   <td style="text-align:center;"> min .70
+   <td style="text-align:center;"> min .70
 max 10% 1st  10.00 </td>
-   <td style="text-align:center;"> min 1.15
+   <td style="text-align:center;"> min 1.15
 max 10% 1st  700.00 </td>
-   <td style="text-align:center;"> min 1.15
+   <td style="text-align:center;"> min 1.15
 max 10% 1st  700.00 </td>
   </tr>
   <tr>
@@ -1769,11 +1769,11 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Strasburg Town </td>
-   <td style="text-align:center;"> 1.00 + .007585/kwh/month; 
+   <td style="text-align:center;"> 1.00 + .007585/kwh/month; 
 2.00 max </td>
-   <td style="text-align:center;"> 10.00 + .007520/kwh/month; 
+   <td style="text-align:center;"> 10.00 + .007520/kwh/month; 
 20.00 max </td>
-   <td style="text-align:center;"> 10.00 + .007520/kwh/month; 
+   <td style="text-align:center;"> 10.00 + .007520/kwh/month; 
 20.00 max </td>
   </tr>
   <tr>
@@ -1851,9 +1851,9 @@ max 10% 1st  700.00 </td>
   <tr>
    <td style="text-align:left;"> Wakefield Town </td>
    <td style="text-align:center;"> 0-2500= .00038/kwh; 2501-50K=.00024;    &gt;50K=.00018/kwh </td>
-   <td style="text-align:center;"> 0-2500= .00038/kwh; 2501-50K= .00024; 
+   <td style="text-align:center;"> 0-2500= .00038/kwh; 2501-50K= .00024; 
 &gt;50K= .00018/kwh </td>
-   <td style="text-align:center;"> 0-2500= .00038/kwh; 2501-50K= .00024; 
+   <td style="text-align:center;"> 0-2500= .00038/kwh; 2501-50K= .00024; 
 &gt;50K= .00018/kwh </td>
   </tr>
   <tr>
@@ -1888,14 +1888,14 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> West Point Town </td>
-   <td style="text-align:center;"> 1.40 +
-.015094 each
+   <td style="text-align:center;"> 1.40 +
+.015094 each
 KWH 3.00 </td>
-   <td style="text-align:center;"> 1.15 +
-.007319 each
+   <td style="text-align:center;"> 1.15 +
+.007319 each
 Max 10.00 </td>
-   <td style="text-align:center;"> 1.15+
-.007319 each
+   <td style="text-align:center;"> 1.15+
+.007319 each
 max 10.00 </td>
   </tr>
   <tr>
@@ -2106,11 +2106,11 @@ max 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
-   <td style="text-align:center;"> 0.05259/CCF + 0.56/bill; 
+   <td style="text-align:center;"> 0.05259/CCF + 0.56/bill; 
 4.00 max/bill </td>
-   <td style="text-align:center;"> 0.04794/CCF + 0.845/bill; 
+   <td style="text-align:center;"> 0.04794/CCF + 0.845/bill; 
 300 max/bill </td>
-   <td style="text-align:center;"> 0.04794/CCF + 0.845/bill; 
+   <td style="text-align:center;"> 0.04794/CCF + 0.845/bill; 
 300 max/bill </td>
   </tr>
   <tr>
@@ -2253,11 +2253,11 @@ max 10.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Loudoun County </td>
-   <td style="text-align:center;"> 0.63/month + 0.06485/CCF
+   <td style="text-align:center;"> 0.63/month + 0.06485/CCF
 Max- 2.70 </td>
-   <td style="text-align:center;"> 0.676/month + 0.03034/CCF
+   <td style="text-align:center;"> 0.676/month + 0.03034/CCF
 Max- 72.00 </td>
-   <td style="text-align:center;"> 0.676/month + 0.03034/CCF
+   <td style="text-align:center;"> 0.676/month + 0.03034/CCF
 Max- 72.00 </td>
   </tr>
   <tr>
@@ -2352,15 +2352,15 @@ Max- 72.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pittsylvania County </td>
-   <td style="text-align:center;"> Such tax on residential consumers of natural gas shall be 20%
-times the minimum monthly charge imposed upon the consumer plus the rate of
-0.120913 per cu ft delivered monthly to residential consumers not to exceed three
+   <td style="text-align:center;"> Such tax on residential consumers of natural gas shall be 20%
+times the minimum monthly charge imposed upon the consumer plus the rate of
+0.120913 per cu ft delivered monthly to residential consumers not to exceed three
 dollars (3.00) per month </td>
-   <td style="text-align:center;"> Commercial/Industrial consumers- such tax shall be 20% times the minimum monthly charge imposed upon the consumer plus the rate of 0.112805 on each cu ft delivered monthly to commercial
+   <td style="text-align:center;"> Commercial/Industrial consumers- such tax shall be 20% times the minimum monthly charge imposed upon the consumer plus the rate of 0.112805 on each cu ft delivered monthly to commercial
 industrial consumers not to exceed twenty dollars (20.00) per month. </td>
-   <td style="text-align:center;"> Commercial/Industrial consumers- such tax shall be 20% times the
-minimum monthly charge imposed upon the consumer plus the rate of
-0.112805 on each cu ft delivered monthly to commercial/industrial
+   <td style="text-align:center;"> Commercial/Industrial consumers- such tax shall be 20% times the
+minimum monthly charge imposed upon the consumer plus the rate of
+0.112805 on each cu ft delivered monthly to commercial/industrial
 consumers not to exceed twenty dollars (20.00) per mont </td>
   </tr>
   <tr>
@@ -2407,14 +2407,14 @@ consumers not to exceed twenty dollars (20.00) per mont </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke County </td>
-   <td style="text-align:center;"> .12183 CCF
-min 0.90
+   <td style="text-align:center;"> .12183 CCF
+min 0.90
 max 1.80 </td>
-   <td style="text-align:center;"> .12183 CCF
-min 0.90
+   <td style="text-align:center;"> .12183 CCF
+min 0.90
 max 600 </td>
-   <td style="text-align:center;"> .12183 CCF
-min 0.90
+   <td style="text-align:center;"> .12183 CCF
+min 0.90
 max 600 </td>
   </tr>
   <tr>
@@ -2546,15 +2546,15 @@ max 600 </td>
   <tr>
    <td style="text-align:left;"> Charlottesville City </td>
    <td style="text-align:center;"> 0.80 + 0.0638 1st 4500 CCF and 0.0214  &gt; 4500 CCF </td>
-   <td style="text-align:center;"> Firm: 
-0.80 + 0.0919 1st 4500 CCF and 0.0308  &gt; 4500 CCF
-
-Interruptible: 
+   <td style="text-align:center;"> Firm: 
+0.80 + 0.0919 1st 4500 CCF and 0.0308  &gt; 4500 CCF
+
+Interruptible: 
 5.00 + 0.0798 1st 4770 CCF and 0.0308  &gt; 4770 CCF </td>
-   <td style="text-align:center;"> Firm: 
-0.80 + 0.0919 1st 4500 CCF and 0.0308  &gt; 4500 CCF
-
-Interruptible: 
+   <td style="text-align:center;"> Firm: 
+0.80 + 0.0919 1st 4500 CCF and 0.0308  &gt; 4500 CCF
+
+Interruptible: 
 5.00 + 0.0798 1st 4770 CCF and 0.0308  &gt; 4770 CCF </td>
   </tr>
   <tr>
@@ -2607,8 +2607,8 @@ Interruptible:
   </tr>
   <tr>
    <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> 2.00/month
-
+   <td style="text-align:center;"> 2.00/month
+
 Apt or multifamily max = 3.00/unit </td>
    <td style="text-align:center;"> 5.65 + .091390 per CCF on 1st 835 CCF's and .00843 per CCF on cons &gt;835 CCF's </td>
    <td style="text-align:center;"> Same as commercial </td>
@@ -2723,18 +2723,18 @@ Apt or multifamily max = 3.00/unit </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> A minimum charge of .53 per customer plus .011 per 100 CCF with the amount of the tax not to exceed  .90 maximum
-
-GS-1 A minimum charge of .84 per customer plus
-.011 per 100 CCF with the amount of the tax not to exceed 300.00
-maximum
-
+   <td style="text-align:center;"> A minimum charge of .53 per customer plus .011 per 100 CCF with the amount of the tax not to exceed  .90 maximum
+
+GS-1 A minimum charge of .84 per customer plus
+.011 per 100 CCF with the amount of the tax not to exceed 300.00
+maximum
+
 GS-2 A minimum </td>
-   <td style="text-align:center;"> A minimum charge of
-19.50 per customer
+   <td style="text-align:center;"> A minimum charge of
+19.50 per customer
 plus  .011 per 100 CCF with the amount of the tax not to exceed 300.00 maximum </td>
-   <td style="text-align:center;"> A minimum charge of
-24.00 per customer
+   <td style="text-align:center;"> A minimum charge of
+24.00 per customer
 plus  .011 per 100 CCF with the amount of the tax not to exceed 300.00 maximum </td>
   </tr>
   <tr>
@@ -2745,11 +2745,11 @@ plus  .011 per 100 CCF with the amount of the tax not to exceed 300.00 maximum <
   </tr>
   <tr>
    <td style="text-align:left;"> Suffolk City </td>
-   <td style="text-align:center;"> 1.98 + .166183/ccf
+   <td style="text-align:center;"> 1.98 + .166183/ccf
 3.00 max/mo. </td>
-   <td style="text-align:center;"> 1.67 + .08904/ccf
+   <td style="text-align:center;"> 1.67 + .08904/ccf
 1300.00 max/mo. </td>
-   <td style="text-align:center;"> 1.67 + .08904/ccf
+   <td style="text-align:center;"> 1.67 + .08904/ccf
 1300.00 max/mo. </td>
   </tr>
   <tr>
@@ -3066,11 +3066,11 @@ plus  .011 per 100 CCF with the amount of the tax not to exceed 300.00 maximum <
   </tr>
   <tr>
    <td style="text-align:left;"> Dayton Town </td>
-   <td style="text-align:center;"> .0240/CCF/month; 1.50 max/month;
+   <td style="text-align:center;"> .0240/CCF/month; 1.50 max/month;
 no min. </td>
-   <td style="text-align:center;"> .0170/CCF/month; 15.00 max/month;
+   <td style="text-align:center;"> .0170/CCF/month; 15.00 max/month;
 no min. </td>
-   <td style="text-align:center;"> .0170/CCF/month; 15.00 max/month;
+   <td style="text-align:center;"> .0170/CCF/month; 15.00 max/month;
 no min. </td>
   </tr>
   <tr>
@@ -3225,11 +3225,11 @@ no min. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Haymarket Town </td>
-   <td style="text-align:center;"> 1.50 minimum charge + .75/CCF not to exceed 
+   <td style="text-align:center;"> 1.50 minimum charge + .75/CCF not to exceed 
 3.00/month </td>
-   <td style="text-align:center;"> 3.00 minimum charge + .675/CCF not to 
+   <td style="text-align:center;"> 3.00 minimum charge + .675/CCF not to 
 exceed 100/month </td>
-   <td style="text-align:center;"> 3.00 minimum charge + .675/CCF not to 
+   <td style="text-align:center;"> 3.00 minimum charge + .675/CCF not to 
 exceed 100/month </td>
   </tr>
   <tr>
@@ -3336,11 +3336,11 @@ exceed 100/month </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lebanon Town </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
-   <td style="text-align:center;"> 20% of first 15.00
+   <td style="text-align:center;"> 20% of first 15.00
 Maximum 3.00 </td>
   </tr>
   <tr>
@@ -3387,7 +3387,7 @@ Maximum 3.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Middleburg Town </td>
-   <td style="text-align:center;"> 0.0288 on CCF not to
+   <td style="text-align:center;"> 0.0288 on CCF not to
 exceed 3.00 </td>
    <td style="text-align:center;"> 0.0790 on each CCF not to exceed 33.00 </td>
    <td style="text-align:center;"> 0.0790 on each CCF not to exceed 33.00 </td>
@@ -3593,9 +3593,9 @@ exceed 3.00 </td>
   <tr>
    <td style="text-align:left;"> Smithfield Town </td>
    <td style="text-align:center;"> fixed 1.00 </td>
-   <td style="text-align:center;"> min 2.33
+   <td style="text-align:center;"> min 2.33
 max 10% 1st  700.00 </td>
-   <td style="text-align:center;"> min 2.33
+   <td style="text-align:center;"> min 2.33
 max 10% 1st  700.00 </td>
   </tr>
   <tr>
@@ -3738,13 +3738,13 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> West Point Town </td>
-   <td style="text-align:center;"> Natural Gas 
+   <td style="text-align:center;"> Natural Gas 
 3.oo per month </td>
-   <td style="text-align:center;"> Natural Gas 
-3.00 Minimum
+   <td style="text-align:center;"> Natural Gas 
+3.00 Minimum
 + tax rate of .004 per CCF with Maximum of 3500.00 </td>
-   <td style="text-align:center;"> Natural Gas 
-3.00 Minimum 
+   <td style="text-align:center;"> Natural Gas 
+3.00 Minimum 
 + tax rate of .004 per CCF with Maximum of 3500.00 </td>
   </tr>
   <tr>
@@ -4045,11 +4045,11 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henry County </td>
-   <td style="text-align:center;"> 30.00 1st 4000 gal
+   <td style="text-align:center;"> 30.00 1st 4000 gal
 4.70 for each additional 1000 gal </td>
-   <td style="text-align:center;"> 45.00 1st 4000 gal
+   <td style="text-align:center;"> 45.00 1st 4000 gal
 7.00 for each additional 1000 gal </td>
-   <td style="text-align:center;"> 45.00 1st 4000 gal
+   <td style="text-align:center;"> 45.00 1st 4000 gal
 7.00 for each additional 1000 gal </td>
   </tr>
   <tr>
@@ -4060,11 +4060,11 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Isle of Wight County </td>
-   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
+   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
 9.45/1000 gal. over 50000 gal usage </td>
-   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
+   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
 9.45/1000 gal. over 50000 gal usage </td>
-   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
+   <td style="text-align:center;"> 10.67/1000 gal. under 50000 gal. usage
 9.45/1000 gal. over 50000 gal usage </td>
   </tr>
   <tr>
@@ -4087,20 +4087,20 @@ max 10% 1st  700.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King William County </td>
-   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
-Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
-Over 3000 Gallons: 6.00 per 1000 Gallons
-Number of Billings per Year: 6
+   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
+Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
+Over 3000 Gallons: 6.00 per 1000 Gallons
+Number of Billings per Year: 6
 Number of Gallons for Minimum Monthly Charge: 0 to 3000 </td>
-   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
-Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
-Over 3000 Gallons: 6.00 per 1000 Gallons
-Number of Billings per Year: 6
+   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
+Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
+Over 3000 Gallons: 6.00 per 1000 Gallons
+Number of Billings per Year: 6
 Number of Gallons for Minimum Monthly Charge: 0 to 3000 </td>
-   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
-Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
-Over 3000 Gallons: 6.00 per 1000 Gallons
-Number of Billings per Year: 6
+   <td style="text-align:center;"> SERVICE RATE SCHEDULE - WATER SYSTEM*
+Minimum Monthly Charge: 30.00 for 0 to 3000 Gallons
+Over 3000 Gallons: 6.00 per 1000 Gallons
+Number of Billings per Year: 6
 Number of Gallons for Minimum Monthly Charge: 0 to 3000 </td>
   </tr>
   <tr>
@@ -4333,10 +4333,10 @@ Number of Gallons for Minimum Monthly Charge: 0 to 3000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Tazewell County </td>
-   <td style="text-align:center;"> 0-1000 gal 24.23
-Over 1000 gal is
+   <td style="text-align:center;"> 0-1000 gal 24.23
+Over 1000 gal is
 8.45/1000 gal </td>
-   <td style="text-align:center;"> 0-1000 gal 33.25
+   <td style="text-align:center;"> 0-1000 gal 33.25
 1001-30000 gal 12.40/1000 gal 30001-120000 gal 11.27/1000 gal Over 120000 gal 7.61/1000 gal </td>
    <td style="text-align:center;"> 0-1000 gal 33.25 1001-30000 gal 12.40/1000 gal 30001-120000 gal 11.27/1000 gal Over 120000 gal 7.61/1000 gal </td>
   </tr>
@@ -4426,21 +4426,21 @@ Over 1000 gal is
   </tr>
   <tr>
    <td style="text-align:left;"> Emporia City </td>
-   <td style="text-align:center;"> 20% of monthly charge exclusive of federal tax not 
+   <td style="text-align:center;"> 20% of monthly charge exclusive of federal tax not 
 to exceed 15.00 </td>
    <td style="text-align:center;"> 20% of monthly charge exclusive of federal tax not to exceed 180.00 </td>
    <td style="text-align:center;"> same as industrial </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax City </td>
-   <td style="text-align:center;"> Wastewater-Only
-
+   <td style="text-align:center;"> Wastewater-Only
+
 47.30 first 5000 gallons or less- 9.04/thousand over </td>
-   <td style="text-align:center;"> Wastewater-Only
-
+   <td style="text-align:center;"> Wastewater-Only
+
 55.65 first 5000 gallons or less - 9.04/thousand over </td>
-   <td style="text-align:center;"> Wastewater- Only
-
+   <td style="text-align:center;"> Wastewater- Only
+
 55.65 first 5000 gallons or less - 9.04/thousand over </td>
   </tr>
   <tr>
@@ -4451,20 +4451,20 @@ to exceed 15.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Franklin City </td>
-   <td style="text-align:center;"> 20%  1st  15.00
+   <td style="text-align:center;"> 20%  1st  15.00
 3.00 max/month </td>
-   <td style="text-align:center;"> 16.5%  1st  1000.00
+   <td style="text-align:center;"> 16.5%  1st  1000.00
 165.00 max/month </td>
-   <td style="text-align:center;"> 16.5%  1st  1000.00
+   <td style="text-align:center;"> 16.5%  1st  1000.00
 165.00 max/month </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> water = 0.208/100gal
+   <td style="text-align:center;"> water = 0.208/100gal
 sewer = 0.423/100gal </td>
-   <td style="text-align:center;"> water = 0.208/100gal
+   <td style="text-align:center;"> water = 0.208/100gal
 sewer = 0.423/100gal </td>
-   <td style="text-align:center;"> water = 0.208/100gal
+   <td style="text-align:center;"> water = 0.208/100gal
 sewer = 0.423/100gal </td>
   </tr>
   <tr>
@@ -4577,11 +4577,11 @@ sewer = 0.423/100gal </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> 6% of the first 15.00 of revenue not to exceed
+   <td style="text-align:center;"> 6% of the first 15.00 of revenue not to exceed
 0.90 per service </td>
-   <td style="text-align:center;"> 6% of the first 5000.00 of revenue not to exceed 300.00 per
+   <td style="text-align:center;"> 6% of the first 5000.00 of revenue not to exceed 300.00 per
 service </td>
-   <td style="text-align:center;"> 6% of the first 5000.00 of revenue not to exceed 300.00 per
+   <td style="text-align:center;"> 6% of the first 5000.00 of revenue not to exceed 300.00 per
 service </td>
   </tr>
   <tr>
@@ -4610,11 +4610,11 @@ service </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Williamsburg City </td>
-   <td style="text-align:center;"> 5.30/1000 gals
+   <td style="text-align:center;"> 5.30/1000 gals
 29.70/quarter </td>
-   <td style="text-align:center;"> 5.30/1000 gals
+   <td style="text-align:center;"> 5.30/1000 gals
 29.70/month </td>
-   <td style="text-align:center;"> 5.30/1000 gals
+   <td style="text-align:center;"> 5.30/1000 gals
 29.70/month </td>
   </tr>
   <tr>
@@ -4703,17 +4703,17 @@ service </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
-   <td style="text-align:center;"> first 3000   24.17
-next 40000  8.06/1000
-next 87000   7.91/1000
+   <td style="text-align:center;"> first 3000   24.17
+next 40000  8.06/1000
+next 87000   7.91/1000
 all over 130000  7.80/1000 </td>
-   <td style="text-align:center;"> first 3000   24.17
-next 40000  8.06/1000
-next 87000   7.91/1000
+   <td style="text-align:center;"> first 3000   24.17
+next 40000  8.06/1000
+next 87000   7.91/1000
 all over 130000  7.80/1000 </td>
-   <td style="text-align:center;"> first 3000   24.17
-next 40000  8.06/1000
-next 87000   7.91/1000
+   <td style="text-align:center;"> first 3000   24.17
+next 40000  8.06/1000
+next 87000   7.91/1000
 all over 130000  7.80/1000 </td>
   </tr>
   <tr>
@@ -5018,10 +5018,10 @@ all over 130000  7.80/1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Gate City Town </td>
-   <td style="text-align:center;"> 28.15 per 2000 gallons in town with 7.90 per 1000 above the 2000 gal
+   <td style="text-align:center;"> 28.15 per 2000 gallons in town with 7.90 per 1000 above the 2000 gal
 36.25 per 2000 out of town with 7.90 per 1000 above the 2000 gallons </td>
    <td style="text-align:center;"> Same as commercial </td>
-   <td style="text-align:center;"> 30.25 per 2000 gallons in town with 7.90 per 1000 above the 2000 gal
+   <td style="text-align:center;"> 30.25 per 2000 gallons in town with 7.90 per 1000 above the 2000 gal
 30.25 per 2000 out of town with 7.90 per 1000 above the 2000 gallons </td>
   </tr>
   <tr>
@@ -5044,7 +5044,7 @@ all over 130000  7.80/1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Goshen Town </td>
-   <td style="text-align:center;"> 35.00 per month for first 5000 gallons of water residential
+   <td style="text-align:center;"> 35.00 per month for first 5000 gallons of water residential
 40.00 per month for first 5000 gallons of water for small business and 70.00 per month for first 5000 gallons for large business </td>
    <td style="text-align:center;"> 45.00 (small business) </td>
    <td style="text-align:center;"> 75.00 (large business) </td>
@@ -5123,23 +5123,23 @@ all over 130000  7.80/1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Independence Town </td>
-   <td style="text-align:center;"> 0-999 gallons 10 
-1000-1999 13.75
-2000-2999 17.50
-3000-3999 21.25
-4000-4999 25.00
+   <td style="text-align:center;"> 0-999 gallons 10 
+1000-1999 13.75
+2000-2999 17.50
+3000-3999 21.25
+4000-4999 25.00
 5000-5999 28.75 </td>
-   <td style="text-align:center;"> 0-999 gallons 15 
-1000-1999 17.19
-2000-2999 21.88
-3000-3999 26.56
-4000-4999 31.25
+   <td style="text-align:center;"> 0-999 gallons 15 
+1000-1999 17.19
+2000-2999 21.88
+3000-3999 26.56
+4000-4999 31.25
 5000-5999 35.94 </td>
-   <td style="text-align:center;"> 0-999 gallons 15 
-1000-1999 20.63
-2000-2999 26.25
-3000-3999 31.88
-4000-4999 37.50
+   <td style="text-align:center;"> 0-999 gallons 15 
+1000-1999 20.63
+2000-2999 26.25
+3000-3999 31.88
+4000-4999 37.50
 5000-5999 43.13 </td>
   </tr>
   <tr>
@@ -5288,11 +5288,11 @@ all over 130000  7.80/1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Narrows Town </td>
-   <td style="text-align:center;"> 17.65 for 2000 gal.
-8.87 each additional
+   <td style="text-align:center;"> 17.65 for 2000 gal.
+8.87 each additional
 1000 gal. </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 17.65 for 2000 gals.
+   <td style="text-align:center;"> 17.65 for 2000 gals.
 4.82 for each additional 10000 gal. </td>
   </tr>
   <tr>
@@ -5321,18 +5321,18 @@ all over 130000  7.80/1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Onancock Town </td>
-   <td style="text-align:center;"> Water
-Min 3000 = 28.23
-3001-15000 = 9.13 per 1000
-Over 15000 gallons 9.50 per 1000
-Sewer
-Min 3000 = 62.60
-3001-7000 = 22.05
-7001-15000 = 21.42
-15001-30000 = 21.12
-30001-40000 = 20.81
-40001-90000 = 19.58
-90001-200000 = 19.28
+   <td style="text-align:center;"> Water
+Min 3000 = 28.23
+3001-15000 = 9.13 per 1000
+Over 15000 gallons 9.50 per 1000
+Sewer
+Min 3000 = 62.60
+3001-7000 = 22.05
+7001-15000 = 21.42
+15001-30000 = 21.12
+30001-40000 = 20.81
+40001-90000 = 19.58
+90001-200000 = 19.28
 200001-400000 = 18. </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -5387,38 +5387,38 @@ Min 3000 = 62.60
   </tr>
   <tr>
    <td style="text-align:left;"> Purcellville Town </td>
-   <td style="text-align:center;"> Sum of
-0-5000 gallons: 6.66/1000 (min of 1000 gallons)
-5001-10000 gal: 8.89/1000 gal
-10001-15000 gal: 10.71/1000 gal
-15001-20000 gal: 12.75/1000 gal
-20001-50000 gal:
-15.91/1000 gal
-50001-100000 gal:
-18.17/1000 gal
-100001-150000 gal: 20.42/1000gal
+   <td style="text-align:center;"> Sum of
+0-5000 gallons: 6.66/1000 (min of 1000 gallons)
+5001-10000 gal: 8.89/1000 gal
+10001-15000 gal: 10.71/1000 gal
+15001-20000 gal: 12.75/1000 gal
+20001-50000 gal:
+15.91/1000 gal
+50001-100000 gal:
+18.17/1000 gal
+100001-150000 gal: 20.42/1000gal
 150001-2 </td>
-   <td style="text-align:center;"> Sum of
-0-5000 gallons: 6.66/1000 (min of 1000 gallons)
-5001-10000 gal: 8.89/1000 gal
-10001-15000 gal: 10.71/1000 gal
-15001-20000 gal: 12.75/1000 gal
-20001-50000 gal:
-15.91/1000 gal
-50001-100000 gal:
-18.17/1000 gal
-100001-150000 gal: 20.42/1000gal
+   <td style="text-align:center;"> Sum of
+0-5000 gallons: 6.66/1000 (min of 1000 gallons)
+5001-10000 gal: 8.89/1000 gal
+10001-15000 gal: 10.71/1000 gal
+15001-20000 gal: 12.75/1000 gal
+20001-50000 gal:
+15.91/1000 gal
+50001-100000 gal:
+18.17/1000 gal
+100001-150000 gal: 20.42/1000gal
 150001-2 </td>
-   <td style="text-align:center;"> Sum of
-0-5000 gallons: 6.66/1000 (min of 1000 gallons)
-5001-10000 gal: 8.89/1000 gal
-10001-15000 gal: 10.71/1000 gal
-15001-20000 gal: 12.75/1000 gal
-20001-50000 gal:
-15.91/1000 gal
-50001-100000 gal:
-18.17/1000 gal
-100001-150000 gal: 20.42/1000gal
+   <td style="text-align:center;"> Sum of
+0-5000 gallons: 6.66/1000 (min of 1000 gallons)
+5001-10000 gal: 8.89/1000 gal
+10001-15000 gal: 10.71/1000 gal
+15001-20000 gal: 12.75/1000 gal
+20001-50000 gal:
+15.91/1000 gal
+50001-100000 gal:
+18.17/1000 gal
+100001-150000 gal: 20.42/1000gal
 150001-2 </td>
   </tr>
   <tr>

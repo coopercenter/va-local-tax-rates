@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Section 11 Utility License Tax | Virginia Local Tax Rates, 2019</title>
   <meta name="description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Section 11 Utility License Tax | Virginia Local Tax Rates, 2019" />
   <meta property="og:type" content="book" />
   
-  
+  <meta property="og:image" content="/cover.png" />
   <meta property="og:description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
   
 
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="Section 11 Utility License Tax | Virginia Local Tax Rates, 2019" />
   
   <meta name="twitter:description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
-  
+  <meta name="twitter:image" content="/cover.png" />
 
 <meta name="author" content="Stephen C. Kulp, Weldon Cooper Center for Public Service, University of Virginia" />
 
@@ -33,8 +33,8 @@
   
 <link rel="prev" href="machinery-and-tools-property-tax.html"/>
 <link rel="next" href="sec-cable-tv.html"/>
-<script src="libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -310,9 +310,9 @@ div.csl-indent {
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="sec:utility-license-tax" class="section level1" number="11">
+<div id="sec-utility-license-tax" class="section level1" number="11">
 <h1><span class="header-section-number">Section 11</span> Utility License Tax</h1>
-<p>In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the utility license tax accounted for 0.1 percent of the total tax revenue for cities, 0.1 percent for counties, and 0.6 percent for large towns. These percentages are based on the franchise license tax reported in <a href="secAppendixC.html#secAppendixC">Appendix C</a>. The franchise license tax includes not only the license fees of electric and water utilities, which are discussed in this section, but also cable television utilities, discussed in Section <a href="sec-cable-tv.html#sec:cable-tv">12</a>. These are averages; the relative importance of this tax in individual cities, counties, and towns varies significantly. For information on individual localities, see <a href="secAppendixC.html#secAppendixC">Appendix C</a>.</p>
+<p>In fiscal year 2018, the most recent year available from the Auditor of Public Accounts, the utility license tax accounted for 0.1 percent of the total tax revenue for cities, 0.1 percent for counties, and 0.6 percent for large towns. These percentages are based on the franchise license tax reported in <a href="secAppendixC.html#secAppendixC">Appendix C</a>. The franchise license tax includes not only the license fees of electric and water utilities, which are discussed in this section, but also cable television utilities, discussed in Section <a href="#sec:cable-tv"><strong>??</strong></a>. These are averages; the relative importance of this tax in individual cities, counties, and towns varies significantly. For information on individual localities, see <a href="secAppendixC.html#secAppendixC">Appendix C</a>.</p>
 <p>Localities in Virginia may impose a local license tax on certain types of public service corporations. As authorized by § 58.1-3731 of the <em>Code</em>, localities may levy a license tax on telephone and water companies not to exceed one-half of 1 percent of the gross receipts of such company accruing from sales to the ultimate consumer in the locality. For telephone companies, long-distance calls are not taxable under this provision. County utility license taxes do not apply within the limits of an incorporated town if the town also imposes the tax.</p>
 <p>Prior to 2006, any locality that had in effect before January 1, 1972 a tax rate exceeding the statutory ceiling could continue to tax at the previous level but could not raise the rate (see <em>Virginia, Acts of Assembly, 1972</em>, c. 858). This provision changed in 2006 under the Virginia Communication Sales and Use Tax when the General Assembly eliminated the business license tax in excess of 0.5 percent.</p>
 <div class="sourceCode" id="cb36"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb36-1"><a href="sec-utility-license-tax.html#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="co">#In the latest survey `r utility_license_summary_tbl$Total[1]` localities responded that they had a utility license tax on telephone service and `r utility_license_summary_tbl$Total[2]` had a tax on water service. The table below summarizes the numbers of positive respondents by type of service and locality.</span></span></code></pre></div>
@@ -369,6 +369,10 @@ gitbook.start({
 "text": null
 },
 "download": ["va-local-tax-rates-2019.pdf", "va-local-tax-rates-2019.epub"],
+"search": {
+"engine": "lunr",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

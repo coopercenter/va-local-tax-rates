@@ -185,7 +185,7 @@ One business classification not presented in Table 14.3 is that of rental proper
    <td style="text-align:left;"> Chesterfield County </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 10.00 </td>
-   <td style="text-align:center;"> On G/R (Less 300000 exclusion)
+   <td style="text-align:center;"> On G/R (Less 300000 exclusion)
 charge tax based on rate or 10.00 whichever is larger </td>
   </tr>
   <tr>
@@ -234,7 +234,7 @@ charge tax based on rate or 10.00 whichever is larger </td>
    <td style="text-align:left;"> Fairfax County </td>
    <td style="text-align:center;"> 10K-50K=30 50K-100K=50 </td>
    <td style="text-align:center;"> 110 </td>
-   <td style="text-align:center;"> If gross receipts are over 100000 the business is subject to a tax rate of 0.11/gross receipts.
+   <td style="text-align:center;"> If gross receipts are over 100000 the business is subject to a tax rate of 0.11/gross receipts.
 100001/100*.11=110. </td>
   </tr>
   <tr>
@@ -295,8 +295,8 @@ charge tax based on rate or 10.00 whichever is larger </td>
    <td style="text-align:left;"> Greene County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> Under 5000: 20;
-5000 - 25000: 30;
+   <td style="text-align:center;"> Under 5000: 20;
+5000 - 25000: 30;
 over 25000: 0.12 per 100 GR </td>
   </tr>
   <tr>
@@ -381,12 +381,12 @@ over 25000: 0.12 per 100 GR </td>
    <td style="text-align:left;"> Loudoun County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Home-Based Contractors based in Loudoun County
-GR: 0 - 4000 are exempt from taxes and fees
-GR: 4000.01 - 200000 are subject to a 30 fee
-GR:  200000.01+ are tax based on rate per 100 of gross receipts
-
-Commercial Contractors based in Loudoun County
+   <td style="text-align:center;"> Home-Based Contractors based in Loudoun County
+GR: 0 - 4000 are exempt from taxes and fees
+GR: 4000.01 - 200000 are subject to a 30 fee
+GR:  200000.01+ are tax based on rate per 100 of gross receipts
+
+Commercial Contractors based in Loudoun County
 GR: 0 - </td>
   </tr>
   <tr>
@@ -609,9 +609,9 @@ GR: 0 - </td>
    <td style="text-align:left;"> Warren County </td>
    <td style="text-align:center;"> 10/30/50 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> Up to 4000                   No Fee
-  4001 - 10000                   10.00
- 10001 - 25000                   30.00
+   <td style="text-align:center;"> Up to 4000                   No Fee
+  4001 - 10000                   10.00
+ 10001 - 25000                   30.00
  25001 - 50000                   50.00 </td>
   </tr>
   <tr>
@@ -648,14 +648,14 @@ GR: 0 - </td>
    <td style="text-align:left;"> Alexandria City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 50 </td>
-   <td style="text-align:center;"> tax threshold 25000 to 99999
+   <td style="text-align:center;"> tax threshold 25000 to 99999
 flat tax: 50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bristol City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 30.00 </td>
-   <td style="text-align:center;"> .75 processing fee per category
+   <td style="text-align:center;"> .75 processing fee per category
 30.75 is the minimum charge for a contractor even if the business has no gross receipts. </td>
   </tr>
   <tr>
@@ -710,9 +710,9 @@ flat tax: 50 </td>
    <td style="text-align:left;"> Falls Church City </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 50001 </td>
-   <td style="text-align:center;"> If a VA based contractor gross receipts are:
-10000 and under free but needs a license
-10001-50000 a 30 dollar flat fee 
+   <td style="text-align:center;"> If a VA based contractor gross receipts are:
+10000 and under free but needs a license
+10001-50000 a 30 dollar flat fee 
 over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of-state contractors gross receipts over 10000 then a </td>
   </tr>
   <tr>
@@ -725,8 +725,8 @@ over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of
    <td style="text-align:left;"> Fredericksburg City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 25.00 </td>
-   <td style="text-align:center;"> &lt; 100000 gross receipts -&gt; 25 license
-100000 - 350000 -&gt; 50 + applicable rate on receipts btwn 100000 and 350000
+   <td style="text-align:center;"> &lt; 100000 gross receipts -&gt; 25 license
+100000 - 350000 -&gt; 50 + applicable rate on receipts btwn 100000 and 350000
 &gt; 350000 -&gt; applicable rate applied to total gross receipts </td>
   </tr>
   <tr>
@@ -739,7 +739,7 @@ over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of
    <td style="text-align:left;"> Hampton City </td>
    <td style="text-align:center;"> 50 </td>
    <td style="text-align:center;"> 160.00 </td>
-   <td style="text-align:center;"> 100000.01*.0016= 160.00
+   <td style="text-align:center;"> 100000.01*.0016= 160.00
 (100000 or less subject to 50.00 fee) </td>
   </tr>
   <tr>
@@ -764,7 +764,7 @@ over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of
    <td style="text-align:left;"> Lynchburg City </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 240 </td>
-   <td style="text-align:center;"> only businesses grossing over 150K are subject to a tax
+   <td style="text-align:center;"> only businesses grossing over 150K are subject to a tax
 150001 x .16% = 240 </td>
   </tr>
   <tr>
@@ -861,7 +861,7 @@ over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of
    <td style="text-align:left;"> Virginia Beach City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 40.00 </td>
-   <td style="text-align:center;"> 0-25K; 40.00
+   <td style="text-align:center;"> 0-25K; 40.00
 25001-100000;  50.00 </td>
   </tr>
   <tr>
@@ -880,7 +880,7 @@ over 50001 then dollar amount times 0.16 per 100.00 of gross receipts for out-of
    <td style="text-align:left;"> Winchester City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 50.00 </td>
-   <td style="text-align:center;"> If gross receipts &lt; 50K license fee applicable
+   <td style="text-align:center;"> If gross receipts &lt; 50K license fee applicable
 If gross receipts &gt;=50K license rate applicable </td>
   </tr>
   <tr>
@@ -959,11 +959,11 @@ If gross receipts &gt;=50K license rate applicable </td>
    <td style="text-align:left;"> Blacksburg Town </td>
    <td style="text-align:center;"> 30 35 40 50 </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> Gross Receipts:
-0-30000 30
-30001-40000 35
-40001-45000 40
-45001-50000 50
+   <td style="text-align:center;"> Gross Receipts:
+0-30000 30
+30001-40000 35
+40001-45000 40
+45001-50000 50
 over 50000 is 0.10 per 100 of gross receipts </td>
   </tr>
   <tr>
@@ -1114,7 +1114,7 @@ over 50000 is 0.10 per 100 of gross receipts </td>
    <td style="text-align:left;"> Clarksville Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> the greater of the tax amount or 30 </td>
-   <td style="text-align:center;"> up to 100000 - .16
+   <td style="text-align:center;"> up to 100000 - .16
 &gt;100000 - 0.12 </td>
   </tr>
   <tr>
@@ -1229,8 +1229,8 @@ over 50000 is 0.10 per 100 of gross receipts </td>
    <td style="text-align:left;"> Edinburg Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 18.00 </td>
-   <td style="text-align:center;"> gross receipts less than: 15000-                  18.00 
-                                        15001-50000-     0.13/100 of Gross Receipts    
+   <td style="text-align:center;"> gross receipts less than: 15000-                  18.00 
+                                        15001-50000-     0.13/100 of Gross Receipts    
                                         50001-150000-   0.11/100 of Gross Receipts </td>
   </tr>
   <tr>
@@ -1351,7 +1351,7 @@ over 50000 is 0.10 per 100 of gross receipts </td>
    <td style="text-align:left;"> Herndon Town </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 30.00 </td>
-   <td style="text-align:center;"> First tier is 0-50000 with license tax rate of 30.00
+   <td style="text-align:center;"> First tier is 0-50000 with license tax rate of 30.00
 Second tier is 50001 to 100000 w/ license tax rate of 50(or standard rate calculation whichever is less). </td>
   </tr>
   <tr>
@@ -1382,13 +1382,13 @@ Second tier is 50001 to 100000 w/ license tax rate of 50(or standard rate calcul
    <td style="text-align:left;"> Independence Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 30 </td>
-   <td style="text-align:center;"> 1K-5K=5
-5K-10K=10
-10K-20K=15
-20K-50K=20
-50K-100K=50
-100K-150K=100
-150K-300K=150
+   <td style="text-align:center;"> 1K-5K=5
+5K-10K=10
+10K-20K=15
+20K-50K=20
+50K-100K=50
+100K-150K=100
+150K-300K=150
 over 300K=250 </td>
   </tr>
   <tr>
@@ -1461,8 +1461,8 @@ over 300K=250 </td>
    <td style="text-align:left;"> Leesburg Town </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 20 </td>
-   <td style="text-align:center;"> In Town = 20.00 minimum charge
-In Virginia = no fee if gross receipts less than 25000.  Between 25000 and 50000 - 20.00 minimumu charge.  Over 50000 in gross receipts = tax rate of .1% of gross receipts.
+   <td style="text-align:center;"> In Town = 20.00 minimum charge
+In Virginia = no fee if gross receipts less than 25000.  Between 25000 and 50000 - 20.00 minimumu charge.  Over 50000 in gross receipts = tax rate of .1% of gross receipts.
 Out of state - no fee when gross receipts is less </td>
   </tr>
   <tr>
@@ -1475,7 +1475,7 @@ Out of state - no fee when gross receipts is less </td>
    <td style="text-align:left;"> Lovettsville Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 40.00 </td>
-   <td style="text-align:center;"> gross receipts 25000 or less -- min. tax 0.00
+   <td style="text-align:center;"> gross receipts 25000 or less -- min. tax 0.00
 gross receipts over 25000 -- tax rate 0.16/100 gross </td>
   </tr>
   <tr>
@@ -1710,7 +1710,7 @@ gross receipts over 25000 -- tax rate 0.16/100 gross </td>
    <td style="text-align:left;"> Smithfield Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 30 </td>
-   <td style="text-align:center;"> Tax rate: 0.1/100 up to 1500000
+   <td style="text-align:center;"> Tax rate: 0.1/100 up to 1500000
 Add additional .666/100 over 1500000 </td>
   </tr>
   <tr>
@@ -1783,8 +1783,8 @@ Add additional .666/100 over 1500000 </td>
    <td style="text-align:left;"> Urbanna Town </td>
    <td style="text-align:center;"> 50-100 </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 0-100000 in gross receipts is 50 fee
-100k-200k - 75
+   <td style="text-align:center;"> 0-100000 in gross receipts is 50 fee
+100k-200k - 75
 200k and above: 100 </td>
   </tr>
   <tr>
@@ -5562,7 +5562,7 @@ Add additional .666/100 over 1500000 </td>
   <tr>
    <td style="text-align:left;"> Buchanan County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> cty code 88.87
+   <td style="text-align:center;"> cty code 88.87
 fee established by separate resolution of the bos </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -5605,7 +5605,7 @@ fee established by separate resolution of the bos </td>
   <tr>
    <td style="text-align:left;"> Chesterfield County </td>
    <td style="text-align:center;"> 25.00-500.00                        calendar year </td>
-   <td style="text-align:center;"> 50.00-500.00                           January - June
+   <td style="text-align:center;"> 50.00-500.00                           January - June
                                                 July - December </td>
    <td style="text-align:center;"> .10/100.00 gross purchases                         calendar year </td>
   </tr>
@@ -5654,7 +5654,7 @@ fee established by separate resolution of the bos </td>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
    <td style="text-align:center;"> 35                                           Annually </td>
-   <td style="text-align:center;"> 35   
+   <td style="text-align:center;"> 35   
 Annually </td>
    <td style="text-align:center;"> Same as Wholesale: 0.04/100 of gross purchases </td>
   </tr>
@@ -5684,11 +5684,11 @@ Annually </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Frederick County </td>
-   <td style="text-align:center;"> Fee 30 or 50 if under 100000 gross
+   <td style="text-align:center;"> Fee 30 or 50 if under 100000 gross
 calendar year period -- 1 year </td>
-   <td style="text-align:center;"> 500 
+   <td style="text-align:center;"> 500 
 calendar year period -- usually 30 days specified dates </td>
-   <td style="text-align:center;"> 0.05 per 100 gross receipts over 100K; Itinerant: 500 
+   <td style="text-align:center;"> 0.05 per 100 gross receipts over 100K; Itinerant: 500 
 calendar year period -- 1 year </td>
   </tr>
   <tr>
@@ -5705,14 +5705,14 @@ calendar year period -- 1 year </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Goochland County </td>
-   <td style="text-align:center;"> 200 paid prior to June 30
-125 paid after July 1
+   <td style="text-align:center;"> 200 paid prior to June 30
+125 paid after July 1
 50 for a seven day consecutive day permit </td>
-   <td style="text-align:center;"> 200 paid prior to June 30
-125 paid after July 1
+   <td style="text-align:center;"> 200 paid prior to June 30
+125 paid after July 1
 50 for a seven day consecutive day permit </td>
-   <td style="text-align:center;"> 200 paid prior to June 30
-125 paid after July 1
+   <td style="text-align:center;"> 200 paid prior to June 30
+125 paid after July 1
 50 for a seven day consecutive day permit </td>
   </tr>
   <tr>
@@ -5747,16 +5747,16 @@ calendar year period -- 1 year </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henrico County </td>
-   <td style="text-align:center;"> Annual
-50 fee (perishable)
+   <td style="text-align:center;"> Annual
+50 fee (perishable)
 200 fee (non-perishable) </td>
-   <td style="text-align:center;"> Annual
+   <td style="text-align:center;"> Annual
 .20/100 gross receipts (200 minimum) </td>
-   <td style="text-align:center;"> Annual
-Wholesale: Varies. 
-- Ice &amp; wood peddler: 30 flat tax
-- Seafood (catch) peddler: 15 flat tax
-
+   <td style="text-align:center;"> Annual
+Wholesale: Varies. 
+- Ice &amp; wood peddler: 30 flat tax
+- Seafood (catch) peddler: 15 flat tax
+
 Itinerant: .20/100 gross receipts (200 min.) </td>
   </tr>
   <tr>
@@ -5773,7 +5773,7 @@ Itinerant: .20/100 gross receipts (200 min.) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Isle of Wight County </td>
-   <td style="text-align:center;"> 500                   Annual
+   <td style="text-align:center;"> 500                   Annual
 50 - Food Peddler     Annual </td>
    <td style="text-align:center;"> 500                   Annual </td>
    <td style="text-align:center;"> 500                    Annual </td>
@@ -5798,7 +5798,7 @@ Itinerant: .20/100 gross receipts (200 min.) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King William County </td>
-   <td style="text-align:center;"> 500 annual tax
+   <td style="text-align:center;"> 500 annual tax
 250 (perishable goods)                   annual </td>
    <td style="text-align:center;"> 500 annual tax </td>
    <td style="text-align:center;"> 500 annual tax </td>
@@ -5961,9 +5961,9 @@ Itinerant: .20/100 gross receipts (200 min.) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke County </td>
-   <td style="text-align:center;"> perishable 50.00 per year
+   <td style="text-align:center;"> perishable 50.00 per year
 non-perishable 250/month; 500.00 max/year </td>
-   <td style="text-align:center;"> perishable 50.00 per year
+   <td style="text-align:center;"> perishable 50.00 per year
 non-perishable general merchandise 500.00 </td>
    <td style="text-align:center;"> No Tax- business to business </td>
   </tr>
@@ -6041,10 +6041,10 @@ non-perishable general merchandise 500.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Warren County </td>
-   <td style="text-align:center;"> Perishable/Fireworks 250 Annual
-Vendor License Fee-New 2016-30.00 per event (up to 250}
-
-Retail Peddlers 500 Annual
+   <td style="text-align:center;"> Perishable/Fireworks 250 Annual
+Vendor License Fee-New 2016-30.00 per event (up to 250}
+
+Retail Peddlers 500 Annual
 Vendor License Fee-New 2016-30.00 per event {up to 500} </td>
    <td style="text-align:center;"> 500 Retail Annual </td>
    <td style="text-align:center;"> 500 annual </td>
@@ -6075,18 +6075,18 @@ Vendor License Fee-New 2016-30.00 per event {up to 500} </td>
   </tr>
   <tr>
    <td style="text-align:left;"> York County </td>
-   <td style="text-align:center;"> .20/100 gross receipts w/1.00 minimum annually
+   <td style="text-align:center;"> .20/100 gross receipts w/1.00 minimum annually
 January 1 - December 31 </td>
-   <td style="text-align:center;"> .20/100 gross receipts w/1.00 minimum annually
+   <td style="text-align:center;"> .20/100 gross receipts w/1.00 minimum annually
 January 1 - December 31 </td>
-   <td style="text-align:center;"> .05/100 Gross purchases w/1.00 minimum annually
+   <td style="text-align:center;"> .05/100 Gross purchases w/1.00 minimum annually
 January 1 - December 31 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Alexandria City </td>
    <td style="text-align:center;"> 500 annually </td>
    <td style="text-align:center;"> 500 annually </td>
-   <td style="text-align:center;"> 250 non-consumables
+   <td style="text-align:center;"> 250 non-consumables
 500 consumables </td>
   </tr>
   <tr>
@@ -6117,7 +6117,7 @@ January 1 - December 31 </td>
    <td style="text-align:left;"> Colonial Heights City </td>
    <td style="text-align:center;"> 50.00 / year </td>
    <td style="text-align:center;"> 500.00 / year 30 days per year only </td>
-   <td style="text-align:center;"> peddler: 50/year
+   <td style="text-align:center;"> peddler: 50/year
 itinerant merchant 500.00 / year </td>
   </tr>
   <tr>
@@ -6146,11 +6146,11 @@ itinerant merchant 500.00 / year </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Falls Church City </td>
-   <td style="text-align:center;"> 0.19/100 30 min.   (year)
+   <td style="text-align:center;"> 0.19/100 30 min.   (year)
 or event participation over 10000 in a single day </td>
-   <td style="text-align:center;"> 0.19/100 30 min.    (year)
+   <td style="text-align:center;"> 0.19/100 30 min.    (year)
 or event participation over 10000 in a single day </td>
-   <td style="text-align:center;"> 0.08/100 30 min.      (year)
+   <td style="text-align:center;"> 0.08/100 30 min.      (year)
 or event participation over 10000 in a single day </td>
   </tr>
   <tr>
@@ -6185,14 +6185,14 @@ or event participation over 10000 in a single day </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hopewell City </td>
-   <td style="text-align:center;"> general merchandise peddler 500 flat license fee
-confection peddler 50 flat license fee
-perishable peddler 50 flat license fee
-producers/producer peddler no fee
-seafood peddler 10 flat license fee
+   <td style="text-align:center;"> general merchandise peddler 500 flat license fee
+confection peddler 50 flat license fee
+perishable peddler 50 flat license fee
+producers/producer peddler no fee
+seafood peddler 10 flat license fee
 mobile conteen peddler 250 flat license fee </td>
-   <td style="text-align:center;"> itnerant merchant 500 flat license fee
-flea markets and craft shows flat 200 promoters license fee
+   <td style="text-align:center;"> itnerant merchant 500 flat license fee
+flea markets and craft shows flat 200 promoters license fee
 sponsor promoted special event flat 200 license fee for event or 50 flat license fee per vendor </td>
    <td style="text-align:center;"> 100 flat fee per vehicle </td>
   </tr>
@@ -6224,7 +6224,7 @@ sponsor promoted special event flat 200 license fee for event or 50 flat license
    <td style="text-align:left;"> Martinsville City </td>
    <td style="text-align:center;"> 50.00 per calendar year </td>
    <td style="text-align:center;"> 50.00 per calendar year </td>
-   <td style="text-align:center;"> 50.00 per calendar year
+   <td style="text-align:center;"> 50.00 per calendar year
 5.00 for itinerant merchants at Farmer's Market </td>
   </tr>
   <tr>
@@ -6278,14 +6278,14 @@ sponsor promoted special event flat 200 license fee for event or 50 flat license
   <tr>
    <td style="text-align:left;"> Roanoke City </td>
    <td style="text-align:center;"> 50  annually thru 12/31 </td>
-   <td style="text-align:center;"> 50.00 (perishables) annually thru 12/31
+   <td style="text-align:center;"> 50.00 (perishables) annually thru 12/31
  500.00 (non-perishables)  annually thru 12/31 </td>
    <td style="text-align:center;"> 50.00 fee if gross purchases &lt;100K or 44 plus .26/100 on total purchases if purchases are more than 100K thru 12/31/08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
    <td style="text-align:center;"> 200.00 per calendar year per person </td>
-   <td style="text-align:center;"> 500.00 per calendar year
+   <td style="text-align:center;"> 500.00 per calendar year
 50.00 per calendar year (perishables) </td>
    <td style="text-align:center;"> 50.00 per calendar year </td>
   </tr>
@@ -6297,25 +6297,25 @@ sponsor promoted special event flat 200 license fee for event or 50 flat license
   </tr>
   <tr>
    <td style="text-align:left;"> Suffolk City </td>
-   <td style="text-align:center;"> 50/yr - sale of food plants flowers
+   <td style="text-align:center;"> 50/yr - sale of food plants flowers
 500/yr - sale of other than food plants flowers </td>
-   <td style="text-align:center;"> 500/yr - generally
-30/yr - itinerant merchant at community event
+   <td style="text-align:center;"> 500/yr - generally
+30/yr - itinerant merchant at community event
 500/year - sponsor of community event </td>
    <td style="text-align:center;"> same as retail peddlers </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Virginia Beach City </td>
-   <td style="text-align:center;"> 500.00 annual general merchandise
-300.00 for mobile canteen
+   <td style="text-align:center;"> 500.00 annual general merchandise
+300.00 for mobile canteen
 50.00 for mobile confection peddler </td>
    <td style="text-align:center;"> 500.00 annual </td>
-   <td style="text-align:center;"> Wholesale peddlers 100.00 per vehicle
+   <td style="text-align:center;"> Wholesale peddlers 100.00 per vehicle
 Itinerant 500.00 annually </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Waynesboro City </td>
-   <td style="text-align:center;"> 250.00 plus .20 per 100 annual
+   <td style="text-align:center;"> 250.00 plus .20 per 100 annual
 100.00 annual- food truck </td>
    <td style="text-align:center;"> 500.00 annual </td>
    <td style="text-align:center;"> 30.00 plus .15 per 100 annual </td>
@@ -6354,12 +6354,12 @@ Itinerant 500.00 annually </td>
    <td style="text-align:left;"> Altavista Town </td>
    <td style="text-align:center;"> 125 </td>
    <td style="text-align:center;"> 125/yr (non perishable) 25/yr (perishable) </td>
-   <td style="text-align:center;"> .0175 per 100 of purchases - wholesale peddlers
+   <td style="text-align:center;"> .0175 per 100 of purchases - wholesale peddlers
 25.00 per year edible or pershible goods and 125 per year for all types of goods wares and merchandise for itinerant merchants </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Amherst Town </td>
-   <td style="text-align:center;"> 50/yr for fresh produce
+   <td style="text-align:center;"> 50/yr for fresh produce
 200/month 500 max/year </td>
    <td style="text-align:center;"> 200/month 500 max/year </td>
    <td style="text-align:center;"> 200/month 500 max/year </td>
@@ -6403,15 +6403,15 @@ Itinerant 500.00 annually </td>
   <tr>
    <td style="text-align:left;"> Big Stone Gap Town </td>
    <td style="text-align:center;"> 30.00 Per Year </td>
-   <td style="text-align:center;"> no business license required if person selling
-farm domestic or nursery products provided such
+   <td style="text-align:center;"> no business license required if person selling
+farm domestic or nursery products provided such
 products are grown or produced by sucn person. </td>
    <td style="text-align:center;"> 30.00 Per Year </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Blacksburg Town </td>
    <td style="text-align:center;"> 30 per calendar year </td>
-   <td style="text-align:center;"> 500 per calendar year
+   <td style="text-align:center;"> 500 per calendar year
 100 per calendar year for mobile food vendor </td>
    <td style="text-align:center;"> 500 per calendar year </td>
   </tr>
@@ -6419,7 +6419,7 @@ products are grown or produced by sucn person. </td>
    <td style="text-align:left;"> Blackstone Town </td>
    <td style="text-align:center;"> 500.00 w/ surety bond for 5000 per year </td>
    <td style="text-align:center;"> 50.00 w/surety bond for 5000 </td>
-   <td style="text-align:center;"> Wholesale Peddlers: .50/100 gross receipts
+   <td style="text-align:center;"> Wholesale Peddlers: .50/100 gross receipts
 Itinerant Merchants: 50.00 w/ surety bond for 5000 </td>
   </tr>
   <tr>
@@ -6552,7 +6552,7 @@ Itinerant Merchants: 50.00 w/ surety bond for 5000 </td>
    <td style="text-align:left;"> Christiansburg Town </td>
    <td style="text-align:center;"> 300.00/year for each person engaged in peddling </td>
    <td style="text-align:center;"> 500.00/year </td>
-   <td style="text-align:center;"> 300.00/year for each person engaged in peddling.
+   <td style="text-align:center;"> 300.00/year for each person engaged in peddling.
 500/year for itinerant peddlar. </td>
   </tr>
   <tr>
@@ -6587,7 +6587,7 @@ Itinerant Merchants: 50.00 w/ surety bond for 5000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Clintwood Town </td>
-   <td style="text-align:center;"> 500 per 365 days for selling new furniture televisions radios space heaters or other applicances audio video or other electronic
+   <td style="text-align:center;"> 500 per 365 days for selling new furniture televisions radios space heaters or other applicances audio video or other electronic
 equipment computer equipment hardwar rughs clothing or footwear watches jewelry tools or hardware automotive parts or equipme </td>
    <td style="text-align:center;"> 500 per 365 days-   same as above </td>
    <td style="text-align:center;"> -- </td>
@@ -6618,10 +6618,10 @@ equipment computer equipment hardwar rughs clothing or footwear watches jewelry 
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper Town </td>
-   <td style="text-align:center;"> Currently 400/annual
+   <td style="text-align:center;"> Currently 400/annual
 Beginning January 1 2020; this fee is reduced to 200/annual </td>
-   <td style="text-align:center;"> Currently 400/annual
-
+   <td style="text-align:center;"> Currently 400/annual
+
 Beginning January 1 2020; this fee is reduced to 200/annual </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -6645,9 +6645,9 @@ Beginning January 1 2020; this fee is reduced to 200/annual </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Dillwyn Town </td>
-   <td style="text-align:center;"> 500
+   <td style="text-align:center;"> 500
 January - December </td>
-   <td style="text-align:center;"> 500
+   <td style="text-align:center;"> 500
 January - December </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -6727,7 +6727,7 @@ January - December </td>
    <td style="text-align:left;"> Front Royal Town </td>
    <td style="text-align:center;"> perishable-500.00/yr non-perish-500/yrChristmas trees fireworks-100/season </td>
    <td style="text-align:center;"> perisable-Grown by vendor exempt/yr non-perish-250/yrChristmas trees fireworks-100/season </td>
-   <td style="text-align:center;"> perisable-Grown by vendor exempt/yr non-perish peddler 250/yrChristmas trees fireworks-100/season
+   <td style="text-align:center;"> perisable-Grown by vendor exempt/yr non-perish peddler 250/yrChristmas trees fireworks-100/season
 itinerant merchant-250 </td>
   </tr>
   <tr>
@@ -7141,10 +7141,10 @@ itinerant merchant-250 </td>
   <tr>
    <td style="text-align:left;"> Scottsville Town </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 50.00 for a seven-day period; 
-
-150.00 for a 30-day period; 
-
+   <td style="text-align:center;"> 50.00 for a seven-day period; 
+
+150.00 for a 30-day period; 
+
 500.00 for a 365-day period. </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -7278,7 +7278,7 @@ itinerant merchant-250 </td>
    <td style="text-align:left;"> Warsaw Town </td>
    <td style="text-align:center;"> 10/year </td>
    <td style="text-align:center;"> 200/1st 30 days - 200/next 30 days; then 100 thereafter to 500/year </td>
-   <td style="text-align:center;"> Peddlers: 10/year
+   <td style="text-align:center;"> Peddlers: 10/year
 Merchants: 200/1st 30 days; 200/next 30 days; then 100 up to 500/year </td>
   </tr>
   <tr>

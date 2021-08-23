@@ -74,8 +74,8 @@ information-on-personal-property-tax
 motor-vehicle-tax
 other-personal-property-taxes
 machinery-and-tools-property-tax
-sec:utility-license-tax
-sec:cable-tv
+sec-utility-license-tax
+sec-cable-tv
 consumers-utility-tax
 business-professional-and-occupational-license-tax
 motor-vehicle-local-license-tax-2019

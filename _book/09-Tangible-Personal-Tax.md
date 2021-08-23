@@ -1985,16 +1985,16 @@ A further problem pertains to towns. Certain towns provided a tax rate without s
 <tbody>
   <tr>
    <td style="text-align:left;"> Accomack County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 20.0%
-3 	 20.0%
-4 	 15.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 20.0%
+3 	 20.0%
+4 	 15.0%
 Decrease 1% yrly to 6%	 0.0% </td>
    <td style="text-align:center;"> 3.63 to 3.72 </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 50.0%
-3 	 25.0%
-4 	 15.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 50.0%
+3 	 25.0%
+4 	 15.0%
 5+ 	 5.0% </td>
    <td style="text-align:center;"> 3.63 to 3.72 </td>
    <td style="text-align:center;"> -- </td>
@@ -2002,53 +2002,53 @@ Decrease 1% yrly to 6%	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Albemarle County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Alleghany County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 80.0%
-3 	 60.0%
-4 	 40.0%
-5 	 40.0%
-6 	 40.0%
-7 	 30.0%
-8 	 30.0%
-9 	 30.0%
-10 	 30.0%
-11 	 30.0%
-12 	 20.0%
-13 	 20.0%
-14 	 20.0%
-15 	 20.0%
-16 	 20.0%
-17 	 20.0%
-18 	 20.0%
-19 	 20.0%
-20	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 80.0%
+3 	 60.0%
+4 	 40.0%
+5 	 40.0%
+6 	 40.0%
+7 	 30.0%
+8 	 30.0%
+9 	 30.0%
+10 	 30.0%
+11 	 30.0%
+12 	 20.0%
+13 	 20.0%
+14 	 20.0%
+15 	 20.0%
+16 	 20.0%
+17 	 20.0%
+18 	 20.0%
+19 	 20.0%
+20	 20.0%
 21+	 10.0% </td>
    <td style="text-align:center;"> 5.95 </td>
    <td style="text-align:center;"> Any age 	 30.0% </td>
@@ -2058,18 +2058,18 @@ Decrease 1% yrly to 6%	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Amelia County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
    <td style="text-align:center;"> -- </td>
@@ -2086,16 +2086,16 @@ Decrease 1% yrly to 6%	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Appomattox County </td>
-   <td style="text-align:center;"> 17.3% of original cost	
+   <td style="text-align:center;"> 17.3% of original cost	
 no other depreciation </td>
    <td style="text-align:center;"> 3.35 </td>
-   <td style="text-align:center;"> Year 1  80%
-Year 2	75%
-Year 3	60%
-Year 4	45%
-Year 5	30%
-Year 6	15%
-Year 7 - 18  15%
+   <td style="text-align:center;"> Year 1  80%
+Year 2	75%
+Year 3	60%
+Year 4	45%
+Year 5	30%
+Year 6	15%
+Year 7 - 18  15%
 Year 19 and back 10% </td>
    <td style="text-align:center;"> 3.35 </td>
    <td style="text-align:center;"> -- </td>
@@ -2103,76 +2103,76 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Arlington County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 65.0%
-2 	 45.0%
-3 	 30.0%
-4 	 10.0%
-5 	 10.0%
-6 	 10.0%
+   <td style="text-align:center;"> 1 	 65.0%
+2 	 45.0%
+3 	 30.0%
+4 	 10.0%
+5 	 10.0%
+6 	 10.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Augusta County </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 30.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 30.0%
 3+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
-6 	 15.0%
-7 	 10.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
+6 	 15.0%
+7 	 10.0%
 8+ (Min 50) 	 5.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
-6 	 15.0%
-7 	 10.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
+6 	 15.0%
+7 	 10.0%
 8+ (Min 50) 	 5.0% </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bath County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
-8 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
+8 	 20.0%
 9+ (min.1000) 	 10.0% </td>
    <td style="text-align:center;"> 0.35 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
-8 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
+8 	 20.0%
 9+ (min.1000) 	 10.0% </td>
    <td style="text-align:center;"> 0.35 </td>
    <td style="text-align:center;"> -- </td>
@@ -2180,48 +2180,48 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bedford County </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 80.0%
-3 	 75.0%
-4 	 70.0%
-5 	 65.0%
-6 	 60.0%
-7 	 55.0%
-8 	 45.0%
-9 	 35.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 80.0%
+3 	 75.0%
+4 	 70.0%
+5 	 65.0%
+6 	 60.0%
+7 	 55.0%
+8 	 45.0%
+9 	 35.0%
 10+ 	 25.0% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6        35.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6        35.0%
 7+       25.0% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1        100%
-2         95%
-3         90%
-4         85%
-5         80%
-6         75%	
-7         70%
-8         65%
-9         60%
-10        55%
-11        50%
-12        45%
-13        40%
-14        35%
-15        30%
+   <td style="text-align:center;"> 1        100%
+2         95%
+3         90%
+4         85%
+5         80%
+6         75%	
+7         70%
+8         65%
+9         60%
+10        55%
+11        50%
+12        45%
+13        40%
+14        35%
+15        30%
 16+       25% </td>
    <td style="text-align:center;"> 1.70 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bland County </td>
-   <td style="text-align:center;"> 50.0%
- 	 
- 	 
+   <td style="text-align:center;"> 50.0%
+ 	 
+ 	 
  	 25.0% </td>
    <td style="text-align:center;"> 0.89 </td>
    <td style="text-align:center;"> As long as used (half cost) 	 50.0% </td>
@@ -2231,22 +2231,22 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Botetourt County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
   </tr>
@@ -2261,43 +2261,43 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buchanan County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 80.0%
-3 	 80.0%
-4 	 60.0%
-5 	 60.0%
-6 	 60.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 80.0%
+3 	 80.0%
+4 	 60.0%
+5 	 60.0%
+6 	 60.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
 10+ (20% the min.) 	 20.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 75.0%
-3 	 65.0%
-4 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 75.0%
+3 	 65.0%
+4 	 40.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 80.0%
-3 	 80.0%
-4 	 60.0%
-5 	 60.0%
-6 	 60.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 80.0%
+3 	 80.0%
+4 	 60.0%
+5 	 60.0%
+6 	 60.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
 10+ 	 20.0% </td>
    <td style="text-align:center;"> 1.95 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buckingham County </td>
-   <td style="text-align:center;"> 1-9 YRS	  15%
-10-19 YRS 10%
+   <td style="text-align:center;"> 1-9 YRS	  15%
+10-19 YRS 10%
 20+ YRS    5% </td>
    <td style="text-align:center;"> 2.90 </td>
-   <td style="text-align:center;"> 1-9 YRS	  15%
-10-19 YRS 10%
+   <td style="text-align:center;"> 1-9 YRS	  15%
+10-19 YRS 10%
 20+ YRS    5% </td>
    <td style="text-align:center;"> 4.05 </td>
    <td style="text-align:center;"> -- </td>
@@ -2305,28 +2305,28 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Campbell County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 25.0%
-3 	 25.0%
-4 	 25.0%
-5 	 25.0%
-6 	 25.0%
-7 	 25.0%
-8 	 25.0%
-9 	 25.0%
-10 	 25.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 25.0%
+3 	 25.0%
+4 	 25.0%
+5 	 25.0%
+6 	 25.0%
+7 	 25.0%
+8 	 25.0%
+9 	 25.0%
+10 	 25.0%
 11+ 	 15.0% </td>
    <td style="text-align:center;"> 4.400 &quot;nominal&quot; </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 25.0%
-3 	 25.0%
-4 	 25.0%
-5 	 25.0%
-6 	 25.0%
-7 	 25.0%
-8 	 25.0%
-9 	 25.0%
-10 	 25.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 25.0%
+3 	 25.0%
+4 	 25.0%
+5 	 25.0%
+6 	 25.0%
+7 	 25.0%
+8 	 25.0%
+9 	 25.0%
+10 	 25.0%
 11+ 	 15.0% </td>
    <td style="text-align:center;"> 4.40 &quot;nominal&quot; </td>
    <td style="text-align:center;"> Any age 	 25.0% </td>
@@ -2336,13 +2336,13 @@ Year 19 and back 10% </td>
    <td style="text-align:left;"> Caroline County </td>
    <td style="text-align:center;"> N/A </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1	45%
-2	45%
-3	45%
-4	45%
-5	40%
-6	35%
-7	30%
+   <td style="text-align:center;"> 1	45%
+2	45%
+3	45%
+4	45%
+5	40%
+6	35%
+7	30%
 8+	25% </td>
    <td style="text-align:center;"> 3.80 </td>
    <td style="text-align:center;"> N/A </td>
@@ -2350,58 +2350,58 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Carroll County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Charles City County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
   </tr>
@@ -2416,46 +2416,46 @@ Year 19 and back 10% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Chesterfield County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 20.0%
-4 	 10.0%
-5 	 5.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 20.0%
+4 	 10.0%
+5 	 5.0%
 6+ 	 1.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Clarke County </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value </td>
    <td style="text-align:center;"> 4.496 </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value </td>
    <td style="text-align:center;"> 4.496 </td>
    <td style="text-align:center;"> none at present </td>
@@ -2463,48 +2463,48 @@ amount for tax value </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Craig County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 30.0%
-3 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 30.0%
+3 	 20.0%
 4+ 	 10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 2.20 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 65.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 65.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -2512,34 +2512,34 @@ amount for tax value </td>
    <td style="text-align:left;"> Cumberland County </td>
    <td style="text-align:center;"> 20% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Dickenson County </td>
-   <td style="text-align:center;"> 2017	 80%
-2016     70%
-2015     60%
-2014     50%
-2013     40%
-2012     30%
+   <td style="text-align:center;"> 2017	 80%
+2016     70%
+2015     60%
+2014     50%
+2013     40%
+2012     30%
 2011 &amp; older     20% </td>
    <td style="text-align:center;"> 1.85 </td>
-   <td style="text-align:center;"> Same Depreciation 
+   <td style="text-align:center;"> Same Depreciation 
 Schedule ad Avove </td>
    <td style="text-align:center;"> 1.85 </td>
    <td style="text-align:center;"> -- </td>
@@ -2565,67 +2565,67 @@ Schedule ad Avove </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
-   <td style="text-align:center;"> Until asset is disposed 	 0.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> Until asset is disposed 	 0.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.57 </td>
-   <td style="text-align:center;"> Until asset is disposed 	 0.0%
-1 	 50.0%
-2 	 35.0%
-3 	 20.0%
-4 	 10.0%
+   <td style="text-align:center;"> Until asset is disposed 	 0.0%
+1 	 50.0%
+2 	 35.0%
+3 	 20.0%
+4 	 10.0%
 5+ 	 2.0% </td>
    <td style="text-align:center;"> 4.57 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.57 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fauquier County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 40.0%
-3 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 40.0%
+3 	 20.0%
 4+ 	 10.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 2.30 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Floyd County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 2.95 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 2.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -2642,25 +2642,25 @@ Schedule ad Avove </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Franklin County </td>
-   <td style="text-align:center;"> 1 	 75%
-2 	 65%
-3 	 55% 	 
+   <td style="text-align:center;"> 1 	 75%
+2 	 65%
+3 	 55% 	 
 4        45% </td>
    <td style="text-align:center;"> 1.89 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7 	 20.0% </td>
    <td style="text-align:center;"> 2.46 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7 	 20.0% </td>
    <td style="text-align:center;"> 2.46 </td>
   </tr>
@@ -2684,85 +2684,85 @@ Schedule ad Avove </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Gloucester County </td>
-   <td style="text-align:center;"> 98 +  Newer 	 30.0%
+   <td style="text-align:center;"> 98 +  Newer 	 30.0%
 97 + older 	 10.0% </td>
    <td style="text-align:center;"> 2.95 </td>
-   <td style="text-align:center;"> 98 + Newer 	 30.0%
+   <td style="text-align:center;"> 98 + Newer 	 30.0%
 97 + older 	 10.0% </td>
    <td style="text-align:center;"> 2.95 </td>
-   <td style="text-align:center;"> 98 + Newer 	 30.0%
+   <td style="text-align:center;"> 98 + Newer 	 30.0%
 97 + older 	 10.0% </td>
    <td style="text-align:center;"> 2.95 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Goochland County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.95 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.95 </td>
-   <td style="text-align:center;"> 1 to 5 	 75.0%
-6 to 10  56.0%
+   <td style="text-align:center;"> 1 to 5 	 75.0%
+6 to 10  56.0%
 11+ 	 37.0% </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Grayson County </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 70.0%
-3 	 65.0%
-4 	 60.0%
-5 	 55.0%
-6 	 50.0%
-7 	 45.0%
-8 	 40.0%
-9 	 35.0%
-10 	 30.0%
-11 	 25.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 70.0%
+3 	 65.0%
+4 	 60.0%
+5 	 55.0%
+6 	 50.0%
+7 	 45.0%
+8 	 40.0%
+9 	 35.0%
+10 	 30.0%
+11 	 25.0%
 12 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 50.0%
-3 	 30.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 50.0%
+3 	 30.0%
 4+ 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 70.0%
-3 	 65.0%
-4 	 60.0%
-5 	 55.0%
-6 	 50.0%
-7 	 45.0%
-8 	 40.0%
-9 	 35.0%
-10 	 30.0%
-11 	 25.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 70.0%
+3 	 65.0%
+4 	 60.0%
+5 	 55.0%
+6 	 50.0%
+7 	 45.0%
+8 	 40.0%
+9 	 35.0%
+10 	 30.0%
+11 	 25.0%
 12 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Greene County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -2772,18 +2772,18 @@ Schedule ad Avove </td>
    <td style="text-align:left;"> Greensville County </td>
    <td style="text-align:center;"> Any age 	 20.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 37.5%
-5 	 35.0%
-6 	 32.5%
-7 	 30.0%
-8 	 27.5%
-9 	 25.0%
-10 	 22.5%
-11 	 20.0%
-12 	 17.5%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 37.5%
+5 	 35.0%
+6 	 32.5%
+7 	 30.0%
+8 	 27.5%
+9 	 25.0%
+10 	 22.5%
+11 	 20.0%
+12 	 17.5%
 13+ 	 15.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -2791,111 +2791,111 @@ Schedule ad Avove </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Halifax County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 3.85 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
-5 	 10.0%
-6 	 5.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
+5 	 10.0%
+6 	 5.0%
 7+ 	 1.0% </td>
    <td style="text-align:center;"> 3.85 </td>
-   <td style="text-align:center;"> 1991-2009 	 50.0%
-1990 &amp; prior 	 25.0%
+   <td style="text-align:center;"> 1991-2009 	 50.0%
+1990 &amp; prior 	 25.0%
 Idled Unused 	 5.0% </td>
    <td style="text-align:center;"> 1.26 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hanover County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.57 </td>
-   <td style="text-align:center;"> 1 	 66.0%
-2 	 55.0%
-3 	 35.0%
-4 	 24.0%
-5 	 5.0%
+   <td style="text-align:center;"> 1 	 66.0%
+2 	 55.0%
+3 	 35.0%
+4 	 24.0%
+5 	 5.0%
 6+ 	 1.0% </td>
    <td style="text-align:center;"> 3.57 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.57 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henrico County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 73.0%
-3 	 63.0%
-4 	 54.0%
-5 	 46.0%
-6 	 39.0%
-7 	 32.0%
-8 	 26.0%
-9 	 22.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 73.0%
+3 	 63.0%
+4 	 54.0%
+5 	 46.0%
+6 	 39.0%
+7 	 32.0%
+8 	 26.0%
+9 	 22.0%
 10+ 	  12.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 72.0%
-2 	 48.0%
-3 	 30.0%
-4 	 20.0%
-5 	 12.0%
+   <td style="text-align:center;"> 1 	 72.0%
+2 	 48.0%
+3 	 30.0%
+4 	 20.0%
+5 	 12.0%
 6+ 	  4.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 73.0%
-3 	 63.0%
-4 	 54.0%
-5 	 46.0%
-6 	 39.0%
-7 	 32.0%
-8 	 26.0%
-9 	 23.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 73.0%
+3 	 63.0%
+4 	 54.0%
+5 	 46.0%
+6 	 39.0%
+7 	 32.0%
+8 	 26.0%
+9 	 23.0%
 10+ 	  12.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henry County </td>
-   <td style="text-align:center;"> 1      97.0%	
-2      87.0%
-3      77.0%
-4      67.0%
+   <td style="text-align:center;"> 1      97.0%	
+2      87.0%
+3      77.0%
+4      67.0%
 5      57.0% </td>
    <td style="text-align:center;"> 1.55 </td>
-   <td style="text-align:center;"> 1 	 71.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 71.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 1.55 </td>
-   <td style="text-align:center;"> 1    	 97.0% Can apply	
-2	 87.0% for partial
-3	 77.0% exemption 
-4	 67.0%	
+   <td style="text-align:center;"> 1    	 97.0% Can apply	
+2	 87.0% for partial
+3	 77.0% exemption 
+4	 67.0%	
 5	 57.0% </td>
    <td style="text-align:center;"> 1.55 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Highland County </td>
-   <td style="text-align:center;"> 40% first year with 5% 
+   <td style="text-align:center;"> 40% first year with 5% 
 deprection </td>
    <td style="text-align:center;"> 2.50 </td>
-   <td style="text-align:center;"> 40% first year with 5% 
+   <td style="text-align:center;"> 40% first year with 5% 
 deprection </td>
    <td style="text-align:center;"> 2.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -2921,12 +2921,12 @@ deprection </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King &amp; Queen County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-less 10% each yr. 
+   <td style="text-align:center;"> 1 	 70.0%
+less 10% each yr. 
 thereafter. </td>
    <td style="text-align:center;"> 1.10 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-less 10% each yr. 
+   <td style="text-align:center;"> 1 	 25.0%
+less 10% each yr. 
 thereafter. </td>
    <td style="text-align:center;"> 3.94 </td>
    <td style="text-align:center;"> -- </td>
@@ -2934,49 +2934,49 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King George County </td>
-   <td style="text-align:center;"> Year Purchased   Percent of Value	
-
-2018		  30.0%
-2017 		  25.0%
-2016 		  20.0%
-2015		  15.0%
+   <td style="text-align:center;"> Year Purchased   Percent of Value	
+
+2018		  30.0%
+2017 		  25.0%
+2016 		  20.0%
+2015		  15.0%
 2014 and older	  10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year Purchased	  Percent of Value
-
-2018 	 	   30.0%
-2017	 	   25.0%
-2016	 	   20.0%
-2015 		   15.0%
+   <td style="text-align:center;"> Year Purchased	  Percent of Value
+
+2018 	 	   30.0%
+2017	 	   25.0%
+2016	 	   20.0%
+2015 		   15.0%
 2014 and older	   10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year Purchased	  Percent of Value
-
-2018 	 	   30.0%
-2017	 	   25.0%
-2016	 	   20.0%
-2015 		   15.0%
+   <td style="text-align:center;"> Year Purchased	  Percent of Value
+
+2018 	 	   30.0%
+2017	 	   25.0%
+2016	 	   20.0%
+2015 		   15.0%
 2014 and older	   10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King William County </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 per 100 </td>
   </tr>
@@ -2991,20 +2991,20 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lee County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -3012,43 +3012,43 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Loudoun County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Louisa County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 30.0%
-3 	 40.0%
-4 	 50.0%
-5 	 60.0%
-6 	 70.0%
-7 	 80.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 30.0%
+3 	 40.0%
+4 	 50.0%
+5 	 60.0%
+6 	 70.0%
+7 	 80.0%
 8+  (not less than 10%) 	 90.0% </td>
    <td style="text-align:center;"> 1.90 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 30.0%
-3 	 40.0%
-4 	 50.0%
-5 	 60.0%
-6 	 70.0%
-7 	 80.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 30.0%
+3 	 40.0%
+4 	 50.0%
+5 	 60.0%
+6 	 70.0%
+7 	 80.0%
 8+ (not less than 10%) 	 90.0% </td>
    <td style="text-align:center;"> 1.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -3058,26 +3058,26 @@ thereafter. </td>
    <td style="text-align:left;"> Lunenburg County </td>
    <td style="text-align:center;"> 50% less 10% every 5 years; 10% min </td>
    <td style="text-align:center;"> 1.80 </td>
-   <td style="text-align:center;"> 1 	 32.5%
-2 	 32.5%
-3 	 32.5%
-4 	 32.5%
-5 	 32.5%
-6 	 27.5%
-7 	 27.5%
-8 	 27.5%
-9 	 27.5%
-10 	 27.5%
-11 	 25.5%
-12 	 25.5%
-13 	 25.5%
-14 	 25.5%
-15 	 25.5%
-16 	 17.5%
-17 	 17.5%
-18 	 17.5%
-19 	 17.5%
-20 	 17.5%
+   <td style="text-align:center;"> 1 	 32.5%
+2 	 32.5%
+3 	 32.5%
+4 	 32.5%
+5 	 32.5%
+6 	 27.5%
+7 	 27.5%
+8 	 27.5%
+9 	 27.5%
+10 	 27.5%
+11 	 25.5%
+12 	 25.5%
+13 	 25.5%
+14 	 25.5%
+15 	 25.5%
+16 	 17.5%
+17 	 17.5%
+18 	 17.5%
+19 	 17.5%
+20 	 17.5%
 21+ 	 12.5% </td>
    <td style="text-align:center;"> 3.80 </td>
    <td style="text-align:center;"> -- </td>
@@ -3094,32 +3094,32 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Mathews County </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Mecklenburg County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 25.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 25.0%
 8+ 	 15.0% </td>
    <td style="text-align:center;"> 3.36 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 50.0%
-3 	 40.0%
-4 	 20.0%
-5 	 10.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 50.0%
+3 	 40.0%
+4 	 20.0%
+5 	 10.0%
 6+ 	 5.0% </td>
    <td style="text-align:center;"> 3.36 </td>
    <td style="text-align:center;"> Assessed by SCC  0.0% </td>
@@ -3136,29 +3136,29 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Montgomery County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 60.0%
-3    	 50.0%
-4 	 30.0%	
-5  	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 60.0%
+3    	 50.0%
+4 	 30.0%	
+5  	 20.0%
 6+	 10.0% </td>
    <td style="text-align:center;"> 2.55 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3        50.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3        50.0%
 4+       10.0% </td>
    <td style="text-align:center;"> 2.55 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3        60.0%
-4        50.0%	
-5  	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3        60.0%
+4        50.0%	
+5  	 40.0%
 6+       30.0% </td>
    <td style="text-align:center;"> 2.55 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Nelson County </td>
-   <td style="text-align:center;"> 1 	 70.0%
+   <td style="text-align:center;"> 1 	 70.0%
 Reduce 10% each yr. after 	 0.0% </td>
    <td style="text-align:center;"> 3.45 </td>
    <td style="text-align:center;"> Any age 	 15.0% </td>
@@ -3168,29 +3168,29 @@ Reduce 10% each yr. after 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> New Kent County </td>
-   <td style="text-align:center;"> 1-3/	20%
-4-6/	15%
-7-10/	10%
-11&amp;older/ 5%
+   <td style="text-align:center;"> 1-3/	20%
+4-6/	15%
+7-10/	10%
+11&amp;older/ 5%
 Idle/     0% </td>
    <td style="text-align:center;"> .75 </td>
-   <td style="text-align:center;"> 1/ 	 60%
-2/ 	 35%
-3-4/ 	 10%
+   <td style="text-align:center;"> 1/ 	 60%
+2/ 	 35%
+3-4/ 	 10%
 5&amp;older/  0% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1-3/	55%
-4-6/	30%
+   <td style="text-align:center;"> 1-3/	55%
+4-6/	30%
 7&amp;older/10% </td>
    <td style="text-align:center;"> 3.75 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Northampton County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 25.0%
 6+ (Min. 200) 	 10.0% </td>
    <td style="text-align:center;"> 2.86 </td>
    <td style="text-align:center;"> -- </td>
@@ -3209,20 +3209,20 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Nottoway County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 70.0%
-3 	 70.0%
-4 	 60.0%
-5 	 60.0%
-6 	 60.0%
-7 	 60.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 70.0%
+3 	 70.0%
+4 	 60.0%
+5 	 60.0%
+6 	 60.0%
+7 	 60.0%
 8+ 	 30.0% </td>
    <td style="text-align:center;"> 1.35 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 55.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 55.0%
+4 	 40.0%
+5 	 25.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
    <td style="text-align:center;"> -- </td>
@@ -3230,40 +3230,40 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Orange County </td>
-   <td style="text-align:center;"> 1 	 65%
-2 	 60%
-3 	 55%
-4 	 50%
-5 	 45%
-6 	 40%
-7 	 37%
-8 	 34%
-9 	 31%
-10 	 28%
+   <td style="text-align:center;"> 1 	 65%
+2 	 60%
+3 	 55%
+4 	 50%
+5 	 45%
+6 	 40%
+7 	 37%
+8 	 34%
+9 	 31%
+10 	 28%
 11+ 	 25% </td>
    <td style="text-align:center;"> 2.20 </td>
-   <td style="text-align:center;"> 1 	 65%
-2 	 60%
-3 	 55%
-4 	 50%
-5 	 45%
-6 	 40%
-7 	 37%
-8 	 34%
-9 	 31%
-10 	 28%
+   <td style="text-align:center;"> 1 	 65%
+2 	 60%
+3 	 55%
+4 	 50%
+5 	 45%
+6 	 40%
+7 	 37%
+8 	 34%
+9 	 31%
+10 	 28%
 11+ 	 25% </td>
    <td style="text-align:center;"> 2.20 </td>
-   <td style="text-align:center;"> 1 	 65%
-2 	 60%
-3 	 55%
-4 	 50%
-5 	 45%
-6 	 40%
-7 	 37%
-8 	 34%
-9 	 31%
-10 	 28%
+   <td style="text-align:center;"> 1 	 65%
+2 	 60%
+3 	 55%
+4 	 50%
+5 	 45%
+6 	 40%
+7 	 37%
+8 	 34%
+9 	 31%
+10 	 28%
 11+ 	 25% </td>
    <td style="text-align:center;"> 2.20 </td>
   </tr>
@@ -3278,25 +3278,25 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Patrick County </td>
-   <td style="text-align:center;"> 1 	 95.0%
-2 	 85.5%
-3 	 77.0%
-4 	 69.3%
-5 	 62.0%
-6 	 56.0%
-7 	 50.5%
-8 	 45.4%
-9 	 41.0%
-10 	 36.8%
-11 	 33.0%
-12 	 29.8%
-13 	 26.8%
+   <td style="text-align:center;"> 1 	 95.0%
+2 	 85.5%
+3 	 77.0%
+4 	 69.3%
+5 	 62.0%
+6 	 56.0%
+7 	 50.5%
+8 	 45.4%
+9 	 41.0%
+10 	 36.8%
+11 	 33.0%
+12 	 29.8%
+13 	 26.8%
 14+ 	 25.0% </td>
    <td style="text-align:center;"> 1.71 </td>
-   <td style="text-align:center;"> 1 	 95.0%
-2 	 70.0%
-3 	 50.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 95.0%
+2 	 70.0%
+3 	 50.0%
+4 	 20.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 1.71 </td>
    <td style="text-align:center;"> -- </td>
@@ -3306,16 +3306,16 @@ Idle/     0% </td>
    <td style="text-align:left;"> Pittsylvania County </td>
    <td style="text-align:center;"> all years 10% </td>
    <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 27.5%
-3 	 25.0%
-4 	 23.5%
-5 	 20.0%
-6 	 17.5%
-7	 15.0%
-8	 13.5%
-9	 10.0%
-10	  7.5%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 27.5%
+3 	 25.0%
+4 	 23.5%
+5 	 20.0%
+6 	 17.5%
+7	 15.0%
+8	 13.5%
+9	 10.0%
+10	  7.5%
 11+	  5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -3323,22 +3323,22 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Powhatan County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
   </tr>
@@ -3353,73 +3353,73 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Prince George County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.25 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Prince William County </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
 6+ 	 10.0% - 35% </td>
    <td style="text-align:center;"> 3.70 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 35.0%
-3 	 20.0%
-4 	 10.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 35.0%
+3 	 20.0%
+4 	 10.0%
 5+ 	 5.0% </td>
    <td style="text-align:center;"> 1.25 </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6 	 35.0%
-7 	 25.0%
-8 	 15.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6 	 35.0%
+7 	 25.0%
+8 	 15.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pulaski County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 60.0%
-3 	 60.0%
-4 	 60.0%
-5 	 60.0%
-6 	 40.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
-10 	 40.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 60.0%
+3 	 60.0%
+4 	 60.0%
+5 	 60.0%
+6 	 40.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
+10 	 40.0%
 11+ 	 20.0% </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 1	 60.0%
-2 to 3 	 45.0%
-4 to 5 	 30.0%
-6 to 7 	 10.0%
+   <td style="text-align:center;"> 1	 60.0%
+2 to 3 	 45.0%
+4 to 5 	 30.0%
+6 to 7 	 10.0%
 8 	 02.0% </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 1 to 5 years 	 60.0%
-6 to 10 years 	 40.0%
+   <td style="text-align:center;"> 1 to 5 years 	 60.0%
+6 to 10 years 	 40.0%
 10+ years 	 20.0% </td>
    <td style="text-align:center;"> 2.35 </td>
   </tr>
@@ -3434,21 +3434,21 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Richmond County </td>
-   <td style="text-align:center;"> 1 	 40.% 	 
-2previous year value reduced by 10%
-3previous year value reduced by 10%
-
-4previous year value reduced by 10%
-
+   <td style="text-align:center;"> 1 	 40.% 	 
+2previous year value reduced by 10%
+3previous year value reduced by 10%
+
+4previous year value reduced by 10%
+
 5 Min. 100 </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2previous year value reduced by 10%
- 	
-3previous year value reduced by 10%
- 
-4previous year value reduced by 10%
- 	 
+   <td style="text-align:center;"> 1 	 40.0%
+2previous year value reduced by 10%
+ 	
+3previous year value reduced by 10%
+ 
+4previous year value reduced by 10%
+ 	 
 5 Min. 100 	  	 0.0% </td>
    <td style="text-align:center;"> 3.75 </td>
    <td style="text-align:center;"> -- </td>
@@ -3456,31 +3456,31 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ (Min. 100) 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 20.0%
 5+ (Min. 100) 	 10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ (Min.100) 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Rockbridge County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.55 </td>
    <td style="text-align:center;"> Any age 	 25.0% </td>
@@ -3490,69 +3490,69 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Rockingham County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8 	 20.0% </td>
    <td style="text-align:center;"> 3.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 30.0%
-4 	 20.0%
- 	 0.0%
- 	 0.0%
- 	 0.0%
- 	 0.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 30.0%
+4 	 20.0%
+ 	 0.0%
+ 	 0.0%
+ 	 0.0%
+ 	 0.0%
  	 0.0% </td>
    <td style="text-align:center;"> 3.00 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8 	 20.0% </td>
    <td style="text-align:center;"> 3.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Russell County </td>
-   <td style="text-align:center;"> 0 	 90.0%
-1 	 90.0%
-2 	 80.0%
-3 	 80.0%
-4 	 70.0%
-5 	 70.0%
-6 	 60.0%
-7 	 60.0%
-8 	 50.0%
-9 	 50.0%
-10 	 50.0%
-11 	 40.0%
-12 	 40.0%
-13 	 40.0%
-14 	 40.0%
+   <td style="text-align:center;"> 0 	 90.0%
+1 	 90.0%
+2 	 80.0%
+3 	 80.0%
+4 	 70.0%
+5 	 70.0%
+6 	 60.0%
+7 	 60.0%
+8 	 50.0%
+9 	 50.0%
+10 	 50.0%
+11 	 40.0%
+12 	 40.0%
+13 	 40.0%
+14 	 40.0%
 15+ 	 30.0% </td>
    <td style="text-align:center;"> 1.65 </td>
-   <td style="text-align:center;"> 0 	 90.0%
-1 	 90.0%
-2 	 80.0%
-3 	 80.0%
-4 	 70.0%
-5 	 70.0%
-6 	 60.0%
-7 	 60.0%
-8 	 50.0%
-9 	 50.0%
-10 	 50.0%
-11 	 40.0%
-12 	 40.0%
-13 	 40.0%
-14 	 40.0%
+   <td style="text-align:center;"> 0 	 90.0%
+1 	 90.0%
+2 	 80.0%
+3 	 80.0%
+4 	 70.0%
+5 	 70.0%
+6 	 60.0%
+7 	 60.0%
+8 	 50.0%
+9 	 50.0%
+10 	 50.0%
+11 	 40.0%
+12 	 40.0%
+13 	 40.0%
+14 	 40.0%
 15+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -3560,46 +3560,46 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Scott County </td>
-   <td style="text-align:center;"> current (new) 	 90.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> current (new) 	 90.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 0.90 </td>
-   <td style="text-align:center;"> current (new) 	 70.0%
-1 	 50.0%
-2 	 35.0%
-3 	 25.0%
-4 	 15.0%
+   <td style="text-align:center;"> current (new) 	 70.0%
+1 	 50.0%
+2 	 35.0%
+3 	 25.0%
+4 	 15.0%
 5 	 5.0% </td>
    <td style="text-align:center;"> 0.72 </td>
-   <td style="text-align:center;"> current (new) 	 90.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> current (new) 	 90.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Shenandoah County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2	 70.0%
-3	 60.0%
-4	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2	 70.0%
+3	 60.0%
+4	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 3.15 </td>
-   <td style="text-align:center;"> 1 	 55.0%
-2 	 50.0%
-3 	 45.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 55.0%
+2 	 50.0%
+3 	 45.0%
+4 	 40.0%
+5 	 25.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.15 </td>
    <td style="text-align:center;"> -- </td>
@@ -3607,48 +3607,48 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Smyth County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 60.0%
-3 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 60.0%
+3 	 40.0%
 4+ 	 20.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1     90%
-2     80%
-3     70%
-4     60%
-5     50%
-6     40%
-7     30%
+   <td style="text-align:center;"> 1     90%
+2     80%
+3     70%
+4     60%
+5     50%
+6     40%
+7     30%
 8+    20% </td>
    <td style="text-align:center;"> 2.30 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Southampton County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	70%
-3 	 60%
-4 	50%
-5        40%
-6  	 30%
-7	20%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	70%
+3 	 60%
+4 	50%
+5        40%
+6  	 30%
+7	20%
 8	10% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -3656,64 +3656,64 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Spotsylvania County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 30.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 30.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 6.73 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 30.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 6.73 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Stafford County </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Surry County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.0 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.0 </td>
   </tr>
@@ -3728,71 +3728,71 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Tazewell County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	80.0%
-2	70.0%
-3	60.0%
-4	50.0%
-5	40.0%
-6	30.0%
+   <td style="text-align:center;"> 1	80.0%
+2	70.0%
+3	60.0%
+4	50.0%
+5	40.0%
+6	30.0%
 7+	20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Warren County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Washington County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5	 50.0%
-6	 40.0%
-7	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5	 50.0%
+6	 40.0%
+7	 30.0%
 8+	 20.0% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 40.0%
 3+ 	 20.0% </td>
    <td style="text-align:center;"> 1.70 </td>
    <td style="text-align:center;"> -- </td>
@@ -3809,10 +3809,10 @@ Idle/     0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wise County </td>
-   <td style="text-align:center;"> 10 years/ 10%						
+   <td style="text-align:center;"> 10 years/ 10%						
 minimum 15% </td>
    <td style="text-align:center;"> 1.65 </td>
-   <td style="text-align:center;"> 5 years/80%60%40%20%15%
+   <td style="text-align:center;"> 5 years/80%60%40%20%15%
 15% minimum </td>
    <td style="text-align:center;"> 1.65 </td>
    <td style="text-align:center;"> 10 years/ 10% minimum 15% </td>
@@ -3820,25 +3820,25 @@ minimum 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wythe County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
   </tr>
@@ -3853,28 +3853,28 @@ minimum 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Alexandria City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.75 </td>
-   <td style="text-align:center;"> 1 	 65.0%
-2 	 45.0%
-3 	 30.0%
-4 	 20.0%
-5 	 5.0%
-6 	 5.0%
+   <td style="text-align:center;"> 1 	 65.0%
+2 	 45.0%
+3 	 30.0%
+4 	 20.0%
+5 	 5.0%
+6 	 5.0%
 7+ 	 5.0% </td>
    <td style="text-align:center;"> 4.75 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.75 </td>
   </tr>
@@ -3889,58 +3889,58 @@ minimum 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buena Vista City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Charlottesville City </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
   </tr>
@@ -3955,17 +3955,17 @@ minimum 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Colonial Heights City </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -3982,38 +3982,38 @@ minimum 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Danville City </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
-   <td style="text-align:center;"> 3.00 (3.5
+   <td style="text-align:center;"> 3.00 (3.5
 effective 01/01.2018) </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 30.0%
+4 	 20.0%
 5+ 	 10.0% </td>
-   <td style="text-align:center;"> 3.00 (3.5
-effective
+   <td style="text-align:center;"> 3.00 (3.5
+effective
 01/01/2018) </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Emporia City </td>
-   <td style="text-align:center;"> 1	50.0%	6	25%
-2     	45.0%	7	20%
-3	40.0%
-4	35.0%
+   <td style="text-align:center;"> 1	50.0%	6	25%
+2     	45.0%	7	20%
+3	40.0%
+4	35.0%
 5	30.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -4021,19 +4021,19 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 4.13 </td>
-   <td style="text-align:center;"> 1 	 65.0%
-2 	 45.0%
-3 	 30.0%
-4 	 10.0%
+   <td style="text-align:center;"> 1 	 65.0%
+2 	 45.0%
+3 	 30.0%
+4 	 10.0%
 5 	 2.0% </td>
    <td style="text-align:center;"> 4.13 </td>
    <td style="text-align:center;"> N/A 	 0.0% </td>
@@ -4041,28 +4041,28 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Falls Church City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.84 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 35.0%
-4 	 10.0%
-5 	 10.0%
-6 	 5.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 35.0%
+4 	 10.0%
+5 	 10.0%
+6 	 5.0%
 7+	 5.0% </td>
    <td style="text-align:center;"> 4.84 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.84 </td>
   </tr>
@@ -4077,26 +4077,26 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 45.0%
-6 	 30.0%
-7+ 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 45.0%
+6 	 30.0%
+7+ 	 20.0%
  	 0.0% </td>
    <td style="text-align:center;"> 3.40 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 60.0%
-3 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 60.0%
+3 	 40.0%
 4+ 	 20.0% </td>
    <td style="text-align:center;"> 3.40 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 45.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 45.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.40 </td>
   </tr>
@@ -4120,43 +4120,43 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Harrisonburg City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 2.12 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 30.0%
-4 	 15.0%
-5 	 10.0%
-6 	 5.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 30.0%
+4 	 15.0%
+5 	 10.0%
+6 	 5.0%
 7 	 2.0% </td>
    <td style="text-align:center;"> 2.12 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 2.12 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hopewell City </td>
-   <td style="text-align:center;"> New 	 60.0%
-1 	 50.0%
-2 	 40.0%
-3 	 30.0%
+   <td style="text-align:center;"> New 	 60.0%
+1 	 50.0%
+2 	 40.0%
+3 	 30.0%
 4 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> New       60.0%
-1 	 50.0%
-2 	 40.0%
-3 	 30.0%
+   <td style="text-align:center;"> New       60.0%
+1 	 50.0%
+2 	 40.0%
+3 	 30.0%
 4 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> State Corp Comm 	 0.0% </td>
@@ -4164,77 +4164,77 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Lexington City </td>
-   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
+   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
 10% of OC when item is fully depreciated </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
+   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
 10% of OC when item is fully depreciated </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
+   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
 10% of OC when item is fully depreciated </td>
    <td style="text-align:center;"> 4.25 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lynchburg City </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Manassas City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 35.0%
-3 	 20.0%
-4 	 10.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 35.0%
+3 	 20.0%
+4 	 10.0%
 5+ 	 5.0% </td>
    <td style="text-align:center;"> 1.25 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Manassas Park City </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
 4+ 	 10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -4244,20 +4244,20 @@ effective
    <td style="text-align:left;"> Martinsville City </td>
    <td style="text-align:center;"> 25.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 30.0%
-4 	 15.0%
-5 	 10.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 30.0%
+4 	 15.0%
+5 	 10.0%
 6+ 	 5.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 25.0% </td>
    <td style="text-align:center;"> 1.85 </td>
   </tr>
@@ -4281,10 +4281,10 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Norton City </td>
-   <td style="text-align:center;"> any age 	 10.0%
+   <td style="text-align:center;"> any age 	 10.0%
 Valued @ 10% of Cost </td>
    <td style="text-align:center;"> 2.05 </td>
-   <td style="text-align:center;"> any age 	 10.0%
+   <td style="text-align:center;"> any age 	 10.0%
 Valued @ 10% of Cost </td>
    <td style="text-align:center;"> 2.05 </td>
    <td style="text-align:center;"> -- </td>
@@ -4292,16 +4292,16 @@ Valued @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Petersburg City </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.90 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -4318,13 +4318,13 @@ Valued @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Portsmouth City </td>
-   <td style="text-align:center;"> 1985-current 	 50.0%
+   <td style="text-align:center;"> 1985-current 	 50.0%
 1984-older 	 25.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1985-current 	 50.0%
+   <td style="text-align:center;"> 1985-current 	 50.0%
 1984-older 	 25.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1985-current 	 50.0%
+   <td style="text-align:center;"> 1985-current 	 50.0%
 1984-older 	 25.0% </td>
    <td style="text-align:center;"> 3.00 </td>
   </tr>
@@ -4339,70 +4339,70 @@ Valued @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Richmond City </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.70 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 30.0%
-4 	 15.0%
-5 	 10.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 30.0%
+4 	 15.0%
+5 	 10.0%
 6+ 	 5.0% </td>
    <td style="text-align:center;"> 3.70 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.70 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke City </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.45 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.45 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.45 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6 and older 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6 and older 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6 or older 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
   </tr>
@@ -4421,7 +4421,7 @@ Valued @ 10% of Cost </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> Any age 	 20% OC </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 1-5 yrs		20% OC
+   <td style="text-align:center;"> 1-5 yrs		20% OC
 6 yrs &amp; older	10% OC </td>
    <td style="text-align:center;"> 3.15 </td>
   </tr>
@@ -4436,13 +4436,13 @@ Valued @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Waynesboro City </td>
-   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
 to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
 to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
 to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
@@ -4457,25 +4457,25 @@ to min. 20% of the original cost of item 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Winchester City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 1.09 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 4.50 </td>
   </tr>
@@ -4508,10 +4508,10 @@ to min. 20% of the original cost of item 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Altavista Town </td>
-   <td style="text-align:center;"> Years 1 - 10 25%
+   <td style="text-align:center;"> Years 1 - 10 25%
 Years 11 + 15% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> Years 1 - 10 25%
+   <td style="text-align:center;"> Years 1 - 10 25%
 Years 11 + 15% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -4546,25 +4546,25 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Ashland Town </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.77 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.77 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.77 </td>
   </tr>
@@ -4615,11 +4615,11 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 55.0%
-4 	 40.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 55.0%
+4 	 40.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.85 </td>
    <td style="text-align:center;"> -- </td>
@@ -4802,9 +4802,9 @@ Years 11 + 15% </td>
    <td style="text-align:left;"> Chilhowie Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0.30 (5.00 minimum) </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 60.0%
-3 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 60.0%
+3 	 40.0%
 4 	 20.0% </td>
    <td style="text-align:center;"> 0.30(5.00 minimum) </td>
    <td style="text-align:center;"> N/A 	 0.0% </td>
@@ -4920,22 +4920,22 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper Town </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
 5 	 30.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 65.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 65.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
 5+ 	 30.0% </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
@@ -5085,20 +5085,20 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Front Royal Town </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 0.64 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 0.64 </td>
    <td style="text-align:center;"> -- </td>
@@ -5196,27 +5196,27 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Haymarket Town </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 65.0%
-3 	 50.0%
-4 	 35.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 65.0%
+3 	 50.0%
+4 	 35.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.60 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 0.60 </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6 	 35.0%
-7 	 25.0%
-8 	 15.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6 	 35.0%
+7 	 25.0%
+8 	 15.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 0.60 </td>
   </tr>
@@ -5249,34 +5249,34 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hillsville Town </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
   </tr>
@@ -5435,12 +5435,12 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Luray Town </td>
-   <td style="text-align:center;"> 1 	 72.0%
-10% each yr. thereafter 	 0.0%
+   <td style="text-align:center;"> 1 	 72.0%
+10% each yr. thereafter 	 0.0%
 (Page Co. info) </td>
    <td style="text-align:center;"> 0.62 </td>
-   <td style="text-align:center;"> 1 	 72.0%
-10% each yr thereafter 	 0.0%
+   <td style="text-align:center;"> 1 	 72.0%
+10% each yr thereafter 	 0.0%
 (Page Co. Info) </td>
    <td style="text-align:center;"> 0.62 </td>
    <td style="text-align:center;"> -- </td>
@@ -5646,40 +5646,40 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pulaski Town </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 60.0%
-3 	 60.0%
-4 	 60.0%
-5 	 60.0%
-6 	 40.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
-10 	 40.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 60.0%
+3 	 60.0%
+4 	 60.0%
+5 	 60.0%
+6 	 40.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
+10 	 40.0%
 11+ 	 20.0% </td>
    <td style="text-align:center;"> 0.80 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 60.0%
-3 	 60.0%
-4 	 60.0%
-5 	 60.0%
-6 	 40.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
-10 	 40.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 60.0%
+3 	 60.0%
+4 	 60.0%
+5 	 60.0%
+6 	 40.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
+10 	 40.0%
 11+ 	 20.0% </td>
    <td style="text-align:center;"> 0.80 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 60.0%
-3 	 60.0%
-4 	 60.0%
-5 	 60.0%
-6 	 40.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
-10 	 40.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 60.0%
+3 	 60.0%
+4 	 60.0%
+5 	 60.0%
+6 	 40.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
+10 	 40.0%
 11+ 	 20.0% </td>
    <td style="text-align:center;"> 0.80 </td>
   </tr>
@@ -5856,13 +5856,13 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Strasburg Town </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -5949,16 +5949,16 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Vinton Town </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1	60%
-2	50%
-3	40%
-4	20%
+   <td style="text-align:center;"> 1	60%
+2	50%
+3	40%
+4	20%
 5+	10% </td>
    <td style="text-align:center;"> 1.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -5993,25 +5993,25 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Warrenton Town </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 40.0%
-3 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 40.0%
+3 	 20.0%
 4+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
@@ -6080,21 +6080,21 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Woodstock Town </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
-8 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
+8 	 20.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 0.90 </td>
-   <td style="text-align:center;"> 1 	 55.0%
-2 	 50.0%
-3 	 45.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 55.0%
+2 	 50.0%
+3 	 45.0%
+4 	 40.0%
+5 	 25.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -6102,25 +6102,25 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wytheville Town </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 0.28 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 0.28 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 0.28 </td>
   </tr>
@@ -6145,19 +6145,19 @@ Shenandoah County </td>
    <td style="text-align:left;"> Accomack County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 43.0%
-4 	 41.0%
-5 	 39.0%
-6 	 37.0%
-7 	 35.0%
-8 	 33.0%
-9 	 31.0%
-10 	 29.0%
-11 	 27.0%
-12 	 25.0%
-13 	 23.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 43.0%
+4 	 41.0%
+5 	 39.0%
+6 	 37.0%
+7 	 35.0%
+8 	 33.0%
+9 	 31.0%
+10 	 29.0%
+11 	 27.0%
+12 	 25.0%
+13 	 23.0%
 14+ 	 20.0% </td>
    <td style="text-align:center;"> 3.63 to 3.72 </td>
    <td style="text-align:center;"> -- </td>
@@ -6165,28 +6165,28 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Albemarle County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.28 </td>
   </tr>
@@ -6203,11 +6203,11 @@ Shenandoah County </td>
    <td style="text-align:left;"> Amelia County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 40.0%
-3 	 37.0%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 40.0%
+3 	 37.0%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
    <td style="text-align:center;"> -- </td>
@@ -6226,23 +6226,23 @@ Shenandoah County </td>
    <td style="text-align:left;"> Appomattox County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> n/A </td>
-   <td style="text-align:center;"> Year 1	 80%
-Year 2	 80%
-Year 3	 75%
-Year 4	 75%
-Year 5	 70%
-Year 6	 65%
-Year 7	 60%
-Year 8	 60%
-Year 9	 55%
-Year 10	 55%
-Year 11	 50%
-Year 12	 45%
-Year 13	 40%
-Year 14	 35%
-Year 15  30%
-Year 16  25%
-Year 17  20%
+   <td style="text-align:center;"> Year 1	 80%
+Year 2	 80%
+Year 3	 75%
+Year 4	 75%
+Year 5	 70%
+Year 6	 65%
+Year 7	 60%
+Year 8	 60%
+Year 9	 55%
+Year 10	 55%
+Year 11	 50%
+Year 12	 45%
+Year 13	 40%
+Year 14	 35%
+Year 15  30%
+Year 16  25%
+Year 17  20%
 Year 18 and back  15% </td>
    <td style="text-align:center;"> 3.35 </td>
    <td style="text-align:center;"> -- </td>
@@ -6250,58 +6250,58 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Arlington County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Augusta County </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
-6 	 15.0%
-7 	 10.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
+6 	 15.0%
+7 	 10.0%
 8+ (Min 50) 	 5.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
-6 	 15.0%
-7 	 10.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
+6 	 15.0%
+7 	 10.0%
 8+ (Min 50) 	 5.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
-6 	 15.0%
-7 	 10.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
+6 	 15.0%
+7 	 10.0%
 8+ (Min.50) 	 5.0% </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
@@ -6309,14 +6309,14 @@ Year 18 and back  15% </td>
    <td style="text-align:left;"> Bath County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
-8 	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
+8 	 20.0%
 9+ (min.1000) 	 10.0% </td>
    <td style="text-align:center;"> 0.35 </td>
    <td style="text-align:center;"> -- </td>
@@ -6324,55 +6324,55 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bedford County </td>
-   <td style="text-align:center;"> 1 	 100.0%
-2 	 95.0%
-3 	 90.0%
-4 	 85.0%
-5 	 80.0%
-6 	 75.0%
-7 	 70.0%
-8 	 65.0%
-9 	 60.0%
-10 	 55.0%
-11       50.0%
-12       45.0%
-13       40.0%
-14       35.0%
-15       30.0%
+   <td style="text-align:center;"> 1 	 100.0%
+2 	 95.0%
+3 	 90.0%
+4 	 85.0%
+5 	 80.0%
+6 	 75.0%
+7 	 70.0%
+8 	 65.0%
+9 	 60.0%
+10 	 55.0%
+11       50.0%
+12       45.0%
+13       40.0%
+14       35.0%
+15       30.0%
 16+      25% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1 	 100.0%
-2 	 95.0%
-3 	 90.0%
-4 	 85.0%
-5 	 80.0%
-6 	 75.0%
-7 	 70.0%
-8 	 65.0%
-9 	 60.0%
-10	 55.0%
-11       50.0%
-12       45.0%
-13       40.0%
-14       35.0%
-15       30.0%
+   <td style="text-align:center;"> 1 	 100.0%
+2 	 95.0%
+3 	 90.0%
+4 	 85.0%
+5 	 80.0%
+6 	 75.0%
+7 	 70.0%
+8 	 65.0%
+9 	 60.0%
+10	 55.0%
+11       50.0%
+12       45.0%
+13       40.0%
+14       35.0%
+15       30.0%
 16+      25% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1 	 100.0%
-2 	 95.0%
-3 	 90.0%
-4 	 85.0%
-5 	 80.0%
-6 	 75.0%
-7 	 70.0%
-8 	 65.0%
-9 	 60.0%
-10 	 55.0%
-11       50.0%
-12       45.0%
-13       40.0%
-14       35.0%
-15       30.0%
+   <td style="text-align:center;"> 1 	 100.0%
+2 	 95.0%
+3 	 90.0%
+4 	 85.0%
+5 	 80.0%
+6 	 75.0%
+7 	 70.0%
+8 	 65.0%
+9 	 60.0%
+10 	 55.0%
+11       50.0%
+12       45.0%
+13       40.0%
+14       35.0%
+15       30.0%
 16       25.0% </td>
    <td style="text-align:center;"> 1.70 </td>
   </tr>
@@ -6387,22 +6387,22 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Botetourt County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 70.0%
-3 	 50.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 70.0%
+3 	 50.0%
+4 	 30.0%
 5+ 	 10.0% </td>
    <td style="text-align:center;"> 2.71 </td>
   </tr>
@@ -6419,15 +6419,15 @@ Year 18 and back  15% </td>
    <td style="text-align:left;"> Buchanan County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 80.0%
-3 	 80.0%
-4 	 60.0%
-5 	 60.0%
-6 	 60.0%
-7 	 40.0%
-8 	 40.0%
-9 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 80.0%
+3 	 80.0%
+4 	 60.0%
+5 	 60.0%
+6 	 60.0%
+7 	 40.0%
+8 	 40.0%
+9 	 40.0%
 10+ (no &lt; 20%) 	 20.0% </td>
    <td style="text-align:center;"> 1.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -6437,8 +6437,8 @@ Year 18 and back  15% </td>
    <td style="text-align:left;"> Buckingham County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1-9 YRS	  15%
-10-19 YRS 10%
+   <td style="text-align:center;"> 1-9 YRS	  15%
+10-19 YRS 10%
 20+ YRS    5% </td>
    <td style="text-align:center;"> 4.05 </td>
    <td style="text-align:center;"> -- </td>
@@ -6446,28 +6446,28 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Campbell County </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 25.0%
-3 	 25.0%
-4 	 25.0%
-5 	 25.0%
-6 	 25.0%
-7 	 25.0%
-8 	 25.0%
-9 	 25.0%
-10 	 25.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 25.0%
+3 	 25.0%
+4 	 25.0%
+5 	 25.0%
+6 	 25.0%
+7 	 25.0%
+8 	 25.0%
+9 	 25.0%
+10 	 25.0%
 11+ 	 15.0% </td>
    <td style="text-align:center;"> 3.25 &quot;Nominal&quot; </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 25.0%
-3 	 25.0%
-4 	 25.0%
-5 	 25.0%
-6 	 25.0%
-7 	 25.0%
-8 	 25.0%
-9 	 25.0%
-10 	 25.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 25.0%
+3 	 25.0%
+4 	 25.0%
+5 	 25.0%
+6 	 25.0%
+7 	 25.0%
+8 	 25.0%
+9 	 25.0%
+10 	 25.0%
 11+ 	 15.0% </td>
    <td style="text-align:center;"> 4.40 &quot;nominal&quot; </td>
    <td style="text-align:center;"> -- </td>
@@ -6477,13 +6477,13 @@ Year 18 and back  15% </td>
    <td style="text-align:left;"> Caroline County </td>
    <td style="text-align:center;"> N/A </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1	45%
-2	45%
-3	45%
-4	45%
-5	40%
-6	35%
-7	30%
+   <td style="text-align:center;"> 1	45%
+2	45%
+3	45%
+4	45%
+5	40%
+6	35%
+7	30%
 8+	25% </td>
    <td style="text-align:center;"> 3.80 </td>
    <td style="text-align:center;"> N/A </td>
@@ -6491,58 +6491,58 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Carroll County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 1. 90%
-2. 85%
-3. 80%
-4. 70%
-5. 60%
-6. 50%
-7. 40%
-8. 35%
+   <td style="text-align:center;"> 1. 90%
+2. 85%
+3. 80%
+4. 70%
+5. 60%
+6. 50%
+7. 40%
+8. 35%
 9. 30% </td>
    <td style="text-align:center;"> 1.95 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Charles City County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.75 </td>
   </tr>
@@ -6557,25 +6557,25 @@ Year 18 and back  15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Chesterfield County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.60 </td>
   </tr>
@@ -6583,64 +6583,64 @@ Year 18 and back  15% </td>
    <td style="text-align:left;"> Clarke County </td>
    <td style="text-align:center;"> none at present </td>
    <td style="text-align:center;"> 4.496 </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value  see above </td>
    <td style="text-align:center;"> 4.496 </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value </td>
    <td style="text-align:center;"> 4.496 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Craig County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7+ 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7+ 	 20.0%
  	 0.0% </td>
    <td style="text-align:center;"> 2.20 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 30.0%
-3 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 30.0%
+3 	 20.0%
 4+ 	 10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 2.20 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+        20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+       20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -6648,28 +6648,28 @@ amount for tax value </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Cumberland County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.50 </td>
   </tr>
@@ -6677,7 +6677,7 @@ amount for tax value </td>
    <td style="text-align:left;"> Dickenson County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Same Depreciation
+   <td style="text-align:center;"> Same Depreciation
 Schedule as Above </td>
    <td style="text-align:center;"> 1.85 </td>
    <td style="text-align:center;"> -- </td>
@@ -6703,48 +6703,48 @@ Schedule as Above </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.57 </td>
-   <td style="text-align:center;"> Until asset is disposed 	 0.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> Until asset is disposed 	 0.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.57 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.57 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fauquier County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 2.30 </td>
    <td style="text-align:center;"> -- </td>
@@ -6754,10 +6754,10 @@ Schedule as Above </td>
    <td style="text-align:left;"> Floyd County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> remove </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 2.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -6774,36 +6774,36 @@ Schedule as Above </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Franklin County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7 	 20.0% </td>
    <td style="text-align:center;"> 2.46 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7 	 20.0% </td>
    <td style="text-align:center;"> 2.46 </td>
-   <td style="text-align:center;"> 1       50.0%
-2	45.0%
-3	40.0%
-4	35.0%
-5	30.0%
-6	25.0%
+   <td style="text-align:center;"> 1       50.0%
+2	45.0%
+3	40.0%
+4	35.0%
+5	30.0%
+6	25.0%
 7	20.0% </td>
    <td style="text-align:center;"> 2.46 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Frederick County </td>
-   <td style="text-align:center;"> 60%
-50%
-40%
+   <td style="text-align:center;"> 60%
+50%
+40%
 30% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> Any age 	 30.0% </td>
@@ -6822,10 +6822,10 @@ Schedule as Above </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Gloucester County </td>
-   <td style="text-align:center;"> 98 + Newer 	 30.0%
+   <td style="text-align:center;"> 98 + Newer 	 30.0%
 97 + Older 	 0.0% </td>
    <td style="text-align:center;"> 2.95 </td>
-   <td style="text-align:center;"> 98 + Newer 	 30.0%
+   <td style="text-align:center;"> 98 + Newer 	 30.0%
 97 + older 	 10.0% </td>
    <td style="text-align:center;"> 2.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -6833,64 +6833,64 @@ Schedule as Above </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Goochland County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.95 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.95 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.95 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Grayson County </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 70.0%
-3 	 65.0%
-4 	 60.0%
-5 	 55.0%
-6 	 50.0%
-7 	 45.0%
-8 	 40.0%
-9 	 35.0%
-10 	 30.0%
-11 	 25.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 70.0%
+3 	 65.0%
+4 	 60.0%
+5 	 55.0%
+6 	 50.0%
+7 	 45.0%
+8 	 40.0%
+9 	 35.0%
+10 	 30.0%
+11 	 25.0%
 12 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 70.0%
-3 	 65.0%
-4 	 60.0%
-5 	 55.0%
-6 	 50.0%
-7 	 45.0%
-8 	 40.0%
-9 	 35.0%
-10 	 30.0%
-11 	 25.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 70.0%
+3 	 65.0%
+4 	 60.0%
+5 	 55.0%
+6 	 50.0%
+7 	 45.0%
+8 	 40.0%
+9 	 35.0%
+10 	 30.0%
+11 	 25.0%
 12 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
-   <td style="text-align:center;"> 1 	 75.0%
-2 	 70.0%
-3 	 65.0%
-4 	 60.0%
-5 	 55.0%
-6 	 50.0%
-7 	 45.0%
-8 	 40.0%
-9 	 35.0%
-10 	 30.0%
-11 	 25.0%
+   <td style="text-align:center;"> 1 	 75.0%
+2 	 70.0%
+3 	 65.0%
+4 	 60.0%
+5 	 55.0%
+6 	 50.0%
+7 	 45.0%
+8 	 40.0%
+9 	 35.0%
+10 	 30.0%
+11 	 25.0%
 12 	 20.0% </td>
    <td style="text-align:center;"> 1.75 </td>
   </tr>
@@ -6898,12 +6898,12 @@ Schedule as Above </td>
    <td style="text-align:left;"> Greene County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -6913,18 +6913,18 @@ Schedule as Above </td>
    <td style="text-align:left;"> Greensville County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 37.5%
-5 	 35.0%
-6 	 32.5%
-7 	 30.0%
-8 	 27.5%
-9 	 25.0%
-10 	 22.5%
-11 	 20.0%
-12 	 17.5%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 37.5%
+5 	 35.0%
+6 	 32.5%
+7 	 30.0%
+8 	 27.5%
+9 	 25.0%
+10 	 22.5%
+11 	 20.0%
+12 	 17.5%
 13+ 	 15.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -6932,103 +6932,103 @@ Schedule as Above </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Halifax County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 3.85 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 3.85 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 3.85 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hanover County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.57 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 3.57 </td>
-   <td style="text-align:center;"> 1 	 66.0%
-2 	 55.0%
-3 	 35.0%
-4 	 24.0%
-5 	 5.0%
+   <td style="text-align:center;"> 1 	 66.0%
+2 	 55.0%
+3 	 35.0%
+4 	 24.0%
+5 	 5.0%
 6+ 	 1.0% </td>
    <td style="text-align:center;"> 3.57 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henrico County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 73.0%
-3 	 63.0%
-4 	 54.0%
-5 	 46.0%
-6 	 39.0%
-7 	 32.0%
-8 	 26.0%
-9 	 22.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 73.0%
+3 	 63.0%
+4 	 54.0%
+5 	 46.0%
+6 	 39.0%
+7 	 32.0%
+8 	 26.0%
+9 	 22.0%
 10+ 	  12.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 73.0%
-3 	 63.0%
-4 	 54.0%
-5 	 46.0%
-6 	 39.0%
-7 	 32.0%
-8 	 26.0%
-9 	 22.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 73.0%
+3 	 63.0%
+4 	 54.0%
+5 	 46.0%
+6 	 39.0%
+7 	 32.0%
+8 	 26.0%
+9 	 22.0%
 10+ 	  12.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 73.0%
-3 	 63.0%
-4 	 54.0%
-5 	 46.0%
-6 	 39.0%
-7 	 33.0%
-8 	 27.0%
-9 	 23.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 73.0%
+3 	 63.0%
+4 	 54.0%
+5 	 46.0%
+6 	 39.0%
+7 	 33.0%
+8 	 27.0%
+9 	 23.0%
 10+ 	  12.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henry County </td>
-   <td style="text-align:center;"> 1	 97.0%	
-2	 87.0%
-3	 77.0%
-4	 67.0%		
+   <td style="text-align:center;"> 1	 97.0%	
+2	 87.0%
+3	 77.0%
+4	 67.0%		
 5	 57.0% </td>
    <td style="text-align:center;"> 1.55 </td>
-   <td style="text-align:center;"> 1	 97.0%		
-2	 87.0%
-3	 77.0%
-4	 67.0%
+   <td style="text-align:center;"> 1	 97.0%		
+2	 87.0%
+3	 77.0%
+4	 67.0%
 5	 57.0% </td>
    <td style="text-align:center;"> 1.55 </td>
    <td style="text-align:center;"> -- </td>
@@ -7038,7 +7038,7 @@ Schedule as Above </td>
    <td style="text-align:left;"> Highland County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 40% first year with 5% 
+   <td style="text-align:center;"> 40% first year with 5% 
 deprection </td>
    <td style="text-align:center;"> 2.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -7066,8 +7066,8 @@ deprection </td>
    <td style="text-align:left;"> King &amp; Queen County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 25.0%
-less 10% each yr. 
+   <td style="text-align:center;"> 1 	 25.0%
+less 10% each yr. 
 thereafter. </td>
    <td style="text-align:center;"> 3.94 </td>
    <td style="text-align:center;"> -- </td>
@@ -7075,49 +7075,49 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King George County </td>
-   <td style="text-align:center;"> Year Purchased	  Percent of Value
-
-2018 	 	   30.0%
-2017	 	   25.0%
-2016	 	   20.0%
-2015 		   15.0%
+   <td style="text-align:center;"> Year Purchased	  Percent of Value
+
+2018 	 	   30.0%
+2017	 	   25.0%
+2016	 	   20.0%
+2015 		   15.0%
 2014 and older	   10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year Purchased	  Percent of Value
-
-2018 	 	   30.0%
-2017	 	   25.0%
-2016	 	   20.0%
-2015 		   15.0%
+   <td style="text-align:center;"> Year Purchased	  Percent of Value
+
+2018 	 	   30.0%
+2017	 	   25.0%
+2016	 	   20.0%
+2015 		   15.0%
 2014 and older	   10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year Purchased	  Percent of Value
-
-2018 	 	   30.0%
-2017	 	   25.0%
-2016	 	   20.0%
-2015 		   15.0%
+   <td style="text-align:center;"> Year Purchased	  Percent of Value
+
+2018 	 	   30.0%
+2017	 	   25.0%
+2016	 	   20.0%
+2015 		   15.0%
 2014 and older	   10.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King William County </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 per 100 </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 per 100 </td>
-   <td style="text-align:center;"> 1 	 80.0% of cost
-2 	 60.0% of cost
-3 	 40.0% of cost
-4 	 20.0% of cost
+   <td style="text-align:center;"> 1 	 80.0% of cost
+2 	 60.0% of cost
+3 	 40.0% of cost
+4 	 20.0% of cost
 5+ 	 10.0% of cost </td>
    <td style="text-align:center;"> 3.65 per 100 </td>
   </tr>
@@ -7134,14 +7134,14 @@ thereafter. </td>
    <td style="text-align:left;"> Lee County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
-8+	 20.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
+8+	 20.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -7149,22 +7149,22 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Loudoun County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 2.75 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 40.0%
-3 	 30.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 40.0%
+3 	 30.0%
+4 	 20.0%
 5 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
   </tr>
@@ -7172,13 +7172,13 @@ thereafter. </td>
    <td style="text-align:left;"> Louisa County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 30.0%
-3 	 40.0%
-4 	 50.0%
-5 	 60.0%
-6 	 70.0%
-7 	 80.0%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 30.0%
+3 	 40.0%
+4 	 50.0%
+5 	 60.0%
+6 	 70.0%
+7 	 80.0%
 8+ (not less than 10%) 	 90.0% </td>
    <td style="text-align:center;"> 1.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -7188,26 +7188,26 @@ thereafter. </td>
    <td style="text-align:left;"> Lunenburg County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> n/a </td>
-   <td style="text-align:center;"> 1 	 32.5%
-2 	 32.5%
-3 	 32.5%
-4 	 32.5%
-5 	 32.5%
-6 	 27.5%
-7 	 27.5%
-8 	 27.5%
-9 	 27.5%
-10 	 27.5%
-11 	 22.5%
-12 	 22.5%
-13 	 22.5%
-14 	 22.5%
-15 	 22.5%
-16 	 17.5%
-17 	 17.5%
-18 	 17.5%
-19 	 17.5%
-20 	 17.5%
+   <td style="text-align:center;"> 1 	 32.5%
+2 	 32.5%
+3 	 32.5%
+4 	 32.5%
+5 	 32.5%
+6 	 27.5%
+7 	 27.5%
+8 	 27.5%
+9 	 27.5%
+10 	 27.5%
+11 	 22.5%
+12 	 22.5%
+13 	 22.5%
+14 	 22.5%
+15 	 22.5%
+16 	 17.5%
+17 	 17.5%
+18 	 17.5%
+19 	 17.5%
+20 	 17.5%
 21+ 	 12.5% </td>
    <td style="text-align:center;"> 3.80 </td>
    <td style="text-align:center;"> -- </td>
@@ -7224,13 +7224,13 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Mathews County </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
-   <td style="text-align:center;"> 30% of oc first 10 years 
+   <td style="text-align:center;"> 30% of oc first 10 years 
 10% of oc thereafter </td>
    <td style="text-align:center;"> 2.14 </td>
   </tr>
@@ -7238,12 +7238,12 @@ thereafter. </td>
    <td style="text-align:left;"> Mecklenburg County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 15.0% </td>
    <td style="text-align:center;"> 3.36 </td>
    <td style="text-align:center;"> -- </td>
@@ -7260,18 +7260,18 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Montgomery County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+	 30.0% </td>
    <td style="text-align:center;"> 2.55 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3        60.0%
-4        50.0%	
-5  	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3        60.0%
+4        50.0%	
+5  	 40.0%
 6+       30.0% </td>
    <td style="text-align:center;"> 2.55 </td>
    <td style="text-align:center;"> -- </td>
@@ -7288,33 +7288,33 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> New Kent County </td>
-   <td style="text-align:center;"> 1-3/ 	55%
-4-6/ 	30%
+   <td style="text-align:center;"> 1-3/ 	55%
+4-6/ 	30%
 7&amp;older/10% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1-3/	55%
-4-6/	30%
+   <td style="text-align:center;"> 1-3/	55%
+4-6/	30%
 7&amp;older/10% </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1-3/ 	55%
-4-6/ 	30%
+   <td style="text-align:center;"> 1-3/ 	55%
+4-6/ 	30%
 7&amp;older/10% </td>
    <td style="text-align:center;"> 3.75 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Northampton County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 25.0%
 6+ (Min. 200) 	 10.0% </td>
    <td style="text-align:center;"> 3.90 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 25.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 25.0%
 6+ (Min 200) 	 10.0% </td>
    <td style="text-align:center;"> 3.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -7340,28 +7340,28 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Orange County </td>
-   <td style="text-align:center;"> 1 	 65%
-2 	 60%
-3 	 55%
-4 	 50%
-5 	 45%
-6 	 40%
-7 	 37%
-8 	 34%
-9 	 31%
-10 	 28%
+   <td style="text-align:center;"> 1 	 65%
+2 	 60%
+3 	 55%
+4 	 50%
+5 	 45%
+6 	 40%
+7 	 37%
+8 	 34%
+9 	 31%
+10 	 28%
 11+ 	 25% </td>
    <td style="text-align:center;"> 2.20 </td>
-   <td style="text-align:center;"> 1 	 65%
-2 	 60%
-3 	 55%
-4 	 50%
-5 	 45%
-6 	 40%
-7 	 37%
-8 	 34%
-9 	 31%
-10 	 28%
+   <td style="text-align:center;"> 1 	 65%
+2 	 60%
+3 	 55%
+4 	 50%
+5 	 45%
+6 	 40%
+7 	 37%
+8 	 34%
+9 	 31%
+10 	 28%
 11+ 	 25% </td>
    <td style="text-align:center;"> 2.20 </td>
    <td style="text-align:center;"> -- </td>
@@ -7380,19 +7380,19 @@ thereafter. </td>
    <td style="text-align:left;"> Patrick County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 95.0%
-2 	 85.5%
-3 	 77.0%
-4 	 69.3%
-5 	 62.0%
-6 	 56.0%
-7 	 50.5%
-8 	 45.4%
-9 	 41.0%
-10 	 36.8%
-11 	 33.0%
-12 	 29.8%
-13 	 26.8%
+   <td style="text-align:center;"> 1 	 95.0%
+2 	 85.5%
+3 	 77.0%
+4 	 69.3%
+5 	 62.0%
+6 	 56.0%
+7 	 50.5%
+8 	 45.4%
+9 	 41.0%
+10 	 36.8%
+11 	 33.0%
+12 	 29.8%
+13 	 26.8%
 14+ 	 25.0% </td>
    <td style="text-align:center;"> 1.71 </td>
    <td style="text-align:center;"> -- </td>
@@ -7400,61 +7400,61 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pittsylvania County </td>
-   <td style="text-align:center;"> 1	30.0%
-2	27.5%
-3	25.0%
-4	23.5%
-5	20.0%
-6	17.5%
-7	15.0%
-8	13.5%
-9	10.0%
-10	 7.5%
+   <td style="text-align:center;"> 1	30.0%
+2	27.5%
+3	25.0%
+4	23.5%
+5	20.0%
+6	17.5%
+7	15.0%
+8	13.5%
+9	10.0%
+10	 7.5%
 11+	 5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 27.5%
-3 	 25.0%
-4 	 23.5%
-5 	 20.0%
-6 	 17.5%
-7	 15.0%
-8	 13.5%
-9	 10.0%
-10	  7.5%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 27.5%
+3 	 25.0%
+4 	 23.5%
+5 	 20.0%
+6 	 17.5%
+7	 15.0%
+8	 13.5%
+9	 10.0%
+10	  7.5%
 11+	  5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> 1	30.0%
-2	27.5%
-3	25.0%
-4	23.5%
-5	20.0%
-6	17.5%
-7	15.0%
-8	13.5%
-9	10.0%
-10	 7.5%
+   <td style="text-align:center;"> 1	30.0%
+2	27.5%
+3	25.0%
+4	23.5%
+5	20.0%
+6	17.5%
+7	15.0%
+8	13.5%
+9	10.0%
+10	 7.5%
 11+	 5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Powhatan County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
   </tr>
@@ -7469,16 +7469,16 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Prince George County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> -- </td>
@@ -7486,24 +7486,24 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Prince William County </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6 	 35.0%
-7 	 25.0%
-8 	 15.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6 	 35.0%
+7 	 25.0%
+8 	 15.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6 	 35.0%
-7 	 25.0%
-8 	 15.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6 	 35.0%
+7 	 25.0%
+8 	 15.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 3.7 </td>
    <td style="text-align:center;"> -- </td>
@@ -7511,16 +7511,16 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pulaski County </td>
-   <td style="text-align:center;"> New to 5 years 	 60.0%
-6 to 10 years 	 40.0%
+   <td style="text-align:center;"> New to 5 years 	 60.0%
+6 to 10 years 	 40.0%
 11+ years 	 20.0% </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 1 to 5 	 60.0%
-6 to 10  40.0%
+   <td style="text-align:center;"> 1 to 5 	 60.0%
+6 to 10  40.0%
 11+ 	 20.0% </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 1 to 5 years  60%	
-6 to 10 years 40%
+   <td style="text-align:center;"> 1 to 5 years  60%	
+6 to 10 years 40%
 11+ years 20% </td>
    <td style="text-align:center;"> 2.35 </td>
   </tr>
@@ -7537,13 +7537,13 @@ thereafter. </td>
    <td style="text-align:left;"> Richmond County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 40. 	 
-2previous year value reduced by 10%
-
-3previous year value reduced by 10%
- 
-4previous year value reduced by 10%
-
+   <td style="text-align:center;"> 1 	 40. 	 
+2previous year value reduced by 10%
+
+3previous year value reduced by 10%
+ 
+4previous year value reduced by 10%
+
 5 Min. 100 	  	 0.0% </td>
    <td style="text-align:center;"> 3.75 </td>
    <td style="text-align:center;"> -- </td>
@@ -7553,10 +7553,10 @@ thereafter. </td>
    <td style="text-align:left;"> Roanoke County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ (Min. 100) 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -7573,22 +7573,22 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Rockingham County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8 	 20.0% </td>
    <td style="text-align:center;"> 3.00 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8 	 20.0% </td>
    <td style="text-align:center;"> 3.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -7598,21 +7598,21 @@ thereafter. </td>
    <td style="text-align:left;"> Russell County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 0 	 90.0%
-1 	 90.0%
-2 	 80.0%
-3 	 80.0%
-4 	 70.0%
-5 	 70.0%
-6 	 60.0%
-7 	 60.0%
-8 	 50.0%
-9 	 50.0%
-10 	 50.0%
-11 	 40.0%
-12 	 40.0%
-13 	 40.0%
-14 	 40.0%
+   <td style="text-align:center;"> 0 	 90.0%
+1 	 90.0%
+2 	 80.0%
+3 	 80.0%
+4 	 70.0%
+5 	 70.0%
+6 	 60.0%
+7 	 60.0%
+8 	 50.0%
+9 	 50.0%
+10 	 50.0%
+11 	 40.0%
+12 	 40.0%
+13 	 40.0%
+14 	 40.0%
 15+ 	 30.0% </td>
    <td style="text-align:center;"> 1.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -7620,20 +7620,20 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Scott County </td>
-   <td style="text-align:center;"> current (new) 	 90.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> current (new) 	 90.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
-   <td style="text-align:center;"> current (new) 	 90.0%
-1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> current (new) 	 90.0%
+1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
    <td style="text-align:center;"> -- </td>
@@ -7641,21 +7641,21 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Shenandoah County </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 3.15 </td>
-   <td style="text-align:center;"> 1	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 3.15 </td>
    <td style="text-align:center;"> -- </td>
@@ -7663,31 +7663,31 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Smyth County </td>
-   <td style="text-align:center;"> 1     90%
-2     80%
-3     70%
-4     60%
-5     50%
-6     40%
-7     30%
+   <td style="text-align:center;"> 1     90%
+2     80%
+3     70%
+4     60%
+5     50%
+6     40%
+7     30%
 8+    20% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1      90%
-2      80%
-3      70%
-4      60%
-5      50%
-6      40%
-7      30%
+   <td style="text-align:center;"> 1      90%
+2      80%
+3      70%
+4      60%
+5      50%
+6      40%
+7      30%
 8+     20% </td>
    <td style="text-align:center;"> 2.30 </td>
   </tr>
@@ -7695,13 +7695,13 @@ thereafter. </td>
    <td style="text-align:left;"> Southampton County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -7709,16 +7709,16 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Spotsylvania County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 30.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 6.73 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 30.0%
 5 	 20.0% </td>
    <td style="text-align:center;"> 5.95 </td>
    <td style="text-align:center;"> -- </td>
@@ -7726,43 +7726,43 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Stafford County </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
-   <td style="text-align:center;"> 1 	 35.0%
-2 	 30.0%
-3 	 25.0%
-4 	 20.0%
+   <td style="text-align:center;"> 1 	 35.0%
+2 	 30.0%
+3 	 25.0%
+4 	 20.0%
 5 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Surry County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.0 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.0 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5	 20.0% </td>
    <td style="text-align:center;"> 4.0 </td>
   </tr>
@@ -7777,76 +7777,76 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Tazewell County </td>
-   <td style="text-align:center;"> 1	80.0%
-2	70.0%
-3	60.0%
-4	50.0%
-5	40.0%
-6	30.0%
+   <td style="text-align:center;"> 1	80.0%
+2	70.0%
+3	60.0%
+4	50.0%
+5	40.0%
+6	30.0%
 7+	20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	80.0%
-2	70.0%
-3	60.0%
-4	50.0%
-5	40.0%
-6	30.0%
+   <td style="text-align:center;"> 1	80.0%
+2	70.0%
+3	60.0%
+4	50.0%
+5	40.0%
+6	30.0%
 7+	20.0% </td>
    <td style="text-align:center;"> 2.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Warren County </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Washington County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 1.70 </td>
    <td style="text-align:center;"> -- </td>
@@ -7872,25 +7872,25 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wythe County </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 2.32 </td>
   </tr>
@@ -7905,28 +7905,28 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Alexandria City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.75 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.75 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.75 </td>
   </tr>
@@ -7941,58 +7941,58 @@ thereafter. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buena Vista City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Charlottesville City </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 25.0%
-2 	 22.5%
-3 	 20.0%
-4 	 17.5%
-5 	 15.0%
-6 	 12.5%
+   <td style="text-align:center;"> 1 	 25.0%
+2 	 22.5%
+3 	 20.0%
+4 	 17.5%
+5 	 15.0%
+6 	 12.5%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 4.20 </td>
   </tr>
@@ -8009,10 +8009,10 @@ thereafter. </td>
    <td style="text-align:left;"> Colonial Heights City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -8031,13 +8031,13 @@ thereafter. </td>
    <td style="text-align:left;"> Danville City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
-   <td style="text-align:center;"> 3.00 (3.5
-effective 
+   <td style="text-align:center;"> 3.00 (3.5
+effective 
 01/01/2018) </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
@@ -8046,12 +8046,12 @@ effective
    <td style="text-align:left;"> Emporia City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 45.0%
-3 	 40.0%
-4 	 35.0%
-5 	 30.0%
-6 	 25.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 45.0%
+3 	 40.0%
+4 	 35.0%
+5 	 30.0%
+6 	 25.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -8061,49 +8061,49 @@ effective
    <td style="text-align:left;"> Fairfax City </td>
    <td style="text-align:center;"> N/A 	 0.0% </td>
    <td style="text-align:center;"> 4.13 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 4.13 </td>
-   <td style="text-align:center;"> 1	80%
-2	70%
-3	60%
-4	50%
-5	40%	
-6	30%
-7	20%	
+   <td style="text-align:center;"> 1	80%
+2	70%
+3	60%
+4	50%
+5	40%	
+6	30%
+7	20%	
 8	10% </td>
    <td style="text-align:center;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Falls Church City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.84 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.84 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 4.84 </td>
   </tr>
@@ -8118,20 +8118,20 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Fredericksburg City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 45.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 45.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.40 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 45.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 45.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.40 </td>
    <td style="text-align:center;"> -- </td>
@@ -8157,49 +8157,49 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Harrisonburg City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 2.12 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 2.12 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 2.12 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hopewell City </td>
-   <td style="text-align:center;"> New 60%
-1   50%
-2   40%
-3   30%
+   <td style="text-align:center;"> New 60%
+1   50%
+2   40%
+3   30%
 4   20% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> New       60.0%
-1 	 50.0%
-2 	 40.0%
-3 	 30.0%
+   <td style="text-align:center;"> New       60.0%
+1 	 50.0%
+2 	 40.0%
+3 	 30.0%
 4 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> New  60%
-1    50%
-2    40%
-3    30%
+   <td style="text-align:center;"> New  60%
+1    50%
+2    40%
+3    30%
 4    20% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -8207,7 +8207,7 @@ effective
    <td style="text-align:left;"> Lexington City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
+   <td style="text-align:center;"> 25% of OC when item is not fully depreciated
 10% of OC when item is fully depreciated </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> -- </td>
@@ -8215,52 +8215,52 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Lynchburg City </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 1 	 30.0%
-2 	 30.0%
-3 	 30.0%
-4 	 30.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 30.0%
+2 	 30.0%
+3 	 30.0%
+4 	 30.0%
+5 	 30.0%
 6+ 	 25.35% </td>
    <td style="text-align:center;"> 3.80 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Manassas City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
 7+ 	 20.0% </td>
    <td style="text-align:center;"> 3.60 </td>
   </tr>
@@ -8268,11 +8268,11 @@ effective
    <td style="text-align:left;"> Manassas Park City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -8280,31 +8280,31 @@ effective
   </tr>
   <tr>
    <td style="text-align:left;"> Martinsville City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 25.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 25.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 25.0% </td>
    <td style="text-align:center;"> 2.30 </td>
   </tr>
@@ -8330,7 +8330,7 @@ effective
    <td style="text-align:left;"> Norton City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Any age 	 
+   <td style="text-align:center;"> Any age 	 
 Value @ 10% of Cost </td>
    <td style="text-align:center;"> 2.05 </td>
    <td style="text-align:center;"> -- </td>
@@ -8340,10 +8340,10 @@ Value @ 10% of Cost </td>
    <td style="text-align:left;"> Petersburg City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 4.90 </td>
    <td style="text-align:center;"> -- </td>
@@ -8360,10 +8360,10 @@ Value @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Portsmouth City </td>
-   <td style="text-align:center;"> 1985-current 	 50.0%
+   <td style="text-align:center;"> 1985-current 	 50.0%
 1984-older 	 25.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1985-current 	 50.0%
+   <td style="text-align:center;"> 1985-current 	 50.0%
 1984-older 	 25.0% </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -8382,11 +8382,11 @@ Value @ 10% of Cost </td>
    <td style="text-align:left;"> Richmond City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 3.70 </td>
    <td style="text-align:center;"> -- </td>
@@ -8394,46 +8394,46 @@ Value @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Roanoke City </td>
-   <td style="text-align:center;"> 60.0%
-50.0%
-40.0%
-30.0%
+   <td style="text-align:center;"> 60.0%
+50.0%
+40.0%
+30.0%
 20.0% </td>
    <td style="text-align:center;"> 3.45 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 3.45 </td>
-   <td style="text-align:center;"> 60%
-50%
-40%
-30%
+   <td style="text-align:center;"> 60%
+50%
+40%
+30%
 20% </td>
    <td style="text-align:center;"> 3.45 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6 or older 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6 and older 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
 6+ 	 25.0% </td>
    <td style="text-align:center;"> 3.25 </td>
   </tr>
@@ -8448,7 +8448,7 @@ Value @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Suffolk City </td>
-   <td style="text-align:center;"> 1-5 yrs		20% OC
+   <td style="text-align:center;"> 1-5 yrs		20% OC
 6 yrs &amp; older	10% OC </td>
    <td style="text-align:center;"> 3.15 </td>
    <td style="text-align:center;"> Any age 	 20% OC </td>
@@ -8467,13 +8467,13 @@ Value @ 10% of Cost </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Waynesboro City </td>
-   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
 to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% of given book value each year 	 0.0%
 to min. 20% of the OC of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 40% if given book value each year 	 0.0%
+   <td style="text-align:center;"> 40% if given book value each year 	 0.0%
 to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
@@ -8488,25 +8488,25 @@ to min. 20% of the original cost of item 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Winchester City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 4.50 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
 6+ 	 30.0% </td>
    <td style="text-align:center;"> 4.50 </td>
   </tr>
@@ -8541,7 +8541,7 @@ to min. 20% of the original cost of item 	 0.0% </td>
    <td style="text-align:left;"> Altavista Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Years 1 - 10 25%
+   <td style="text-align:center;"> Years 1 - 10 25%
 Years 11 + 15% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -8576,18 +8576,18 @@ Years 11 + 15% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Ashland Town </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.77 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.77 </td>
    <td style="text-align:center;"> -- </td>
@@ -8822,7 +8822,7 @@ Years 11 + 15% </td>
    <td style="text-align:left;"> Chilhowie Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0.20 (5.00 minimum) </td>
-   <td style="text-align:center;"> Each year based 	 10.0%
+   <td style="text-align:center;"> Each year based 	 10.0%
 on original cost 	 0.0% </td>
    <td style="text-align:center;"> 0.30 (5.00 minimum) </td>
    <td style="text-align:center;"> N/A 	 0.0% </td>
@@ -8895,7 +8895,7 @@ on original cost 	 0.0% </td>
    <td style="text-align:left;"> Clintwood Town </td>
    <td style="text-align:center;"> Cost with reduced rate per age 	 0.0% </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Original cost with percentage 	 0.0%
+   <td style="text-align:center;"> Original cost with percentage 	 0.0%
 reduction per age 	 0.0% </td>
    <td style="text-align:center;"> 0.30 </td>
    <td style="text-align:center;"> -- </td>
@@ -8939,16 +8939,16 @@ reduction per age 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Culpeper Town </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
 5+ 	 30.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
 5+ 	 30.0% </td>
    <td style="text-align:center;"> 1.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -9199,14 +9199,14 @@ reduction per age 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Haymarket Town </td>
-   <td style="text-align:center;"> 1 	 85.0%
-2 	 75.0%
-3 	 65.0%
-4 	 55.0%
-5 	 45.0%
-6 	 35.0%
-7 	 25.0%
-8 	 15.0%
+   <td style="text-align:center;"> 1 	 85.0%
+2 	 75.0%
+3 	 65.0%
+4 	 55.0%
+5 	 45.0%
+6 	 35.0%
+7 	 25.0%
+8 	 15.0%
 9+ 	 10.0% </td>
    <td style="text-align:center;"> 0.60 </td>
    <td style="text-align:center;"> -- </td>
@@ -9243,24 +9243,24 @@ reduction per age 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hillsville Town </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 85.0%
-3 	 80.0%
-4 	 70.0%
-5 	 60.0%
-6 	 50.0%
-7 	 40.0%
-8 	 35.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 85.0%
+3 	 80.0%
+4 	 70.0%
+5 	 60.0%
+6 	 50.0%
+7 	 40.0%
+8 	 35.0%
 9+ 	 30.0% </td>
    <td style="text-align:center;"> 0.72 </td>
    <td style="text-align:center;"> -- </td>
@@ -9423,9 +9423,9 @@ reduction per age 	 0.0% </td>
    <td style="text-align:left;"> Luray Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 72.0%
-10% each year thereafter 	 0.0%
-
+   <td style="text-align:center;"> 1 	 72.0%
+10% each year thereafter 	 0.0%
+
 (Page Co. Info) </td>
    <td style="text-align:center;"> 0.62 </td>
    <td style="text-align:center;"> -- </td>
@@ -9811,13 +9811,13 @@ reduction per age 	 0.0% </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Strasburg Town </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -9904,16 +9904,16 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Vinton Town </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 50.0%
-3 	 40.0%
-4 	 30.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 50.0%
+3 	 40.0%
+4 	 30.0%
 5+ 	 20.0% </td>
    <td style="text-align:center;"> 1.00/100.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -9948,28 +9948,28 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Warrenton Town </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1 	 70.0%
-2 	 60.0%
-3 	 50.0%
-4 	 40.0%
-5 	 30.0%
-6 	 20.0%
+   <td style="text-align:center;"> 1 	 70.0%
+2 	 60.0%
+3 	 50.0%
+4 	 40.0%
+5 	 30.0%
+6 	 20.0%
 7+ 	 10.0% </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -10047,11 +10047,11 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Wytheville Town </td>
-   <td style="text-align:center;"> 1 	 50.0%
-2 	 50.0%
-3 	 50.0%
-4 	 50.0%
-5 	 50.0%
+   <td style="text-align:center;"> 1 	 50.0%
+2 	 50.0%
+3 	 50.0%
+4 	 50.0%
+5 	 50.0%
 6+ 	 20.0% </td>
    <td style="text-align:center;"> 0.28 </td>
    <td style="text-align:center;"> -- </td>
@@ -10089,16 +10089,16 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Albemarle County </td>
-   <td style="text-align:center;"> 1st year-90% of cost 90% of
-assessed value thereafter;
+   <td style="text-align:center;"> 1st year-90% of cost 90% of
+assessed value thereafter;
 minimum 200 </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1st year-90% of cost 90% of
-assessed value thereafter;
+   <td style="text-align:center;"> 1st year-90% of cost 90% of
+assessed value thereafter;
 minimum 200 </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1st year-12.5% of cost 90% of
-assessed value thereafter;
+   <td style="text-align:center;"> 1st year-12.5% of cost 90% of
+assessed value thereafter;
 minimum 1000 </td>
    <td style="text-align:center;"> 4.28 </td>
   </tr>
@@ -10106,23 +10106,23 @@ minimum 1000 </td>
    <td style="text-align:left;"> Alleghany County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1st year	40%
-2nd year	40%
-3rd year	36%
-4th year	32%
-5th year	28%
-6th year	24%
-7th year	20%
-8th year	20%
-9th year	20%
-10th year	20%
-11th year	20%	
-12th year	20%
-13th year	20%
-14th year	20%
-15th year	20%
-16th year	20%
-17th year	20%
+   <td style="text-align:center;"> 1st year	40%
+2nd year	40%
+3rd year	36%
+4th year	32%
+5th year	28%
+6th year	24%
+7th year	20%
+8th year	20%
+9th year	20%
+10th year	20%
+11th year	20%	
+12th year	20%
+13th year	20%
+14th year	20%
+15th year	20%
+16th year	20%
+17th year	20%
 18th yea </td>
    <td style="text-align:center;"> 2.98 </td>
    <td style="text-align:center;"> 24% of Cost </td>
@@ -10130,25 +10130,25 @@ minimum 1000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Amelia County </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
   </tr>
@@ -10176,7 +10176,7 @@ minimum 1000 </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> NADA - low value or % of original cost </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> Aircraft Bluebook Price Digest
+   <td style="text-align:center;"> Aircraft Bluebook Price Digest
 We have no aircraft in Arlington Co. </td>
    <td style="text-align:center;"> 5.00 </td>
   </tr>
@@ -10209,10 +10209,10 @@ We have no aircraft in Arlington Co. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bland County </td>
-   <td style="text-align:center;"> Vessel Valuation Services
+   <td style="text-align:center;"> Vessel Valuation Services
 % of value </td>
    <td style="text-align:center;"> 2.29 </td>
-   <td style="text-align:center;"> Vessel Valuation Services
+   <td style="text-align:center;"> Vessel Valuation Services
 % of Value </td>
    <td style="text-align:center;"> 2.29 </td>
    <td style="text-align:center;"> % of Cost </td>
@@ -10247,45 +10247,45 @@ We have no aircraft in Arlington Co. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buckingham County </td>
-   <td style="text-align:center;"> NADA
-IF NOT AVAILABLE IN NADA
+   <td style="text-align:center;"> NADA
+IF NOT AVAILABLE IN NADA
 1st:80; 90% thereafter </td>
    <td style="text-align:center;"> 4.05 </td>
-   <td style="text-align:center;"> NADA
-IF NOT AVAILABLE IN NADA
+   <td style="text-align:center;"> NADA
+IF NOT AVAILABLE IN NADA
 1st:80; 90% thereafter </td>
    <td style="text-align:center;"> 4.05 </td>
-   <td style="text-align:center;"> AIRCRAFT BLUEBOOK
-IF NOT AVAILABLE IN BOOK
+   <td style="text-align:center;"> AIRCRAFT BLUEBOOK
+IF NOT AVAILABLE IN BOOK
 1st:80; 90% thereafter </td>
    <td style="text-align:center;"> .55 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Campbell County </td>
-   <td style="text-align:center;"> 1yr:80% 
-2:70% 
-3:60% 
-4:50% 
-5:40% 
-6:30%  
-7-20:20%
+   <td style="text-align:center;"> 1yr:80% 
+2:70% 
+3:60% 
+4:50% 
+5:40% 
+6:30%  
+7-20:20%
 21+:10% </td>
    <td style="text-align:center;"> 4.40 &quot;Nominal&quot; </td>
-   <td style="text-align:center;"> 1yr:80% 
-2:70% 
-3:60% 
-4:50% 
-5:40% 
-6:30%  
-7-20:20%
+   <td style="text-align:center;"> 1yr:80% 
+2:70% 
+3:60% 
+4:50% 
+5:40% 
+6:30%  
+7-20:20%
 21+:10% </td>
    <td style="text-align:center;"> 4.40 &quot;Nominal&quot; </td>
-   <td style="text-align:center;"> Gross WT &lt;= 20000lbs: 
-1yr:13.91% 
-2:12.35% 
-3:10.82% 
-4:9.27% 
-5:7.73% 
+   <td style="text-align:center;"> Gross WT &lt;= 20000lbs: 
+1yr:13.91% 
+2:12.35% 
+3:10.82% 
+4:9.27% 
+5:7.73% 
 6:6.18% </td>
    <td style="text-align:center;"> 4.40 &quot;Nominal&quot; </td>
   </tr>
@@ -10295,38 +10295,38 @@ IF NOT AVAILABLE IN BOOK
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 100% ABOS WHOLESALE HIGH </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> 1	90%	
-2 	80%
-3 	70%
-4 	60%
-5 	50%
-6 	40%
-7 	30%
-8 	20%
+   <td style="text-align:center;"> 1	90%	
+2 	80%
+3 	70%
+4 	60%
+5 	50%
+6 	40%
+7 	30%
+8 	20%
 9+ 	10% </td>
    <td style="text-align:center;"> 3.80 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Carroll County </td>
-   <td style="text-align:center;"> 85%
-75%
-65%
-55%
-45%
-40%
-35%
+   <td style="text-align:center;"> 85%
+75%
+65%
+55%
+45%
+40%
+35%
 30% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 85%
-75%
-65%
-55%
-45%
-40%
+   <td style="text-align:center;"> 85%
+75%
+65%
+55%
+45%
+40%
 35% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 60%
-55%
+   <td style="text-align:center;"> 60%
+55%
 50% </td>
    <td style="text-align:center;"> 1.95 </td>
   </tr>
@@ -10359,26 +10359,26 @@ IF NOT AVAILABLE IN BOOK
   </tr>
   <tr>
    <td style="text-align:left;"> Clarke County </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value </td>
    <td style="text-align:center;"> 4.496 </td>
-   <td style="text-align:center;"> 1 yr. 75%
-2 yr. 60%
-3 yr. 50%
-4 yr. 40%
-5 yr. 30%
-6+ yr. 20% 
- then 75% of depreciated 
+   <td style="text-align:center;"> 1 yr. 75%
+2 yr. 60%
+3 yr. 50%
+4 yr. 40%
+5 yr. 30%
+6+ yr. 20% 
+ then 75% of depreciated 
 amount for tax value </td>
    <td style="text-align:center;"> 4.496 </td>
-   <td style="text-align:center;"> 100 % wholesale value from aircraft book
-
+   <td style="text-align:center;"> 100 % wholesale value from aircraft book
+
 0r 20% OC </td>
    <td style="text-align:center;"> 4.496 </td>
   </tr>
@@ -10514,10 +10514,10 @@ amount for tax value </td>
    <td style="text-align:center;"> 4.00 </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 1st yr : 60 
-2: 45 
-3: 37.5 
-4:30 
+   <td style="text-align:center;"> 1st yr : 60 
+2: 45 
+3: 37.5 
+4:30 
 5 &amp; prior: 20% </td>
    <td style="text-align:center;"> 4.00 </td>
   </tr>
@@ -10541,32 +10541,32 @@ amount for tax value </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Greensville County </td>
-   <td style="text-align:center;"> 1	50
-2	45
-3	40
-4	37.5
-5	35
-6	32.5
-7	30
-8	27.5
-9	25
-10	22.5
-11	20
-12	17.5
+   <td style="text-align:center;"> 1	50
+2	45
+3	40
+4	37.5
+5	35
+6	32.5
+7	30
+8	27.5
+9	25
+10	22.5
+11	20
+12	17.5
 13+yrs	15 </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1	50
-2	45
-3	40
-4	37.5
-5	35
-6	32.5
-7	30
-8	27.5
-9	25
-10	22.5
-11	20
-12	17.5
+   <td style="text-align:center;"> 1	50
+2	45
+3	40
+4	37.5
+5	35
+6	32.5
+7	30
+8	27.5
+9	25
+10	22.5
+11	20
+12	17.5
 13+yrs	15 </td>
    <td style="text-align:center;"> 5.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -10592,25 +10592,25 @@ amount for tax value </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Henrico County </td>
-   <td style="text-align:center;"> 1st:75
-2nd:60
-3rd:50
-4th:40
-5th:30
+   <td style="text-align:center;"> 1st:75
+2nd:60
+3rd:50
+4th:40
+5th:30
 6+yr:20 </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1st:75
-2nd:60
-3rd:50
-4th:40
-5th:30
+   <td style="text-align:center;"> 1st:75
+2nd:60
+3rd:50
+4th:40
+5th:30
 6+yr:20 </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1st:75
-2nd:60
-3rd:50
-4th:40
-5th:30
+   <td style="text-align:center;"> 1st:75
+2nd:60
+3rd:50
+4th:40
+5th:30
 6+yr:20 </td>
    <td style="text-align:center;"> .50 </td>
   </tr>
@@ -10620,7 +10620,7 @@ amount for tax value </td>
    <td style="text-align:center;"> 1.55 </td>
    <td style="text-align:center;"> NADA USED TRADE-IN VALUE </td>
    <td style="text-align:center;"> 1.55 </td>
-   <td style="text-align:center;"> AIRCRAFT BLUEBOOK
+   <td style="text-align:center;"> AIRCRAFT BLUEBOOK
 AVG WHOLESALE </td>
    <td style="text-align:center;"> 1.55 </td>
   </tr>
@@ -10628,8 +10628,8 @@ AVG WHOLESALE </td>
    <td style="text-align:left;"> Highland County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 40% first year with 5% 
-deprection until minimum
+   <td style="text-align:center;"> 40% first year with 5% 
+deprection until minimum
 value of 300 </td>
    <td style="text-align:center;"> 2.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -10641,7 +10641,7 @@ value of 300 </td>
    <td style="text-align:center;"> 0.32 </td>
    <td style="text-align:center;"> ABOS first year then 10% depreciation each year after </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 75% sale price or insurance value
+   <td style="text-align:center;"> 75% sale price or insurance value
 10% sliding scale following year </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
@@ -10665,19 +10665,19 @@ value of 300 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King George County </td>
-   <td style="text-align:center;"> If not available in the
-pricing guide start at
-80% of OC and decrease
+   <td style="text-align:center;"> If not available in the
+pricing guide start at
+80% of OC and decrease
 by 5% for each year. </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> If not available in the
-pricing guide start at
-80% of OC and decrease
+   <td style="text-align:center;"> If not available in the
+pricing guide start at
+80% of OC and decrease
 by 5% for each year. </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> If not available in the
-pricing guide start at
-80% of OC and decrease
+   <td style="text-align:center;"> If not available in the
+pricing guide start at
+80% of OC and decrease
 by 5% for each year. </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -10692,7 +10692,7 @@ by 5% for each year. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lancaster County </td>
-   <td style="text-align:center;"> If not in guide 
+   <td style="text-align:center;"> If not in guide 
 20% of original cost </td>
    <td style="text-align:center;"> .000000000000001 </td>
    <td style="text-align:center;"> 100% </td>
@@ -10711,21 +10711,21 @@ by 5% for each year. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Loudoun County </td>
-   <td style="text-align:center;"> 1yr:70%
-2yr:60%
-3yr:50%
-4yr:40%
-5yr:30%
+   <td style="text-align:center;"> 1yr:70%
+2yr:60%
+3yr:50%
+4yr:40%
+5yr:30%
 6yr.20% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1yr:70%
-2yr:60%
-3yr:50%
-4yr:40%
-5yr:30% 
+   <td style="text-align:center;"> 1yr:70%
+2yr:60%
+3yr:50%
+4yr:40%
+5yr:30% 
 6yr.20% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> Avg Wholesale Value 
+   <td style="text-align:center;"> Avg Wholesale Value 
 per Aircraft Bluebook </td>
    <td style="text-align:center;"> 0.01 </td>
   </tr>
@@ -10767,31 +10767,31 @@ per Aircraft Bluebook </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Mecklenburg County </td>
-   <td style="text-align:center;"> 1	80
-2	70
-3	60
-4	50
-5	40
-6	30
-7	25
+   <td style="text-align:center;"> 1	80
+2	70
+3	60
+4	50
+5	40
+6	30
+7	25
 8+	15 </td>
    <td style="text-align:center;"> 3.36 </td>
-   <td style="text-align:center;"> 1	80
-2	70
-3	60
-4	50
-5	40
-6	30
-7	25
+   <td style="text-align:center;"> 1	80
+2	70
+3	60
+4	50
+5	40
+6	30
+7	25
 8+	15 </td>
    <td style="text-align:center;"> 3.36 </td>
-   <td style="text-align:center;"> 1	80
-2	70
-3	60
-4	50
-5	40
-6	30
-7	25
+   <td style="text-align:center;"> 1	80
+2	70
+3	60
+4	50
+5	40
+6	30
+7	25
 8+	15 </td>
    <td style="text-align:center;"> 3.36 </td>
   </tr>
@@ -10824,10 +10824,10 @@ per Aircraft Bluebook </td>
   </tr>
   <tr>
    <td style="text-align:left;"> New Kent County </td>
-   <td style="text-align:center;"> 75% NADA Average Value
+   <td style="text-align:center;"> 75% NADA Average Value
 MARINE APPRAISAL GUIDE </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 75% NADA AVERAGE VALUE
+   <td style="text-align:center;"> 75% NADA AVERAGE VALUE
 MARINE APPRAISAL GUIDE </td>
    <td style="text-align:center;"> 3.75 </td>
    <td style="text-align:center;"> 100% Retail/Market </td>
@@ -10839,7 +10839,7 @@ MARINE APPRAISAL GUIDE </td>
    <td style="text-align:center;"> 0.99 </td>
    <td style="text-align:center;"> ABOS </td>
    <td style="text-align:center;"> 0.99 </td>
-   <td style="text-align:center;"> 70% 1st year
+   <td style="text-align:center;"> 70% 1st year
 -5% every year thereafter </td>
    <td style="text-align:center;"> 3.90 </td>
   </tr>
@@ -10881,23 +10881,23 @@ MARINE APPRAISAL GUIDE </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Patrick County </td>
-   <td style="text-align:center;"> 1st yr 95%
-85.5
-77
-69.362
-56.10
-50.5
-45.4
-40.90
-36.80
-33.10
-29.80
-26.80
+   <td style="text-align:center;"> 1st yr 95%
+85.5
+77
+69.362
+56.10
+50.5
+45.4
+40.90
+36.80
+33.10
+29.80
+26.80
 25 </td>
    <td style="text-align:center;"> 1.71 </td>
    <td style="text-align:center;"> same as boats over 5 tons </td>
    <td style="text-align:center;"> 1.71 </td>
-   <td style="text-align:center;"> same depreciation as 
+   <td style="text-align:center;"> same depreciation as 
 boats </td>
    <td style="text-align:center;"> 1.71 </td>
   </tr>
@@ -10907,17 +10907,17 @@ boats </td>
    <td style="text-align:center;"> 9.00 </td>
    <td style="text-align:center;"> 30% Used Wholesale </td>
    <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> Percentage of Cost
-1	30.0%
-2	27.5%
-3	25.0%
-4	23.5%
-5	20.0%
-6	17.5%
-7	15.0%
-8	13.5%
-9	10.0%
-10	 7.5%
+   <td style="text-align:center;"> Percentage of Cost
+1	30.0%
+2	27.5%
+3	25.0%
+4	23.5%
+5	20.0%
+6	17.5%
+7	15.0%
+8	13.5%
+9	10.0%
+10	 7.5%
 11+	 5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
   </tr>
@@ -10941,18 +10941,18 @@ boats </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Prince George County </td>
-   <td style="text-align:center;"> 60% 1st year 
-50%
-40%
-30%
+   <td style="text-align:center;"> 60% 1st year 
+50%
+40%
+30%
 20% </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> NADA </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 60% 1st year 
-50%
-40%
-30%
+   <td style="text-align:center;"> 60% 1st year 
+50%
+40%
+30%
 20% </td>
    <td style="text-align:center;"> 4.25 </td>
   </tr>
@@ -10971,12 +10971,12 @@ boats </td>
    <td style="text-align:center;"> 2.35 </td>
    <td style="text-align:center;"> ABOS Marine Blue Book </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 60% OC 1-2;
-55% OC 3-4;
-50% OC 5-6;
-45% OC 7-8;
-40% OC 9-10;
-35% OC 11-12;
+   <td style="text-align:center;"> 60% OC 1-2;
+55% OC 3-4;
+50% OC 5-6;
+45% OC 7-8;
+40% OC 9-10;
+35% OC 11-12;
 30% OC 13 years and older </td>
    <td style="text-align:center;"> 2.35 </td>
   </tr>
@@ -10995,12 +10995,12 @@ boats </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> NADA Marine Appraisal Guide </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 1yr:40%
-2previous year value reduced by 10%
-3previous year value reduced by 10%
-
-4previous year value reduced by 10%
-
+   <td style="text-align:center;"> 1yr:40%
+2previous year value reduced by 10%
+3previous year value reduced by 10%
+
+4previous year value reduced by 10%
+
 5 Min. 100 </td>
    <td style="text-align:center;"> 3.75 </td>
   </tr>
@@ -11008,8 +11008,8 @@ boats </td>
    <td style="text-align:left;"> Roanoke County </td>
    <td style="text-align:center;"> NADA </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> NADA
-IF NOT IN NADA BOOK 90%
+   <td style="text-align:center;"> NADA
+IF NOT IN NADA BOOK 90%
 OF COST </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> N /A </td>
@@ -11053,61 +11053,61 @@ OF COST </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Shenandoah County </td>
-   <td style="text-align:center;"> 1st:90
-2nd:80
-3rd:70
-4th:60
-5th:50
-6th:40
-7th:30
-8th:20
+   <td style="text-align:center;"> 1st:90
+2nd:80
+3rd:70
+4th:60
+5th:50
+6th:40
+7th:30
+8th:20
 9+yr:10 </td>
    <td style="text-align:center;"> 3.90 </td>
-   <td style="text-align:center;"> 1st:90
-2nd:80
-3rd:70
-4th:60
-5th:50
-6th:40
-7th:30
-8th:20
+   <td style="text-align:center;"> 1st:90
+2nd:80
+3rd:70
+4th:60
+5th:50
+6th:40
+7th:30
+8th:20
 9+yr:10 </td>
    <td style="text-align:center;"> 3.90 </td>
-   <td style="text-align:center;"> 1st:90
-2nd:80
-3rd:70
-4th:60
-5th:50
-6th:40
-7th:30
-8th:20
+   <td style="text-align:center;"> 1st:90
+2nd:80
+3rd:70
+4th:60
+5th:50
+6th:40
+7th:30
+8th:20
 9+yr:10 </td>
    <td style="text-align:center;"> 3.90 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Smyth County </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7 	 30.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7 	 30.0%
 8+ 	 20.0% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> 1	50.0%
-2	40.0%
-3	30.0%
-4	20.0%
+   <td style="text-align:center;"> 1	50.0%
+2	40.0%
+3	30.0%
+4	20.0%
 5	10.0% </td>
    <td style="text-align:center;"> 1.40 </td>
   </tr>
@@ -11122,22 +11122,22 @@ OF COST </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Spotsylvania County </td>
-   <td style="text-align:center;"> 1yr:50%
-2:45%
-3:40%
-4:30%
+   <td style="text-align:center;"> 1yr:50%
+2:45%
+3:40%
+4:30%
 5:20% </td>
    <td style="text-align:center;"> 6.73 </td>
-   <td style="text-align:center;"> 1yr:50%
-2:45%
-3:40%
-4:30%
+   <td style="text-align:center;"> 1yr:50%
+2:45%
+3:40%
+4:30%
 5:20% </td>
    <td style="text-align:center;"> 6.73 </td>
-   <td style="text-align:center;"> 1yr:50%
-2:45%
-3:40%
-4:30%
+   <td style="text-align:center;"> 1yr:50%
+2:45%
+3:40%
+4:30%
 5:20% </td>
    <td style="text-align:center;"> .000001 </td>
   </tr>
@@ -11170,28 +11170,28 @@ OF COST </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Tazewell County </td>
-   <td style="text-align:center;"> 1	75.0%
-2	65.0%
-3	55.0%
-4	45.0%
-5	35.0%
-6	25.0%
+   <td style="text-align:center;"> 1	75.0%
+2	65.0%
+3	55.0%
+4	45.0%
+5	35.0%
+6	25.0%
 7+	15.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	75.0%
-2	65.0%
-3	55.0%
-4	45.0%
-5	35.0%
-6	25.0%
+   <td style="text-align:center;"> 1	75.0%
+2	65.0%
+3	55.0%
+4	45.0%
+5	35.0%
+6	25.0%
 7+	15.0% </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	75.0%
-2	65.0%
-3	55.0%
-4	45.0%
-5	35.0%
-6	25.0%
+   <td style="text-align:center;"> 1	75.0%
+2	65.0%
+3	55.0%
+4	45.0%
+5	35.0%
+6	25.0%
 7+	15.0% </td>
    <td style="text-align:center;"> 0.50 </td>
   </tr>
@@ -11201,34 +11201,34 @@ OF COST </td>
    <td style="text-align:center;"> 4.00 </td>
    <td style="text-align:center;"> 100% w/motor of &gt; 5hp </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 100% Aircraft Blue Book
-wholesale amount
-
+   <td style="text-align:center;"> 100% Aircraft Blue Book
+wholesale amount
+
 Gliders - 500 </td>
    <td style="text-align:center;"> 0.75 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Washington County </td>
-   <td style="text-align:center;"> NADA/ BV
-Year:percent
-1:90
-2:80
-3:70
-4:60
-5:50
-6:40
-7:30
+   <td style="text-align:center;"> NADA/ BV
+Year:percent
+1:90
+2:80
+3:70
+4:60
+5:50
+6:40
+7:30
 6:20 </td>
    <td style="text-align:center;"> 1.70 </td>
-   <td style="text-align:center;"> NADA/ BV
-Year:percent
-1:90
-2:80
-3:70
-4:60
-5:50
-6:40
-7:30
+   <td style="text-align:center;"> NADA/ BV
+Year:percent
+1:90
+2:80
+3:70
+4:60
+5:50
+6:40
+7:30
 8:20 </td>
    <td style="text-align:center;"> 1.70 </td>
    <td style="text-align:center;"> Aircraft Book/ BV </td>
@@ -11263,12 +11263,12 @@ Year:percent
   </tr>
   <tr>
    <td style="text-align:left;"> York County </td>
-   <td style="text-align:center;"> 80% in yr acquired less
+   <td style="text-align:center;"> 80% in yr acquired less
 10% each yr thereafter </td>
    <td style="text-align:center;"> .000000001 </td>
-   <td style="text-align:center;"> 60% of Low BV in ABOS 
-Book. Min varies 
-depending on length of
+   <td style="text-align:center;"> 60% of Low BV in ABOS 
+Book. Min varies 
+depending on length of
 boat. </td>
    <td style="text-align:center;"> .000000001 </td>
    <td style="text-align:center;"> No aircraft at this time. </td>
@@ -11294,31 +11294,31 @@ boat. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Buena Vista City </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
   </tr>
@@ -11363,7 +11363,7 @@ boat. </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 3.00 (3.5 effective 01/01/2018) </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 3.00 (3.5
+   <td style="text-align:center;"> 3.00 (3.5
 effective 01/01/2018) </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0.30 </td>
@@ -11424,63 +11424,63 @@ effective 01/01/2018) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hampton City </td>
-   <td style="text-align:center;"> 1st yr 80% then depreciate 
+   <td style="text-align:center;"> 1st yr 80% then depreciate 
 by 10% to a min of 100 </td>
-   <td style="text-align:center;"> 1.00 business
-
-pleasure
+   <td style="text-align:center;"> 1.00 business
+
+pleasure
 .000001/100 </td>
-   <td style="text-align:center;"> 1st yr 80% then depreciate
+   <td style="text-align:center;"> 1st yr 80% then depreciate
 by 10% to a min of 100 </td>
-   <td style="text-align:center;"> 1.00 business
-
-pleasure
+   <td style="text-align:center;"> 1.00 business
+
+pleasure
 .000001/100 </td>
-   <td style="text-align:center;"> 1st yr 80% then depreciate 
+   <td style="text-align:center;"> 1st yr 80% then depreciate 
 by 10% to a min of 100 </td>
    <td style="text-align:center;"> 1.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Harrisonburg City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
 7 	 30.0% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hopewell City </td>
-   <td style="text-align:center;"> current-1st:35%
-2-7yr:30%
-8-13yr:25%
-14-22yr:15%
+   <td style="text-align:center;"> current-1st:35%
+2-7yr:30%
+8-13yr:25%
+14-22yr:15%
 23+yr:10% </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> 65% of retail-ABOS </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> New 60%
-1   50%
-2   40%
-3   30%
+   <td style="text-align:center;"> New 60%
+1   50%
+2   40%
+3   30%
 4   20% </td>
    <td style="text-align:center;"> 3.50 </td>
   </tr>
@@ -11490,7 +11490,7 @@ by 10% to a min of 100 </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> 85% of OC for each year owned </td>
    <td style="text-align:center;"> 4.25 </td>
-   <td style="text-align:center;"> 25% of OC when not fully depreciated
+   <td style="text-align:center;"> 25% of OC when not fully depreciated
 10% of OC when fully depreciated </td>
    <td style="text-align:center;"> 4.25 </td>
   </tr>
@@ -11514,10 +11514,10 @@ by 10% to a min of 100 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Manassas Park City </td>
-   <td style="text-align:center;"> NADA Marine Appraisal 
+   <td style="text-align:center;"> NADA Marine Appraisal 
 Guide or % of OC </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> NADA Marine Appraisal 
+   <td style="text-align:center;"> NADA Marine Appraisal 
 Guide or % OC </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -11536,15 +11536,15 @@ Guide or % OC </td>
    <td style="text-align:left;"> Newport News City </td>
    <td style="text-align:center;"> 85% of original cost of the purchase year and reduced by 90% of the previous year's assessment until the taxpayers liability begins. </td>
    <td style="text-align:center;"> .90 </td>
-   <td style="text-align:center;"> 100% ABOS BV or % OC per
-purchase year
-* Min  Value assessed is 
-200 boats 1 aft &amp; under
+   <td style="text-align:center;"> 100% ABOS BV or % OC per
+purchase year
+* Min  Value assessed is 
+200 boats 1 aft &amp; under
 or 500 boats 1 aft &amp; over </td>
    <td style="text-align:center;"> 1.00 OC or BV </td>
-   <td style="text-align:center;"> Aircraft Digest 100% BV
+   <td style="text-align:center;"> Aircraft Digest 100% BV
 (Avg Inv) </td>
-   <td style="text-align:center;"> .50 effective
+   <td style="text-align:center;"> .50 effective
 1/2016 </td>
   </tr>
   <tr>
@@ -11553,7 +11553,7 @@ or 500 boats 1 aft &amp; over </td>
    <td style="text-align:center;"> 1.50 (commercial) </td>
    <td style="text-align:center;"> Retail range ABOS </td>
    <td style="text-align:center;"> 0.50 (all sizes) </td>
-   <td style="text-align:center;"> 20% of avg wholesale from
+   <td style="text-align:center;"> 20% of avg wholesale from
 Aircraft Blue Book </td>
    <td style="text-align:center;"> 2.40 </td>
   </tr>
@@ -11622,34 +11622,34 @@ Aircraft Blue Book </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Salem City </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7	 30.0%
-8 	 25.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7	 30.0%
+8 	 25.0%
 9+	 Less 20% of last years assessment </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7	 30.0%
-8 	 25.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7	 30.0%
+8 	 25.0%
 9+	 Less 20% of last years assessment </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7	 30.0%
-8 	 25.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7	 30.0%
+8 	 25.0%
 9+	 Less 20% of last years assessment </td>
    <td style="text-align:center;"> 3.25 </td>
   </tr>
@@ -11736,23 +11736,23 @@ Aircraft Blue Book </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Altavista Town </td>
-   <td style="text-align:center;"> 1 Yr 80%
-2 Yrs 70%
+   <td style="text-align:center;"> 1 Yr 80%
+2 Yrs 70%
 3 Yrs 60% </td>
    <td style="text-align:center;"> 2.00 per 100 of assessed value </td>
-   <td style="text-align:center;"> 1 Year 80%
-2 Yrs 70%
-3 Yr 60%
-4 yr 50%
-5 Yr 25%
+   <td style="text-align:center;"> 1 Year 80%
+2 Yrs 70%
+3 Yr 60%
+4 yr 50%
+5 Yr 25%
 6 Yr 20% (floored) </td>
    <td style="text-align:center;"> 2.00 per 100 of assessed value </td>
-   <td style="text-align:center;"> Based on gross wt. less than 20000 lbs
-1 Yrs. 13.91%
-2 Yrs 12.35%
-3 Yr 10.82%
-4 Yr 9.27%
-5 Yr 7.73%
+   <td style="text-align:center;"> Based on gross wt. less than 20000 lbs
+1 Yrs. 13.91%
+2 Yrs 12.35%
+3 Yr 10.82%
+4 Yr 9.27%
+5 Yr 7.73%
 6 Yr 6.18% (Floor) </td>
    <td style="text-align:center;"> 2.00 per 100 of assessed value </td>
   </tr>
@@ -11839,18 +11839,18 @@ Aircraft Blue Book </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 55.0%
-4 	 40.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 55.0%
+4 	 40.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.85 </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 55.0%
-4 	 40.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 55.0%
+4 	 40.0%
+5 	 20.0%
 6+ 	 10.0% </td>
    <td style="text-align:center;"> 0.85 </td>
    <td style="text-align:center;"> Done by Nottoway County </td>
@@ -12148,7 +12148,7 @@ Aircraft Blue Book </td>
    <td style="text-align:left;"> Culpeper Town </td>
    <td style="text-align:center;"> NADA </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 100% low  Trade-in 
+   <td style="text-align:center;"> 100% low  Trade-in 
 per ABOS; min 200 </td>
    <td style="text-align:center;"> 1.00 </td>
    <td style="text-align:center;"> -- </td>
@@ -12984,13 +12984,13 @@ per ABOS; min 200 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Strasburg Town </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> 1.11 </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> 1.11 </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -13229,11 +13229,11 @@ Shenandoah County </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Albemarle County </td>
-   <td style="text-align:center;"> 1st year-90% of cost 90% of
+   <td style="text-align:center;"> 1st year-90% of cost 90% of
 assessed value thereafter </td>
    <td style="text-align:center;"> 4.28 </td>
-   <td style="text-align:center;"> 1st year-90% of cost 90% of
-assessed value thereafter;
+   <td style="text-align:center;"> 1st year-90% of cost 90% of
+assessed value thereafter;
 minimum 750 </td>
    <td style="text-align:center;"> 4.28 </td>
    <td style="text-align:center;"> Current year's Wingate Manufactured Home appraisal guide; minimum assessment for all years is 1500 </td>
@@ -13243,23 +13243,23 @@ minimum 750 </td>
    <td style="text-align:left;"> Alleghany County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1st year	40%
-2nd year	40%
-3rd year	36%
-4th year	32%
-5th year	28%
-6th year	24%
-7th year	20%
-8th year	20%
-9th year	20%
-10th year	20%
-11th year	20%	
-12th year	20%
-13th year	20%
-14th year	20%
-15th year	20%
-16th year	20%
-17th year	20%
+   <td style="text-align:center;"> 1st year	40%
+2nd year	40%
+3rd year	36%
+4th year	32%
+5th year	28%
+6th year	24%
+7th year	20%
+8th year	20%
+9th year	20%
+10th year	20%
+11th year	20%	
+12th year	20%
+13th year	20%
+14th year	20%
+15th year	20%
+16th year	20%
+17th year	20%
 18th yea </td>
    <td style="text-align:center;"> 2.98 </td>
    <td style="text-align:center;"> based on 2019 reassesment rates &amp; condition </td>
@@ -13269,11 +13269,11 @@ minimum 750 </td>
    <td style="text-align:left;"> Amelia County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 60.0%
-2 	 45.0%
-3 	 37.5%
-4 	 33.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 60.0%
+2 	 45.0%
+3 	 37.5%
+4 	 33.0%
+5 	 20.0%
 6+	 80% of previous </td>
    <td style="text-align:center;"> 4.20 </td>
    <td style="text-align:center;"> Square footage Year BV </td>
@@ -13310,13 +13310,13 @@ minimum 750 </td>
    <td style="text-align:left;"> Augusta County </td>
    <td style="text-align:center;"> Exempt </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1	40%
-2	35%
-3	30%
-4	25%
-5	20%
-6	15%
-7	10%
+   <td style="text-align:center;"> 1	40%
+2	35%
+3	30%
+4	25%
+5	20%
+6	15%
+7	10%
 6	 5% </td>
    <td style="text-align:center;"> 2.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -13333,13 +13333,13 @@ minimum 750 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Bedford County </td>
-   <td style="text-align:center;"> If tagged with antique
+   <td style="text-align:center;"> If tagged with antique
 tag. </td>
    <td style="text-align:center;"> 0 </td>
    <td style="text-align:center;"> 100% trade </td>
    <td style="text-align:center;"> 2.35 </td>
-   <td style="text-align:center;"> 100% Avg Market Value
-Assessed during 
+   <td style="text-align:center;"> 100% Avg Market Value
+Assessed during 
 reassessment every 4 years </td>
    <td style="text-align:center;"> 0.50 (2019) </td>
   </tr>
@@ -13392,11 +13392,11 @@ reassessment every 4 years </td>
    <td style="text-align:left;"> Campbell County </td>
    <td style="text-align:center;"> exempt </td>
    <td style="text-align:center;"> Not taxable </td>
-   <td style="text-align:center;"> 1yr:29.25% 
-2yr:26.00%  
-3yr:22.75%  
-4yr:19.50%  
-5yr:16.25%
+   <td style="text-align:center;"> 1yr:29.25% 
+2yr:26.00%  
+3yr:22.75%  
+4yr:19.50%  
+5yr:16.25%
 6yr:13.00% </td>
    <td style="text-align:center;"> 3.85 &quot;Nominal&quot; </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -13406,25 +13406,25 @@ reassessment every 4 years </td>
    <td style="text-align:left;"> Caroline County </td>
    <td style="text-align:center;"> Permanent plates not taxed </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 100% NADA Recreational
-Vehicle Guide Wholesale 	
+   <td style="text-align:center;"> 100% NADA Recreational
+Vehicle Guide Wholesale 	
 Trade In </td>
    <td style="text-align:center;"> 3.80 </td>
-   <td style="text-align:center;"> Stonewall Technology
-Go House Valuation 
+   <td style="text-align:center;"> Stonewall Technology
+Go House Valuation 
 Program </td>
    <td style="text-align:center;"> 0.83 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Carroll County </td>
-   <td style="text-align:center;"> 80%
-70%
-60%
-50%
-40%
+   <td style="text-align:center;"> 80%
+70%
+60%
+50%
+40%
 30% </td>
    <td style="text-align:center;"> 1.95 </td>
-   <td style="text-align:center;"> 90%
+   <td style="text-align:center;"> 90%
 (10% depreciation each year) </td>
    <td style="text-align:center;"> 1.95 </td>
    <td style="text-align:center;"> 100% </td>
@@ -13450,25 +13450,25 @@ Program </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Chesterfield County </td>
-   <td style="text-align:center;"> Current (new) 	 90%
-1 		 70%
-2 		 60%
-3 		 50%
-4 		 40%
-5 		 30%
-6 		 20%
-7+ 		 10%
-
-Minimum assessment
-Model Year 1997-&amp; Newer = 200.00
+   <td style="text-align:center;"> Current (new) 	 90%
+1 		 70%
+2 		 60%
+3 		 50%
+4 		 40%
+5 		 30%
+6 		 20%
+7+ 		 10%
+
+Minimum assessment
+Model Year 1997-&amp; Newer = 200.00
 Model Year 1996 and prior = 100.00 </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> New 90% 1yr. 70% 2yr. 50% 3yr. 40%; 4yr.30% 5yr. 20%; 6+ yr. 10%
-
+   <td style="text-align:center;"> New 90% 1yr. 70% 2yr. 50% 3yr. 40%; 4yr.30% 5yr. 20%; 6+ yr. 10%
+
 Minimum assessment=100 </td>
    <td style="text-align:center;"> 3.60 </td>
-   <td style="text-align:center;"> Wingate Guide
-
+   <td style="text-align:center;"> Wingate Guide
+
 Assessments based on price per square foot as determined in the Wingate Mobile Home Appraisal Guide. </td>
    <td style="text-align:center;"> 0.95 </td>
   </tr>
@@ -13505,7 +13505,7 @@ Assessments based on price per square foot as determined in the Wingate Mobile H
    <td style="text-align:center;"> none </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> none </td>
-   <td style="text-align:center;"> VA Manufactured Housing Appraisal Guide
+   <td style="text-align:center;"> VA Manufactured Housing Appraisal Guide
 by Wingate Appraisal Service </td>
    <td style="text-align:center;"> 0.78 </td>
   </tr>
@@ -13513,7 +13513,7 @@ by Wingate Appraisal Service </td>
    <td style="text-align:left;"> Dickenson County </td>
    <td style="text-align:center;"> vehicle over 15 Yrs assessed at 100 value </td>
    <td style="text-align:center;"> 1.85 </td>
-   <td style="text-align:center;"> 20% Depreciation of 
+   <td style="text-align:center;"> 20% Depreciation of 
 cost </td>
    <td style="text-align:center;"> 1.85 </td>
    <td style="text-align:center;"> Square Footage and Yearly Depreciation </td>
@@ -13579,7 +13579,7 @@ cost </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> ATV AND DIRT BIKES EXEMPTED BY LOCAL ORDINANCE </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> Square Footage X rate per sq.ft. established by Virginia Manufactured Housing Appraisal Guide
+   <td style="text-align:center;"> Square Footage X rate per sq.ft. established by Virginia Manufactured Housing Appraisal Guide
 in effect at the latest reassessment </td>
    <td style="text-align:center;"> 0.61 </td>
   </tr>
@@ -13589,7 +13589,7 @@ in effect at the latest reassessment </td>
    <td style="text-align:center;"> 4.86 </td>
    <td style="text-align:center;"> NADA recreational Guide </td>
    <td style="text-align:center;"> 4.86 </td>
-   <td style="text-align:center;"> /sq ft. during
+   <td style="text-align:center;"> /sq ft. during
 Reassessment </td>
    <td style="text-align:center;"> 0.585 </td>
   </tr>
@@ -13615,10 +13615,10 @@ Reassessment </td>
    <td style="text-align:left;"> Goochland County </td>
    <td style="text-align:center;"> exempt if antique plates </td>
    <td style="text-align:center;"> Exempt </td>
-   <td style="text-align:center;"> 1yr-60% 
-2-45% 
-3- 37.5% 
-4-30% 
+   <td style="text-align:center;"> 1yr-60% 
+2-45% 
+3- 37.5% 
+4-30% 
 5+yr-20% </td>
    <td style="text-align:center;"> 3.95 </td>
    <td style="text-align:center;"> Flat Rate </td>
@@ -13644,31 +13644,31 @@ Reassessment </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Greensville County </td>
-   <td style="text-align:center;"> 300 assessed value for trucks;
+   <td style="text-align:center;"> 300 assessed value for trucks;
 100 for antique cars </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> 1	75
-2	70
-3	65
-4	60
-5	55
-6	50
-7	45
-8	40
-9	37.5
-10	35
-11	32.5
-12	30
-13	27.5
-14	25
-15	22.5
-16	20
-17	17.5
+   <td style="text-align:center;"> 1	75
+2	70
+3	65
+4	60
+5	55
+6	50
+7	45
+8	40
+9	37.5
+10	35
+11	32.5
+12	30
+13	27.5
+14	25
+15	22.5
+16	20
+17	17.5
 18+	15 </td>
    <td style="text-align:center;"> 5.00 </td>
-   <td style="text-align:center;"> Wingate Appraisal Guide
-Min. is 5/sq. ft. on 
-mobile homes
+   <td style="text-align:center;"> Wingate Appraisal Guide
+Min. is 5/sq. ft. on 
+mobile homes
 1985 and older </td>
    <td style="text-align:center;"> 0.67 </td>
   </tr>
@@ -13694,20 +13694,20 @@ mobile homes
    <td style="text-align:left;"> Henrico County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year 1:85 
-Year 2:75
-Year 3:60
-Year 4:50
-Year 5:40
-Year 6:30
+   <td style="text-align:center;"> Year 1:85 
+Year 2:75
+Year 3:60
+Year 4:50
+Year 5:40
+Year 6:30
 Year 7+:20 </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Year 1:85
-Year 2:75
-Year 3:60
-Year 4:50
-Year 5:40
-Year 6:30
+   <td style="text-align:center;"> Year 1:85
+Year 2:75
+Year 3:60
+Year 4:50
+Year 5:40
+Year 6:30
 Year 7+:20 </td>
    <td style="text-align:center;"> 0.87 </td>
   </tr>
@@ -13724,8 +13724,8 @@ Year 7+:20 </td>
    <td style="text-align:left;"> Highland County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 40% first year with 5% 
-deprection until minimum
+   <td style="text-align:center;"> 40% first year with 5% 
+deprection until minimum
 value of 400 </td>
    <td style="text-align:center;"> 2.50 </td>
    <td style="text-align:center;"> Mobile Home Guide &amp; Depreciation </td>
@@ -13760,26 +13760,26 @@ value of 400 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> King George County </td>
-   <td style="text-align:center;"> Assessed at minimum value
+   <td style="text-align:center;"> Assessed at minimum value
 of 200.00 </td>
    <td style="text-align:center;"> 3.25 </td>
-   <td style="text-align:center;"> If value not available in
-pricing guide:
-Year Purchased   Percent of Value		
-
-2017 		   50%
-2016 		   45%
-2015		   40%
-2014		   35%
-2013		   30%
-2012		   25%
-2011		   20%
-2010		   15%
+   <td style="text-align:center;"> If value not available in
+pricing guide:
+Year Purchased   Percent of Value		
+
+2017 		   50%
+2016 		   45%
+2015		   40%
+2014		   35%
+2013		   30%
+2012		   25%
+2011		   20%
+2010		   15%
 2009 and older	   10% </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Blue Ridge Mass 
+   <td style="text-align:center;"> Blue Ridge Mass 
 Appraisal Co. LLC </td>
-   <td style="text-align:center;"> 00.70/per
+   <td style="text-align:center;"> 00.70/per
 100.00 </td>
   </tr>
   <tr>
@@ -13813,17 +13813,17 @@ Appraisal Co. LLC </td>
    <td style="text-align:left;"> Loudoun County </td>
    <td style="text-align:center;"> vehicles 25 years &amp; older assessed at 100 </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> 1yr:70%
-2yr:60%
-3yr:50%
-4yr:40%
-5yr:30%
+   <td style="text-align:center;"> 1yr:70%
+2yr:60%
+3yr:50%
+4yr:40%
+5yr:30%
 6yr.20% </td>
    <td style="text-align:center;"> 4.20 </td>
-   <td style="text-align:center;"> Wingate Appraisal Book fair market square footage
-2018 1.1085
-2017 1.125
-2016 1.145
+   <td style="text-align:center;"> Wingate Appraisal Book fair market square footage
+2018 1.1085
+2017 1.125
+2016 1.145
 2015 1.135 </td>
    <td style="text-align:center;"> 1.085 </td>
   </tr>
@@ -13856,8 +13856,8 @@ Appraisal Co. LLC </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Mathews County </td>
-   <td style="text-align:center;"> 5.00 one time registration
-fee for as long as vehicle
+   <td style="text-align:center;"> 5.00 one time registration
+fee for as long as vehicle
 is vested in the applicant. </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 100% NADA </td>
@@ -13869,13 +13869,13 @@ is vested in the applicant. </td>
    <td style="text-align:left;"> Mecklenburg County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> exempt </td>
-   <td style="text-align:center;"> 1	80
-2	70
-3	60
-4	50
-5	40
-6	30
-7	25
+   <td style="text-align:center;"> 1	80
+2	70
+3	60
+4	50
+5	40
+6	30
+7	25
 8+	15 </td>
    <td style="text-align:center;"> 3.36 </td>
    <td style="text-align:center;"> Square Foot Factor from Wingate Guide </td>
@@ -13910,13 +13910,13 @@ is vested in the applicant. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> New Kent County </td>
-   <td style="text-align:center;"> 50% Low Value NADA 
-Collector/Special Interest 
-Guide
-
+   <td style="text-align:center;"> 50% Low Value NADA 
+Collector/Special Interest 
+Guide
+
 Unless vehicle has antique plates </td>
    <td style="text-align:center;"> 3.75 </td>
-   <td style="text-align:center;"> 75% NADA Recreational
+   <td style="text-align:center;"> 75% NADA Recreational
 Vehicle Guide </td>
    <td style="text-align:center;"> 3.75 </td>
    <td style="text-align:center;"> Approximately 100% - Based on Sq. Footage </td>
@@ -13924,8 +13924,8 @@ Vehicle Guide </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Northampton County </td>
-   <td style="text-align:center;"> 50% of cost shown in Vintage nada book
-
+   <td style="text-align:center;"> 50% of cost shown in Vintage nada book
+
 Vehicles with antique plates are tax exempt </td>
    <td style="text-align:center;"> 3.90 </td>
    <td style="text-align:center;"> NADA Recreational Guide </td>
@@ -13982,17 +13982,17 @@ Vehicles with antique plates are tax exempt </td>
    <td style="text-align:left;"> Pittsylvania County </td>
    <td style="text-align:center;"> Flat Valued </td>
    <td style="text-align:center;"> 9.00 </td>
-   <td style="text-align:center;"> Percentage of Cost
-1	30.0%
-2	27.5%
-3	25.0%
-4	23.5%
-5	20.0%
-6	17.5%
-7	15.0%
-8	13.5%
-9	10.0%
-10	 7.5%
+   <td style="text-align:center;"> Percentage of Cost
+1	30.0%
+2	27.5%
+3	25.0%
+4	23.5%
+5	20.0%
+6	17.5%
+7	15.0%
+8	13.5%
+9	10.0%
+10	 7.5%
 11+	 5.0% </td>
    <td style="text-align:center;"> 9.00 </td>
    <td style="text-align:center;"> General Reassessment based on year model condition and square feet </td>
@@ -14020,10 +14020,10 @@ Vehicles with antique plates are tax exempt </td>
    <td style="text-align:left;"> Prince George County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 60% 1st yr 
-50%  
-40% 
-30% 
+   <td style="text-align:center;"> 60% 1st yr 
+50%  
+40% 
+30% 
 20% </td>
    <td style="text-align:center;"> 4.25 </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -14040,9 +14040,9 @@ Vehicles with antique plates are tax exempt </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Pulaski County </td>
-   <td style="text-align:center;"> Flat 350 if it 
-has regular tags. If it 
-has vintage tags we
+   <td style="text-align:center;"> Flat 350 if it 
+has regular tags. If it 
+has vintage tags we
 exempt it. </td>
    <td style="text-align:center;"> 2.35 </td>
    <td style="text-align:center;"> NADA - avg. used </td>
@@ -14056,7 +14056,7 @@ exempt it. </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> NADA Book </td>
    <td style="text-align:center;"> 4.25(+.20 fire tax) </td>
-   <td style="text-align:center;"> Appraisal Service --part of
+   <td style="text-align:center;"> Appraisal Service --part of
 general reassessment </td>
    <td style="text-align:center;"> 0.67/.06 fire tax </td>
   </tr>
@@ -14118,14 +14118,14 @@ general reassessment </td>
    <td style="text-align:left;"> Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 0 </td>
-   <td style="text-align:center;"> 1st:90
-2nd:80
-3rd:70
-4th:60
-5th:50
-6th:40
-7th:30
-8th:20
+   <td style="text-align:center;"> 1st:90
+2nd:80
+3rd:70
+4th:60
+5th:50
+6th:40
+7th:30
+8th:20
 9+yr:10 </td>
    <td style="text-align:center;"> 3.90 </td>
    <td style="text-align:center;"> Square Foot </td>
@@ -14133,24 +14133,24 @@ general reassessment </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Smyth County </td>
-   <td style="text-align:center;"> Age 	Percent Value
-1 	85%
-2 	75%
-3 	65%
-4 	55%
-5 	45%
-6 	35%
-7 	25%
+   <td style="text-align:center;"> Age 	Percent Value
+1 	85%
+2 	75%
+3 	65%
+4 	55%
+5 	45%
+6 	35%
+7 	25%
 8+ 	15% </td>
    <td style="text-align:center;"> 2.30 </td>
-   <td style="text-align:center;"> Age 	Percent Value
-1 		85%
-2 	 	75%
-3 	 	65%
-4 	 	55%
-5 	 	45%
-6 	 	35%
-7 	 	25%
+   <td style="text-align:center;"> Age 	Percent Value
+1 		85%
+2 	 	75%
+3 	 	65%
+4 	 	55%
+5 	 	45%
+6 	 	35%
+7 	 	25%
 8+  		15% </td>
    <td style="text-align:center;"> 2.30 </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -14169,10 +14169,10 @@ general reassessment </td>
    <td style="text-align:left;"> Spotsylvania County </td>
    <td style="text-align:center;"> NADA </td>
    <td style="text-align:center;"> 0.00 </td>
-   <td style="text-align:center;"> 1yr:50%
-2:45%
-3:40%
-4:30%
+   <td style="text-align:center;"> 1yr:50%
+2:45%
+3:40%
+4:30%
 5:20% </td>
    <td style="text-align:center;"> 6.73 </td>
    <td style="text-align:center;"> % of mobile home guide </td>
@@ -14182,11 +14182,11 @@ general reassessment </td>
    <td style="text-align:left;"> Stafford County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> NOT TAXED </td>
-   <td style="text-align:center;"> 1 	 40.0%
-2 	 35.0%
-3 	 30.0%
-4 	 25.0%
-5 	 20.0%
+   <td style="text-align:center;"> 1 	 40.0%
+2 	 35.0%
+3 	 30.0%
+4 	 25.0%
+5 	 20.0%
 6 	 15.0% </td>
    <td style="text-align:center;"> 5.49 </td>
    <td style="text-align:center;"> 100% FMV </td>
@@ -14214,12 +14214,12 @@ general reassessment </td>
    <td style="text-align:left;"> Tazewell County </td>
    <td style="text-align:center;"> 500 VALUE </td>
    <td style="text-align:center;"> 2.00 </td>
-   <td style="text-align:center;"> 1	75.0%	
-2	65.0%
-3	55.0%
-4	45.0%	
-5	35.0%	
-6	25.0%
+   <td style="text-align:center;"> 1	75.0%	
+2	65.0%
+3	55.0%
+4	45.0%	
+5	35.0%	
+6	25.0%
 7+	15.0% </td>
    <td style="text-align:center;"> 2.00 </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -14231,7 +14231,7 @@ general reassessment </td>
    <td style="text-align:center;"> Exempt </td>
    <td style="text-align:center;"> 100% NADA Wholesale </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> 100%
+   <td style="text-align:center;"> 100%
 Reassessed every 4 yrs. </td>
    <td style="text-align:center;"> 0.66 </td>
   </tr>
@@ -14239,16 +14239,16 @@ Reassessed every 4 yrs. </td>
    <td style="text-align:left;"> Washington County </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> BV
-Year:percent
-1:90
-2:80
-3:70
-4:60
-5:50
-6:40
-7:30
-6:20
+   <td style="text-align:center;"> BV
+Year:percent
+1:90
+2:80
+3:70
+4:60
+5:50
+6:40
+7:30
+6:20
 7:10 </td>
    <td style="text-align:center;"> 1.70 </td>
    <td style="text-align:center;"> value changes every 4 years during real estate assessment cycle. </td>
@@ -14285,17 +14285,17 @@ Year:percent
    <td style="text-align:left;"> York County </td>
    <td style="text-align:center;"> exempt </td>
    <td style="text-align:center;"> exempt </td>
-   <td style="text-align:center;"> 50% of wholesale BV in
-NADA Recreational Guide 
-Motor Homes: 500 min
-value; Self Contained 
-Camping Trls: 300 min
-value; Pop-Up Campers: 
+   <td style="text-align:center;"> 50% of wholesale BV in
+NADA Recreational Guide 
+Motor Homes: 500 min
+value; Self Contained 
+Camping Trls: 300 min
+value; Pop-Up Campers: 
 100 min value </td>
    <td style="text-align:center;"> 4.00 </td>
-   <td style="text-align:center;"> Ratio by Square Ft
-1000 Flat Value for 1995 &amp; older MH with Width 10' or less
-1500 Flat Value for 1995 &amp; older MH with Width 11' to 12'
+   <td style="text-align:center;"> Ratio by Square Ft
+1000 Flat Value for 1995 &amp; older MH with Width 10' or less
+1500 Flat Value for 1995 &amp; older MH with Width 11' to 12'
 2000 Min Value for MH 13' or more </td>
    <td style="text-align:center;"> 0.7950 </td>
   </tr>
@@ -14321,13 +14321,13 @@ value; Pop-Up Campers:
    <td style="text-align:left;"> Buena Vista City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 80.0%
-2 	 70.0%
-3 	 60.0%
-4 	 50.0%
-5 	 40.0%
-6 	 30.0%
-7 	 20.0%
+   <td style="text-align:center;"> 1 	 80.0%
+2 	 70.0%
+3 	 60.0%
+4 	 50.0%
+5 	 40.0%
+6 	 30.0%
+7 	 20.0%
 8+ 	 10.0% </td>
    <td style="text-align:center;"> 5.85 </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -14335,8 +14335,8 @@ value; Pop-Up Campers:
   </tr>
   <tr>
    <td style="text-align:left;"> Charlottesville City </td>
-   <td style="text-align:center;"> unless tax-exempt (meeting
-criteria of usage)
+   <td style="text-align:center;"> unless tax-exempt (meeting
+criteria of usage)
 min value = 600 if over 2 tons </td>
    <td style="text-align:center;"> 4.20 </td>
    <td style="text-align:center;"> 1st yr: 85% of cost less 10% in following years </td>
@@ -14429,12 +14429,12 @@ min value = 600 if over 2 tons </td>
    <td style="text-align:left;"> Galax City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1st: 90
-2nd: 80
-3rd: 70
-4th: 60
-5th: 50
-6th: 40
+   <td style="text-align:center;"> 1st: 90
+2nd: 80
+3rd: 70
+4th: 60
+5th: 50
+6th: 40
 7+yr:30 </td>
    <td style="text-align:center;"> 2.25 </td>
    <td style="text-align:center;"> -- </td>
@@ -14444,9 +14444,9 @@ min value = 600 if over 2 tons </td>
    <td style="text-align:left;"> Hampton City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> Exempt </td>
-   <td style="text-align:center;"> NADA recreational appraisal
-guide; motor homes min 
-value 1000 &amp; trailers
+   <td style="text-align:center;"> NADA recreational appraisal
+guide; motor homes min 
+value 1000 &amp; trailers
  minimum value 400 </td>
    <td style="text-align:center;"> 1.50 </td>
    <td style="text-align:center;"> Wingate Appraisal Guide </td>
@@ -14467,7 +14467,7 @@ value 1000 &amp; trailers
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> finance value Price Digest </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Square Footage
+   <td style="text-align:center;"> Square Footage
 Wingate Appraisal Guide </td>
    <td style="text-align:center;"> 1.11 </td>
   </tr>
@@ -14502,7 +14502,7 @@ Wingate Appraisal Guide </td>
    <td style="text-align:left;"> Manassas Park City </td>
    <td style="text-align:center;"> 200 flat fee </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> NADA recreational 
+   <td style="text-align:center;"> NADA recreational 
 vehicle guide or % of cost </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> -- </td>
@@ -14522,19 +14522,19 @@ vehicle guide or % of cost </td>
    <td style="text-align:center;"> 200 minimum </td>
    <td style="text-align:center;"> 4.50 </td>
    <td style="text-align:center;"> 85% of original cost of the purchase year and reduced by 90% of the previous year's assessment until the taxpayers liability begins </td>
-   <td style="text-align:center;"> 1.00
+   <td style="text-align:center;"> 1.00
 Motor Homes </td>
    <td style="text-align:center;"> Square Footage </td>
    <td style="text-align:center;"> 1.22 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Norfolk City </td>
-   <td style="text-align:center;"> No fee if vehicle has
+   <td style="text-align:center;"> No fee if vehicle has
 Antique tags. </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> NADA </td>
    <td style="text-align:center;"> 1.50 </td>
-   <td style="text-align:center;"> Low Range of Wingate 
+   <td style="text-align:center;"> Low Range of Wingate 
 Mobile Home Guide </td>
    <td style="text-align:center;"> 1.25 </td>
   </tr>
@@ -14542,11 +14542,11 @@ Mobile Home Guide </td>
    <td style="text-align:left;"> Norton City </td>
    <td style="text-align:center;"> FMV </td>
    <td style="text-align:center;"> 2.05 </td>
-   <td style="text-align:center;"> 85% 1st yr
-10% each yr thereafter
+   <td style="text-align:center;"> 85% 1st yr
+10% each yr thereafter
 until 30% of value is reached </td>
    <td style="text-align:center;"> 2.05 </td>
-   <td style="text-align:center;"> Square Footage based on
+   <td style="text-align:center;"> Square Footage based on
 Year of Mobile Homes </td>
    <td style="text-align:center;"> 0.90 </td>
   </tr>
@@ -14554,7 +14554,7 @@ Year of Mobile Homes </td>
    <td style="text-align:left;"> Petersburg City </td>
    <td style="text-align:center;"> Tax Exempt </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 100% NADA Recreation
+   <td style="text-align:center;"> 100% NADA Recreation
 Vehicle Appraisal Guide </td>
    <td style="text-align:center;"> 4.90 </td>
    <td style="text-align:center;"> 100% Wingate Appraisal Guide </td>
@@ -14609,14 +14609,14 @@ Vehicle Appraisal Guide </td>
    <td style="text-align:left;"> Salem City </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> 1 	 90.0%
-2 	 80.0%
-3 	 70.0%
-4 	 60.0%
-5 	 50.0%
-6 	 40.0%
-7	 30.0%
-8 	 25.0%
+   <td style="text-align:center;"> 1 	 90.0%
+2 	 80.0%
+3 	 70.0%
+4 	 60.0%
+5 	 50.0%
+6 	 40.0%
+7	 30.0%
+8 	 25.0%
 9+	 Less 20% of last years assessment </td>
    <td style="text-align:center;"> 3.25 </td>
    <td style="text-align:center;"> Wingate Appraisal Book </td>
@@ -14660,12 +14660,12 @@ Vehicle Appraisal Guide </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Williamsburg City </td>
-   <td style="text-align:center;"> No cost if vehicle has 
+   <td style="text-align:center;"> No cost if vehicle has 
 antique plates. </td>
    <td style="text-align:center;"> 3.50 </td>
    <td style="text-align:center;"> LV </td>
    <td style="text-align:center;"> 3.50 </td>
-   <td style="text-align:center;"> Taxed as Real Estate. 
+   <td style="text-align:center;"> Taxed as Real Estate. 
 No Mobile Homes in City. </td>
    <td style="text-align:center;"> 0.60 </td>
   </tr>
@@ -15105,10 +15105,10 @@ No Mobile Homes in City. </td>
    <td style="text-align:left;"> Culpeper Town </td>
    <td style="text-align:center;"> 200 flat rate </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 100% used wholesale 
+   <td style="text-align:center;"> 100% used wholesale 
 per NADA- minimum 200 </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> cost with depreciation 
+   <td style="text-align:center;"> cost with depreciation 
 factor </td>
    <td style="text-align:center;"> 0.10 </td>
   </tr>
@@ -15393,11 +15393,11 @@ factor </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Hillsville Town </td>
-   <td style="text-align:center;"> 80
-70
-60
-50
-40
+   <td style="text-align:center;"> 80
+70
+60
+50
+40
 30 </td>
    <td style="text-align:center;"> 0.72 </td>
    <td style="text-align:center;"> 90% 10% per year Deprec. Thereafter </td>
@@ -15947,13 +15947,13 @@ factor </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Strasburg Town </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
-   <td style="text-align:center;"> All assessing is done by 
+   <td style="text-align:center;"> All assessing is done by 
 Shenandoah County </td>
    <td style="text-align:center;"> -- </td>
   </tr>
@@ -16078,11 +16078,11 @@ Shenandoah County </td>
    <td style="text-align:left;"> Warrenton Town </td>
    <td style="text-align:center;"> -- </td>
    <td style="text-align:center;"> 1.00 </td>
-   <td style="text-align:center;"> 1	70%
-2	60%
-3	50%
-4	40%
-5	30%
+   <td style="text-align:center;"> 1	70%
+2	60%
+3	50%
+4	40%
+5	30%
 6	20% </td>
    <td style="text-align:center;"> 1.00 </td>
    <td style="text-align:center;"> -- </td>

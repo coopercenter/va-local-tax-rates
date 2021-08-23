@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Section 26 Fiscal Content Information on Local Web Sites | Virginia Local Tax Rates, 2019</title>
   <meta name="description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Section 26 Fiscal Content Information on Local Web Sites | Virginia Local Tax Rates, 2019" />
   <meta property="og:type" content="book" />
   
-  
+  <meta property="og:image" content="/cover.png" />
   <meta property="og:description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
   
 
@@ -19,7 +19,7 @@
   <meta name="twitter:title" content="Section 26 Fiscal Content Information on Local Web Sites | Virginia Local Tax Rates, 2019" />
   
   <meta name="twitter:description" content="Information for All Cities and Counties and Selected Incorporated Towns" />
-  
+  <meta name="twitter:image" content="/cover.png" />
 
 <meta name="author" content="Stephen C. Kulp, Weldon Cooper Center for Public Service, University of Virginia" />
 
@@ -33,8 +33,8 @@
   
 <link rel="prev" href="virginia-enterprise-zone-program-2018.html"/>
 <link rel="next" href="references.html"/>
-<script src="libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -319,12 +319,12 @@ div.csl-indent {
 <p>Currently, 32 cities and 79 counties, about three-fourths of each, show web information on their proposed budget. Forty-nine towns reported having the proposed budget on their sites. Higher numbers of cities, counties, and towns reported showing adopted budgets on the web, with 37 cities, 89 counties, and 80 towns reporting listing them.</p>
 <p>Large majorities of cities (36), counties (91), and towns (94) with web sites showed tax rates. Utility rate schedules were shown by 34 cities, 49 counties and 87 towns. Not all jurisdictions maintain their own systems, a fact that should be considered in evaluating web sites. Capital improvement programs are shown by 35 cities, 54 counties, and 28 towns. In many cases capital programs may be reported as part of the adopted budget instead of as a separate category.</p>
 <div class="sourceCode" id="cb67"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb67-1"><a href="fiscal-content-information-on-local-web-sites.html#cb67-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code></pre></div>
-<pre><code>## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --</code></pre>
-<pre><code>## v ggplot2 3.3.3     v purrr   0.3.4
-## v tibble  3.1.2     v dplyr   1.0.6
-## v tidyr   1.1.3     v stringr 1.4.0
-## v readr   1.4.0     v forcats 0.5.1</code></pre>
-<pre><code>## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
+## ✓ tibble  3.1.3     ✓ dplyr   1.0.7
+## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
+## ✓ readr   2.0.0     ✓ forcats 0.5.1</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()</code></pre>
 <div class="sourceCode" id="cb71"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb71-1"><a href="fiscal-content-information-on-local-web-sites.html#cb71-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span></code></pre></div>
@@ -9959,6 +9959,10 @@ gitbook.start({
 "text": null
 },
 "download": ["va-local-tax-rates-2019.pdf", "va-local-tax-rates-2019.epub"],
+"search": {
+"engine": "lunr",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

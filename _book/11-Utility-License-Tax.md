@@ -1,4 +1,4 @@
-# Utility License Tax {#sec:utility-license-tax}
+# Utility License Tax {#sec-utility-license-tax}
 
 
 

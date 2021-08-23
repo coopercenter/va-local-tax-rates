@@ -59,12 +59,12 @@ In recent years, many localities have dispensed with the decal  because  new  te
   <tr>
    <td style="text-align:left;"> Albemarle County </td>
    <td style="text-align:center;"> same as bill due date </td>
-   <td style="text-align:center;"> 0-4000 lbs: 40.75
+   <td style="text-align:center;"> 0-4000 lbs: 40.75
 &lt; 4000 lbs: 45.75 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> flat 28.75 </td>
-   <td style="text-align:center;"> 0-4000 lbs: 40.75
+   <td style="text-align:center;"> 0-4000 lbs: 40.75
 &lt; 4000 lbs: 45.75 </td>
   </tr>
   <tr>
@@ -268,13 +268,13 @@ In recent years, many localities have dispensed with the decal  because  new  te
   <tr>
    <td style="text-align:left;"> Cumberland County </td>
    <td style="text-align:center;"> 11/15 </td>
-   <td style="text-align:center;"> 23.00
+   <td style="text-align:center;"> 23.00
 10.00 National Guard </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 18.00 </td>
-   <td style="text-align:center;"> 18-Farm Trucks under 10000 lbs.
-20-Farm Trucks over 10000 lbs.
+   <td style="text-align:center;"> 18-Farm Trucks under 10000 lbs.
+20-Farm Trucks over 10000 lbs.
 39-Trucks over 10000 lbs </td>
   </tr>
   <tr>
@@ -325,8 +325,8 @@ In recent years, many localities have dispensed with the decal  because  new  te
   <tr>
    <td style="text-align:left;"> Floyd County </td>
    <td style="text-align:center;"> 12/05 </td>
-   <td style="text-align:center;"> 25.00  
-farm vehicles: 15
+   <td style="text-align:center;"> 25.00  
+farm vehicles: 15
 trailers: 10 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
@@ -435,7 +435,7 @@ trailers: 10 </td>
   <tr>
    <td style="text-align:left;"> Henrico County </td>
    <td style="text-align:center;"> 6/5 </td>
-   <td style="text-align:center;"> 20.00  0 - 4000 lbs;
+   <td style="text-align:center;"> 20.00  0 - 4000 lbs;
 25.00  over 4000 lbs </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
@@ -625,16 +625,16 @@ trailers: 10 </td>
   <tr>
    <td style="text-align:left;"> Northumberland County </td>
    <td style="text-align:center;"> 12/05 </td>
-   <td style="text-align:center;"> 25
-
+   <td style="text-align:center;"> 25
+
 2018 figure </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> 18
-
+   <td style="text-align:center;"> 18
+
 2018 figure </td>
-   <td style="text-align:center;"> 25
-
+   <td style="text-align:center;"> 25
+
 2018 figure </td>
   </tr>
   <tr>
@@ -703,13 +703,13 @@ trailers: 10 </td>
   <tr>
    <td style="text-align:left;"> Prince George County </td>
    <td style="text-align:center;"> 6/5 </td>
-   <td style="text-align:center;"> 23.00 under 4000 27.00 4001lbs-6500lbs 
+   <td style="text-align:center;"> 23.00 under 4000 27.00 4001lbs-6500lbs 
 29.00 6501lbs and over </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 18.00 </td>
-   <td style="text-align:center;"> 23.00 under 4000 27.00 4001lbs-
-6500lbs 
+   <td style="text-align:center;"> 23.00 under 4000 27.00 4001lbs-
+6500lbs 
 29.00 6501lbs and over </td>
   </tr>
   <tr>
@@ -728,8 +728,8 @@ trailers: 10 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> Yes </td>
    <td style="text-align:center;"> 10.00 </td>
-   <td style="text-align:center;"> 25.00  
-
+   <td style="text-align:center;"> 25.00  
+
 *See Below under others </td>
   </tr>
   <tr>
@@ -802,8 +802,8 @@ trailers: 10 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 25.00 </td>
-   <td style="text-align:center;"> 25.00
-
+   <td style="text-align:center;"> 25.00
+
 Trailers over 1499 lbs 15.00 </td>
   </tr>
   <tr>
@@ -872,13 +872,13 @@ Trailers over 1499 lbs 15.00 </td>
   <tr>
    <td style="text-align:left;"> Warren County </td>
    <td style="text-align:center;"> 06/05 </td>
-   <td style="text-align:center;"> 30.00 Cars and light trucks-flat
+   <td style="text-align:center;"> 30.00 Cars and light trucks-flat
 30.00 Motor homes-flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> 15.00 MC flat
-
-TRAILERS GW &gt; 1500
+   <td style="text-align:center;"> 15.00 MC flat
+
+TRAILERS GW &gt; 1500
 15.00 flat </td>
    <td style="text-align:center;"> 30.00 flat </td>
   </tr>
@@ -930,9 +930,9 @@ TRAILERS GW &gt; 1500
   <tr>
    <td style="text-align:left;"> Alexandria City </td>
    <td style="text-align:center;"> 10/05 </td>
-   <td style="text-align:center;"> for hire:
-23.00  (weight  to 4000  lbs.)
-28.00 (over 4000 lbs.)
+   <td style="text-align:center;"> for hire:
+23.00  (weight  to 4000  lbs.)
+28.00 (over 4000 lbs.)
 personal private:                            33.00 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
@@ -946,7 +946,7 @@ personal private:                            33.00 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 10.00 </td>
-   <td style="text-align:center;"> 20.00 - &lt; 13000 lbs; 30.00 - &gt;13000 lbs
+   <td style="text-align:center;"> 20.00 - &lt; 13000 lbs; 30.00 - &gt;13000 lbs
 for vehicles only </td>
   </tr>
   <tr>
@@ -961,12 +961,12 @@ for vehicles only </td>
   <tr>
    <td style="text-align:left;"> Charlottesville City </td>
    <td style="text-align:center;"> 06/05 </td>
-   <td style="text-align:center;"> 28.50 for up to 4000lbs.
+   <td style="text-align:center;"> 28.50 for up to 4000lbs.
 33.50 over 4000lbs. </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 8.50 </td>
-   <td style="text-align:center;"> 28.50 for up to 4000lbs.
+   <td style="text-align:center;"> 28.50 for up to 4000lbs.
 33.50 over 4000lbs. </td>
   </tr>
   <tr>
@@ -976,29 +976,29 @@ for vehicles only </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 8 </td>
-   <td style="text-align:center;"> 23 0 -4000 lbs.
-28 4001 - 10000 
-35 10001 - 25000 
-60 25001 - 40000
-80 40001 - 55000
-125 55000 - 70000
+   <td style="text-align:center;"> 23 0 -4000 lbs.
+28 4001 - 10000 
+35 10001 - 25000 
+60 25001 - 40000
+80 40001 - 55000
+125 55000 - 70000
 150 over 70000 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Colonial Heights City </td>
    <td style="text-align:center;"> 6/5 </td>
-   <td style="text-align:center;"> 33 0-4000#
+   <td style="text-align:center;"> 33 0-4000#
 38 4000#+ </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 18 </td>
-   <td style="text-align:center;"> 33 up to 4000#
-38 4001 to 6500#
-39 6501 to 9999#
-41 10k to 10499
-43 10500 to 11k
-45 11k to 11.5
-48 11.5k to 12k#
+   <td style="text-align:center;"> 33 up to 4000#
+38 4001 to 6500#
+39 6501 to 9999#
+41 10k to 10499
+43 10500 to 11k
+45 11k to 11.5
+48 11.5k to 12k#
 49 12k and up </td>
   </tr>
   <tr>
@@ -1008,8 +1008,8 @@ for vehicles only </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 25 </td>
-   <td style="text-align:center;"> 30 up to 10000
-lbs.   
+   <td style="text-align:center;"> 30 up to 10000
+lbs.   
 54 &gt; 10000 lbs </td>
   </tr>
   <tr>
@@ -1046,8 +1046,8 @@ lbs.
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> Yes </td>
    <td style="text-align:center;"> Motorcycle 28 </td>
-   <td style="text-align:center;"> 33 up to 4000 lbs.              
-
+   <td style="text-align:center;"> 33 up to 4000 lbs.              
+
 45  over 4001  lbs </td>
   </tr>
   <tr>
@@ -1146,7 +1146,7 @@ lbs.
    <td style="text-align:center;"> 29 Flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> 7.25 Flat
+   <td style="text-align:center;"> 7.25 Flat
 moped 5  Flat </td>
    <td style="text-align:center;"> 29 Flat Plus Schdule 1.45  per 1000 lbs over 15000 lbs </td>
   </tr>
@@ -1198,7 +1198,7 @@ moped 5  Flat </td>
   <tr>
    <td style="text-align:left;"> Portsmouth City </td>
    <td style="text-align:center;"> 06/05 </td>
-   <td style="text-align:center;"> 32.0 &lt; 4000 lbs
+   <td style="text-align:center;"> 32.0 &lt; 4000 lbs
 37.00 over 4000 lbs </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
@@ -1239,13 +1239,13 @@ moped 5  Flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> Yes </td>
    <td style="text-align:center;"> 16.00 </td>
-   <td style="text-align:center;"> 20.00 6500 lbs and under
-24.00 6501 lbs-8000 lbs
-32.00 8001 lbs - 11500 lbs
-40.00 11501 lbs - 15500 lbs
-56.00 15501 lbs - 19500 lbs
-80.00 19501 lbs - 29500
-100.00 29501 lbs - 39500 lbs
+   <td style="text-align:center;"> 20.00 6500 lbs and under
+24.00 6501 lbs-8000 lbs
+32.00 8001 lbs - 11500 lbs
+40.00 11501 lbs - 15500 lbs
+56.00 15501 lbs - 19500 lbs
+80.00 19501 lbs - 29500
+100.00 29501 lbs - 39500 lbs
 120.00 Over 39500 </td>
   </tr>
   <tr>
@@ -1264,12 +1264,12 @@ moped 5  Flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 24 </td>
-   <td style="text-align:center;"> 26  0-4000
-30  4001-10000
-35  10001-25000
-60  25001-40000
-80  40001-55000
-125  55001-70000
+   <td style="text-align:center;"> 26  0-4000
+30  4001-10000
+35  10001-25000
+60  25001-40000
+80  40001-55000
+125  55001-70000
 150  70001-99999 </td>
   </tr>
   <tr>
@@ -1279,8 +1279,8 @@ moped 5  Flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 23.00 </td>
-   <td style="text-align:center;"> 24.00 0-4000 lbs 29.00 4001-16000 30.80 16001-7000 32.10 17001 to 56000 pounds are 30.80
- + 1.30 per additional 1000 pounds as follows)
+   <td style="text-align:center;"> 24.00 0-4000 lbs 29.00 4001-16000 30.80 16001-7000 32.10 17001 to 56000 pounds are 30.80
+ + 1.30 per additional 1000 pounds as follows)
 17001 - 18000 </td>
   </tr>
   <tr>
@@ -1709,7 +1709,7 @@ moped 5  Flat </td>
   <tr>
    <td style="text-align:left;"> Colonial Beach Town </td>
    <td style="text-align:center;"> April 30 </td>
-   <td style="text-align:center;"> 30.00 
+   <td style="text-align:center;"> 30.00 
 12.50 Trailers </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
@@ -1822,8 +1822,8 @@ moped 5  Flat </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 33 </td>
-   <td style="text-align:center;"> 33
-
+   <td style="text-align:center;"> 33
+
 trailers: 18 </td>
   </tr>
   <tr>
@@ -1842,7 +1842,7 @@ trailers: 18 </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 10 </td>
-   <td style="text-align:center;"> 20;
+   <td style="text-align:center;"> 20;
 Trailer or semitrailer drawn by a motor vehicle: 10 </td>
   </tr>
   <tr>
@@ -1992,8 +1992,8 @@ Trailer or semitrailer drawn by a motor vehicle: 10 </td>
   <tr>
    <td style="text-align:left;"> Haymarket Town </td>
    <td style="text-align:center;"> 4/15 </td>
-   <td style="text-align:center;"> 15.00
-decal permanent;
+   <td style="text-align:center;"> 15.00
+decal permanent;
 one-time fee </td>
    <td style="text-align:center;"> Yes </td>
    <td style="text-align:center;"> Yes </td>
@@ -2277,8 +2277,8 @@ one-time fee </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> No </td>
    <td style="text-align:center;"> 15 </td>
-   <td style="text-align:center;"> 25
-
+   <td style="text-align:center;"> 25
+
 trailers: 10 </td>
   </tr>
   <tr>
@@ -2671,7 +2671,7 @@ trailers: 10 </td>
   <tr>
    <td style="text-align:left;"> Vienna Town </td>
    <td style="text-align:center;"> 10/05 </td>
-   <td style="text-align:center;"> 33.00 equal or less than 4000 lbs
+   <td style="text-align:center;"> 33.00 equal or less than 4000 lbs
 38.00 4001 lbs or more </td>
    <td style="text-align:center;"> Yes </td>
    <td style="text-align:center;"> Yes </td>
@@ -2850,9 +2850,9 @@ trailers: 10 </td>
   <tr>
    <td style="text-align:left;"> Arlington County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Military -Soley owned Active Duty Legal Res not VA in addition as provided by the SCRA Spousal vehicles when the Spouse is here as a non resident with the Active Duty member.
-All Trailers.
-DAV plated vehicles with VA DMV.
+   <td style="text-align:center;"> Military -Soley owned Active Duty Legal Res not VA in addition as provided by the SCRA Spousal vehicles when the Spouse is here as a non resident with the Active Duty member.
+All Trailers.
+DAV plated vehicles with VA DMV.
 POW plated vehicles with VA DM </td>
   </tr>
   <tr>
@@ -2873,7 +2873,7 @@ POW plated vehicles with VA DM </td>
   <tr>
    <td style="text-align:left;"> Bland County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire fighter with x number of hours
+   <td style="text-align:center;"> Fire fighter with x number of hours
 Disabled veterans </td>
   </tr>
   <tr>
@@ -2899,13 +2899,13 @@ Disabled veterans </td>
   <tr>
    <td style="text-align:left;"> Campbell County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled veterans / Fire &amp; Rescue /
+   <td style="text-align:center;"> Disabled veterans / Fire &amp; Rescue /
 Active military / POW / Virginia Defense Force </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Caroline County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire+Rescue Exempt-one per person
+   <td style="text-align:center;"> Fire+Rescue Exempt-one per person
 Sheriff &amp; Sheriff's office active deputies-one per person </td>
   </tr>
   <tr>
@@ -2966,16 +2966,16 @@ Sheriff &amp; Sheriff's office active deputies-one per person </td>
   <tr>
    <td style="text-align:left;"> Fairfax County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Government Diplomat Military- absent from State Daily rental Tax Relief Disabled Veterans POW Medal of Honor National Guard Antique Motor Volunteer Rescue Squads Active Members of Rescue Squad Volunteer Fire Department Auxiliary Police
+   <td style="text-align:center;"> Government Diplomat Military- absent from State Daily rental Tax Relief Disabled Veterans POW Medal of Honor National Guard Antique Motor Volunteer Rescue Squads Active Members of Rescue Squad Volunteer Fire Department Auxiliary Police
 Auxiliary Police C </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Fauquier County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire/Rescue volunteers
-Active duty military
-Public safety
-Apportioned vehicles
+   <td style="text-align:center;"> Fire/Rescue volunteers
+Active duty military
+Public safety
+Apportioned vehicles
 Farm vehicles </td>
   </tr>
   <tr>
@@ -3031,7 +3031,7 @@ Farm vehicles </td>
   <tr>
    <td style="text-align:left;"> Halifax County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled veterans volunteer firemen prisoners of
+   <td style="text-align:center;"> Disabled veterans volunteer firemen prisoners of
 war &amp; any gov't agency </td>
   </tr>
   <tr>
@@ -3097,15 +3097,15 @@ war &amp; any gov't agency </td>
   <tr>
    <td style="text-align:left;"> Louisa County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled veterans
+   <td style="text-align:center;"> Disabled veterans
 Local Fire &amp; Rescue Volunteers that are certified by the County Fire Chief </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Lunenburg County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire/Rescue Squad Members 
-national guard
-Police/Sheriff &amp; Deputies
+   <td style="text-align:center;"> Fire/Rescue Squad Members 
+national guard
+Police/Sheriff &amp; Deputies
 Professional Firefighters </td>
   </tr>
   <tr>
@@ -3121,7 +3121,7 @@ Professional Firefighters </td>
   <tr>
    <td style="text-align:left;"> Mecklenburg County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> volunteer firemen
+   <td style="text-align:center;"> volunteer firemen
 100% Service Related Disabled Veterans </td>
   </tr>
   <tr>
@@ -3132,7 +3132,7 @@ Professional Firefighters </td>
   <tr>
    <td style="text-align:left;"> Montgomery County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> 1 per family fire &amp; rescue.
+   <td style="text-align:center;"> 1 per family fire &amp; rescue.
 1 per disabled veteran tag. </td>
   </tr>
   <tr>
@@ -3173,7 +3173,7 @@ Professional Firefighters </td>
   <tr>
    <td style="text-align:left;"> Patrick County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Tax exempt organizations
+   <td style="text-align:center;"> Tax exempt organizations
 If disabled Vet licensed tags exempt </td>
   </tr>
   <tr>
@@ -3214,8 +3214,8 @@ If disabled Vet licensed tags exempt </td>
   <tr>
    <td style="text-align:left;"> Richmond County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> antique owners
-1 personal vehicle of fire dept or rescue squad
+   <td style="text-align:center;"> antique owners
+1 personal vehicle of fire dept or rescue squad
 member </td>
   </tr>
   <tr>
@@ -3251,7 +3251,7 @@ member </td>
   <tr>
    <td style="text-align:left;"> Smyth County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> fire department rescue squad - one vehicle per person
+   <td style="text-align:center;"> fire department rescue squad - one vehicle per person
 Disabled American Vet for one vehicle per person defined in Code of VA </td>
   </tr>
   <tr>
@@ -3267,8 +3267,8 @@ Disabled American Vet for one vehicle per person defined in Code of VA </td>
   <tr>
    <td style="text-align:left;"> Stafford County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> -fire &amp; rescue volunteers vehicles.
--disabled veterans with disabled license plates tags (1 per tax payer). 
+   <td style="text-align:center;"> -fire &amp; rescue volunteers vehicles.
+-disabled veterans with disabled license plates tags (1 per tax payer). 
 - Sheriff's Office volunteer citizen </td>
   </tr>
   <tr>
@@ -3299,7 +3299,7 @@ Disabled American Vet for one vehicle per person defined in Code of VA </td>
   <tr>
    <td style="text-align:left;"> Westmoreland County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire &amp; rescue antique vehicles
+   <td style="text-align:center;"> Fire &amp; rescue antique vehicles
 disabled vets and discount for national guard. </td>
   </tr>
   <tr>
@@ -3315,13 +3315,13 @@ disabled vets and discount for national guard. </td>
   <tr>
    <td style="text-align:left;"> York County </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Volunteer York County Firemen
-Military(non-residents &amp; spouse)
-Disabled American Vets
-Vehicles with POW tags
-Antique Vehicles
-1 Vehicle per qualifying Disabled American Veteran
-Vehicles garaged on Exclusive Jurisdiction property
+   <td style="text-align:center;"> Volunteer York County Firemen
+Military(non-residents &amp; spouse)
+Disabled American Vets
+Vehicles with POW tags
+Antique Vehicles
+1 Vehicle per qualifying Disabled American Veteran
+Vehicles garaged on Exclusive Jurisdiction property
 Daily Rental Vehicl </td>
   </tr>
   <tr>
@@ -3357,8 +3357,8 @@ Daily Rental Vehicl </td>
   <tr>
    <td style="text-align:left;"> Covington City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled Veterans - One Free
-Prisoner of War - Free
+   <td style="text-align:center;"> Disabled Veterans - One Free
+Prisoner of War - Free
 National Guard 1/2 Price </td>
   </tr>
   <tr>
@@ -3369,7 +3369,7 @@ National Guard 1/2 Price </td>
   <tr>
    <td style="text-align:left;"> Emporia City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> volunteer fire and rescue squads - one decal fee
+   <td style="text-align:center;"> volunteer fire and rescue squads - one decal fee
 exempted </td>
   </tr>
   <tr>
@@ -3435,9 +3435,9 @@ exempted </td>
   <tr>
    <td style="text-align:left;"> Martinsville City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Motor Vehicle licensed by another locality.
-Motor vehicle used by nonresident for business.
-Motor vehicle owned by nonresident officer or employee of the Commonwealth.
+   <td style="text-align:center;"> Motor Vehicle licensed by another locality.
+Motor vehicle used by nonresident for business.
+Motor vehicle owned by nonresident officer or employee of the Commonwealth.
 Motor vehicle kept by dealer for sale or sales demonstrations. </td>
   </tr>
   <tr>
@@ -3453,14 +3453,14 @@ Motor vehicle kept by dealer for sale or sales demonstrations. </td>
   <tr>
    <td style="text-align:left;"> Norton City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire Department ((1) Vehicle
+   <td style="text-align:center;"> Fire Department ((1) Vehicle
 Rescue Squad  (1) Vehicle </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Petersburg City </td>
    <td style="text-align:center;"> Yes </td>
-   <td style="text-align:center;"> Military ( Non-resident)and
-Disabled Veterans are exempt
+   <td style="text-align:center;"> Military ( Non-resident)and
+Disabled Veterans are exempt
 Antique Vehicles </td>
   </tr>
   <tr>
@@ -3491,7 +3491,7 @@ Antique Vehicles </td>
   <tr>
    <td style="text-align:left;"> Salem City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled veteran POW purple heart tags.
+   <td style="text-align:center;"> Disabled veteran POW purple heart tags.
 Lifetime member of volunteer rescue squad </td>
   </tr>
   <tr>
@@ -3502,7 +3502,7 @@ Lifetime member of volunteer rescue squad </td>
   <tr>
    <td style="text-align:left;"> Suffolk City </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Exempt: Antique plates Auxiliary Police/Fire/Rescue Common Carriers Disabled Vets Military Members (not domiciled in Va) Permanent Trailer Plates Disabled Veterans
+   <td style="text-align:center;"> Exempt: Antique plates Auxiliary Police/Fire/Rescue Common Carriers Disabled Vets Military Members (not domiciled in Va) Permanent Trailer Plates Disabled Veterans
 1/2 Price: Farm Use Plates National Guard Plates </td>
   </tr>
   <tr>
@@ -3528,7 +3528,7 @@ Lifetime member of volunteer rescue squad </td>
   <tr>
    <td style="text-align:left;"> Abingdon Town </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Disabled Veterans 
+   <td style="text-align:center;"> Disabled Veterans 
 Local Fire and Rescue </td>
   </tr>
   <tr>
@@ -3599,7 +3599,7 @@ Local Fire and Rescue </td>
   <tr>
    <td style="text-align:left;"> Blackstone Town </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire Department
+   <td style="text-align:center;"> Fire Department
 POW </td>
   </tr>
   <tr>
@@ -3630,7 +3630,7 @@ POW </td>
   <tr>
    <td style="text-align:left;"> Boydton Town </td>
    <td style="text-align:center;"> No </td>
-   <td style="text-align:center;"> Fire/Rescue members
+   <td style="text-align:center;"> Fire/Rescue members
 No longer issue decals County adds it to the personal property taxes for us </td>
   </tr>
   <tr>
@@ -3741,9 +3741,9 @@ No longer issue decals County adds it to the personal property taxes for us </td
   <tr>
    <td style="text-align:left;"> Clintwood Town </td>
    <td style="text-align:center;"> Yes </td>
-   <td style="text-align:center;"> Active Volunteer Fire/Rescue member Clergy and Church vans
-elected town council members
-disabled veterans which have received a disabled veteran exemption from DMV 
+   <td style="text-align:center;"> Active Volunteer Fire/Rescue member Clergy and Church vans
+elected town council members
+disabled veterans which have received a disabled veteran exemption from DMV 
 antique vehicles </td>
   </tr>
   <tr>
@@ -4144,7 +4144,7 @@ antique vehicles </td>
   <tr>
    <td style="text-align:left;"> Remington Town </td>
    <td style="text-align:center;"> Yes </td>
-   <td style="text-align:center;"> Volunteer Fire Department
+   <td style="text-align:center;"> Volunteer Fire Department
 Elderly receives one decal at 50% off </td>
   </tr>
   <tr>
